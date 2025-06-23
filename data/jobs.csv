@@ -1,0 +1,556 @@
+job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_salary,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone
+enoIL3KOgVWrjSkcAAAAAA==,Data Scientist - 90394593 - Washington,Amtrak,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hFXBO-Ki7knxwalP4HPwYLT-VX-qMPvlxenz&s=0,https://www.amtrak.com,Amtrak Careers,Full-time,['FULLTIME'],https://careers.amtrak.com/job/Washington-Data-Scientist-90394593-Washington-DC-20002/1297358700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Amtrak Careers', 'apply_link': 'https://careers.amtrak.com/job/Washington-Data-Scientist-90394593-Washington-DC-20002/1297358700/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Certus Recruitment', 'apply_link': 'https://www.certusrecruitment.com/us/jobs/SDj13-1603665-Data-Scientist-Secret/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=d7cc7164691a7f90&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/1872-Consulting/Job/Consultant-Data-Scientist/-in-Washington,DC?jid=051c9fbbb1788aa4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/data-scientist-90394593-washington-amtrak-JV_IC1138213_KO0,34_KE35,41.htm?jl=1009770806094&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-90394593-washington-at-amtrak-4243385848?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Experteer', 'apply_link': 'https://www.experteer.nl/career/view-jobs/data-scientist-civil-engineering-washington-dc-usa-51580008?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Built In', 'apply_link': 'https://builtin.com/job/sr-data-scientist-federal/2487181?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","• ***PLEASE NOTE: ****
+
+Amtrak OIG is not a Federal agency. Our employment opportunities are not federal jobs.
+
+Join with the Inspector General to help make America’s railroad operate more efficiently and effectively. Our team provides independent oversight of Amtrak’s programs and operations and works diligently to prevent and detect fraud, waste, and abuse by Amtrak employees, contractors, or vendors. This work not only helps to improve the efficiency and effectiveness of Amtrak, but it also informs decision-making by Amtrak’s Board of Directors, Amtrak management, and Congress. We employ a diverse team of auditors, special agents, analysts, forensic examiners, lawyers, and support staff to complete our exciting mission. Join us as we continue toward our goal of building a model OIG centered on independence, teamwork, diversity, work-life balance, and oversight that makes a difference!
+
+SUMMARY OF DUTIES:
+
+The Data Scientist collects, prepares and analyzes data to help the OIG conduct audits and investigations of Amtrak (the company) programs and operations, in accordance with lawful standards. The incumbent will support complex audits and sensitive criminal, civil, and administrative investigations with data analytics strategies that help assess the economy, efficiency, and effectiveness of Amtrak programs and operations and help identify potential fraud, waste, and abuse. Evidence the incumbent develops may also be used by OIG investigators for civil or criminal accountability in conjunction with relevant United States Attorney Offices. The incumbent will work with OIG Data Analysts, Data Engineers, and company resources to access data, learn related business processes, identify relevant internal controls, ensure completeness and accuracy of the data, and generate business insights using advanced data analytics techniques such as machine learning and artificial intelligence.
+
+ESSENTIAL FUNCTIONS:
+• Works independently without significant supervisory guidance and takes the lead, as needed, in collecting, preparing, and analyzing data.
+• Takes direction from the Director or Senior Director of Data Analytics to prioritize requests for data analyses and ensures compliance with OIG and company policies, standard operating procedures, and best practices.
+• Learns company systems and related business processes and identifies internal controls relevant to the analytic objective. Becomes a subject matter expert on some business areas such as safety and security, contract management, procurement practices, vendor management, finance, human resources, payroll, public corruption, revenue management, and healthcare.
+• Works with auditors and investigators, learns their objectives, identifies data relevant to their objectives, brainstorms analytic ideas to help auditors and investigators use available data elements from different systems, and consults them on the quality and reliability of the data and effective ways to analyze them for significant insights.
+• Proposes expert data analytic strategies using available tools to identify trends or solve business problems in support of complex audits and investigations in various business areas.
+• Helps identify potential fraud, waste and abuse, and provides input and insight to further investigations.
+• Builds advanced data analytics tests and models to generate meaningful insights and identifies opportunities to innovatively use available data to identify signals and patterns to help auditors and investigators make decisions.
+• Independently checks own work to ensure that the evidence the data analytics generate is free of errors and consistent with established guidelines and processes before providing results to auditors and investigators.
+• Ensures analytic results are reliable, sufficient, and relevant such that they can support audit findings and recommendations or the investigative evidence the OIG presents to the United States Attorney’s office.
+• Creates effective data visualizations that provide business insights, illustrate risk areas, and can be periodically updated using automation.
+• Performs quality assurance reviews of others’ work and prepares own reports to a high degree of excellence.
+• Develops productive working relationships with internal and external parties. Interfaces with various levels of the organization including Senior Management, maintains communication with system and data owners, and monitors changes to the sources system that impact OIG’s access to the data and downstream analyses and reports.
+• Works with Data Engineer and OIG IT Mission Support team to implement best security practices for data governance and monitor compliance with OIG and company policies in securing sensitive and non-sensitive data.
+• Supports Data Engineer in the collection of data from internal and external systems, and ensures that the data are complete, free of corruption and errors, and sufficient and relevant to the data analytic objective.
+• Independently prepares, cleans, normalizes, and validates data for utmost integrity before usage, and assists with ad-hoc data analysis requests, as needed.
+• Independently builds automated data extraction routines for complex and large data sets to optimize data storage and delivery.
+• Helps maintain and optimize data collection and preparation methods to ensure data are available, accurate, and reliable.
+• Collaborates with other Data Analysts, Data Engineers, Auditors, and Criminal Investigators in planning and gathering digital evidence.
+• Keeps management abreast of project progress and any matters that may affect timely completion of engagements.
+• Meets regularly with team to provide work status, discuss progress and obstacles, and recommend solutions to technical issues. Ensures work, information, ideas, and technology flow freely.
+• Helps prepare reports, spreadsheets, and detailed exhibits that can be integrated into reports, briefings, and other related products.
+• Helps develop briefings, messages, reports, testimonies, and fact sheets to ensure data are clear and accurate.
+• Assists the OIG’s Office of Counsel in preparing for trials, and testifies at hearings and criminal trials, when necessary.
+
+MINIMUM QUALIFICATIONS:
+• Bachelor’s Degree in Data Science, Data Analytics, Statistics, Computer Science, Information Systems, or other fields related to data analysis, machine learning, business information management, or forensic accounting.
+• 5+ years of experience performing statistical analysis using data analytics software packages, such as Alteryx, ACL, Python, R, and other visualization software such as Tableau or Microsoft Power BI.
+• 3+ years of experience developing analytical solutions using tools such as AWS Glue, S3, Redshift, Athena, and APIs for data extract, transform, and load (ETL), storage, and data analysis.
+
+PREFERRED QUALIFICATIONS:
+• Master’s Degree in Data Science, Data Analytics, Statistics, Computer Science, Information Systems, or other fields related to data analysis, machine learning, artificial intelligence, business information management, or forensic accounting.
+• Advanced proficiency performing statistical analysis using data analytics software packages, such as Alteryx, ACL, Python, R, and other visualization software such as Tableau or Microsoft Power BI.
+• Advanced proficiency developing analytical solutions using tools such as AWS Glue, S3, Redshift, Athena, and APIs for data ETL, storage, and data analysis.
+• Strong analytic skills related to working with unstructured datasets.
+• Knowledge of working with JSON format data, including parsing and stringifying.
+• Knowledge of federal criminal and civil law, practice, and procedure.
+• Investigative experience with an emphasis on complex white-collar crimes involving contracts, procurement, vendors, finance, human resources, public corruption, revenue, and health care.
+• Broad knowledge of the laws, practices, and procedures of federal Offices of Inspector General.
+• Experience testifying in criminal, civil, or administrative trials and hearings or presenting complex investigative findings to executive decision-makers.
+• Experience with forensic auditing techniques involving digital media.
+• Familiarity with passenger rail or transportation operations.
+
+COMPENSATION:
+
+The hiring salary range the Data Scientist is $112,210 to $145,400. This is the starting salary range and does not reflect the full salary range of the position. Pay is based on several factors including but not limited to education, work experience, certifications, internal equity, etc. In addition to your salary, Amtrak OIG offers a benefit package that includes health, dental, and vision plans; health savings accounts; wellness programs; flexible spending accounts; 401K retirement plan with employer match; life insurance; short and long term disability insurance; paid time off; back-up care; adoption assistance; surrogacy assistance; reimbursement of education expenses; Public Service Loan Forgiveness eligibility; Railroad Retirement sickness and retirement benefits; and rail pass privileges. Learn more about our benefits offerings here.
+
+Requisition ID: 164625
+
+Location: Washington D.C.
+
+Work Arrangement: Onsite
+
+Relocation: No
+
+Travel: Yes – 10%
+
+You power our progress through your performance.
+
+We want your work at Amtrak to be more than a job. We want your career at Amtrak to be a fulfilling experience where you find challenging work, rewarding opportunities, respect among colleagues, and attractive compensation. Amtrak maintains a culture that values high performance and recognizes individual employee contributions.
+
+Amtrak is committed to a safe workplace free of drugs and alcohol. All Amtrak positions requires a pre-employment background check that includes prior employment verification, a criminal history check and a pre-employment drug screen.
+
+Candidates who test positive for marijuana will be disqualified, regardless of any state or local statute, ordinance, regulation, or other law that legalizes or decriminalizes the use or possession of marijuana, whether for medical, recreational, or other use. Amtrak's pre-employment drug testing program is administered in accordance with DOT regulations and applicable law.
+
+In accordance with DOT regulations (49 CFR § 40.25), Amtrak is required to obtain prior drug and alcohol testing records for applicants/employees intending to perform safety sensitive duties for covered Department of Transportation positions. If an applicant/employee refuses to provide written consent for Amtrak to obtain these records, the individual will not be permitted to perform safety-sensitive functions.
+
+In accordance with federal law governing security checks of covered individuals for providers of public transportation (Title 6 U.S.C. §1143), Amtrak is required to screen applicants for any permanent or interim disqualifying criminal offenses.
+
+Note that any education requirement listed above may be deemed satisfied if you have an equivalent combination of education, training and experience.
+
+Amtrak is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race/color, to include traits historically associated with race, including but not limited to, hair texture and hairstyles such as braids, locks and twists, religion, sex (including pregnancy, childbirth and related conditions, such as lactation), national origin/ethnicity, disability (intellectual, mental and physical), veteran status, marital status, ancestry, sexual orientation, gender identity and gender expression, genetic information, citizenship or any other personal characteristics protected by law.",False,17 days ago,1749168000.0,2025-06-06T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,"['health_insurance', 'paid_time_off', 'dental_coverage']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DenoIL3KOgVWrjSkcAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['Bachelor’s Degree in Data Science, Data Analytics, Statistics, Computer Science, Information Systems, or other fields related to data analysis, machine learning, business information management, or forensic accounting', '5+ years of experience performing statistical analysis using data analytics software packages, such as Alteryx, ACL, Python, R, and other visualization software such as Tableau or Microsoft Power BI', '3+ years of experience developing analytical solutions using tools such as AWS Glue, S3, Redshift, Athena, and APIs for data extract, transform, and load (ETL), storage, and data analysis', 'Candidates who test positive for marijuana will be disqualified, regardless of any state or local statute, ordinance, regulation, or other law that legalizes or decriminalizes the use or possession of marijuana, whether for medical, recreational, or other use', ""Amtrak's pre-employment drug testing program is administered in accordance with DOT regulations and applicable law"", 'In accordance with DOT regulations (49 CFR § 40.25), Amtrak is required to obtain prior drug and alcohol testing records for applicants/employees intending to perform safety sensitive duties for covered Department of Transportation positions', 'In accordance with federal law governing security checks of covered individuals for providers of public transportation (Title 6 U.S.C. §1143), Amtrak is required to screen applicants for any permanent or interim disqualifying criminal offenses', 'Note that any education requirement listed above may be deemed satisfied if you have an equivalent combination of education, training and experience', 'Amtrak is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race/color, to include traits historically associated with race, including but not limited to, hair texture and hairstyles such as braids, locks and twists, religion, sex (including pregnancy, childbirth and related conditions, such as lactation), national origin/ethnicity, disability (intellectual, mental and physical), veteran status, marital status, ancestry, sexual orientation, gender identity and gender expression, genetic information, citizenship or any other personal characteristics protected by law'], 'Benefits': ['The hiring salary range the Data Scientist is $112,210 to $145,400', 'This is the starting salary range and does not reflect the full salary range of the position', 'Pay is based on several factors including but not limited to education, work experience, certifications, internal equity, etc', 'In addition to your salary, Amtrak OIG offers a benefit package that includes health, dental, and vision plans; health savings accounts; wellness programs; flexible spending accounts; 401K retirement plan with employer match; life insurance; short and long term disability insurance; paid time off; back-up care; adoption assistance; surrogacy assistance; reimbursement of education expenses; Public Service Loan Forgiveness eligibility; Railroad Retirement sickness and retirement benefits; and rail pass privileges'], 'Responsibilities': ['Our team provides independent oversight of Amtrak’s programs and operations and works diligently to prevent and detect fraud, waste, and abuse by Amtrak employees, contractors, or vendors', 'The Data Scientist collects, prepares and analyzes data to help the OIG conduct audits and investigations of Amtrak (the company) programs and operations, in accordance with lawful standards', 'The incumbent will support complex audits and sensitive criminal, civil, and administrative investigations with data analytics strategies that help assess the economy, efficiency, and effectiveness of Amtrak programs and operations and help identify potential fraud, waste, and abuse', 'Evidence the incumbent develops may also be used by OIG investigators for civil or criminal accountability in conjunction with relevant United States Attorney Offices', 'The incumbent will work with OIG Data Analysts, Data Engineers, and company resources to access data, learn related business processes, identify relevant internal controls, ensure completeness and accuracy of the data, and generate business insights using advanced data analytics techniques such as machine learning and artificial intelligence', 'Works independently without significant supervisory guidance and takes the lead, as needed, in collecting, preparing, and analyzing data', 'Takes direction from the Director or Senior Director of Data Analytics to prioritize requests for data analyses and ensures compliance with OIG and company policies, standard operating procedures, and best practices', 'Learns company systems and related business processes and identifies internal controls relevant to the analytic objective', 'Becomes a subject matter expert on some business areas such as safety and security, contract management, procurement practices, vendor management, finance, human resources, payroll, public corruption, revenue management, and healthcare', 'Works with auditors and investigators, learns their objectives, identifies data relevant to their objectives, brainstorms analytic ideas to help auditors and investigators use available data elements from different systems, and consults them on the quality and reliability of the data and effective ways to analyze them for significant insights', 'Proposes expert data analytic strategies using available tools to identify trends or solve business problems in support of complex audits and investigations in various business areas', 'Helps identify potential fraud, waste and abuse, and provides input and insight to further investigations', 'Builds advanced data analytics tests and models to generate meaningful insights and identifies opportunities to innovatively use available data to identify signals and patterns to help auditors and investigators make decisions', 'Independently checks own work to ensure that the evidence the data analytics generate is free of errors and consistent with established guidelines and processes before providing results to auditors and investigators', 'Ensures analytic results are reliable, sufficient, and relevant such that they can support audit findings and recommendations or the investigative evidence the OIG presents to the United States Attorney’s office', 'Creates effective data visualizations that provide business insights, illustrate risk areas, and can be periodically updated using automation', 'Performs quality assurance reviews of others’ work and prepares own reports to a high degree of excellence', 'Develops productive working relationships with internal and external parties', 'Interfaces with various levels of the organization including Senior Management, maintains communication with system and data owners, and monitors changes to the sources system that impact OIG’s access to the data and downstream analyses and reports', 'Works with Data Engineer and OIG IT Mission Support team to implement best security practices for data governance and monitor compliance with OIG and company policies in securing sensitive and non-sensitive data', 'Supports Data Engineer in the collection of data from internal and external systems, and ensures that the data are complete, free of corruption and errors, and sufficient and relevant to the data analytic objective', 'Independently prepares, cleans, normalizes, and validates data for utmost integrity before usage, and assists with ad-hoc data analysis requests, as needed', 'Independently builds automated data extraction routines for complex and large data sets to optimize data storage and delivery', 'Helps maintain and optimize data collection and preparation methods to ensure data are available, accurate, and reliable', 'Collaborates with other Data Analysts, Data Engineers, Auditors, and Criminal Investigators in planning and gathering digital evidence', 'Keeps management abreast of project progress and any matters that may affect timely completion of engagements', 'Meets regularly with team to provide work status, discuss progress and obstacles, and recommend solutions to technical issues', 'Ensures work, information, ideas, and technology flow freely', 'Helps prepare reports, spreadsheets, and detailed exhibits that can be integrated into reports, briefings, and other related products', 'Helps develop briefings, messages, reports, testimonies, and fact sheets to ensure data are clear and accurate', 'Assists the OIG’s Office of Counsel in preparing for trials, and testifies at hearings and criminal trials, when necessary']}",15111100,5
+6mbXIGNvk5oz6pfNAAAAAA==,Junior Data Scientist – Infrastructure Analytics & Visualization,ARC Alternative and Renewable Construction LLC,,,Indeed,Full-time and Contractor,"['FULLTIME', 'CONTRACTOR', 'CONTRACTOR']",https://www.indeed.com/viewjob?jk=c1f529de1e0bf2ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,True,"[{'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=c1f529de1e0bf2ce&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/junior-data-scientist-%E2%80%93-infrastructure-analytics-and-visualization-arc-alternative-and-renewable-construction-llc-JV_IC1138213_KO0,66_KE67,113.htm?jl=1009783488959&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}]","Job Title: Junior Data Scientist – Infrastructure Analytics & Visualization
+Location: Boston, New York, Baltimore, Washington DC, Remote (Hybrid)
+Salary Range: $104,000 – $145,600 (annual)
+
+ARC Alternative and Renewable Construction LLC (ARC) provides governance, planning, and implementation solutions using advanced technologies in support of public infrastructure projects and sustainable development outcomes. We specialize in responsible AI deployment, stakeholder-centered design, and rigorous data analytics to help clients deliver on their mission with transparency, efficiency, and equity.
+
+ARC is seeking candidates to fill positions across multiple teams to support high-impact public infrastructure initiatives. Our clients are relying on ARC’s expertise in:
+• Advanced Analytics & Insight Generation
+• Strategic Planning & Innovation Support
+• Infrastructure Investment & Asset Strategy
+
+Successful candidates will display experience, interest – or both – across all three knowledge domains.
+
+Position Overview:
+ARC is seeking a Junior Data Scientist to support infrastructure-related data collection, processing, and analysis. This role is ideal for early-career professionals who enjoy working with complex datasets to uncover insights that shape public transit and infrastructure investment decisions.
+
+Key Responsibilities:
+• Support the development of data pipelines and tools for data validation, transformation, and visualization.
+• Conduct exploratory data analysis and apply statistical or machine learning methods to support project objectives.
+• Assist with dashboards, charts, and interactive reports to communicate findings to technical and non-technical audiences.
+• Collaborate with engineers, planners, and software developers to produce integrated data solutions.
+• Contribute to documentation, metadata, and reproducibility best practices.
+
+Required Qualifications:
+• Bachelor’s degree in data science, computer science, applied mathematics, or a related field.
+• 1–3 years of experience working with real-world data in a professional or academic setting.
+• Proficiency with Python and data libraries (e.g., pandas, numpy, matplotlib, seaborn).
+• Familiarity with version control, SQL, and basic data engineering principles.
+
+Preferred Experience:
+• Familiarity and/or experience with state public transportation agencies, federal and state governing agencies and bodies and their regulations and requirements for infrastructure planning or delivery.
+• Knowledge of public infrastructure data types such as GTFS, sensor data, or capital asset records.
+• Experience with open-source visualization platforms (e.g., Plotly, D3.js).
+• Interest in climate, equity, or sustainability analytics.
+
+Why Join ARC:
+• You’ll be part of a team that applies technology and policy together to support climate, equity, and infrastructure resilience.
+• You will grow professionally, work in highly collaborative settings and do meaningful work.
+• Your analysis doesn’t sit on a shelf—it shapes how public investments are made.
+• ARC provides very competitive compensation packages.
+• Come build the future of Infrastructure with us!
+
+If you have questions about this opportunity, feel free to contact our HR Human Resources Director for assistance. Email: HR@ARC-DEC.COM
+
+Job Types: Full-time, Contract
+
+Pay: $104,000.00 - $145,600.00 per year
+
+Schedule:
+• Day shift
+• Evening shift
+
+Work Location: In person",False,4 days ago,1750291200.0,2025-06-19T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6mbXIGNvk5oz6pfNAAAAAA%3D%3D&vssid=jobs-detail-viewer,,104000.0,146000.0,YEAR,"{'Qualifications': ['Advanced Analytics & Insight Generation', 'Successful candidates will display experience, interest – or both – across all three knowledge domains', 'Bachelor’s degree in data science, computer science, applied mathematics, or a related field', '1–3 years of experience working with real-world data in a professional or academic setting', 'Proficiency with Python and data libraries (e.g., pandas, numpy, matplotlib, seaborn)', 'Familiarity with version control, SQL, and basic data engineering principles'], 'Benefits': ['Salary Range: $104,000 – $145,600 (annual)', 'ARC Alternative and Renewable Construction LLC (ARC) provides governance, planning, and implementation solutions using advanced technologies in support of public infrastructure projects and sustainable development outcomes', 'You’ll be part of a team that applies technology and policy together to support climate, equity, and infrastructure resilience', 'You will grow professionally, work in highly collaborative settings and do meaningful work', 'Your analysis doesn’t sit on a shelf—it shapes how public investments are made', 'ARC provides very competitive compensation packages', 'Come build the future of Infrastructure with us!', 'Pay: $104,000.00 - $145,600.00 per year'], 'Responsibilities': ['Strategic Planning & Innovation Support', 'Infrastructure Investment & Asset Strategy', 'ARC is seeking a Junior Data Scientist to support infrastructure-related data collection, processing, and analysis', 'This role is ideal for early-career professionals who enjoy working with complex datasets to uncover insights that shape public transit and infrastructure investment decisions', 'Support the development of data pipelines and tools for data validation, transformation, and visualization', 'Conduct exploratory data analysis and apply statistical or machine learning methods to support project objectives', 'Assist with dashboards, charts, and interactive reports to communicate findings to technical and non-technical audiences', 'Collaborate with engineers, planners, and software developers to produce integrated data solutions', 'Contribute to documentation, metadata, and reproducibility best practices']}",15111100,5
+_kJBn2lEolZ5tfQeAAAAAA==,Data Scientist 4,Oracle,,https://www.oracle.com,Anthropology Careers & Employment | Jobs,Full-time,['FULLTIME'],https://careercenter.americananthro.org/job/688471/data-scientist-4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Anthropology Careers & Employment | Jobs', 'apply_link': 'https://careercenter.americananthro.org/job/688471/data-scientist-4/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'JobGet', 'apply_link': 'https://www.jobget.com/jobs/job/1cc996f6-ccaf-47e9-ab5d-c60ea8adc4b4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Emplois Chez SCI - Service Corporation International', 'apply_link': 'https://emplois.sci-corp.com/washington-dc/consulting-data-scientist-4/56D85A2FE17D47458CDDE1FE0839FA4A/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com/details/5212647906?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Job Description
+As a Lead Data Scientist, you'll shape next-gen AI capabilities for Clinical Data Exchange (CDeX)-where payers and providers collaborate seamlessly. You'll build models that power prior authorization, risk adjustment, claims adjudication, and more-making data work smarter across the healthcare ecosystem. You'll also help reduce the administrative burden on clinicians, using AI to automate documentation, extract insights, and deliver real-time intelligence when it matters most. From classical ML to generative models, you'll lead with purpose designing scalable, responsible AI for real-world impact.
+Responsibilities
+growth and leadership. Responsibilities
+- Partner with Product Managers to turn ambitious product visions
+into AI-powered solutions that reshape healthcare operations and
+experiences.
+- Collaborate closely with Clinical Terminologists to ensure models are
+clinically sound and aligned with evolving healthcare standards and
+vocabularies.
+- Work hand-in-hand with UI Engineers and ML Engineers to bring AI
+models to life in intuitive, responsive, and scalable products.
+- Lead the full lifecycle of AI development-from ideation and research
+to deployment and monitoring.
+- Apply the latest advancements in machine learning, deep learning,
+and generative AI to deliver innovation at scale.
+- Architect high-quality, production-ready AI pipelines, ensuring
+robustness, accuracy, and compliance with healthcare regulations.
+- Develop clean, scalable code and drive best practices across the AI
+engineering stack.
+- Mentor and inspire a team of data scientists, fostering technical
+growth and leadership.
+- Contribute to planning, reviews, and retrospectives-driving
+continuous improvement and cross-team alignment.
+Anticipate and navigate technical and organizational risks to ensure
+project success and sustained impact.
+Qualifications and Experience
+- Proven experience architecting and deploying scalable AI solutions
+in production, with measurable impact across complex, real-world
+healthcare or enterprise systems.
+- Deep technical fluency in machine learning and deep learning
+architectures, including Transformers and other neural network
+frameworks-plus the intuition to choose the right tool for the right
+problem.
+- Hands-on expertise in Large Language Models (LLMs) and
+generative AI, with experience in advanced prompt engineering,
+instruction fine-tuning, and parameter-efficient tuning techniques.
+- Proficiency in Python is a must, with experience applying it to build
+and deploy AI/ML models and develop robust, scalable solutions.
+- Strong foundation in clinical data, with the ability to extract meaning
+from structured and unstructured sources and align with
+interoperability standards such as FHIR, C-CDA, or HL7.
+- Experience building models that support healthcare-critical
+processes like prior authorization, risk adjustment, clinical
+summarization, or claims adjudication is a major advantage.
+- Experience in building a wide range of AI models-including
+classical ML models, semantic search, and information retrieval
+systems-to power intelligent, high-precision workflows.
+- Familiarity with AI evaluation strategies, including data labeling,
+annotation workflows, human-in-the-loop review, and longitudinal
+model monitoring in high-stakes environments.
+- A natural drive to stay ahead of the curve, with the curiosity to
+explore cutting-edge research and the discipline to translate it into
+resilient, production-ready systems.
+- A track record of technical leadership, including mentoring junior
+and senior scientists, championing innovation, and cultivating an
+environment of curiosity and excellence.
+- Bonus: a strong portfolio of patents, publications, or open source
+contributions, reflecting thought leadership and a commitment to
+pushing the field forward.
+Preferred Qualifications:
+- Strong understanding of the healthcare ecosystem and proven
+experience delivering AI-driven solutions tailored to healthcare
+applications, transforming patient care and operational efficiency.
+- Familiarity with the latest advancements in Natural Language
+Processing (NLP) and Generative AI, empowering you to create
+advanced AI systems that interpret, generate, and interact with
+complex healthcare data.
+- Proven ability to design, deploy, and scale these solutions on cloud
+platforms, with preference for OCI (Oracle Cloud Infrastructure),
+though experience with AWS and Azure is also highly valued.
+Education
+- A PhD in Computer Science, Mathematics, Statistics, Physics, Linguistics, or a related discipline, with a deep dive into Machine Learning and Deep Learning through your dissertation or final project, coupled with 12+ years of hands-on experience, is highly valued-but not a dealbreaker, OR A master's or bachelor's degree in a relevant field, paired with 12+ years of practical, impactful experience in the field, will also make you a strong contender.
+you a strong contender
+Disclaimer:
+Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
+Range and benefit information provided in this posting are specific to the stated locations only
+US: Hiring Range in USD from: $109,200 to $223,400 per annum. May be eligible for bonus and equity.
+Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business.
+Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.
+Oracle US offers a comprehensive benefits package which includes the following:
+- Medical, dental, and vision insurance, including expert medical opinion
+- Short term disability and long term disability
+- Life insurance and AD&D
+- Supplemental life insurance (Employee/Spouse/Child)
+- Health care and dependent care Flexible Spending Accounts
+- Pre-tax commuter and parking benefits
+- 401(k) Savings and Investment Plan with company match
+- Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.
+- 11 paid holidays
+- Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.
+- Paid parental leave
+- Adoption assistance
+- Employee Stock Purchase Plan
+- Financial planning and group legal
+- Voluntary benefits including auto, homeowner and pet insurance
+The role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.
+Career Level - IC4
+About Us
+As a world leader in cloud solutions, Oracle uses tomorrow's technology to tackle today's challenges. We've partnered with industry-leaders in almost every sector-and continue to thrive after 40+ years of change by operating with integrity.
+We know that true innovation starts when everyone is empowered to contribute. That's why we're committed to growing an inclusive workforce that promotes opportunities for all.
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+We're committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by emailing accommodation-request_mb@oracle.com or by calling +1 888 404 2494 in the United States.
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans' status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.",False,4 days ago,1750291200.0,2025-06-19T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,"['health_insurance', 'paid_time_off', 'dental_coverage']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_kJBn2lEolZ5tfQeAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['Qualifications and Experience', 'Proven experience architecting and deploying scalable AI solutions', 'in production, with measurable impact across complex, real-world', 'Deep technical fluency in machine learning and deep learning', 'Hands-on expertise in Large Language Models (LLMs) and', 'generative AI, with experience in advanced prompt engineering,', 'Proficiency in Python is a must, with experience applying it to build', 'processes like prior authorization, risk adjustment, clinical', 'summarization, or claims adjudication is a major advantage', 'Experience in building a wide range of AI models-including', 'classical ML models, semantic search, and information retrieval', 'systems-to power intelligent, high-precision workflows', 'Familiarity with AI evaluation strategies, including data labeling,', 'A natural drive to stay ahead of the curve, with the curiosity to', 'explore cutting-edge research and the discipline to translate it into', 'Bonus: a strong portfolio of patents, publications, or open source', 'contributions, reflecting thought leadership and a commitment to', 'pushing the field forward', 'experience delivering AI-driven solutions tailored to healthcare', 'applications, transforming patient care and operational efficiency', 'Familiarity with the latest advancements in Natural Language', 'complex healthcare data', 'Proven ability to design, deploy, and scale these solutions on cloud', 'platforms, with preference for OCI (Oracle Cloud Infrastructure),', 'though experience with AWS and Azure is also highly valued', ""A PhD in Computer Science, Mathematics, Statistics, Physics, Linguistics, or a related discipline, with a deep dive into Machine Learning and Deep Learning through your dissertation or final project, coupled with 12+ years of hands-on experience, is highly valued-but not a dealbreaker, OR A master's or bachelor's degree in a relevant field, paired with 12+ years of practical, impactful experience in the field, will also make you a strong contender"", 'Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates'], 'Benefits': ['US: Hiring Range in USD from: $109,200 to $223,400 per annum', 'May be eligible for bonus and equity', ""Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle's differing products, industries and lines of business"", 'Oracle US offers a comprehensive benefits package which includes the following:', 'Medical, dental, and vision insurance, including expert medical opinion', 'Short term disability and long term disability', 'Life insurance and AD&D', 'Supplemental life insurance (Employee/Spouse/Child)', 'Health care and dependent care Flexible Spending Accounts', 'Pre-tax commuter and parking benefits', '401(k) Savings and Investment Plan with company match', 'Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position', 'Accrued Vacation is provided to all other employees eligible for vacation benefits', 'For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment', 'Vacation accrual is prorated for employees working between 20 and 34 hours per week', 'Employees working fewer than 20 hours per week are not eligible for vacation', '11 paid holidays', 'Paid sick leave: 72 hours of paid sick leave upon date of hire', 'Refreshes each calendar year', 'Unused balance will carry over each year up to a maximum cap of 112 hours', 'Paid parental leave', 'Adoption assistance', 'Employee Stock Purchase Plan', 'Financial planning and group legal', 'Voluntary benefits including auto, homeowner and pet insurance', 'We offer competitive benefits based on parity and consistency and support our people with flexible medical, life insurance, and retirement options'], 'Responsibilities': [""You'll build models that power prior authorization, risk adjustment, claims adjudication, and more-making data work smarter across the healthcare ecosystem"", ""You'll also help reduce the administrative burden on clinicians, using AI to automate documentation, extract insights, and deliver real-time intelligence when it matters most"", ""From classical ML to generative models, you'll lead with purpose designing scalable, responsible AI for real-world impact"", 'Partner with Product Managers to turn ambitious product visions', 'into AI-powered solutions that reshape healthcare operations and', 'Collaborate closely with Clinical Terminologists to ensure models are', 'clinically sound and aligned with evolving healthcare standards and', 'vocabularies', 'Work hand-in-hand with UI Engineers and ML Engineers to bring AI', 'models to life in intuitive, responsive, and scalable products', 'Lead the full lifecycle of AI development-from ideation and research', 'to deployment and monitoring', 'Apply the latest advancements in machine learning, deep learning,', 'and generative AI to deliver innovation at scale', 'Architect high-quality, production-ready AI pipelines, ensuring', 'robustness, accuracy, and compliance with healthcare regulations', 'Develop clean, scalable code and drive best practices across the AI', 'engineering stack', 'Mentor and inspire a team of data scientists, fostering technical', 'growth and leadership', 'Contribute to planning, reviews, and retrospectives-driving', 'continuous improvement and cross-team alignment', 'Anticipate and navigate technical and organizational risks to ensure', 'project success and sustained impact', 'architectures, including Transformers and other neural network', 'instruction fine-tuning, and parameter-efficient tuning techniques', 'and deploy AI/ML models and develop robust, scalable solutions', 'Strong foundation in clinical data, with the ability to extract meaning', 'from structured and unstructured sources and align with', 'interoperability standards such as FHIR, C-CDA, or HL7', 'Experience building models that support healthcare-critical', 'annotation workflows, human-in-the-loop review, and longitudinal', 'model monitoring in high-stakes environments', 'resilient, production-ready systems', 'A track record of technical leadership, including mentoring junior', 'Processing (NLP) and Generative AI, empowering you to create', 'advanced AI systems that interpret, generate, and interact with']}",15111100,5
+jP9DTA35CxtBFLhCAAAAAA==,Data Scientist Jobs,Obsidian Solutions Group,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTufy8f25uwyE-F4pnJSZ4buIVMkzGfNxfNUGrp&s=0,https://obsidiansg.com,Security Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8181634/data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Security Clearance Jobs', 'apply_link': 'https://www.clearancejobs.com/jobs/8181634/data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Teal', 'apply_link': 'https://www.tealhq.com/job/data-scientist-jobs_d8d04015-7f85-4f9f-9346-76d20007a3fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Job Type
+
+Full-time
+
+Description
+
+Data Scientist
+
+Primary Location: Washington D.C. Metropolitan Area
+
+Clearance: Top Secret
+
+Must be a US Citizen
+
+This position is contingent on contract award.
+
+Job Summary
+
+Obsidian Solutions Group (OSG) is seeking an Exploitation Specialist / Analytic Methodologist to join the Team!
+
+Supporting National Geospatial-Intelligence Agency (NGA) providing and sustaining support that promotes mission excellence through applied modernized analytic techniques, data sciences, modeling, and automation that optimized service performance and innovation.
+
+Specific Responsibilities
+
+· Develop methods for querying, visualizing, aggregating, correlating, and analyzing big data across intelligence disciplines
+
+· Optimize existing databases to speed up the query, input, export, and visualization of data.
+
+· Work with teams in NGA Analysis Operations (AO) Regional, Functional and Agency/CCMD Liaison Offices (collectively referred to as ""AO Offices"") to develop strategies for exposing new datasets and create migration plans for legacy datasets.
+
+· Build custom solutions (tools, processes, etc.) to automate or assist analytic endeavors as submitted by applicable AO Office leadership and analytic units.
+
+· Write scripts in Visual Basic, R, Python or other software for statistical models using large datasets to extract patterns, relationships, and anticipatory behaviors that are repeatable, efficient, hypothesis testing, and knowledge capture.
+
+· Use mathematical concepts and techniques to solve complex GEOINT analysis problem sets; understand concepts associated with structured data and relational databases
+
+· Use tools, such as Arc GIS, Excel, SPSS, SAS, Matlab, R, or other statistical packages, to analyze and visualize operational data; visualize data both temporally and spatially
+
+Requirements
+
+· Possess a Bachelor's Degree or higher in math or a science related field or possess at least 7 years of relevant experience in lieu of a Bachelor's Degree.
+
+· Experience applying multidisciplinary mathematical and statistical models via programming language to large datasets to extract patterns, relationships and anticipatory behavioral likelihoods that may not be apparent using traditional single discipline means
+
+· Experience in developing tradecraft techniques and training solutions for discovery, preparation, manipulation and normalization of big data so that methods are repeatable and can be explained to analysts
+
+· Experience using mathematical concepts and techniques to solve complex GEOINT analysis problem sets; understand concepts associated with structured data and relational databases
+
+· Experience understanding and explaining the relationship between the data collected for a real world problem and the required structure of a relational database to help solve that problem
+
+· Experience conceptualizing the relationship between a database structure and the requirements for analyzing and visualizing those data both temporally and spatially
+
+· Experience writing scripts in Visual Basic, R, Python, Java, Javascript, C++ or other software for modeling processes, with a focus on repeatability, efficiency, knowledge capture, and hypothesis testing
+
+· Experience using tools, such as ArcGIS, Excel, Python, SPSS, R, or other statistical packages, to analyze and visualize data; visualize data both temporally and spatially to assist in data integrity checks, ask the next question, and display analytical assessments
+
+· Experience maintaining, moving and manipulating data between applications, using appropriate software and/or Extract-Transform-Load (ELT) procedures: Microsoft EXCEL spreadsheets, ACCESS database management system and/or ORACLE, Postgresql, or SQL Server and importing and cleaning analyst-provided datasets (Excel, geospatial data, etc.)
+
+· Experience using statistical software (SPSS, SAS, Matlab etc.), desktop software (MS Office and Access), and the Windows operating environment. Of importance is software packages used for advanced statistical analysis of operational data
+
+· Experience using GOTS data and analytics capabilities (MIST, INTELBOOK, LINX and WATCHBOX)
+
+· Knowledge of intelligence operations and GEOINT phenomenology.
+
+· Data Visualization Experience which may include Matrix Analytics, Network Analytics, Graphing Data.
+
+· Knowledge and experience using 1) ABI tools and tradecraft to include MIST, 2) SOM tools and SOM-C, GOWK, CEDALLION, and ATLAS, and 3) OBP tools.
+
+Physical Requirements and Work Environment
+
+Normal Office environment
+
+Travel
+
+Occasional Long Distance
+
+Company Description
+
+Obsidian Solutions Group LLC (OSG) is a fast-growing professional services firm based in Fredericksburg, VA. We create value for our customers by delivering technology-enabled & mission-oriented technical solutions that solve complex problems, protecting people, information, and assets. Our core capabilities are in providing Enterprise IT, Intelligence Analysis, Production & Development and Knowledge-Based Professional Services Solutions that enable the customer's mission. Obsidian Solutions Group LLC is a certified 8(a), service-disabled, veteran-owned small business.
+
+A career at Obsidian Solutions Group means you can put your expertise, credentials, and talents to great use working with customers in the DOD and Intelligence Community, while enjoying the excitement of working in a fast-growing organization committed to making a difference for our customers and in our community. Contribute independently and collaboratively alongside our amazing team of doers and thinkers. Obsidian Solutions Group is small enough to offer a family atmosphere yet large enough to deliver a highly competitive compensation package. We hire and retain the best in the industry, offering exceptional benefits that protect the well-being of our employees, their spouses and domestic partners, and their families.
+
+Our corporate philosophy is centered on hiring and retaining employees with the requisite skills, professional experience, personal commitment, and ethical standards necessary to foster a culture of operational excellence necessary to surpass our customer's expectations.
+
+Disclaimer
+
+The above information on this description has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job.
+
+Obsidian Solutions Group is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, parental status, protected veteran status, and any other non-merit factor, or any other characteristic protected by law.",False,1 day ago,1750550400.0,2025-06-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjP9DTA35CxtBFLhCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['Must be a US Citizen', ""Possess a Bachelor's Degree or higher in math or a science related field or possess at least 7 years of relevant experience in lieu of a Bachelor's Degree"", 'Experience applying multidisciplinary mathematical and statistical models via programming language to large datasets to extract patterns, relationships and anticipatory behavioral likelihoods that may not be apparent using traditional single discipline means', 'Experience in developing tradecraft techniques and training solutions for discovery, preparation, manipulation and normalization of big data so that methods are repeatable and can be explained to analysts', 'Experience using mathematical concepts and techniques to solve complex GEOINT analysis problem sets; understand concepts associated with structured data and relational databases', 'Experience understanding and explaining the relationship between the data collected for a real world problem and the required structure of a relational database to help solve that problem', 'Experience conceptualizing the relationship between a database structure and the requirements for analyzing and visualizing those data both temporally and spatially', 'Experience writing scripts in Visual Basic, R, Python, Java, Javascript, C++ or other software for modeling processes, with a focus on repeatability, efficiency, knowledge capture, and hypothesis testing', 'Experience using tools, such as ArcGIS, Excel, Python, SPSS, R, or other statistical packages, to analyze and visualize data; visualize data both temporally and spatially to assist in data integrity checks, ask the next question, and display analytical assessments', 'Experience maintaining, moving and manipulating data between applications, using appropriate software and/or Extract-Transform-Load (ELT) procedures: Microsoft EXCEL spreadsheets, ACCESS database management system and/or ORACLE, Postgresql, or SQL Server and importing and cleaning analyst-provided datasets (Excel, geospatial data, etc.)', 'Experience using statistical software (SPSS, SAS, Matlab etc.), desktop software (MS Office and Access), and the Windows operating environment', 'Of importance is software packages used for advanced statistical analysis of operational data', 'Experience using GOTS data and analytics capabilities (MIST, INTELBOOK, LINX and WATCHBOX)', 'Knowledge of intelligence operations and GEOINT phenomenology', 'Data Visualization Experience which may include Matrix Analytics, Network Analytics, Graphing Data', 'Knowledge and experience using 1) ABI tools and tradecraft to include MIST, 2) SOM tools and SOM-C, GOWK, CEDALLION, and ATLAS, and 3) OBP tools', 'Physical Requirements and Work Environment'], 'Benefits': ['Occasional Long Distance'], 'Responsibilities': ['Supporting National Geospatial-Intelligence Agency (NGA) providing and sustaining support that promotes mission excellence through applied modernized analytic techniques, data sciences, modeling, and automation that optimized service performance and innovation', 'Develop methods for querying, visualizing, aggregating, correlating, and analyzing big data across intelligence disciplines', 'Optimize existing databases to speed up the query, input, export, and visualization of data', 'Work with teams in NGA Analysis Operations (AO) Regional, Functional and Agency/CCMD Liaison Offices (collectively referred to as ""AO Offices"") to develop strategies for exposing new datasets and create migration plans for legacy datasets', 'Build custom solutions (tools, processes, etc.)', 'to automate or assist analytic endeavors as submitted by applicable AO Office leadership and analytic units', 'Write scripts in Visual Basic, R, Python or other software for statistical models using large datasets to extract patterns, relationships, and anticipatory behaviors that are repeatable, efficient, hypothesis testing, and knowledge capture', 'Use mathematical concepts and techniques to solve complex GEOINT analysis problem sets; understand concepts associated with structured data and relational databases', 'Use tools, such as Arc GIS, Excel, SPSS, SAS, Matlab, R, or other statistical packages, to analyze and visualize operational data; visualize data both temporally and spatially']}",15111100,5
+71wF4XMI_uzqvdSMAAAAAA==,"Data Scientist, Full-Scope Poly",Motion Recruitment,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYEDXpdhc9VKHAi2zm_ELDh0zO74OS438fgLFZ&s=0,https://motionrecruitment.com,Motion Recruitment,Full-time,['FULLTIME'],https://motionrecruitment.com/tech-jobs/washington/direct-hire/data-scientist-full-scope-poly/779239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,True,"[{'publisher': 'Motion Recruitment', 'apply_link': 'https://motionrecruitment.com/tech-jobs/washington/direct-hire/data-scientist-full-scope-poly/779239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'Dice', 'apply_link': 'https://www.dice.com/job-detail/1abb2f53-78e6-46a2-9f87-8af0af3da638?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-full-scope-poly-at-motion-recruitment-4230075196?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Teal', 'apply_link': 'https://www.tealhq.com/job/junior-data-scientist-ts-sci-full-scope-poly_acb656b3-746c-4da6-a03e-eea487e0eed3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'TieTalent', 'apply_link': 'https://tietalent.com/en/jobs/p-3272476/district-of-columbia-data-scientist-full-scope-poly?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Career.com', 'apply_link': 'https://www.career.com/job/motion-recruitment/data-scientist-full-scope-poly/j202506051002233494156?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'BeBee', 'apply_link': 'https://us.bebee.com/job/e129d5faf0e6c106d0d10ccfac61e244?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Recruiter Jobs', 'apply_link': 'https://jobs.recruiter.com/jobs/21669504534-data-scientist-full-scope-poly?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Motion Recruitment delivers IT Talent Solutions across North America. Our specialized team-based recruitment model’s success is proven through our track record in filling the most challenging IT positions for startup and enterprise clients. Areas of expertise range across Software, Mobile, Data, Infrastructure, Cybersecurity, Product, and UX.
+
+We’re also the proud creators of Tech in Motion and the Timmy Awards, our community event series and award program connecting tech enthusiasts to meet, learn, and innovate.
+
+About the Opportunity
+
+A technology consulting firm specializing in data analytics, artificial intelligence, and software implementation is seeking a Data Scientist. Their goal is to conduct critical analysis for their clients by delivering high-impact technology and strategic results for businesses across the US to fund ways to leverage new and emerging technologies.
+
+Mid-sized software company is seeking a Data Scientist to contribute to the growth of their Machine Learning Engineer capabilities. This position would sit within their infrastructure engineering team and the main contributions would be within their data and software development.
+
+Responsibilities
+• 7+ years of experience within a Data Science, Machine Learning Engineering, or similar capacity
+• Proficiency with Python, TensorFlow, PyTorch, Pandas, Keras
+• Cloud Platforms: AWS, GCP, or Azure
+• Implementing Chatbots and LLM
+• Deployment of models into production, Docker / Kubernetes
+• People management skills, or general mentoring skills
+• Federal clearance with a TS/SCI FSP
+
+Nice-to-Have
+• Software Development with JavaScript, React, or Typescript
+• *Applicants must be currently authorized to work in the US on a full-time basis now and in the future.**
+
+LI#-DP1",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D71wF4XMI_uzqvdSMAAAAAA%3D%3D&vssid=jobs-detail-viewer,,140000.0,180000.0,YEAR,"{'Qualifications': ['7+ years of experience within a Data Science, Machine Learning Engineering, or similar capacity', 'Proficiency with Python, TensorFlow, PyTorch, Pandas, Keras', 'Cloud Platforms: AWS, GCP, or Azure', 'Federal clearance with a TS/SCI FSP', 'Software Development with JavaScript, React, or Typescript', '*Applicants must be currently authorized to work in the US on a full-time basis now and in the future.**'], 'Responsibilities': ['This position would sit within their infrastructure engineering team and the main contributions would be within their data and software development', 'Implementing Chatbots and LLM', 'Deployment of models into production, Docker / Kubernetes', 'People management skills, or general mentoring skills']}",15111100,5
+dPsRWneLfRvYgcUKAAAAAA==,Data Scientist / ML Engineer,"Paradyme, a CATHEXIS Company",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1TSZiCi9qkaf_BRFdgSzI-xsBiQuPPUZ7-dBN&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-ml-engineer-at-paradyme-a-cathexis-company-4254171893?refId=Z2Z53VwcwSnmMquM6eVEJQ%3D%3D&trackingId=BD5F9keTLavAvGMibVSuNQ%3D%3D&position=8&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-ml-engineer-at-paradyme-a-cathexis-company-4254171893?refId=Z2Z53VwcwSnmMquM6eVEJQ%3D%3D&trackingId=BD5F9keTLavAvGMibVSuNQ%3D%3D&position=8&pageNum=0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=9d590ee483a221a4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Aijobs.net', 'apply_link': 'https://aijobs.net/job/1368322-data-scientist-ml-engineer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Paradyme Management | Careers Center - ICIMS', 'apply_link': 'https://careers-paradymemanagement.icims.com/jobs/2463/application-engineer-ii/job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.com/job/aMFFKUfF48r8KupmlFHrbfMhjwYtH-t6mWWSC0596gVTuUEZ7_DWBA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Adzuna', 'apply_link': 'https://www.adzuna.com/details/5261773808?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jobilize', 'apply_link': 'https://www.jobilize.com/job/us-va-tysons-data-scientist-ml-engineer-jobleads-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Meterwork', 'apply_link': 'https://meterwork.com/job/data-scientist-ml-engineer_at_paradyme_eVAQk?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Overview
+
+Paradyme, a CATHEXIS Company is a rapidly growing government technology leader that puts service first, for its customers, its team and the communities it supports. We harness DevSecOps and Agile development processes to deliver exceptional results for digital transformations. With headquarters office in Tysons Corner, VA, our award-winning culture sets it apart through its team’s deep commitment to service and collaboration with its customers, each other and the community. Learn more at www.paradyme.us .
+
+Responsibilities
+
+Paradyme, a CATHEXIS Company is hiring a Data Scientist /ML Engineer to support mission critical programs.
+
+Duties
+
+The Data Scientist /ML Engineer will work directly with data scientists, software engineers, and subject matter experts in the definition of new analytics capabilities able to provide our federal customers with the information they need to make proper decisions and enable their digital transformation. Duties include:
+• Research, design, implement, and deploy Machine Learning algorithms for enterprise applications.
+• Assist and enable federal customers to build their own applications.
+• Contribute to the design and implementation of new features.
+
+Qualifications
+• Master's degree in Computer Science, Electrical Engineering, Statistics, or equivalent fields or Bachelor's degree in Computer Science, Electrical Engineering, Statistics, or equivalent fields with one year of r elevant work experience.
+• Excellent programming skills in Python.
+• Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning).
+• Strong mathematical background (linear algebra, calculus, probability, and statistics).
+• Experience with scalable ML (MapReduce, streaming).
+• Ability to drive a project and work both independently and in a team.
+• Smart, motivated, can-do attitude, and seeks to make a difference.
+• Excellent verbal and written communication.
+• MUST be eligible to obtain a Department of Defense (DoD) Secret or Top Secret clearance.
+
+Nice To Have
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields.
+• Real passion for developing team-oriented solutions to complex engineering problems.
+• Thrive in an autonomous, empowering and exciting environment.
+• Great verbal and written communication skills to collaborate multi-functionally and improve scalability.
+• Interest in committing to a fun, friendly, expansive, and intellectually stimulating environment.
+• Hands-on experience deploying and operating applications using IaaS and PaaS on major cloud providers, such as Amazon AWS, Microsoft Azure, or Google Cloud Services.
+• Experience with deep learning, natural language processing, computer vision, or reinforcement learning.
+• Conveys highly technical concepts and information in written form to technical and non-technical audiences.
+• The ability to work on multiple concurrent projects is essential. Strong self -motivation and the ability to work with minimal supervision.
+• Must be a team-oriented individual, energetic, result & delivery oriented, with a keen interest on quality and the ability to meet deadlines.
+• Ability to work in an agile environment
+
+Physical Requirements: These are the essential physical requirements needed to successfully perform the job.
+• Sedentary work.
+• Requires sitting up to 8 hours per day.
+• May require lifting up to 5 pounds unassisted.
+• Fine repetitive motor skills with hands, wrists, and fingers in coordination with eyes.
+• Hearing, speaking, and vision: Adequate to perform job duties and communicate in person, via video, and telephone. Includes reading information from printed sources and computer screens.
+• Other: Work may be performed in an office environment, which may involve frequent contact with staff and the public. Work may be stressful at times.
+
+EEO Statement
+
+Paradyme, a CATHEXIS Company is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact HR@paradyme.us",False,2 days ago,1750464000.0,2025-06-21T00:00:00.000Z,"Tysons, VA",Tysons,Virginia,US,38.9187222,-77.2310925,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdPsRWneLfRvYgcUKAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': [""Master's degree in Computer Science, Electrical Engineering, Statistics, or equivalent fields or Bachelor's degree in Computer Science, Electrical Engineering, Statistics, or equivalent fields with one year of r elevant work experience"", 'Excellent programming skills in Python', 'Applied Machine Learning experience (regression and classification, supervised, and unsupervised learning)', 'Strong mathematical background (linear algebra, calculus, probability, and statistics)', 'Experience with scalable ML (MapReduce, streaming)', 'Ability to drive a project and work both independently and in a team', 'Smart, motivated, can-do attitude, and seeks to make a difference', 'Excellent verbal and written communication', 'MUST be eligible to obtain a Department of Defense (DoD) Secret or Top Secret clearance', 'MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields', 'Real passion for developing team-oriented solutions to complex engineering problems', 'Thrive in an autonomous, empowering and exciting environment', 'Great verbal and written communication skills to collaborate multi-functionally and improve scalability', 'Interest in committing to a fun, friendly, expansive, and intellectually stimulating environment', 'Hands-on experience deploying and operating applications using IaaS and PaaS on major cloud providers, such as Amazon AWS, Microsoft Azure, or Google Cloud Services', 'Experience with deep learning, natural language processing, computer vision, or reinforcement learning', 'Conveys highly technical concepts and information in written form to technical and non-technical audiences', 'The ability to work on multiple concurrent projects is essential', 'Strong self -motivation and the ability to work with minimal supervision', 'Must be a team-oriented individual, energetic, result & delivery oriented, with a keen interest on quality and the ability to meet deadlines', 'Ability to work in an agile environment', 'Physical Requirements: These are the essential physical requirements needed to successfully perform the job', 'Requires sitting up to 8 hours per day', 'May require lifting up to 5 pounds unassisted', 'Fine repetitive motor skills with hands, wrists, and fingers in coordination with eyes', 'Hearing, speaking, and vision: Adequate to perform job duties and communicate in person, via video, and telephone'], 'Responsibilities': ['Paradyme, a CATHEXIS Company is hiring a Data Scientist /ML Engineer to support mission critical programs', 'The Data Scientist /ML Engineer will work directly with data scientists, software engineers, and subject matter experts in the definition of new analytics capabilities able to provide our federal customers with the information they need to make proper decisions and enable their digital transformation', 'Research, design, implement, and deploy Machine Learning algorithms for enterprise applications', 'Assist and enable federal customers to build their own applications', 'Contribute to the design and implementation of new features', 'Sedentary work', 'Includes reading information from printed sources and computer screens', 'Other: Work may be performed in an office environment, which may involve frequent contact with staff and the public']}",15111100,5
+ok_JuNIFMMWW0XLQAAAAAA==,"Data Scientist, Product Analytics",Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsPV50auya_P5N4t5W3jXXiFwdOQQhbhzNzhn&s=0,https://www.meta.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0be6e0cc0c2ba21f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=0be6e0cc0c2ba21f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'The Muse', 'apply_link': 'https://www.themuse.com/jobs/meta/data-scientist-product-analytics-be20d6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/Meta/Job/Data-Scientist,-Product-Analytics/-in-Washington,DC?jid=e78c399725fae7d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4120826323?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jobs', 'apply_link': 'https://metacareers.dejobs.org/FA911B5BEC5B470A827BB85D51D3666325/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Ladders', 'apply_link': 'https://www.theladders.com/job/data-scientist-product-analytics-meta-washington-dc_81617801?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'National Labor Exchange', 'apply_link': 'https://usnlx.com/washington-dc/data-scientist-product-analytics/FA911B5BEC5B470A827BB85D51D36663/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'JobGet', 'apply_link': 'https://www.jobget.com/jobs/job/4a87297b-a904-4ae6-bb11-e6dbf24abe0d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+
+Data Scientist, Product Analytics Responsibilities:
+• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches
+• Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses
+• Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends
+• Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+• Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+Minimum Qualifications:
+• Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent
+• 2+ years of work experience in analytics and data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)
+• 2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights]
+
+Preferred Qualifications:
+• Master's or Ph.D. Degree in a quantitative field
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$114,000/year to $171,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,['health_insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dok_JuNIFMMWW0XLQAAAAAA%3D%3D&vssid=jobs-detail-viewer,,114000.0,171000.0,YEAR,"{'Qualifications': [""Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent"", '2+ years of work experience in analytics and data querying languages (e.g. SQL), scripting languages (e.g. Python), and/or statistical/mathematical software (e.g. R)', '2+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights]', 'Degree in a quantitative field', 'Meta participates in the E-Verify program in certain locations, as required by law'], 'Benefits': ['$114,000/year to $171,000/year + bonus + equity + benefits', 'Individual compensation is determined by skills, qualifications, experience, and location', 'Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable', 'In addition to base compensation, Meta offers benefits'], 'Responsibilities': ['You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others', ""You will use data and analysis to identify and solve product development's biggest challenges"", 'You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams', 'By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond', 'Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta', ""You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights"", 'You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them', ""Communication and influence: You won't simply present data, but tell data-driven stories"", 'You will convince and influence your partners using clear insights and recommendations', 'You will build credibility through structure and clarity, and be a trusted strategic partner', 'Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches', 'Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses', 'Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends', 'Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations', 'Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions']}",15111100,5
+GFgwMJsinHeHGQsHAAAAAA==,"Data Scientist, AWS Security",Amazon Web Services (AWS),https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDhrsiwqZ87o_GbEtiPnJBd_9_wDeh86Wk6uMM&s=0,https://aws.amazon.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-aws-security-at-amazon-web-services-aws-4243450005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-aws-security-at-amazon-web-services-aws-4243450005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'JobGet', 'apply_link': 'https://www.jobget.com/jobs/job/f08c54d1-c711-4372-8445-a254716a5d07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jobs Trabajo.org', 'apply_link': 'https://us.trabajo.org/job-3631-23bb7939fc00b8a98ba3fb1365fad46b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Description
+
+Amazon Web Services (AWS) Security seeks a passionate and innovative Data Scientist for the AWS Vulnerability Management (AVM) team. At AWS, security is job zero, and our AVM team leads the way in securing our cloud services. We continuously raise the bar for security by blending analytics, data science, cybersecurity skills, and technical expertise to protect our customers and the cloud. We are data-driven, set big goals, and are always challenging ourselves and each other to identify better solutions and take on new challenges. We build automated mechanisms to detect vulnerabilities, asses risk, and mitigate risk across AWS.
+
+As a Data Scientist you will build algorithms and automation with GenAI and ML techniques to analyze billions of data points daily. We are still Day 1 and have an exciting road map to build Machine Learning (ML) and Generative AI (LLM) powered detection and resolution systems to help scale Amazon for years to come.
+
+We are seeking an AWSome Applied Scientist to join our team and help tackle challenging problems at the forefront of machine learning and artificial intelligence. Working closely with a multidisciplinary team of engineers, data scientists, and domain experts, you will play a crucial role in pioneering ML/AI-powered customer experiences and solutions. If you have an entrepreneurial mindset, the technical depth to deliver impactful results, and a passion for innovation, we want to hear from you.
+
+Key job responsibilities
+• Drive the research, design, and development of novel ML/AI models and systems to power critical products and services
+• Collaborate cross-functionally to deeply understand business requirements, customer needs, and technical constraints
+• Rapidly prototype, test, and iterate on ML/AI solutions, iterating quickly based on data and feedback
+• Communicate complex technical concepts to technical and non-technical stakeholders
+• Mentor and grow a team of talented ML scientists and engineers
+• Stay up-to-date on the latest advancements in AI/ML and identify opportunities to apply emerging techniques
+
+A day in the life
+• Starting the day by reviewing the latest model performance metrics and identifying areas for improvement
+• Brainstorming new ML architectures and approaches with your cross-functional team during a whiteboard session
+• Diving deep into a complex dataset, leveraging advanced statistical and ML techniques to uncover hidden insights
+• Prototyping a new ML model and running a series of experiments to optimize its performance
+• Preparing a presentation to pitch your latest research findings with your customers and making joint recommendations to product and engineering leaders for how to improve the security program at scale.
+
+About The Team
+
+Diverse Experiences
+
+Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why Amazon Security?
+
+At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores.
+
+Inclusive Team Culture
+
+In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices.
+
+Training & Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
+
+Basic Qualifications
+• 2+ years of data scientist experience
+• 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+• 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+• Experience applying theoretical models in an applied environment
+
+Preferred Qualifications
+• Experience in Python, Perl, or another scripting language
+• Experience in a ML or data scientist role with a large technology company
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $125,500/year in our lowest geographic market up to $212,800/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site.
+
+Company - Amazon.com Services LLC
+
+Job ID: A2951596",False,20 days ago,1748908800.0,2025-06-03T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,['health_insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGFgwMJsinHeHGQsHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,126000.0,213000.0,YEAR,"{'Qualifications': ['2+ years of data scientist experience', '3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience', '3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience', 'Experience applying theoretical models in an applied environment'], 'Benefits': ['Work/Life Balance', 'We value work-life harmony', 'Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture', 'The base pay for this position ranges from $125,500/year in our lowest geographic market up to $212,800/year in our highest geographic market', 'Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits'], 'Responsibilities': ['As a Data Scientist you will build algorithms and automation with GenAI and ML techniques to analyze billions of data points daily', 'Drive the research, design, and development of novel ML/AI models and systems to power critical products and services', 'Collaborate cross-functionally to deeply understand business requirements, customer needs, and technical constraints', 'Rapidly prototype, test, and iterate on ML/AI solutions, iterating quickly based on data and feedback', 'Communicate complex technical concepts to technical and non-technical stakeholders', 'Mentor and grow a team of talented ML scientists and engineers', 'Stay up-to-date on the latest advancements in AI/ML and identify opportunities to apply emerging techniques', 'Starting the day by reviewing the latest model performance metrics and identifying areas for improvement', 'Brainstorming new ML architectures and approaches with your cross-functional team during a whiteboard session', 'Diving deep into a complex dataset, leveraging advanced statistical and ML techniques to uncover hidden insights', 'Prototyping a new ML model and running a series of experiments to optimize its performance', 'Preparing a presentation to pitch your latest research findings with your customers and making joint recommendations to product and engineering leaders for how to improve the security program at scale']}",15111100,5
+fjQSD7VQvk098hJHAAAAAA==,Jr. Data Scientist (Hybrid),Piper Companies,,https://www.pipercompanies.com,Piper Companies,Full-time,['FULLTIME'],https://careers.pipercompanies.com/details/144247/jr_data_scientist_hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Piper Companies', 'apply_link': 'https://careers.pipercompanies.com/details/144247/jr_data_scientist_hybrid?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Dice', 'apply_link': 'https://www.dice.com/job-detail/7e050ac2-be92-4e31-b2d1-b53ec25695fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/jr-data-scientist-hybrid-at-piper-companies-4254150248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=bc313e775da7eabe&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Ladders', 'apply_link': 'https://www.theladders.com/job/jr-data-scientist-hybrid-pipercompanies-mclean-va_82017839?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/jr-data-scientist-hybrid-piper-companies-JV_IC1158535_KO0,24_KE25,40.htm?jl=1009786360498&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.com/job/TI0PTDYd8vi5t4O1qaC76hg_lcxqhFax60Zb4w693mOP18eyAGJr5Q?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'BeBee', 'apply_link': 'https://us.bebee.com/job/0c603d371d4bca82b8c29de86884f252?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Piper Companies is seeking a Jr. Data Scientist to join one of the nation’s largest premier credit unions based out of Mclean,VA. The Jr. Data Scientist will implement quantitative models to analyze credit and prepayment risk, determine the allowance for loan losses, and support financial planning. This role is Hybrid (3 days on-site in Mclean, VA).
+
+Responsibilities of the Jr. Data Scientist include:
+• Implement models for loan loss allowance, CECL, stress testing, new volume origination, line of credit utilization, and prepayment models for all products, including credit card, personal loan, student loan, auto loan, mortgage, and commercial loan.
+• Maintaining documentation for key processes and model components across the team with a focus on standardization of processes that satisfy model risk management, audit, and regulatory requirements.
+• Implement vendor-developed models for consumer and commercial credit loss or prepayment.
+• Monitor performance of quantitative models and support independent model validation efforts in accordance with the model risk management policy.
+• Establish and document model implementation controls that satisfy model risk management, audit, and regulatory requirements.
+
+Qualifications for the Jr. Data Scientist include:
+• 3+ years of experience in quantitative modeling, development, or implementation.
+• Working experience in data manipulation and advanced data analysis.
+• Experience with SAS, R, Python, and proficiency working with large datasets is required.
+• Applied experience with Logistic Regression, Linear Regression, Survival Analysis, Time Series Analysis, Decision Trees, and Cluster Analysis.
+• Experience in at least one (1) of the following areas is preferred; real estate products, auto, credit card, student loan, or commercial loan.
+
+Compensation for the Jr. Data Scientist include:
+• Hourly Pay: $40 - $45/hr -- Salary Range: $90,000-$110,000 + Bonus Package
+• Comprehensive Benefits: Medical, Dental, Vision, 401(k), PTO, Sick Leave (as required by law), and Holidays
+
+This job opens for applications on 6/16/25. Applications will be accepted for at least 30 days from the posting date.
+
+Keywords: #LI-MM1 #LI-HYBRID
+
+Data, data science, R, sas, python, datasets, logistic regression, linear regression, survival analysis, time series analysis, decision trees, cluster analysis, real estate, auto, credit card, consumer lending, consumer banking, modeling, model implementation, model risk, documentation, prepayment risk, financial services,",False,3 days ago,1750377600.0,2025-06-20T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,"['paid_time_off', 'dental_coverage', 'health_insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfjQSD7VQvk098hJHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['3+ years of experience in quantitative modeling, development, or implementation', 'Working experience in data manipulation and advanced data analysis', 'Experience with SAS, R, Python, and proficiency working with large datasets is required', 'Applied experience with Logistic Regression, Linear Regression, Survival Analysis, Time Series Analysis, Decision Trees, and Cluster Analysis'], 'Benefits': ['Compensation for the Jr', 'Hourly Pay: $40 - $45/hr -- Salary Range: $90,000-$110,000 + Bonus Package', 'Comprehensive Benefits: Medical, Dental, Vision, 401(k), PTO, Sick Leave (as required by law), and Holidays'], 'Responsibilities': ['Data Scientist will implement quantitative models to analyze credit and prepayment risk, determine the allowance for loan losses, and support financial planning', 'Implement models for loan loss allowance, CECL, stress testing, new volume origination, line of credit utilization, and prepayment models for all products, including credit card, personal loan, student loan, auto loan, mortgage, and commercial loan', 'Maintaining documentation for key processes and model components across the team with a focus on standardization of processes that satisfy model risk management, audit, and regulatory requirements', 'Implement vendor-developed models for consumer and commercial credit loss or prepayment', 'Monitor performance of quantitative models and support independent model validation efforts in accordance with the model risk management policy', 'Establish and document model implementation controls that satisfy model risk management, audit, and regulatory requirements']}",15111100,5
+bXYIK1CJkPzpDmTrAAAAAA==,Part-Time Data Scientist (Equity Only),Foundation,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwCpbGq4TD0faDLgPAPXr58CBNXzT5ZUzaS0pZ&s=0,https://www.fordfoundation.org,Wellfound,Full-time,['FULLTIME'],https://wellfound.com/jobs/3265387-part-time-data-scientist-equity-only?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,True,"[{'publisher': 'Wellfound', 'apply_link': 'https://wellfound.com/jobs/3265387-part-time-data-scientist-equity-only?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}]","📍 Remote | 💰 Equity Only | ⏳ Part-Time (~10–20 hrs/week)
+
+🚀 Option to convert to full-time after fundraise
+
+About Foundation
+
+Foundation is building AI that surfaces the narratives driving economic outcomes. Our platform detects early warning signals hidden in text data—like consumer complaints, forums, and regulatory filings—starting in the $841B used car market.
+
+We’ve built an early product that gives OEMs, insurers, and investors an 18-month lead on major recall and defect events. We’re former In-Q-Tel, SEC, BMW, Federal Reserve, Primer, and Anduril—building scalable, trustworthy language intelligence for high-stakes markets.
+
+We’re currently in public beta and gearing up for our next funding round. We’re looking for a part-time data scientist to join as a core contributor and future leader.
+
+What You’ll Do
+• Develop NLP models for narrative detection and event clustering
+• Analyze and visualize complaint timelines, recall signals, and anomaly detection
+• Help refine and test our recall prediction models
+• Collaborate on labeling data and training LLMs (open-source and proprietary)
+• Co-design early versions of our “Recall Risk Score” and other key indicators
+• Work closely with the founding team to shape product and platform decisions
+
+You Might Be a Fit If You…
+• Have experience with Python, pandas, scikit-learn, and NLP libraries (spaCy, Hugging Face, etc.)
+• Are comfortable with time series, anomaly detection, and clustering methods
+• Have worked with unstructured text data (forums, complaints, reviews, filings)
+• Have a statistics, economics, or ML background—or love building models with real-world impact
+• Want to work on high-impact, research-heavy problems in a fast-paced, early-stage startup
+
+Why Join Foundation?
+• Make a real-world impact on auto safety, regulation, and transparency
+• Work with a PhD-led team of AI experts and industry veterans
+• Be one of the first data scientists in a mission-driven company
+• Meaningful equity ownership with the option to go full-time post-raise
+• Remote-first, async-friendly, research-positive environment
+
+📅 Ready to shape the future of narrative intelligence?
+• Apply and send a note + GitHub/portfolio to tommy@foundation.sh & kevin@foundation.sh",True,,,,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbXYIK1CJkPzpDmTrAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['You Might Be a Fit If You…', 'Have experience with Python, pandas, scikit-learn, and NLP libraries (spaCy, Hugging Face, etc.)', 'Are comfortable with time series, anomaly detection, and clustering methods', 'Have worked with unstructured text data (forums, complaints, reviews, filings)', 'Have a statistics, economics, or ML background—or love building models with real-world impact', 'Want to work on high-impact, research-heavy problems in a fast-paced, early-stage startup', 'Be one of the first data scientists in a mission-driven company'], 'Benefits': ['📍 Remote | 💰 Equity Only | ⏳ Part-Time (~10–20 hrs/week)', '🚀 Option to convert to full-time after fundraise', 'Make a real-world impact on auto safety, regulation, and transparency', 'Meaningful equity ownership with the option to go full-time post-raise'], 'Responsibilities': ['Develop NLP models for narrative detection and event clustering', 'Analyze and visualize complaint timelines, recall signals, and anomaly detection', 'Help refine and test our recall prediction models', 'Collaborate on labeling data and training LLMs (open-source and proprietary)', 'Co-design early versions of our “Recall Risk Score” and other key indicators', 'Work closely with the founding team to shape product and platform decisions']}",15111100,5
