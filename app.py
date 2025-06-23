@@ -1,22 +1,44 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import os
+
+st.set_page_config(page_title="JobSight Dashboard", layout="wide")
+
+st.title("🌍 Job Market Keyword Dashboard")
 
 # Load data
-df = pd.read_csv("data/keywords.csv")
+data_file = "data/jobs.csv"
+if not os.path.exists(data_file):
+    st.error("❌ jobs.csv file not found in /data directory.")
+    st.stop()
 
-st.set_page_config(page_title="Job Market Dashboard", layout="centered")
+df = pd.read_csv(data_file)
 
-# Title
-st.title("📊 Job Market Keyword Dashboard")
-st.markdown("Explore the most in-demand job keywords from scraped listings.")
+# Sidebar filters
+st.sidebar.header("🔍 Filter Jobs")
 
-# Chart
-fig = px.bar(df, x="keyword", y="count", text="count", title="Top Job Keywords")
-fig.update_traces(marker_color="indigo", textposition="outside")
-fig.update_layout(yaxis_title="Frequency", xaxis_title="Keyword")
+country_options = df["job_country"].dropna().unique().tolist()
+selected_country = st.sidebar.selectbox("Select Country", options=country_options)
 
-st.plotly_chart(fig, use_container_width=True)
+filtered_df = df[df["job_country"] == selected_country]
 
-# Footer
-st.caption("Built with ❤️ using Streamlit and Plotly")
+city_options = filtered_df["job_city"].dropna().unique().tolist()
+selected_cities = st.sidebar.multiselect("Select Cities", options=city_options)
+
+if selected_cities:
+    filtered_df = filtered_df[filtered_df["job_city"].isin(selected_cities)]
+
+# Map Visualization
+st.subheader("📍 Job Locations")
+if filtered_df[["job_latitude", "job_longitude"]].dropna().empty:
+    st.warning("No location data to display on map.")
+else:
+    st.map(filtered_df.dropna(subset=["job_latitude", "job_longitude"])[["job_latitude", "job_longitude"]].rename(columns={
+        "job_latitude": "lat",
+        "job_longitude": "lon"
+    }))
+
+# Job Listings
+st.subheader("📄 Job Details")
+st.dataframe(filtered_df[["job_title", "employer_name", "job_city"]].reset_index(drop=True))
