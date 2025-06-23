@@ -2,8 +2,8 @@ name: Update Job Data Daily
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # 6 AM UTC daily
-  workflow_dispatch:
+    - cron: '0 6 * * *'   # Runs daily at 6 AM UTC (11:30 AM IST)
+  workflow_dispatch:       # Allows manual triggering from GitHub UI
 
 jobs:
   update-job-data:
@@ -23,15 +23,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run fetch script
-        working-directory: ${{ github.workspace }}
+      - name: Run job data fetch
         run: python fetch_and_save.py
+
+      - name: Run salary API fetch
+        run: python fetch_salary.py
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add data/jobs.csv
-          git commit -m "📦 Update job data [auto]" || echo "No changes to commit"
+          git add data/*.csv
+          git commit -m "📦 Update job & salary data [auto]" || echo "No changes to commit"
           git push
 
