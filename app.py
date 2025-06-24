@@ -1,66 +1,56 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import os
-from fetch_salary import fetch_salary
-
-st.set_page_config(page_title="JobSight Dashboard", layout="wide")
-st.title("🌍 Job Market Keyword Dashboard")
 
 # Load job data
-jobs_file_path = os.path.join("data", "jobs.csv")
-if not os.path.exists(jobs_file_path):
-    st.error("❌ jobs.csv file not found in /data directory.")
-    st.stop()
+df = pd.read_csv("data/jobs.csv")
 
-df = pd.read_csv(jobs_file_path)
+# Streamlit UI config
+st.set_page_config(page_title="JobSight - Job Insights Dashboard", layout="wide")
+st.title("📊 JobSight – AI-Powered Job Market Dashboard")
 
 # Sidebar filters
 st.sidebar.header("Filter Jobs")
-countries = df["job_country"].dropna().unique()
-selected_country = st.sidebar.selectbox("Select Country", options=sorted(countries))
+roles = st.sidebar.multiselect("Select Job Titles", options=df["job_title"].dropna().unique())
+locations = st.sidebar.multiselect("Select Locations", options=df["job_city"].dropna().unique())
 
-filtered_df = df[df["job_country"] == selected_country]
+# Apply filters
+df_filtered = df.copy()
+if roles:
+    df_filtered = df_filtered[df_filtered["job_title"].isin(roles)]
+if locations:
+    df_filtered = df_filtered[df_filtered["job_city"].isin(locations)]
 
-cities = filtered_df["job_city"].dropna().unique()
-selected_cities = st.sidebar.multiselect("Select Cities", options=sorted(cities))
+# Top keywords chart
+# st.subheader("Top Keywords from Job Descriptions")
+# keywords_df = pd.read_csv("data/keywords.csv")
+# fig_keywords = px.bar(keywords_df.sort_values("count", ascending=False).head(20),
+#                       x="keyword", y="count", title="Top Keywords")
+# st.plotly_chart(fig_keywords, use_container_width=True)
 
-if selected_cities:
-    filtered_df = filtered_df[filtered_df["job_city"].isin(selected_cities)]
-
-# Geo Map
+# Map job locations
 st.subheader("Job Locations Map")
-if not filtered_df.empty:
-    fig_map = px.scatter_mapbox(
-        filtered_df,
-        lat="job_latitude",
-        lon="job_longitude",
-        hover_name="job_title",
-        hover_data=["employer_name", "job_city"],
-        color_discrete_sequence=["blue"],
-        zoom=2,
-        height=400,
-    )
-    fig_map.update_layout(mapbox_style="open-street-map")
-    fig_map.update_layout(margin={"r":0,"t":0,"l":0,"b":0})
-    st.plotly_chart(fig_map, use_container_width=True)
-else:
-    st.info("No job data available for selected filters.")
+if "job_latitude" in df_filtered.columns and "job_longitude" in df_filtered.columns:
+    st.map(df_filtered.dropna(subset=["job_latitude", "job_longitude"]),
+           latitude="job_latitude", longitude="job_longitude")
 
-# Job table
-st.subheader("Job Details")
-st.dataframe(filtered_df[["job_title", "employer_name", "job_city"]])
+# Salary range by title
+if "job_min_salary" in df_filtered.columns and "job_max_salary" in df_filtered.columns:
+    st.subheader("Salary Range by Job Title")
+    salary_df = df_filtered.dropna(subset=["job_min_salary", "job_max_salary"])
+    fig_salary = px.box(salary_df, x="job_title", y="job_max_salary",
+                        points="all", title="Salary Distribution by Job Title")
+    st.plotly_chart(fig_salary, use_container_width=True)
 
-# Salary API Integration
-st.subheader("💰 Estimated Salary")
-job_titles = filtered_df["job_title"].dropna().unique()
-selected_job = st.sidebar.selectbox("Select a job title to view salary", job_titles)
+# Download CSV button
+st.subheader("📥 Download Data")
+st.download_button(
+    label="Download Filtered Job Data as CSV",
+    data=df_filtered.to_csv(index=False),
+    file_name="jobsight_data.csv",
+    mime="text/csv"
+)
 
-if selected_job:
-    salary_info = fetch_salary(selected_job)
-    if salary_info:
-        st.markdown(f"**Min Salary:** ${salary_info.get('min_salary', 'N/A')}")
-        st.markdown(f"**Max Salary:** ${salary_info.get('max_salary', 'N/A')}")
-        st.markdown(f"**Period:** {salary_info.get('salary_period', 'N/A')}")
-    else:
-        st.warning("Salary data not available for the selected job.")
+# Show job listings table
+st.subheader("📄 Job Listings")
+st.dataframe(df_filtered)
