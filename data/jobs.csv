@@ -1,1 +1,590 @@
+job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_google_link,job_salary,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone
+FMbi7Wez3KccbHrXAAAAAA==,Data Scientist SME,Leidos,,https://www.leidos.com,Leidos Careers,Full-time,['FULLTIME'],https://careers.leidos.com/jobs/16894311-data-scientist-sme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Leidos Careers', 'apply_link': 'https://careers.leidos.com/jobs/16894311-data-scientist-sme?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=773df5e40c437c45&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.com/job/RwQvPgs1t2sJDY74CTBidI_NImr4QWJuyzAVvE1JrR2epNXZIKZ6Cg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Description
 
+Leidos National Security Sector combines technology-enabled services and mission software capabilities in the areas of cyber, logistics, security operations, and decision analytics to support our defense and intel customers’ mission to defend against evolving threats around the world. Our team’s focus is to ensure our customers have the right tools, technologies, and tactics to keep pace with an ever-evolving security landscape and succeed in their pursuit to protect people and critical assets.
+
+The Intelligence Production Solutions Division (IPSD), part of the Decision Advantage Solutions Business Area, is seeking a Data Scientist Subject Matter Expert (SME) for the Chinook program. In this highly specialized role, you will lead complex, mission-critical projects that leverage advanced data science techniques, machine learning, and artificial intelligence to address key intelligence challenges. As a SME, you will apply deep expertise in data science and geospatial analytics to help solve high-stakes problems related to national security, defense, and geospatial intelligence.
+
+This role requires both a strategic and hands-on approach, providing subject matter leadership and guidance to teams while working closely with National Geospatial-Intelligence Agency (NGA) stakeholders and mission experts. If you are an experienced data scientist with expertise in geospatial intelligence (GEOINT), machine learning, and Artificial Intelligence (AI), we want you to be part of our growing team!
+
+Position may be performed in the following locations below. Please note Gaithersburg, MD is the primary work location for the program.
+• Gaithersburg, MD
+• Alexandria, VA
+• Chantilly, VA
+• Aurora, CO
+• St. Louis, MO
+
+Clearance Level Required:
+
+Top Secret with the ability to obtain SCI, as well as a Polygraph.
+
+Primary Responsibilities:
+• Serve as the technical SME in data science and geospatial analytics, providing high-level guidance on complex technical problems related to the GEOINT mission.
+• Lead the design and development of sophisticated data science models and machine learning algorithms to analyze large, multi-source geospatial data sets (e.g., satellite imagery, sensor data, geospatial databases).
+• Apply deep knowledge of GEOINT, remote sensing, and spatial analysis to develop and implement solutions that enhance data-driven decision-making capabilities.
+• Provide strategic recommendations for leveraging new and emerging technologies, including machine learning, AI, and cloud platforms, to improve analytical workflows, efficiency, and mission outcomes.
+• Mentor and train junior data scientists and analysts, ensuring the application of best practices in data science and the development of mission-relevant expertise.
+• Work closely with GEOINT analysts, program managers, engineers, and other stakeholders to identify critical requirements, define technical approaches, and ensure that solutions align with mission objectives.
+• Conduct applied research to explore innovative data science techniques and emerging trends (e.g., deep learning, reinforcement learning, advanced geospatial algorithms) that can be applied to solve real-world intelligence problems.
+• Oversee the deployment and operationalization of data science models, ensuring they are scalable, reliable, and deliver actionable insights to GEOINT decision-makers.
+• Maintain high-quality documentation for models, methodologies, and analysis processes to support reproducibility, training, and knowledge transfer.
+
+Basic Qualifications:
+• US citizenship is required per contract.
+• Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience. May possess a Doctorate in technical domain.
+• 10+ years of professional experience in data science.
+• 5+ years of experience with GEOINT or geospatial data analysis.
+• Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing.
+• Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC.
+• Expert proficiency in Python (or similar languages) and experience with data science libraries (TensorFlow, PyTorch, Pandas, NumPy).
+• Strong experience with big data processing tools (e.g., Spark, Hadoop, AWS or Azure cloud platforms).
+• Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL).
+• Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics).
+• Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI).
+• Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams.
+• Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights.
+
+Preferred Qualifications:
+• Advanced certifications in data science or machine learning.
+• Familiarity with NGA’s mission and specific geospatial intelligence challenges.
+• Expertise in advanced deep learning techniques, particularly in computer vision and image analysis for geospatial applications.
+• Experience with cloud-native applications and distributed computing in a geospatial context.
+• Familiarity with satellite data analysis, and remoting sensing models.
+• Published research or technical papers in geospatial intelligence, machine learning, or data science.
+
+#Chinook
+
+Come break things (in a good way). Then build them smarter.
+
+We're the tech company everyone calls when things get weird. We don’t wear capes (they’re a safety hazard), but we do solve high-stakes problems with code, caffeine, and a healthy disregard for “how it’s always been done.”
+
+Original Posting:
+October 9, 2025
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+Pay Range:
+Pay Range $126,100.00 - $227,950.00
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",False,1 day ago,1759968000.0,2025-10-09T00:00:00.000Z,"Alexandria, VA",Alexandria,Virginia,US,38.804693,-77.0435257,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFMbi7Wez3KccbHrXAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['This role requires both a strategic and hands-on approach, providing subject matter leadership and guidance to teams while working closely with National Geospatial-Intelligence Agency (NGA) stakeholders and mission experts', 'Top Secret with the ability to obtain SCI, as well as a Polygraph', 'US citizenship is required per contract', 'Bachelor’s degree in Data Science, Computer Science, Geospatial Science or related field and 12-15 years of prior relevant experience or Master’s with 10-13 years of prior relevant experience', 'May possess a Doctorate in technical domain', '10+ years of professional experience in data science', '5+ years of experience with GEOINT or geospatial data analysis', 'Proven expertise in developing and implementing machine learning and AI models, particularly in context of geospatial or remote sensing', 'Deep knowledge of geospatial analytics tools (e.g., GIS, ArcGIS), remote sensing techniques, and the application of data science in the IC', 'Expert proficiency in Python (or similar languages) and experience with data science libraries (TensorFlow, PyTorch, Pandas, NumPy)', 'Strong experience with big data processing tools (e.g., Spark, Hadoop, AWS or Azure cloud platforms)', 'Expertise in working with geospatial data formats (e.g., GeoTIFF, Shapefiles, WMS, WFS) and spatial libraries (e.g., GeoPandas, Rasterio, GDAL)', 'Advance experience in developing and operationalizing AI/ML models and algorithms for geospatial data (e.g., object detection from satellite imagery, spatial clustering, predictive analytics)', 'Strong background in data visualization and reporting tools (e.g., Tableau, PowerBI)', 'Strong leadership, communication, and collaboration skills, with the ability to work directly with senior government officials, analysts, and technical teams', 'Excellent problem-solving and analytical skills with a demonstrated ability to translate technical challenges into actionable insights'], 'Benefits': ['Pay Range $126,100.00 - $227,950.00', 'The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary'], 'Responsibilities': ['In this highly specialized role, you will lead complex, mission-critical projects that leverage advanced data science techniques, machine learning, and artificial intelligence to address key intelligence challenges', 'As a SME, you will apply deep expertise in data science and geospatial analytics to help solve high-stakes problems related to national security, defense, and geospatial intelligence', 'Serve as the technical SME in data science and geospatial analytics, providing high-level guidance on complex technical problems related to the GEOINT mission', 'Lead the design and development of sophisticated data science models and machine learning algorithms to analyze large, multi-source geospatial data sets (e.g., satellite imagery, sensor data, geospatial databases)', 'Apply deep knowledge of GEOINT, remote sensing, and spatial analysis to develop and implement solutions that enhance data-driven decision-making capabilities', 'Provide strategic recommendations for leveraging new and emerging technologies, including machine learning, AI, and cloud platforms, to improve analytical workflows, efficiency, and mission outcomes', 'Mentor and train junior data scientists and analysts, ensuring the application of best practices in data science and the development of mission-relevant expertise', 'Work closely with GEOINT analysts, program managers, engineers, and other stakeholders to identify critical requirements, define technical approaches, and ensure that solutions align with mission objectives', 'Conduct applied research to explore innovative data science techniques and emerging trends (e.g., deep learning, reinforcement learning, advanced geospatial algorithms) that can be applied to solve real-world intelligence problems', 'Oversee the deployment and operationalization of data science models, ensuring they are scalable, reliable, and deliver actionable insights to GEOINT decision-makers', 'Maintain high-quality documentation for models, methodologies, and analysis processes to support reproducibility, training, and knowledge transfer']}",15111100,5
+RVwRCXJtCpPyWt4BAAAAAA==,Data Scientist - Mid level,Nalley Consulting,,https://www.nalleyconsulting.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=907a13bcf9a9148a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=907a13bcf9a9148a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/Nalley-Consulting/Job/Data-Scientist-Mid-level/-in-Washington,DC?jid=cf7d5367834650e6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-mid-level-at-nalley-consulting-4307584264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.com/job/F6EJB0R0ZHmex-mRkmQ7LuB0sg2gy4xVafic2IuKK4_z4bYBF5bnHQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Www.aijobs.com', 'apply_link': 'https://www.aijobs.com/jobs/165935647-data-scientist-mid-level?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Nalley Consulting - JazzHR', 'apply_link': 'https://nalleyconsulting.applytojob.com/apply/AvDxIrOOVX/Data-Scientist-Mid-Level?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/data-scientist-mid-level-nalley-consulting-JV_IC1138213_KO0,24_KE25,42.htm?jl=1009897313523&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LazyApply', 'apply_link': 'https://lazyapply.com/jobpreview/data-scientist-mid-level-nalley-consulting-washington-dc_82359296?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Join the Nalley Consulting team as a Data Scientist at DIA Headquarters.
+
+Position: Data Scientist
+
+LCAT: Mid
+
+Locations: DIAC, Joint Base Anacostia Bolling
+
+Shift: No
+
+Required clearance: Active TS/SCI clearance
+Required education: Bachelor's degree
+
+Basic Qualifications:
+• Python experience.
+• 3+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining
+• 3+ years of experience with analyzing structured and unstructured data sources
+• Experience with statistical and general-purpose programming languages for data analysis
+• Experience with developing predictive data models, quantitative analyses, and visualization of target data sources
+• Experience with leading the development of solutions to complex problems
+• Experience with natural language processing, text mining, or machine learning techniques
+• Experience implementing automation in processing, presenting, or manipulating data
+• Active TS/SCI clearance; willingness to take a polygraph exam
+• Bachelor's degree
+
+Additional Qualifications / Nice to have:
+• Experience in the development of algorithms leveraging Python and SQL
+• Experience with developing solutions incorporating Large Language Models
+• Experience with Python data science and visualization packages
+• Experience with Excel MBA
+• An active CI polygraph
+
+ABOUT NALLEY CONSULTING
+
+Nalley Consulting is a Service Disabled Veteran Owned Small Business working with prime partners to staff Department of Defense and Intelligence Community positions. Created by a U.S. Navy intelligence veteran, Nalley Consulting has grown to include multiple IDIQ vehicles in several states.
+
+Nalley Consulting fringe benefits include:
+• Excellent medical, dental, and vision benefits
+• PTO
+• 11 paid federal holidays
+• Tuition assistance
+• Paid military-reserve leave
+• Paid parental leave for birth or adoption
+• 401k matching up to 5 percent of the base salary
+• Flex time
+• Company-paid short-term disability, long-term disability, and life insurance.
+
+AvDxIrOOVX",False,6 days ago,1759536000.0,2025-10-04T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,"['dental_coverage', 'health_insurance', 'paid_time_off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRVwRCXJtCpPyWt4BAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': [""Required education: Bachelor's degree"", 'Python experience', '3+ years of experience with data exploration, data cleaning, data analysis, data visualization, or data mining', '3+ years of experience with analyzing structured and unstructured data sources', 'Experience with statistical and general-purpose programming languages for data analysis', 'Experience with developing predictive data models, quantitative analyses, and visualization of target data sources', 'Experience with leading the development of solutions to complex problems', 'Experience with natural language processing, text mining, or machine learning techniques', 'Experience implementing automation in processing, presenting, or manipulating data', 'Active TS/SCI clearance; willingness to take a polygraph exam', ""Bachelor's degree"", 'Experience in the development of algorithms leveraging Python and SQL', 'Experience with developing solutions incorporating Large Language Models', 'Experience with Python data science and visualization packages', 'Experience with Excel MBA', 'An active CI polygraph'], 'Benefits': ['Nalley Consulting fringe benefits include:', 'Excellent medical, dental, and vision benefits', 'PTO', '11 paid federal holidays', 'Tuition assistance', 'Paid military-reserve leave', 'Paid parental leave for birth or adoption', '401k matching up to 5 percent of the base salary', 'Flex time', 'Company-paid short-term disability, long-term disability, and life insurance']}",15111100,5
+NA8hisVYwpNzkyMDAAAAAA==,"Lead Data Scientist, GenAI",Kapitus,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSInfNtigA28K9XWR8vSOk87Mwt-8q51H9M0sl9&s=0,https://kapitus.com,ZipRecruiter,Full-time,['FULLTIME'],"https://www.ziprecruiter.com/c/Kapitus/Job/Lead-Data-Scientist,-GenAI/-in-Arlington,VA?jid=9b351affad157109&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",True,"[{'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/Kapitus/Job/Lead-Data-Scientist,-GenAI/-in-Arlington,VA?jid=9b351affad157109&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/lead-data-scientist-genai-at-kapitus-4311190187?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Experteer', 'apply_link': 'https://us.experteer.com/career/view-jobs/lead-data-scientist-genai-arlington-va-usa-54266326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'BeBee', 'apply_link': 'https://us.bebee.com/job/689ec1e1fb058cf1fc6a009b754a9360?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Kapitus is seeking a Lead Data Scientist with deep expertise in Generative AI (GenAI), Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG) systems to join our diverse data team. This is a high-impact, hands-on role supporting multiple functions across the company—including Sales & Marketing, Underwriting, Collections, and HR—by building and deploying advanced AI solutions.
+
+You will be a key contributor in architecting and implementing customized chatbot solutions using open-source LLMs (hosted on platforms like Amazon Bedrock) and third-party tools (such as Abacus.ai, Agent Force, etc.). You will also design and implement RAG systems that integrate internal data sources with base LLMs to deliver contextualized, accurate outputs.
+
+Beyond technical development, you will champion GenAI adoption across Kapitus: identifying opportunities, engaging stakeholders, and ensuring alignment between business needs and AI solutions. You will provide technical guidance, mentor junior team members, and drive responsible, enterprise-level AI enablement.
+
+What you will do:
+
+· Lead the development, deployment, and monitoring of predictive and generative AI models to enhance sales, marketing, underwriting, collections, and HR strategies.
+
+· Architect and implement customized chatbot solutions leveraging open-source LLMs and third-party GenAI platforms.
+
+· Design and build Retrieval-Augmented Generation (RAG) systems that integrate internal data sources with LLMs for more contextualized outputs.
+
+· Collaborate with cross-functional teams to identify business opportunities and translate them into scalable, data-driven solutions.
+
+· Analyze large, complex datasets to extract actionable insights and drive decision-making.
+
+· Develop and maintain machine learning models to predict customer behavior, improve targeting, and automate productivity.
+
+· Mentor and guide junior data scientists and analysts in best practices, advanced analytics, and GenAI application development.
+
+· Identify and integrate new data sources to enhance modeling capabilities; work with bureaus and data services to satisfy data requirements.
+
+· Advocate for GenAI adoption across the company, engaging with stakeholders and ensuring business/AI alignment.
+
+· Stay current with industry trends and emerging technologies to keep Kapitus at the forefront of data science and AI innovation.
+
+What we are looking for:
+
+· MS or PhD in Economics, Marketing, Statistics, Finance, Survey Research, Computer Science, or a related quantitative field.
+
+· 5+ years of experience in financial services, with a strong track record of building and deploying models in applied contexts.
+
+· Hands-on experience with LLM application development, RAG system design, platform integration, and enterprise-level AI enablement.
+
+· Deep understanding of machine learning, econometric modeling, traditional modeling techniques (regression, tree-based models), and deep learning.
+
+· Technical proficiency in Python, SQL, Linux, and AWS; experience with open-source LLMs and GenAI platforms (e.g., Amazon Bedrock, Abacus.ai, Agent Force).
+
+· Experience with marketing mix modeling, digital attribution, multivariate regression, time-series modeling, Bayesian statistics, segmentation, data mining, simulation, optimization, and forecasting.
+
+· Strong attention to detail, excellent communication, and project management skills.
+
+· Agile/Scrum experience preferred.
+
+· Ability to perform exploratory data analysis and visualization.
+
+· Strategic mindset, business acumen, and client relationship skills.
+
+· Passion for using advanced analytics and machine learning to generate business impact.
+
+Kapitus Total Rewards Package Includes:
+
+· Competitive Base Salary Range of $117,800-$189,000 Kapitus is providing this as a good faith salary range to comply with applicable law. The applicant's final salary will depend on a number of factors including the applicant's geographic location, skills, and experience.
+
+· Incentive Eligibility - based on KPI's and quality results
+
+· Health Insurance: We offer comprehensive medical, dental, and employer-paid vision plans through UnitedHealthcare (UHC), with various coverage levels available to meet the needs of our employees and their families.
+
+· 100% Company Paid Insurances: Kapitus fully covers the cost of basic short-term and long-term disability insurance, as well as vision insurance, ensuring our employees have comprehensive protection without any personal expense.
+
+· Voluntary Insurance: Supplemental life insurance as well as enhanced short- and long-term disability coverage are available through Mutual of Omaha, providing additional security for our employees. Additionally, Colonial Accident and Hospitalization insurances are also available, offering further protection against unforeseen events.
+
+· Paid Maternity and Parental Leave: Beyond state-mandated leave policies, Kapitus provides company-paid maternity and parental leave, supporting our employees during important family milestones.
+
+· LifeBalance Program: Enhance your lifestyle with our LifeBalance membership, which offers discounts on outdoor activities, the arts, health, and fitness. Additional benefits include:
+
+o Pet and car insurance discounts.
+
+o Financial services such as LegalShield.
+
+o Relaxation and stress management tools, including a fully covered annual subscription to The Calm App.
+
+· Plum Benefits Discount Program: Access exclusive discounts on shows, travel, car rentals, and more, enriching your personal and family life.
+
+· Tuition Reimbursement: Pursue further education with up to $5,000 annually in tuition reimbursement, plus opportunities to attend relevant conferences and career development events.
+
+· Transit Reimbursement: We also offer transit reimbursement for all work-related travel, supporting your involvement in career and personal development activities.
+
+· Paid Time Off and Sick Time
+
+· Retirement Benefits: Our 401K plan is managed through Fidelity, featuring a 25% match on employee contributions, helping you plan for a secure financial future.
+
+About Kapitus:
+
+Kapitus is one of the most reliable and respected names in small business financing. As both a direct lender and a marketplace built with a trusted network of lending partners, we can provide small businesses with the financing they need when, and how it is needed.
+
+We have spent our entire existence building a culture that makes us excited to come to work in the morning. Our company is fast paced, teammates need to be self-directed and have an internal motivation to do the right thing, even when the right thing takes a lot of hard work.
+
+We show our teammates our appreciation by offering great benefits, competitive pay and solid opportunity for growth.
+
+Company Mission:
+
+At Kapitus, our mission is to help small business owners grow their organizations by providing tailored, transparent, and ethical financing solutions. We invest in every business owner's story and we are dedicated to building lasting relationships to champion their goals. We promise to keep the best interests of our clients at the center of the financing process by operating with transparency, fairness, and integrity.
+
+Consideration will be given to qualified remote candidates residing in states where Kapitus and/or one of its subsidiaries has an established physical presence.",False,1 day ago,1759968000.0,2025-10-09T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,"['dental_coverage', 'paid_time_off', 'health_insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNA8hisVYwpNzkyMDAAAAAA%3D%3D&vssid=jobs-detail-viewer,,118000.0,189000.0,YEAR,"{'Qualifications': ['MS or PhD in Economics, Marketing, Statistics, Finance, Survey Research, Computer Science, or a related quantitative field', '5+ years of experience in financial services, with a strong track record of building and deploying models in applied contexts', 'Hands-on experience with LLM application development, RAG system design, platform integration, and enterprise-level AI enablement', 'Deep understanding of machine learning, econometric modeling, traditional modeling techniques (regression, tree-based models), and deep learning', 'Technical proficiency in Python, SQL, Linux, and AWS; experience with open-source LLMs and GenAI platforms (e.g., Amazon Bedrock, Abacus.ai, Agent Force)', 'Experience with marketing mix modeling, digital attribution, multivariate regression, time-series modeling, Bayesian statistics, segmentation, data mining, simulation, optimization, and forecasting', 'Strong attention to detail, excellent communication, and project management skills', 'Ability to perform exploratory data analysis and visualization', 'Strategic mindset, business acumen, and client relationship skills', 'Passion for using advanced analytics and machine learning to generate business impact'], 'Benefits': ['Competitive Base Salary Range of $117,800-$189,000 Kapitus is providing this as a good faith salary range to comply with applicable law', ""The applicant's final salary will depend on a number of factors including the applicant's geographic location, skills, and experience"", ""Incentive Eligibility - based on KPI's and quality results"", 'Health Insurance: We offer comprehensive medical, dental, and employer-paid vision plans through UnitedHealthcare (UHC), with various coverage levels available to meet the needs of our employees and their families', '100% Company Paid Insurances: Kapitus fully covers the cost of basic short-term and long-term disability insurance, as well as vision insurance, ensuring our employees have comprehensive protection without any personal expense', 'Voluntary Insurance: Supplemental life insurance as well as enhanced short- and long-term disability coverage are available through Mutual of Omaha, providing additional security for our employees', 'Additionally, Colonial Accident and Hospitalization insurances are also available, offering further protection against unforeseen events', 'Paid Maternity and Parental Leave: Beyond state-mandated leave policies, Kapitus provides company-paid maternity and parental leave, supporting our employees during important family milestones', 'LifeBalance Program: Enhance your lifestyle with our LifeBalance membership, which offers discounts on outdoor activities, the arts, health, and fitness', 'Pet and car insurance discounts', 'Financial services such as LegalShield', 'Relaxation and stress management tools, including a fully covered annual subscription to The Calm App', 'Plum Benefits Discount Program: Access exclusive discounts on shows, travel, car rentals, and more, enriching your personal and family life', 'Tuition Reimbursement: Pursue further education with up to $5,000 annually in tuition reimbursement, plus opportunities to attend relevant conferences and career development events', 'Transit Reimbursement: We also offer transit reimbursement for all work-related travel, supporting your involvement in career and personal development activities', 'Paid Time Off and Sick Time', 'Retirement Benefits: Our 401K plan is managed through Fidelity, featuring a 25% match on employee contributions, helping you plan for a secure financial future'], 'Responsibilities': ['This is a high-impact, hands-on role supporting multiple functions across the company—including Sales & Marketing, Underwriting, Collections, and HR—by building and deploying advanced AI solutions', 'You will be a key contributor in architecting and implementing customized chatbot solutions using open-source LLMs (hosted on platforms like Amazon Bedrock) and third-party tools (such as Abacus.ai, Agent Force, etc.). You will also design and implement RAG systems that integrate internal data sources with base LLMs to deliver contextualized, accurate outputs', 'Beyond technical development, you will champion GenAI adoption across Kapitus: identifying opportunities, engaging stakeholders, and ensuring alignment between business needs and AI solutions', 'You will provide technical guidance, mentor junior team members, and drive responsible, enterprise-level AI enablement', 'Lead the development, deployment, and monitoring of predictive and generative AI models to enhance sales, marketing, underwriting, collections, and HR strategies', 'Architect and implement customized chatbot solutions leveraging open-source LLMs and third-party GenAI platforms', 'Design and build Retrieval-Augmented Generation (RAG) systems that integrate internal data sources with LLMs for more contextualized outputs', 'Collaborate with cross-functional teams to identify business opportunities and translate them into scalable, data-driven solutions', 'Analyze large, complex datasets to extract actionable insights and drive decision-making', 'Develop and maintain machine learning models to predict customer behavior, improve targeting, and automate productivity', 'Mentor and guide junior data scientists and analysts in best practices, advanced analytics, and GenAI application development', 'Identify and integrate new data sources to enhance modeling capabilities; work with bureaus and data services to satisfy data requirements', 'Advocate for GenAI adoption across the company, engaging with stakeholders and ensuring business/AI alignment', 'Stay current with industry trends and emerging technologies to keep Kapitus at the forefront of data science and AI innovation']}",15111100,5
+oX-dOvh5-rVpYFTxAAAAAA==,Senior/Staff Data Scientist - Product Experimentation & Evaluation - US,Checkmate,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMe_0xxS1wTUB8anGya8CbUyxhJWVUrLeBV-Nq&s=0,https://www.checkmate.tech,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/senior-staff-data-scientist-product-experimentation-evaluation-us-at-checkmate-4311144933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/senior-staff-data-scientist-product-experimentation-evaluation-us-at-checkmate-4311144933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","You will be a strategic partner to product, engineering, and trust and safety teams, responsible for defining evaluation frameworks, leading experiments (A/B, quasi-experiments, etc.), and turning offline and live model performance into product improvements. This role requires a strong track record in startup-style experimentation (moving quickly with scrappy but rigorous methods) and product experimentation at scale. The ideal candidate will also bring proven experience in leading and managing teams to deliver high-impact data science work.
+
+100% remote
+
+Salary Range $120,000 - $260,000
+
+Essential Job Functions
+• Lead end-to-end experimentation: hypothesis generation, metric design, experiment design (A/B, multivariate, sequential, etc.), analysis, and interpretation.
+• Build and maintain evaluation frameworks for LLMs: correctness, consistency, safety, hallucination detection, bias/fairness, etc.
+• Develop predictive models, classification/ranking systems, and heuristics to improve product features related to AI/language generation.
+• Collaborate with prompt engineers & model builders to test prompt strategies, fine-tuning, or model selection; work on failure modes/error analysis.
+• Automate experiment pipelines: dashboards, monitoring, alerting, instrumentation. Ensure data quality & measurement integrity.
+• Use causal inference / observational studies when randomized experiments are not feasible.
+• Present findings and recommendations to both technical and non-technical leadership; influence roadmap decisions.
+• Drive experimentation in startup-like environments: rapid iteration, learning from limited data, and balancing speed with rigor.
+• Shape large-scale product experimentation: define frameworks for experimentation at scale and integrate results into product strategy.
+• Lead and mentor teams of data scientists, analysts, and engineers; set best practices for experiment design and AI product evaluation.
+
+Requirements
+• ~8-12+ years of experience in data science / ML roles, ideally with experiment design/product analytics.
+• Proven track record in both startup-style and large-scale product experimentation.
+• Experience leading teams, setting strategy, and driving execution in cross-functional environments.
+• Strong background with statistical methods, causal inference, and rigorous measurement.
+• Experience using LLMs / NLP / AI / prompt engineering or a closely related field.
+• Excellent coding skills in Python (or similar), strong SQL, experience building and deploying models or analytic pipelines.
+• Ability to work in cross-functional teams, translate technical results into business or product changes.
+• Strong communication skills; ability to explain complex analyses to non-technical stakeholders.
+
+Preferred Qualifications
+• Experience fine-tuning or working with multiple LLM providers / APIs.
+• Experience with experiment platforms or building internal tooling for experimentation & model evaluation.
+• Experience in voice / ASR or other multi-modal data.
+
+Benefits
+• Health Care Plan (Medical, Dental & Vision)
+• Retirement Plan (401k)
+• Life Insurance (Basic, Voluntary & AD&D)
+• Flexible Paid Time Off
+• Family Leave (Maternity, Paternity)
+• Short Term & Long Term Disability
+• Training & Development
+• Work From Home
+• Stock Option Plan",False,3 days ago,1759795200.0,2025-10-07T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,"['paid_time_off', 'health_insurance', 'dental_coverage']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoX-dOvh5-rVpYFTxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,120000.0,260000.0,YEAR,"{'Qualifications': ['The ideal candidate will also bring proven experience in leading and managing teams to deliver high-impact data science work', '~8-12+ years of experience in data science / ML roles, ideally with experiment design/product analytics', 'Proven track record in both startup-style and large-scale product experimentation', 'Experience leading teams, setting strategy, and driving execution in cross-functional environments', 'Strong background with statistical methods, causal inference, and rigorous measurement', 'Experience using LLMs / NLP / AI / prompt engineering or a closely related field', 'Excellent coding skills in Python (or similar), strong SQL, experience building and deploying models or analytic pipelines', 'Ability to work in cross-functional teams, translate technical results into business or product changes', 'Strong communication skills; ability to explain complex analyses to non-technical stakeholders'], 'Benefits': ['Salary Range $120,000 - $260,000', 'Health Care Plan (Medical, Dental & Vision)', 'Retirement Plan (401k)', 'Life Insurance (Basic, Voluntary & AD&D)', 'Flexible Paid Time Off', 'Family Leave (Maternity, Paternity)', 'Short Term & Long Term Disability', 'Training & Development', 'Work From Home', 'Stock Option Plan'], 'Responsibilities': ['You will be a strategic partner to product, engineering, and trust and safety teams, responsible for defining evaluation frameworks, leading experiments (A/B, quasi-experiments, etc.), and turning offline and live model performance into product improvements', 'This role requires a strong track record in startup-style experimentation (moving quickly with scrappy but rigorous methods) and product experimentation at scale', 'Lead end-to-end experimentation: hypothesis generation, metric design, experiment design (A/B, multivariate, sequential, etc.), analysis, and interpretation', 'Build and maintain evaluation frameworks for LLMs: correctness, consistency, safety, hallucination detection, bias/fairness, etc', 'Develop predictive models, classification/ranking systems, and heuristics to improve product features related to AI/language generation', 'Collaborate with prompt engineers & model builders to test prompt strategies, fine-tuning, or model selection; work on failure modes/error analysis', 'Automate experiment pipelines: dashboards, monitoring, alerting, instrumentation', 'Ensure data quality & measurement integrity', 'Use causal inference / observational studies when randomized experiments are not feasible', 'Present findings and recommendations to both technical and non-technical leadership; influence roadmap decisions', 'Drive experimentation in startup-like environments: rapid iteration, learning from limited data, and balancing speed with rigor', 'Shape large-scale product experimentation: define frameworks for experimentation at scale and integrate results into product strategy', 'Lead and mentor teams of data scientists, analysts, and engineers; set best practices for experiment design and AI product evaluation']}",15111100,5
+sVN7GdaK9dPIWhrtAAAAAA==,"Sr. Data Scientist, CRM",General Motors,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd9jGpU-TfO6Rg2xTXbQMR0YhdWgXoNmen0ovj&s=0,,General Motors Careers,Full-time,['FULLTIME'],https://search-careers.gm.com/en/jobs/jr-202517474/sr-data-scientist-crm/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'General Motors Careers', 'apply_link': 'https://search-careers.gm.com/en/jobs/jr-202517474/sr-data-scientist-crm/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Workday', 'apply_link': 'https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Remote---United-States/Sr-Data-Scientist--CRM_JR-202517474/apply/autofillWithResume?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=ec21602541c399a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Tallo', 'apply_link': 'https://tallo.com/jobs/technology/data-scientist/ma/suffolk/sr-data-scientist-crm-5/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Teal', 'apply_link': 'https://www.tealhq.com/job/sr-data-scientist-crm_4c72cabf-53ca-4a40-be93-7b13608d8864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Karkidi', 'apply_link': 'https://www.karkidi.com/job-details/85088-sr-data-scientist-monetization-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Experteer', 'apply_link': 'https://us.experteer.com/career/view-jobs/sr-data-scientist-crm-usa-54034779?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Flint & Genesee Group Job Board', 'apply_link': 'https://jobs.flintandgenesee.org/companies/general-motors/jobs/59321581-sr-data-scientist-crm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","This role is categorized as hybrid. This means the successful candidate is expected to report to Warren, MI or Austin, TX three times per week, at minimum [or other frequency dictated by the business if more than 3 days].
+
+The Role
+
+The Marketing Applied Sciences team is responsible for developing analytics-driven solutions to help GM Marketing Organizations achieve their business goals. The Senior Data Scientist will work as part of this multi-disciplinary team that will be driving solution design, development, and deployment of analytic models in support of marketing strategies. They are knowledgeable in methodology and practice of marketing analytics with an emphasis on inferential and prescriptive methods. This individual has experience with website, email, and media measurement.
+
+This person will work closely with teammates in Marketing Applied Sciences and stakeholders in GM’s Marketing organization to ensure objective performance evaluation and optimization of media strategy. This senior data scientist will assist in the research and development of advanced marketing models, drawing insights, and creating scalable products across owned & paid channels. They will be part of a team focused on delivering future-focused, consumer-centric, prescriptive solutions that allow GM to stay proactive and nimble in our exciting transition to EVs
+
+What You'll Do
+• Work on a diverse, cross-functional team (technical and non-technical) to help implement high-impact, data-driven solutions to address business challenges in the vehicle brand marketing teams, ensuring that project deliverables fulfill business needs and timing.  
+• Possess contextual business knowledge and functional domain expertise in the advertising and media space as well as familiarity with marketing media measurement techniques including site/clickstream measurement, A/B testing, and various industry measurement media platforms.  
+• Partner with CRM, Marketing, and Data Science teams to design and execute advanced measurement frameworks that evaluate campaign effectiveness, incremental revenue impact, and consumer engagement across lifecycle stages.
+• Apply advanced data-driven modeling techniques to inform decision making and solve complex business problems: preprocessing multisource data; and presenting complex information using data visualization techniques.  
+• Demonstrate an ability for using data, analytics, and insights driving business-impact.  
+• Exhibit a perspective of constrained curiosity, asking why, and suggesting experimentation to drive incremental impact.  
+• Effectively communicate through telling a succinct, data-driven story in any forum, tailoring delivery to a wide range of stakeholder levels from analyst to senior executive.  
+• Apply advanced modeling and analytics techniques to optimize campaign targeting, channel strategy, and customer journey orchestration.
+
+Your Skills & Abilities (Required Qualifications)
+• 5+ years of experience as a data Scientist or in a related role, developing, deploying, and monitoring performance of large analytic data sets and machine learning based models 
+• 2+ years of experience working with CRM, marketing analytics, or lifecycle management.
+• Expertise with fundamental statistical concepts and considerations for selecting an appropriate modeling technique. 
+• Expertise with statistical concepts and methods for campaign measurement, including uplift/net lift modeling, treatment/control designs, and causal inference.
+• Proficient writing Python/R (modeling) and SQL/Spark (data), working with Pandas, StatsModels, PYMC, TensorFlow, Pytorch, Spark/ML, sklearn, numpy and related packages.  
+• Ability to prioritize and manage multiple tasks and projects at once without sacrificing quality.  
+
+What Can Give You a Competitive Advantage (Preferred Qualifications)  
+• Master’s Degree or Ph.D. in Marketing Science, Econometrics, Statistics, Psychometrics, (Bio)Statistics, Applied Mathematics, Operations Research, or another quantitative field. 
+• Experience with cloud compute platforms such as Azure with Databricks experience being especially valuable.  
+• Familiarity with advanced methods such as: customer lifetime value, media mix modeling (MMM), multi-touch attribution (MTA), consumer choice  (multinomial logit), time-series forecasting, hierarchical bayes, panel-data methods (fixed/random effects), censored/truncated regressions, selection models, non-random treatment effects, hazard /survival models, structural equation modeling, item response theory, latent class regression. 
+• Prior experience with paid, earned, and owned media and/or marketing analytics 
+
+Compensation:
+• The expected base compensation for this role is: $130,800 - $211,200. Actual base compensation within the identified range will vary based on factors relevant to the position.
+• Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance.
+• Benefits : GM offers a variety of health and wellbeing benefit programs. Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more.
+
+GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE. DO NOT APPLY FOR THIS ROLE IF YOU WILL NEED GM IMMIGRATION SPONSORSHIP NOW OR IN THE FUTURE. THIS INCLUDES DIRECT COMPANY SPONSORSHIP, ENTRY OF GM AS THE IMMIGRATION EMPLOYER OF RECORD ON A GOVERNMENT FORM, AND ANY WORK AUTHORIZATION REQUIRING A WRITTEN SUBMISSION OR OTHER IMMIGRATION SUPPORT FROM THE COMPANY (e.g., H-1B, OPT, STEM OPT, CPT, TN, J-1, etc.)
+
+#LI-CC1",True,3 days ago,1759795200.0,2025-10-07T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,"['dental_coverage', 'paid_time_off', 'health_insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsVN7GdaK9dPIWhrtAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['5+ years of experience as a data Scientist or in a related role, developing, deploying, and monitoring performance of large analytic data sets and machine learning based models\u202f', '2+ years of experience working with CRM, marketing analytics, or lifecycle management', 'Expertise with fundamental statistical concepts and considerations for selecting an appropriate modeling technique.\u202f', 'Expertise with statistical concepts and methods for campaign measurement, including uplift/net lift modeling, treatment/control designs, and causal inference', 'Proficient writing Python/R (modeling) and SQL/Spark (data), working with Pandas, StatsModels, PYMC, TensorFlow, Pytorch, Spark/ML, sklearn, numpy and related packages.\u202f\u202f', 'Ability to prioritize and manage multiple tasks and projects at once without sacrificing quality.\u202f\u202f', 'THIS INCLUDES DIRECT COMPANY SPONSORSHIP, ENTRY OF GM AS THE IMMIGRATION EMPLOYER OF RECORD ON A GOVERNMENT FORM, AND ANY WORK AUTHORIZATION REQUIRING A WRITTEN SUBMISSION OR OTHER IMMIGRATION SUPPORT FROM THE COMPANY (e.g., H-1B, OPT, STEM OPT, CPT, TN, J-1, etc.)'], 'Benefits': ['The expected base compensation for this role is: $130,800 - $211,200', 'Actual base compensation within the identified range will vary based on factors relevant to the position', 'Bonus Potential: An incentive pay program offers payouts based on company performance, job level, and individual performance', 'Benefits : GM offers a variety of health and wellbeing benefit programs', 'Benefit options include medical, dental, vision, Health Savings Account, Flexible Spending Accounts, retirement savings plan, sickness and accident benefits, life insurance, paid vacation & holidays, tuition assistance programs, employee assistance program, GM vehicle discounts and more', 'GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE'], 'Responsibilities': ['This means the successful candidate is expected to report to Warren, MI or Austin, TX three times per week, at minimum [or other frequency dictated by the business if more than 3 days]', 'The Marketing Applied Sciences team is responsible for developing analytics-driven solutions to help GM Marketing Organizations achieve their business goals', 'The Senior Data Scientist will work as part of this multi-disciplinary team that will be driving solution design, development, and deployment of analytic models in support of marketing strategies', 'They are knowledgeable in methodology and practice of marketing analytics with an emphasis on inferential and prescriptive methods', 'This individual has experience with website, email, and media measurement', 'This person will work closely with teammates in Marketing Applied Sciences and stakeholders in GM’s Marketing organization to ensure objective performance evaluation and optimization of media strategy', 'This senior data scientist will assist in the research and development of advanced marketing models, drawing insights, and creating scalable products across owned & paid channels', 'Work on a diverse, cross-functional team (technical and non-technical) to help implement high-impact, data-driven solutions to address business challenges in the vehicle brand marketing teams, ensuring that project deliverables fulfill business needs and timing.\u202f\u202f', 'Possess contextual business knowledge and functional domain expertise in the advertising and media space as well as familiarity with marketing media measurement techniques including site/clickstream measurement, A/B testing, and various industry measurement media platforms.\u202f\u202f', 'Partner with CRM, Marketing, and Data Science teams to design and execute advanced measurement frameworks that evaluate campaign effectiveness, incremental revenue impact, and consumer engagement across lifecycle stages', 'Apply advanced data-driven modeling techniques to inform decision making and solve complex business problems: preprocessing multisource data; and presenting complex information using data visualization techniques.\u202f\u202f', 'Demonstrate an ability for using data, analytics, and insights driving business-impact.\u202f\u202f', 'Exhibit a perspective of constrained curiosity, asking why, and suggesting experimentation to drive incremental impact.\u202f\u202f', 'Effectively communicate through telling a succinct, data-driven story in any forum, tailoring delivery to a wide range of stakeholder levels from analyst to senior executive.\u202f\u202f', 'Apply advanced modeling and analytics techniques to optimize campaign targeting, channel strategy, and customer journey orchestration']}",15111100,5
+4od0IVD1nGV8qm1GAAAAAA==,AI/ML Ops Data Scientist – Jr.,Guidehouse,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHu760mZcVMrxAGr7Cs29-UvvD16to5FQy0Z&s=0,https://guidehouse.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/ai-ml-ops-data-scientist-%E2%80%93-jr-at-guidehouse-4310053775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/ai-ml-ops-data-scientist-%E2%80%93-jr-at-guidehouse-4310053775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=90ef201f4fd15d7c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Built In', 'apply_link': 'https://builtin.com/job/ai-ml-ops-data-scientist-jr/7314495?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/ai-ml-ops-data-scientist-%E2%80%93-jr-guidehouse-JV_IC1130337_KO0,29_KE30,40.htm?jl=1009899169649&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jobrapido', 'apply_link': 'https://us.jobrapido.com/recruit/www.theladders.com/2192829330743099392?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'AI Search', 'apply_link': 'https://ai-search.io/job-board/guidehouse-aiml-ops-data-scientist-jr-20251007?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Job Family
+
+Data Science & Analysis
+
+Travel Required
+
+Up to 10%
+
+Clearance Required
+
+Active Secret
+
+What You Will Do
+• Provide data science, artificial intelligence (AI) / machine learning (ML), and analytics support to Department of State clients.
+• Identify and address client needs, build client relationships, and drive initiatives forward.
+• Focus on a single priority project or drive multiple concurrent projects forward.
+• Collaborate with other data scientists and adjacent roles.
+• Wrangle, cleanse, and analyze data using Python.
+• Develop, evaluate, monitor, and maintain AI/ML predictive models and Natural Language Processing models using Python.
+• Develop advanced data visualizations and dashboards using Power BI or Tableau using best practices.
+• Perform data science in an Azure environment.
+• Leverage data science platforms such as Databricks.
+• Work with Lange Language Models.
+• Containerize ML models using tools such as Docker and help manage deployments on OpenShift.
+• Write technical process flows, diagrams, and model documentation.
+• Present products and findings to clients and answer questions about methods and results.
+• Stay abreast of the latest advancements in AI/ML methods and technologies and apply them as appropriate.
+• Ensure AI/ML deployments adhere to commercial and public sector guidelines, policies and standards, delivering responsible use of AI.
+• Develop trusted relationships with clients at all levels of the organization to obtain a more complete perspective and understanding of our clients’ mission, challenges, and goals to deliver tailored solutions and drive innovation in AI/ML and data science.
+• Support business development efforts (e.g., responding to RFPs/RFIs, developing white papers, creating pitch decks and capability briefings, etc.).
+• Support internal firm initiatives.
+• Continue to develop professionally and expand skills related to data science and consulting.
+
+What You Will Need
+• Active SECRET (or higher) security clearance.
+• Bachelor’s degree in a relevant technical field.
+• Solid understanding of various supervised and unsupervised ML methods and techniques.
+• Proficiency in wrangling data and developing AI/ML models using Python.
+• Experience utilizing Large Language Models.
+• Understanding of Natural Language Processing.
+• Understanding of ML model containerization, such as with Docker.
+• Understanding of DevSecOps principles.
+• Ability to learn new technical skills.
+• Ability to operate independently or collaboratively in small teams.
+• Strong communication and presentation skills for both technical and non-technical audiences.
+• Ability to understand client mission, business processes, and data nuances and adapt data science solutions accordingly.
+• Ability to think strategically and drive innovation.
+• Ability to operate successfully on remote, hybrid, or on-site projects in the DC metro area.
+
+What Would Be Nice To Have
+• Master's degree in a relevant technical field.
+• ONE (1) or more years of relevant professional experience in AI/ML and data science.
+• Experience developing data science solutions on cloud platforms (e.g., AWS, Azure, GCP).
+• Experience utilizing the Databricks platform to conduct data science.
+• Proficiency in developing data visualizations and dashboards using Power BI or Tableau, applying best practices.
+• Proficiency utilizing SQL to query and wrangle data.
+• Experience supporting DevSecOps, including integrating security into CI/CD workflows for AI/ML models.
+• Experience with Docker for containerizing ML models and managing container lifecycles, including building Docker images.
+• Experience with Jenkins for building and automating CI/CD pipelines.
+• Experience utilizing GitHub for version control, branching strategies, and CI/CD pipeline integration.
+• Experience in OpenShift for deploying and managing containerized applications in a Kubernetes-based environment.
+• Experience with deploying AI/ML models on cloud platforms (e.g., AWS, Azure, GCP) and hybrid cloud deployments, including cloud security (e.g., Managed Identities).
+• Knowledge of Infrastructure as Code.
+• Knowledge of Function Apps.
+• Experience working with Virtual Machines and configuring them to be scalable, Azure Blob Storage, working with Desired State Configurations.
+• Knowledge PowerShell and command-line scripting.
+• Experience deploying ML models in production environments with model versioning and rollback strategies.
+• Familiarity with ML model serving frameworks like MLflow, Seldon, or TensorFlow Serving.
+• Experience with infrastructure as code (IaC) tools such as Terraform or Ansible.
+• Familiarity with Linux-based systems and shell scripting.
+• Knowledge of network security, including firewalls, VPNs, and secure communication protocols.
+• Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack).
+• Experience with security compliance standards (e.g., NIST, ISO 27001, SOC 2).
+• Exposure to automated testing frameworks for infrastructure and security validation.
+• Understanding of data privacy regulations (e.g., GDPR, HIPAA) as they relate to ML deployments.
+• Understanding of Agile principles and methodology.
+• Knowledge of Department of State Bureau of Consular Affairs.
+
+What We Offer
+
+Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace.
+
+Benefits Include
+• Medical, Rx, Dental & Vision Insurance
+• Personal and Family Sick Time & Company Paid Holidays
+• Parental Leave
+• 401(k) Retirement Plan
+• Group Term Life and Travel Assistance
+• Voluntary Life and AD&D Insurance
+• Health Savings Account, Health Care & Dependent Care Flexible Spending Accounts
+• Transit and Parking Commuter Benefits
+• Short-Term & Long-Term Disability
+• Tuition Reimbursement, Personal Development, Certifications & Learning Opportunities
+• Employee Referral Program
+• Corporate Sponsored Events & Community Outreach
+• Care.com annual membership
+• Employee Assistance Program
+• Supplemental Benefits via Corestream (Critical Care, Hospital Indemnity, Accident Insurance, Legal Assistance and ID theft protection, etc.)
+• Position may be eligible for a discretionary variable incentive bonus
+
+About Guidehouse
+
+Guidehouse is an Equal Opportunity Employer–Protected Veterans, Individuals with Disabilities or any other basis protected by law, ordinance, or regulation.
+
+Guidehouse will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable law or ordinance including the Fair Chance Ordinance of Los Angeles and San Francisco.
+
+If you have visited our website for information about employment opportunities, or to apply for a position, and you require an accommodation, please contact Guidehouse Recruiting at 1-571-633-1711 or via email at RecruitingAccommodation@guidehouse.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodation.
+
+All communication regarding recruitment for a Guidehouse position will be sent from Guidehouse email domains including @guidehouse.com or guidehouse@myworkday.com. Correspondence received by an applicant from any other domain should be considered unauthorized and will not be honored by Guidehouse. Note that Guidehouse will never charge a fee or require a money transfer at any stage of the recruitment process and does not collect fees from educational institutions for participation in a recruitment event. Never provide your banking information to a third party purporting to need that information to proceed in the hiring process.
+
+If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com. Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.
+
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",False,3 days ago,1759795200.0,2025-10-07T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,"['health_insurance', 'dental_coverage']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4od0IVD1nGV8qm1GAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['Active SECRET (or higher) security clearance', 'Bachelor’s degree in a relevant technical field', 'Solid understanding of various supervised and unsupervised ML methods and techniques', 'Proficiency in wrangling data and developing AI/ML models using Python', 'Experience utilizing Large Language Models', 'Understanding of Natural Language Processing', 'Understanding of ML model containerization, such as with Docker', 'Understanding of DevSecOps principles', 'Ability to learn new technical skills', 'Ability to operate independently or collaboratively in small teams', 'Strong communication and presentation skills for both technical and non-technical audiences', 'Ability to understand client mission, business processes, and data nuances and adapt data science solutions accordingly', 'Ability to think strategically and drive innovation', 'Ability to operate successfully on remote, hybrid, or on-site projects in the DC metro area', ""Master's degree in a relevant technical field"", 'ONE (1) or more years of relevant professional experience in AI/ML and data science', 'Experience developing data science solutions on cloud platforms (e.g., AWS, Azure, GCP)', 'Experience utilizing the Databricks platform to conduct data science', 'Proficiency in developing data visualizations and dashboards using Power BI or Tableau, applying best practices', 'Proficiency utilizing SQL to query and wrangle data', 'Experience supporting DevSecOps, including integrating security into CI/CD workflows for AI/ML models', 'Experience with Docker for containerizing ML models and managing container lifecycles, including building Docker images', 'Experience with Jenkins for building and automating CI/CD pipelines', 'Experience utilizing GitHub for version control, branching strategies, and CI/CD pipeline integration', 'Experience in OpenShift for deploying and managing containerized applications in a Kubernetes-based environment', 'Experience with deploying AI/ML models on cloud platforms (e.g., AWS, Azure, GCP) and hybrid cloud deployments, including cloud security (e.g., Managed Identities)', 'Knowledge of Infrastructure as Code', 'Knowledge of Function Apps', 'Knowledge PowerShell and command-line scripting', 'Experience deploying ML models in production environments with model versioning and rollback strategies', 'Familiarity with ML model serving frameworks like MLflow, Seldon, or TensorFlow Serving', 'Experience with infrastructure as code (IaC) tools such as Terraform or Ansible', 'Familiarity with Linux-based systems and shell scripting', 'Knowledge of network security, including firewalls, VPNs, and secure communication protocols', 'Experience with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack)', 'Experience with security compliance standards (e.g., NIST, ISO 27001, SOC 2)', 'Exposure to automated testing frameworks for infrastructure and security validation', 'Understanding of data privacy regulations (e.g., GDPR, HIPAA) as they relate to ML deployments', 'Understanding of Agile principles and methodology', 'Knowledge of Department of State Bureau of Consular Affairs'], 'Benefits': ['Guidehouse offers a comprehensive, total rewards package that includes competitive compensation and a flexible benefits package that reflects our commitment to creating a diverse and supportive workplace', 'Medical, Rx, Dental & Vision Insurance', 'Personal and Family Sick Time & Company Paid Holidays', 'Parental Leave', '401(k) Retirement Plan', 'Group Term Life and Travel Assistance', 'Voluntary Life and AD&D Insurance', 'Health Savings Account, Health Care & Dependent Care Flexible Spending Accounts', 'Transit and Parking Commuter Benefits', 'Short-Term & Long-Term Disability', 'Tuition Reimbursement, Personal Development, Certifications & Learning Opportunities', 'Employee Referral Program', 'Corporate Sponsored Events & Community Outreach', 'Care.com annual membership', 'Employee Assistance Program', 'Supplemental Benefits via Corestream (Critical Care, Hospital Indemnity, Accident Insurance, Legal Assistance and ID theft protection, etc.)', 'Position may be eligible for a discretionary variable incentive bonus'], 'Responsibilities': ['Travel Required', 'Provide data science, artificial intelligence (AI) / machine learning (ML), and analytics support to Department of State clients', 'Identify and address client needs, build client relationships, and drive initiatives forward', 'Focus on a single priority project or drive multiple concurrent projects forward', 'Collaborate with other data scientists and adjacent roles', 'Wrangle, cleanse, and analyze data using Python', 'Develop, evaluate, monitor, and maintain AI/ML predictive models and Natural Language Processing models using Python', 'Develop advanced data visualizations and dashboards using Power BI or Tableau using best practices', 'Perform data science in an Azure environment', 'Leverage data science platforms such as Databricks', 'Work with Lange Language Models', 'Containerize ML models using tools such as Docker and help manage deployments on OpenShift', 'Write technical process flows, diagrams, and model documentation', 'Present products and findings to clients and answer questions about methods and results', 'Stay abreast of the latest advancements in AI/ML methods and technologies and apply them as appropriate', 'Ensure AI/ML deployments adhere to commercial and public sector guidelines, policies and standards, delivering responsible use of AI', 'Develop trusted relationships with clients at all levels of the organization to obtain a more complete perspective and understanding of our clients’ mission, challenges, and goals to deliver tailored solutions and drive innovation in AI/ML and data science', 'Support business development efforts (e.g., responding to RFPs/RFIs, developing white papers, creating pitch decks and capability briefings, etc.)', 'Support internal firm initiatives', 'Continue to develop professionally and expand skills related to data science and consulting']}",15111100,5
+6nSOCuN2ghZFLPw6AAAAAA==,AI/ML Data Scientist,Accenture Federal Services,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRfT1lHfdhmE4OhHJoMp1IN-I1XFpn4DYYhIxA&s=0,https://www.accenture.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-accenture-federal-services-4310244298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/ai-ml-data-scientist-at-accenture-federal-services-4310244298?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=cedf263767c85021&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'SimplyHired', 'apply_link': 'https://www.simplyhired.com/job/k9AgpwMv63wkZGD1ipOGJOcQjru7xmErrEGBpnpaLTjHefcVwSBwQQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","At Accenture Federal Services, nothing matters more than helping the US federal government make the nation stronger and safer and life better for people. Our 13,000+ people are united in a shared purpose to pursue the limitless potential of technology and ingenuity for clients across defense, national security, public safety, civilian, and military health organizations.
+
+Join Accenture Federal Services, a technology company and part of global Accenture, to do work that matters in a collaborative and caring community, where you feel like you belong and are empowered to grow, learn and thrive through hands-on experience, certifications, industry training and more.
+
+Join us to drive positive, lasting change that moves missions and the government forward!
+
+Accenture Federal Services is searching for an AI/ML Data Scientist, you will be responsible for developing machine learning models using Python and GenAI to handle healthcare data.
+
+Responsibilities:
+
+Your role will involve data engineering, AI model development, and natural language processing (NLP) to extract valuable insights from large datasets. You will need to be a technical self-starter with experience in agile development cycles, as well as familiarity with RAG Pipeline and LLM integration. In this role, exposure to Python, machine learning development, GenAI, healthcare data handling, data engineering, AI model development, and NLP will be beneficial. Candidates with experience in agile development cycles and knowledge of RAG Pipeline and LLM integration will excel in this position. The ability to work independently and collaboratively within a team to develop innovative solutions to complex problems is essential for success in this role. Overall, the ideal candidate for this position will have a strong background in data science and a passion for leveraging technology to improve healthcare outcomes. With a focus on technical skills and experience in relevant tools and processes, you will play a key role in driving data-driven decision-making within the organization.
+
+Here is what you need:
+
+3 years of experience with any of the following:
+• Python machine learning development
+• Data engineering (NiFi or Databricks)
+• AI model deployment
+• Natural language processing (NLP)
+• Traditional machine learning over traditional data science
+
+Bonus if you have:
+• Technical self-starter
+• Agile development cycle experience
+• RAG Pipeline and LLM integration
+• Java programming
+• Health care data handling
+
+Clearance:
+• An active secret federal security clearance is required, must be able to obtain TS/SCI
+
+#clearancejobs
+
+As required by local law, Accenture Federal Services provides reasonable ranges of compensation for hired roles based on labor costs in the states of California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York, Washington, Vermont, and the District of Columbia. The base pay range for this position in these locations is shown below. Compensation for roles at Accenture Federal Services varies depending on a wide array of factors, including but not limited to office location, role, skill set and level of experience. Accenture Federal Services offers a wide variety of benefits. You can find more information on benefits here. We accept applications on an on-going basis and there is no fixed deadline to apply.
+
+The pay range for the states of California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York, Washington, Vermont, and the District of Columbia is:
+
+$117,300—$150,100 USD
+
+What We Believe
+
+As a company wholly dedicated to serving the US federal government, we bring together the best talent to help reinvent how federal agencies operate and deliver greater value for their mission and the American people. We have an unwavering commitment to creating a culture in which all our people are respected, feel a sense of belonging, and have equal opportunity. As a business imperative, every person at Accenture Federal Services has the responsibility to create and sustain a culture where everyone feels welcomed and included. This is grounded in our core values and our experience that hiring and developing great people who reflect different perspectives, experiences, and backgrounds is key to driving innovation and delivering the results that our clients and the country count on.
+
+Equal Employment Opportunity Statement
+
+We believe that no one should be discriminated against because of their differences. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities. For details, view a copy of the Accenture Federal Services Equal Opportunity Policy Statement.
+
+Accenture Federal Services is an Equal Employment Opportunity employer. Additionally, as an Affirmative Action Employer for Veterans and Individuals with Disabilities, Accenture Federal Services is committed to providing veteran employment opportunities to our service men and women.
+
+Requesting An Accommodation
+
+Accenture Federal Services is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture Federal Services and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you are being considered for employment opportunities with Accenture Federal Services and need an accommodation for a disability or religious observance during the interview process or for the job you are interviewing for, please speak with your recruiter.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture Federal Services or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+
+California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, please click here for additional important information.",False,10 hours ago,1760040000.0,2025-10-09T20:00:00.000Z,"Fort Washington, MD",Fort Washington,Maryland,US,38.7073379,-77.0230313,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6nSOCuN2ghZFLPw6AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['You will need to be a technical self-starter with experience in agile development cycles, as well as familiarity with RAG Pipeline and LLM integration', 'Candidates with experience in agile development cycles and knowledge of RAG Pipeline and LLM integration will excel in this position', 'The ability to work independently and collaboratively within a team to develop innovative solutions to complex problems is essential for success in this role', 'Overall, the ideal candidate for this position will have a strong background in data science and a passion for leveraging technology to improve healthcare outcomes', '3 years of experience with any of the following:', 'Python machine learning development', 'Data engineering (NiFi or Databricks)', 'AI model deployment', 'Natural language processing (NLP)', 'Traditional machine learning over traditional data science', 'Technical self-starter', 'Agile development cycle experience', 'RAG Pipeline and LLM integration', 'Java programming', 'Health care data handling', 'An active secret federal security clearance is required, must be able to obtain TS/SCI', 'Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States'], 'Benefits': ['As required by local law, Accenture Federal Services provides reasonable ranges of compensation for hired roles based on labor costs in the states of California, Colorado, Hawaii, Illinois, Maryland, Minnesota, New Jersey, New York, Washington, Vermont, and the District of Columbia', 'The base pay range for this position in these locations is shown below', 'Compensation for roles at Accenture Federal Services varies depending on a wide array of factors, including but not limited to office location, role, skill set and level of experience', 'Accenture Federal Services offers a wide variety of benefits', '$117,300—$150,100 USD'], 'Responsibilities': ['Accenture Federal Services is searching for an AI/ML Data Scientist, you will be responsible for developing machine learning models using Python and GenAI to handle healthcare data', 'Your role will involve data engineering, AI model development, and natural language processing (NLP) to extract valuable insights from large datasets', 'In this role, exposure to Python, machine learning development, GenAI, healthcare data handling, data engineering, AI model development, and NLP will be beneficial', 'With a focus on technical skills and experience in relevant tools and processes, you will play a key role in driving data-driven decision-making within the organization']}",15111100,5
+Z_jlRNdMNvpMoYITAAAAAA==,Data Scientist Jobs,IO Associates,,https://www.ioassociates.com,Security Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8337730/data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,True,"[{'publisher': 'Security Clearance Jobs', 'apply_link': 'https://www.clearancejobs.com/jobs/8337730/data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': True}]","A leading AI Analytics startup is looking to hire a Data Scientist to work on their latest AI products. Their cutting-edge platform turns complex data into actionable insights with intuitive AI tools and advanced visualization features, empowering users to make informed decisions effortlessly. Trusted by top defense agencies and Fortune 500 companies, They are expanding rapidly and are looking for a talented Data Scientist to join their dynamic team!
+
+What You’ll Do:
+
+Design, implement, and deliver AI-powered solutions tailored to meet client needs using advanced analytics tools.
+
+Collaborate closely with clients to guide AI solutions from concept to full-scale deployment.
+
+Utilize big data tools and platforms, such as Databricks, to create scalable and efficient AI-driven solutions.
+
+What You’ll Bring:
+
+Active TS/SCI security clearance and the ability to work from a SCIF.
+
+Based in Washington DC/Northern Virginia with occasional travel to client sites.
+
+A degree in Computer Science or a related field.
+
+3+ years of hands-on experience with Python coding (pandas, numpy, sklearn, TensorFlow, PyTorch, etc.).
+
+Proven experience deploying machine learning models into production environments.
+
+Proficiency with SQL/NoSQL databases, version control tools (e.g., Git), Docker, and Kubernetes.
+
+Strong ownership, accountability, and communication skills.
+
+Bonus Points For:
+
+Experience leading projects in SCIF environments.
+
+Expertise in Cyber Analytics, PCAP, or network monitoring.
+
+Familiarity with Spark, Dask, Snowpark, Kafka, or task schedulers like Airflow and Celery.",False,14 hours ago,1760025600.0,2025-10-09T16:00:00.000Z,"Washington, VA",Washington,Virginia,US,38.7134301,-78.1590813,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZ_jlRNdMNvpMoYITAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['Active TS/SCI security clearance and the ability to work from a SCIF', 'A degree in Computer Science or a related field', '3+ years of hands-on experience with Python coding (pandas, numpy, sklearn, TensorFlow, PyTorch, etc.)', 'Proven experience deploying machine learning models into production environments', 'Proficiency with SQL/NoSQL databases, version control tools (e.g., Git), Docker, and Kubernetes', 'Strong ownership, accountability, and communication skills', 'Experience leading projects in SCIF environments', 'Expertise in Cyber Analytics, PCAP, or network monitoring', 'Familiarity with Spark, Dask, Snowpark, Kafka, or task schedulers like Airflow and Celery'], 'Responsibilities': ['Design, implement, and deliver AI-powered solutions tailored to meet client needs using advanced analytics tools', 'Collaborate closely with clients to guide AI solutions from concept to full-scale deployment', 'Utilize big data tools and platforms, such as Databricks, to create scalable and efficient AI-driven solutions', 'Based in Washington DC/Northern Virginia with occasional travel to client sites']}",15111100,5
+ok_JuNIFMMWW0XLQAAAAAA==,"Data Scientist, Product Analytics",Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsPV50auya_P5N4t5W3jXXiFwdOQQhbhzNzhn&s=0,https://www.meta.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=7576388cec01c434&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Indeed', 'apply_link': 'https://www.indeed.com/viewjob?jk=7576388cec01c434&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/Meta/Job/Data-Scientist,-Product-Analytics/-in-Washington,DC?jid=e78c399725fae7d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Glassdoor', 'apply_link': 'https://www.glassdoor.com/job-listing/data-scientist-product-analytics-meta-JV_IC1138213_KO0,32_KE33,37.htm?jl=1009565501974&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-product-analytics-at-meta-4120822668?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Bandana.com', 'apply_link': 'https://bandana.com/jobs/111a3dda-16d1-46a0-860a-e7ac55616917?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Accel Job Board', 'apply_link': 'https://jobs.accel.com/companies/facebook-2-07d2eb1b-d3ad-4084-93df-74a124ac9233/jobs/44669676-data-scientist-product-analytics?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jobs', 'apply_link': 'https://metacareers.dejobs.org/5649E7F612014136AAB042CFD966051525/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Experteer', 'apply_link': 'https://us.experteer.com/career/view-jobs/data-scientist-product-analytics-washington-dc-usa-53990333?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","As a Data Scientist at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Oculus). By applying your technical skills, analytical mindset, and product intuition to one of the richest data sets in the world, you will help define the experiences we build for billions of people and hundreds of millions of businesses around the world. You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others. You will use data and analysis to identify and solve product development's biggest challenges. You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams. By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond.Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta. You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights. You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them.Communication and influence: You won't simply present data, but tell data-driven stories. You will convince and influence your partners using clear insights and recommendations. You will build credibility through structure and clarity, and be a trusted strategic partner.
+
+Data Scientist, Product Analytics Responsibilities:
+• Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches
+• Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses
+• Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends
+• Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations
+• Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions
+
+Minimum Qualifications:
+• Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience
+• Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent
+• 4+ years of work experience in analytics, data querying languages such as SQL, scripting languages such as Python, and/or statistical mathematical software such as R (minimum of 2 years with a Ph.D.)
+• 4+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights]
+
+Preferred Qualifications:
+• Master's or Ph.D. Degree in a quantitative field
+
+About Meta:
+
+Meta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Apps like Messenger, Instagram and WhatsApp further empowered billions around the world. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology. People who choose to build their careers by building with us at Meta help shape a future that will take us beyond what digital connection makes possible today—beyond the constraints of screens, the limits of distance, and even the rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Meta participates in the E-Verify program in certain locations, as required by law. Please note that Meta may leverage artificial intelligence and machine learning technologies in connection with applications for employment.
+
+Meta is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+
+$145,000/year to $204,000/year + bonus + equity + benefits
+
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9071923,-77.0368707,['health_insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dok_JuNIFMMWW0XLQAAAAAA%3D%3D&vssid=jobs-detail-viewer,,145000.0,204000.0,YEAR,"{'Qualifications': [""Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience"", ""Bachelor's degree in Mathematics, Statistics, a relevant technical field, or equivalent"", '4+ years of work experience in analytics, data querying languages such as SQL, scripting languages such as Python, and/or statistical mathematical software such as R (minimum of 2 years with a Ph.D.)', '4+ years of experience solving analytical problems using quantitative approaches, understanding ecosystems, user behaviors & long-term product trends, and leading data-driven projects from definition to execution [including defining metrics, experiment, design, communicating actionable insights]', 'Degree in a quantitative field', 'Meta participates in the E-Verify program in certain locations, as required by law'], 'Benefits': ['$145,000/year to $204,000/year + bonus + equity + benefits', 'Individual compensation is determined by skills, qualifications, experience, and location', 'Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable', 'In addition to base compensation, Meta offers benefits'], 'Responsibilities': ['You will collaborate on a wide array of product and business problems with a wide-range of cross-functional partners across Product, Engineering, Research, Data Engineering, Marketing, Sales, Finance and others', ""You will use data and analysis to identify and solve product development's biggest challenges"", 'You will influence product strategy and investment decisions with data, be focused on impact, and collaborate with other teams', 'By joining Meta, you will become part of a world-class analytics community dedicated to skill development and career growth in analytics and beyond', 'Product leadership: You will use data to shape product development, quantify new opportunities, identify upcoming challenges, and ensure the products we build bring value to people, businesses, and Meta', ""You will help your partner teams prioritize what to build, set goals, and understand their product's ecosystem.Analytics: You will guide teams using data and insights"", 'You will focus on developing hypotheses and employ a varied toolkit of rigorous analytical approaches, different methodologies, frameworks, and technical approaches to test them', ""Communication and influence: You won't simply present data, but tell data-driven stories"", 'You will convince and influence your partners using clear insights and recommendations', 'You will build credibility through structure and clarity, and be a trusted strategic partner', 'Work with large and complex data sets to solve a wide array of challenging problems using different analytical and statistical approaches', 'Apply technical expertise with quantitative analysis, experimentation, data mining, and the presentation of data to develop strategies for our products that serve billions of people and hundreds of millions of businesses', 'Identify and measure success of product efforts through goal setting, forecasting, and monitoring of key product metrics to understand trends', 'Define, understand, and test opportunities and levers to improve the product, and drive roadmaps through your insights and recommendations', 'Partner with Product, Engineering, and cross-functional teams to inform, influence, support, and execute product strategy and investment decisions']}",15111100,5
+lsZOlyuiQpE7jSkJAAAAAA==,Data Scientist,Leidos,,https://www.leidos.com,Leidos Careers,Full-time,['FULLTIME'],https://careers.leidos.com/jobs/16205538-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic,False,"[{'publisher': 'Leidos Careers', 'apply_link': 'https://careers.leidos.com/jobs/16205538-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'LinkedIn', 'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-at-leidos-4244975206?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'The Interface Financial Group - Teamtailor', 'apply_link': 'https://interfacefinancial.teamtailor.com/jobs/1048729-data-scientist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ZipRecruiter', 'apply_link': 'https://www.ziprecruiter.com/c/Leidos/Job/Data-Scientist/-in-Bethesda,MD?jid=c3aa5cf1e57f1902&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Monster', 'apply_link': 'https://www.monster.com/job-openings/data-scientist-bethesda-md--b45c7a20-10c1-4aa4-9788-fbd78d5ac34e?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Hospital Jobs Online', 'apply_link': 'https://www.hospitaljobsonline.com/job/84424696/data-scientist-bethesda-md/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'ClearedJobs.Net', 'apply_link': 'https://clearedjobs.net/job/data-scientist-bethesda-maryland-1822462?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}, {'publisher': 'Jooble', 'apply_link': 'https://jooble.org/jdp/311238964638681908?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic', 'is_direct': False}]","Description
+
+Are you ready to join Leidos all-star team? Through training, teamwork, and exposure to challenging technical work, let Leidos show how to accelerate your career path.
+
+Are you a TS/SCI cleared Data Scientist that likes to perform research-level data science/analytics?
+
+Come support a major program advancing the state of the art in mission-focused big data and predictive analytics. You will be delivering cutting edge data science capabilities to advance national security objectives, swiftly produce and analyze results, disseminate findings, and contribute to publications and presentations with actionable intelligence insights. While most work is conducted on-site at our client location in Bethesda, MD, we offer a flexible schedule and, occasionally, some tasks may be performed remotely. The percentage of remote work will vary based on client requirements/deliverables.
+
+Fun stuff you will do:
+• Work closely with a tight-knit team of data scientists, as well as a larger team of software developers, network engineers, senior investigators, program managers, researchers, and data analysts to design, build, and optimize a Data Science platform to produce and analyze results, disseminate findings, and contribute to publications and presentations.
+• Work on small projects analyzing a variety of big data covering national security, cyber security, business intelligence, online social media, human behavior and more.
+• Support multiple simultaneous projects and take open-ended or high-level guidance, independently and collaboratively make discoveries that are mission-relevant, and package and deliver the findings to a non-technical audience.
+• Bring your mix of intellectual curiosity, quantitative acumen, and customer-focus to identify novel sources of data across a range of fields, to improve the performance of predictive algorithms, and to encourage user adoption of high-end data analytics platforms in partnership with a highly qualified, highly motivated team.
+• Leverage your strong background in research design, exploratory analysis, quantitative methods, user interface application design, and experience with customer outreach and engagement
+
+To be successful in this role you need the following (required):
+• B.S. Degree in a quantitative or analytical field such as Computer Science, Mathematics, Economics, Statistics, Engineering, Physics, or Computational Social Science; or master’s degree or equivalent graduate degree including certificate-based advanced training courses
+• 8+ years of experience in data science, analytics, or quantitative intelligence analysis, and demonstrating progressive technical development and outcomes. 6+ years of experience required with a Master’s
+• Must have an active TS/SCI clearance and must be able obtain and maintain Polygraph
+• Proficiency in one or more scripting languages such as R or Python
+• Experience working with a hybrid team of analyst, engineers, and developers to conduct research, and build and deploy complex, but easy-to-use algorithms and analytical platforms
+• Previous experience performing Data Science or Research in data analytics or big data.
+• Track record of active learning and creative problem solving
+• Ability to analyze and assess software development or data acquisition requirements and determine optimum, cost-effective solutions.
+• Familiarity using git, svn, JIRA, or other version control technologies
+
+You will wow us even more if you have some of these skills:
+• A significant share of your data analytics experience in direct support of military or intelligence community customers, demonstrating progressive technical development and mission-focused outcomes.
+• Significant experience dealing with at least two of the following data classes: open source, publicly available information (PAI); forensic media (i.e. DOMEX); measurement and signatures intelligence (MASINT); or cybersecurity and cyber forensics
+• Experience with information retrieval and search, e.g. Structured Query Language (SQL), and/or Elastic Stack (Elasticsearch and Kibana)
+• Deployment of data science applications (e.g. Streamlit) using Docker, Kubernetes, and/or OpenShift.
+• Experience with Knowledge Graphs and KG tech such as neo4j or graph ML.
+• Experience developing predictive algorithms, image classifiers, object detectors, and others.
+• Familiarity with social network analysis, supply chain analysis, forensic accounting, pattern of life, natural language processing, social media analysis, classification algorithms, and/or image processing.
+• Experience blending analytical methodologies and leveraging existing COTS/GOTS/OS tools in an unconventional manner.
+• Familiarity utilizing virtualization and distributed field systems, such as virtual environments and Hadoop (or similar distributed file systems) in development and deployment environments.
+• Experience with Amazon Web Services (AWS/C2S)
+• Familiarity with hardware platforms, e.g., CPUs, GPUs, FPGAs, etc.
+• Familiarity or experience with building applications around Large Language Models, Agentic AI
+• Familiarity with Kubernetes - deploying and managing applications
+
+#NMECDTP
+
+Original Posting:
+June 4, 2025
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+Pay Range:
+Pay Range $104,650.00 - $189,175.00
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.",False,,,,"Bethesda, MD",Bethesda,Maryland,US,38.9848328,-77.09431719999999,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlsZOlyuiQpE7jSkJAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,"{'Qualifications': ['B.S. Degree in a quantitative or analytical field such as Computer Science, Mathematics, Economics, Statistics, Engineering, Physics, or Computational Social Science; or master’s degree or equivalent graduate degree including certificate-based advanced training courses', '8+ years of experience in data science, analytics, or quantitative intelligence analysis, and demonstrating progressive technical development and outcomes', '6+ years of experience required with a Master’s', 'Must have an active TS/SCI clearance and must be able obtain and maintain Polygraph', 'Proficiency in one or more scripting languages such as R or Python', 'Experience working with a hybrid team of analyst, engineers, and developers to conduct research, and build and deploy complex, but easy-to-use algorithms and analytical platforms', 'Previous experience performing Data Science or Research in data analytics or big data', 'Track record of active learning and creative problem solving', 'Ability to analyze and assess software development or data acquisition requirements and determine optimum, cost-effective solutions', 'Familiarity using git, svn, JIRA, or other version control technologies', 'A significant share of your data analytics experience in direct support of military or intelligence community customers, demonstrating progressive technical development and mission-focused outcomes', 'Significant experience dealing with at least two of the following data classes: open source, publicly available information (PAI); forensic media (i.e', 'DOMEX); measurement and signatures intelligence (MASINT); or cybersecurity and cyber forensics', 'Experience with information retrieval and search, e.g', 'Structured Query Language (SQL), and/or Elastic Stack (Elasticsearch and Kibana)', 'Deployment of data science applications (e.g', 'Streamlit) using Docker, Kubernetes, and/or OpenShift', 'Experience with Knowledge Graphs and KG tech such as neo4j or graph ML', 'Experience developing predictive algorithms, image classifiers, object detectors, and others', 'Familiarity with social network analysis, supply chain analysis, forensic accounting, pattern of life, natural language processing, social media analysis, classification algorithms, and/or image processing', 'Experience blending analytical methodologies and leveraging existing COTS/GOTS/OS tools in an unconventional manner', 'Familiarity utilizing virtualization and distributed field systems, such as virtual environments and Hadoop (or similar distributed file systems) in development and deployment environments', 'Experience with Amazon Web Services (AWS/C2S)', 'Familiarity with hardware platforms, e.g., CPUs, GPUs, FPGAs, etc', 'Familiarity or experience with building applications around Large Language Models, Agentic AI', 'Familiarity with Kubernetes - deploying and managing applications'], 'Benefits': ['Pay Range $104,650.00 - $189,175.00', 'The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary'], 'Responsibilities': ['Through training, teamwork, and exposure to challenging technical work, let Leidos show how to accelerate your career path', 'Come support a major program advancing the state of the art in mission-focused big data and predictive analytics', 'You will be delivering cutting edge data science capabilities to advance national security objectives, swiftly produce and analyze results, disseminate findings, and contribute to publications and presentations with actionable intelligence insights', 'While most work is conducted on-site at our client location in Bethesda, MD, we offer a flexible schedule and, occasionally, some tasks may be performed remotely', 'The percentage of remote work will vary based on client requirements/deliverables', 'Work closely with a tight-knit team of data scientists, as well as a larger team of software developers, network engineers, senior investigators, program managers, researchers, and data analysts to design, build, and optimize a Data Science platform to produce and analyze results, disseminate findings, and contribute to publications and presentations', 'Work on small projects analyzing a variety of big data covering national security, cyber security, business intelligence, online social media, human behavior and more', 'Support multiple simultaneous projects and take open-ended or high-level guidance, independently and collaboratively make discoveries that are mission-relevant, and package and deliver the findings to a non-technical audience', 'Bring your mix of intellectual curiosity, quantitative acumen, and customer-focus to identify novel sources of data across a range of fields, to improve the performance of predictive algorithms, and to encourage user adoption of high-end data analytics platforms in partnership with a highly qualified, highly motivated team', 'Leverage your strong background in research design, exploratory analysis, quantitative methods, user interface application design, and experience with customer outreach and engagement']}",15111100,5
