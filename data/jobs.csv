@@ -1,178 +1,67 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews
-XApV3Aj4SPfRjxgPAAAAAA==,Data Scientist - AI Engineer,AIG Research Insight Solution Center,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://usajobs.gov&size=128",,USAJobs,Full-time,['FULLTIME'],https://www.usajobs.gov/job/870717900,False,"[{'apply_link': 'https://www.usajobs.gov/job/870717900', 'is_direct': False, 'publisher': 'USAJobs'}]","*PLEASE NOTE THAT THIS VACANCY ANNOUNCEMENT IS ONLY OPEN TO CURRENT UNITED STATES POSTAL SERVICE OFFICE OF INSPECTOR GENERAL, UNITED STATES POSTAL SERVICE, UNITED STATES POSTAL INSPECTION SERVICE AND POSTAL REGULATORY COMMISSION EMPLOYEES. OTHER APPLICANTS WILL NOT BE CONSIDERED.
-
-This announcement provides the opportunity for a reassignment/promotion to Data Scientist - AI Engineer position in the Research and Insights Solution Center located in Arlington, Virginia.",False,2 days ago,1779840000.0,2026-05-27T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXApV3Aj4SPfRjxgPAAAAAA%3D%3D&vssid=jobs-detail-viewer,85447.0,"85,447 a year",,,YEAR,{},,,
-0z8-fFqL4jNuUYLXAAAAAA==,Junior Data Scientist,"AITHERAS, LLC",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6EtWrl_4VzKLTEeuNAyj9bA200ULV47UClN2f&s=0,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=2a4db58bab2ae46f,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=2a4db58bab2ae46f', 'is_direct': False, 'publisher': 'Indeed'}]","Junior Data Scientist / Performance Data Analyst I
-
-Location: Washington, DC / Hybrid / Government Facility as Required
-Clearance / Background: U.S. Citizen required; ability to obtain DOJ Public Trust and Secret clearance; active Secret preferred
-Experience Level: 1–3 years
-
-Role Summary
-
-The Junior Data Scientist / Performance Data Analyst I supports a federal Management Information System program by helping collect, clean, validate, analyze, and visualize operational and performance data.
-
-This role is ideal for an early-career data scientist with strong Python, R, SQL, Tableau, machine learning, NLP, and statistical analysis skills who is ready to progress from research, healthcare, or academic data work into federal mission analytics.
-
-Key Responsibilities
-
-•
-Collect, clean, validate, and analyze structured and semi-structured program data.
-
-•
-Build SQL, Python, and R scripts to extract data, run calculations, automate recurring analysis, and reduce manual reporting effort.
-
-•
-Develop and maintain Tableau dashboards, visual reports, charts, and performance summaries.
-
-•
-Support data quality reviews by identifying anomalies, missing values, inconsistent records, and reporting defects.
-
-•
-Assist senior analysts with statistical modeling, machine learning, trend analysis, and performance measurement.
-
-•
-Translate complex datasets into clear summaries for non-technical stakeholders.
-
-•
-Document data sources, business rules, transformation logic, assumptions, and analytical methods.
-
-•
-Support recurring weekly, monthly, quarterly, and ad hoc reporting requirements.
-
-•
-Review model outputs and error patterns to recommend improvements to analytical workflows.
-
-•
-Collaborate with senior data scientists, program analysts, project managers, and government stakeholders.
-
-Required Qualifications
-
-•
-Bachelor’s degree in Data Science, Statistics, Computer Science, Mathematics, Information Systems, Neuroscience, Public Health Analytics, or a related quantitative field.
-
-•
-1–3 years of data science, data analytics, research analytics, BI, or machine learning project experience.
-
-•
-Hands-on Python experience using pandas, NumPy, scikit-learn, matplotlib, spaCy, Keras, or similar libraries.
-
-•
-R experience using tidyverse, tidymodels, ggplot2, Shiny, or equivalent packages.
-
-•
-SQL experience for querying, joining, filtering, and preparing datasets.
-
-•
-Tableau, Power BI, R Shiny, or similar dashboard/data visualization experience.
-
-•
-Experience with machine learning classification, NLP, model evaluation, or predictive analytics.
-
-•
-Ability to inspect model errors, validate outputs, and communicate improvement opportunities.
-
-•
-Strong Excel and Microsoft Office skills.
-
-•
-Ability to explain technical findings to non-technical stakeholders.
-
-•
-U.S. citizenship and ability to obtain required federal suitability/clearance.
-
-Preferred Qualifications
-
-•
-Active Secret clearance or prior federal suitability.
-
-•
-Experience with federal, public sector, law enforcement, financial, healthcare, biomedical, or large statistical datasets.
-
-•
-Experience supporting performance metrics, KPI reporting, operational reporting, or program evaluation.
-
-•
-Experience building client-facing dashboards or interactive data applications.
-
-•
-Experience with BERT, NLP, unstructured text, topic segmentation, or terminology data.
-
-•
-Familiarity with data governance, data privacy, PII handling, CUI, or secure data environments.
-
-•
-AWS, Git, Jupyter Notebook, or cloud analytics exposure.
-
-Tools / Technologies
-
-Python, R, SQL, Tableau, Excel, Jupyter Notebook, Git, AWS, pandas, NumPy, scikit-learn, spaCy, Keras, tidyverse, tidymodels, ggplot2, Shiny, NLP, BERT, dashboards, data visualization, statistical modeling.
-
-zgeXJrIL38",False,6 days ago,1779494400.0,2026-05-23T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0z8-fFqL4jNuUYLXAAAAAA%3D%3D&vssid=jobs-detail-viewer,,100K–120K a year,100000.0,120000.0,YEAR,{},,,
 NhGkG3WP3Pb7ag8AAAAAAA==,Remote Senior Data Scientist Economic Analytics & AI,SOC,,,BeBee,Full-time,['FULLTIME'],https://bebee.com/us/jobs/remote-senior-data-scientist-economic-analytics-ai-soc-washington--lensa-7428_1f3c1fd392239f4afd6fc7f8a3e9468140347bd3ae0a4b37142d88f0faca44e5,False,"[{'apply_link': 'https://bebee.com/us/jobs/remote-senior-data-scientist-economic-analytics-ai-soc-washington--lensa-7428_1f3c1fd392239f4afd6fc7f8a3e9468140347bd3ae0a4b37142d88f0faca44e5', 'is_direct': False, 'publisher': 'BeBee'}]","SOC LLC is seeking a Remote Senior Data Scientist to drive economic analysis through advanced statistics and data science techniques. The ideal candidate holds a Master's degree or PhD in a quantitative field and has 5-8+ years of experience. Duties include scoping questions with stakeholders, creating data management strategies, and building reproducible data pipelines.
 
-Essential skills include proficiency in Python or R, machine learning expertise, and excellent communication abilities. The position offers a competitive salary range, with an estimated minimum rate of $51.60 and a maximum of $73.71.",False,5 days ago,1779580800.0,2026-05-24T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNhGkG3WP3Pb7ag8AAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-RYFenAGuOaXLzGOZAAAAAA==,"Principal Associate, Data Scientist - Frontier AI in Customer Protection",Capital One,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://capitalone.com&size=128",https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-frontier-ai-in-customer-protection/1732/93500259840,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-frontier-ai-in-customer-protection/1732/93500259840', 'is_direct': False, 'publisher': 'Capital One Career'}]","Principal Associate, Data Scientist - Frontier AI in Customer Protection
+Essential skills include proficiency in Python or R, machine learning expertise, and excellent communication abilities. The position offers a competitive salary range, with an estimated minimum rate of $51.60 and a maximum of $73.71.",False,6 days ago,1779580800.0,2026-05-24T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNhGkG3WP3Pb7ag8AAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Z8IsTwcGucEkAgJBAAAAAA==,"Manager, Data Scientist - Model Risk Office",Capital One,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://capitalone.com&size=128",https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/en/job/mclean/manager-data-scientist-model-risk-office/1732/91589939936,False,"[{'apply_link': 'https://www.capitalonecareers.com/en/job/mclean/manager-data-scientist-model-risk-office/1732/91589939936', 'is_direct': False, 'publisher': 'Capital One Career'}]","Manager, Data Scientist - Model Risk Office
 
 Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
 As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
-Team Description
 
-The Retail Bank Customer Protection Data Science team has a relentless focus on innovation with a passion for improving customer experiences around fraud prevention. This team is focused on detecting and thwarting fraud and scams that target our customers and threaten their financial well-being and feelings of safety. Detecting and preventing fraud behaviors as early as possible helps keep customer funds secure and enables the Bank to grow with confidence. Our team is constantly investing to improve and complement existing model-based defenses with the latest and greatest techniques from industry and academia. We use data to proxy the real world signals that help us find fraud and engineer our way to using this in production with SQL and Python-centric methods.
+Team Description
+The Capital One Model Risk Office is dedicated to safeguarding the company from model failures while simultaneously enhancing decision-making through models, including unique risks associated with Generative AI (GenAI). Leveraging expertise in statistics, software engineering, and business, we strive to achieve optimal results for both Risk Management and the broader Enterprise. We prioritize long-term success by continually investing in future capabilities: acquiring new skills, developing superior tools, and cultivating strong relationships with trusted partners. Our approach involves learning from past errors to develop increasingly robust techniques that prevent recurrence.
 
 Role Description
-
 In this role, you will:
-• Leverage a broad stack of technologies — Python, Conda, AWS, Spark, Gremlin, NeptuneDB, and more — to build knowledge graphs and graph algorithms that uncover hidden connections in structured and unstructured data
+• Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
 
-• Pilot graph modeling algorithms through all phases of development, from design through training, evaluation, validation, and implementation
+• Leverage a broad stack of technologies — Python, Conda, AWS, H2O, Spark, and more — to reveal the insights hidden within huge volumes of numeric and textual data
 
-• Connect your deep technical modeling expertise to the pressing business goals of our fraud prevention strategy partners to create exciting solutions to demanding challenges
+• Validate and build statistical or machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
 
-• Partner with a cross-functional team of data scientists, software engineers, business analysts, and product managers to deliver industry leading fraud defenses
+• Flex your interpersonal skills to translate the complexity of your work into tangible business goals
 
 The Ideal Candidate is:
-• Customer first. You love the process of analyzing and creating, but also share our passion to do the right thing. You know at the end of the day it’s about making the right decision for our customers.
+• Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
 
-• Innovative. You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+• A leader. You challenge conventional thinking and work with stakeholders to identify and improve the status quo. You’re passionate about talent development for your own team and beyond.
 
-• Technical. You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+• Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
 
 • A data guru. “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
 
 Basic Qualifications:
 • Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:
-• A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 5 years of experience performing data analytics
+• A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 6 years of experience performing data analytics
 
-• A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 3 years of experience performing data analytics
+• A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 4 years of experience performing data analytics
 
-• A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field)
+• A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 1 year of experience performing data analytics
+
+• At least 1 year of experience leveraging open source programming languages for large scale data analysis
+
+• At least 1 year of experience working with machine learning
+
+• At least 1 year of experience utilizing relational databases
 
 Preferred Qualifications:
-• Master’s Degree in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 3 years of experience in data analytics, or PhD in “STEM” field (Science, Technology, Engineering, or Mathematics)
-
-• At least 3 years’ experience with Knowledge Graphs or similar data
-
-• At least 1 year experience working with Graph database management (NeptuneDB, Neo4j, etc)
-
-• At least 1 year experience working with Graph query languages (Gremlin, Cypher, etc)
+• PhD in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 3 years of experience in data analytics, financial modeling or financial model validation
 
 • At least 1 year of experience working with AWS
 
-• At least 3 years’ experience in Python, Scala, or R
+• At least 4 years’ experience in Python, Scala, or R for large scale data analysis
 
-• At least 3 years’ experience with SQL
+• At least 4 years’ experience with statistical modeling or machine learning
+
+• At least 4 years’ experience with SQL
 
 Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
 
 The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
 
-Plano, TX: $147,100 - $167,900 for Princ Associate, Data Science
+McLean, VA: $197,300 - $225,100 for Mgr, Data Science
 
-New York, NY: $176,500 - $201,400 for Princ Associate, Data Science
-
-McLean, VA: $161,800 - $184,600 for Princ Associate, Data Science
+Riverwoods, IL: $179,400 - $204,700 for Mgr, Data Science
 
 Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
 
@@ -189,7 +78,7 @@ For technical support or questions about Capital One's recruiting process, pleas
 
 Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
 
-Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,7 days ago,1779408000.0,2026-05-22T00:00:00.000Z,"McLean, VA   (+2 others)",,,,,,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRYFenAGuOaXLzGOZAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,2 days ago,1779926400.0,2026-05-28T00:00:00.000Z,"McLean, VA  (+1 other)",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZ8IsTwcGucEkAgJBAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 ctn4uxW1ebh4f9LRAAAAAA==,"Data Scientist, Mid",Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4413291035,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4413291035', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0239482
 
 Data Scientist, Mid
@@ -247,7 +136,216 @@ Our people-first culture prioritizes the benefits of collaboration, whether it o
 
 Commitment to Non-Discrimination
 
-All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,17 days ago,1778544000.0,2026-05-12T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dctn4uxW1ebh4f9LRAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,18 days ago,1778544000.0,2026-05-12T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dctn4uxW1ebh4f9LRAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+W-fQuu_ZK3y1_waKAAAAAA==,Data Scientist,The MITRE Corporation,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN3G6Bhf3gxoVsaGZLyNlvY_O-H4KroJnmSts&s=0,,MITRE Jobs,Full-time,['FULLTIME'],https://careers.mitre.org/us/en/job/R116615/Data-Scientist,False,"[{'apply_link': 'https://careers.mitre.org/us/en/job/R116615/Data-Scientist', 'is_direct': False, 'publisher': 'MITRE Jobs'}]","Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities for career growth, and a culture of innovation that embraces adaptability, collaboration, technical excellence, and people in partnership. If this sounds like the choice you want to make, then choose MITRE - and make a difference with us.
+
+MITRE’s Data Science and Engineering department is looking for qualified applicants to bring their advanced data science, data engineering, machine learning, artificial intelligence, and applied research skills to bear on solving problems of critical national importance. MITRE’s diverse work program provides opportunities to apply your expertise and creative thinking in challenging domains such as national security, intelligence, transportation, and healthcare. Employees may also participate in MITRE’s internal research and development program, which provides funding for innovative applied research that addresses our sponsors’ hardest problems.
+
+Roles & Responsibilities:
+
+The successful candidate for this position is a hybrid Data Scientist and Data Engineer who combines strong foundations in computer science, mathematics, and software engineering with hands-on experience designing data systems and applying advanced analytics, machine learning, and AI techniques to solve mission problems. This role requires practitioners who can operate across the full data lifecycle from data modeling, processing, and infrastructure engineering to statistical analysis, machine learning, experimentation, and operational deployment. Our organization values innovation and believes that keeping up with the latest research and technologies is essential.
+
+The candidate should have hands-on experience in several of the areas specified below, however it is not required that a candidate has experience in all of these areas.
+
+Advanced Data Analytics and Artificial Intelligence
+• Machine Learning and Model Evaluation (e.g., supervised, unsupervised, deep learning, reinforcement learning)
+• Statistical Analysis and Exploratory Data Analysis (e.g., descriptive statistics, regression, visualization)
+• Large Language Models and AI-Assisted Workflows
+• Natural Language Processing (e.g., summarization, classification, entity recognition, topic modeling)
+• Anomaly Detection and Predictive Modeling
+• Graph Analytics (e.g. centrality, similarity, link prediction)
+
+Data Engineering
+• Distributed Data Processing and Big Data Architectures (e.g., Spark, Hadoop, Ray, Dask, Kafka)
+• Data Pipeline/ETL Development and Orchestration (e.g., Airflow, Dagster, NiFi)
+• Batch and Streaming Data Processing
+• Data Modeling, Schema Design, and Data Quality Assessment
+• Data Governance, Access Control, and Secure Data Handling
+• Cloud-based Data Platforms and Storage Architectures
+
+Software Development and MLOps
+• Computer Programming and Databases – Proficiency in Python and SQL required
+• Software Engineering Best Practices (e.g., version control, testing, modular design)
+• MLOps and Model Operationalization (e.g., model deployment, monitoring, reproducibility, containerization)
+• Linux-based Development Environments, Git, Containers, and Cloud Platforms
+
+Expectations for this position are as follows:
+• As an individual contributor, requires a moderate level of instruction, guidance, and direction from more senior staff and is progressing toward working independently.
+• Provides informal guidance to new or junior team members.
+• Identifies and solves routine problems; Analyzes possible solutions using technical experience and established precedents within the Data Science and Data Engineering disciplines.
+• Leverages intermediate level of knowledge of Data Science and Data Engineering and applies it to individual and team work products.
+• Communicates complex information, both written and verbal, to technical and non-technical audiences in routine situations.
+
+Basic Qualifications:
+• Bachelor’s degree in Computer Science, Applied Mathematics, Statistics, Data Science, or related field with 2 years of relevant experience.
+• Hands-on proficiency with advanced Data Science techniques, including Machine Learning (e.g., supervised, unsupervised, deep learning, reinforcement learning), anomaly detection, statistical analysis, and/or analysis of very large datasets.
+• Computer programming skills (e.g., Python, R, C/C++, Java, Scala, Julia, Rust, MATLAB).
+• The ability to obtain and maintain a DoD Top Secret clearance within 12 months of hire.
+• Per the U.S. Government’s eligibility requirements, you must be a U.S Citizen to be considered for a security clearance.
+• This position requires a minimum of 50% hybrid on-site
+
+Preferred Qualifications:
+• Master’s degree in Computer Science, Applied Mathematics, Statistics, Data Science, or related field
+• Active DoD Top Secret Clearance.
+
+This requisition requires the candidate to have a minimum of the following clearance(s):
+None
+
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+None
+
+Salary compensation range and midpoint:
+$98,800 - $123,500 - $148,200 Annual
+
+Work Location Type:
+Hybrid
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.
+
+Benefits information may be found here.
+
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",False,4 days ago,1779753600.0,2026-05-26T00:00:00.000Z,"McLean, VA  (+1 other)",McLean,Virginia,US,38.9338676,-77.1772604,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DW-fQuu_ZK3y1_waKAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+hhu_GmmTpLWJ9ZblAAAAAA==,Senior Data Scientist-RWE,ADVI Health LLC,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://recruiting.paylocity.com&size=128",,Paylocity,Full-time,['FULLTIME'],https://recruiting.paylocity.com/recruiting/jobs/Details/3840606/ADVI-Health-LLC/Senior-Data-Scientist-RWE,False,"[{'apply_link': 'https://recruiting.paylocity.com/recruiting/jobs/Details/3840606/ADVI-Health-LLC/Senior-Data-Scientist-RWE', 'is_direct': False, 'publisher': 'Paylocity'}]","Description
+
+About Us
+
+ADVI Health: Expert Advice. Clear Vision.
+
+Since 2013, clients have sought ADVI Health’s expert advice, informed by data and guided by a clear vision of the complex intersection of life sciences/healthcare innovation, economics, policy, and patient impact. Our aim is to be the leading and most knowledgeable go-to-market access and commercialization partner for life sciences and healthcare innovators, worldwide.
+
+We are a collaborative team of consultants and advisors, all of whom are veterans of top healthcare and life sciences organizations, the federal government, state government, top consultants, nonprofits, commercial payers, or data and analytics companies. Our work cuts through complexity across asset, franchise, corporate, and executive level strategy, shapes markets, and enables therapies to launch faster, smarter, and at scale in multiple therapeutic areas, lifecycle stages, and areas of the world. Our global client roster includes biopharma manufacturers, MedTech, precision medicine diagnostics and tools companies, and cancer provider and patient organizations, from the C-suite down and across the product lifecycle. We solve complicated problems with data-informed commercialization, market access, and policy expertise. Based in Washington, DC and Austin, TX, the company delivers insight- and data-informed advice and vision for leaders in healthcare business and policy. ADVI offers a comprehensive perspective by integrating business, policy, and science to find creative solutions through data, learned insight, and compelling strategy to help clients make decisions across all healthcare segments.
+
+ADVI is at the forefront of healthcare delivery transformation, payment reform, public and private payer coverage, and healthcare merger and acquisition deal flow within the US and abroad. To learn more... visit us at www.advi.com
+
+Overview
+
+We are seeking a passionate HEOR/RWE Senior Data Scientist to join our growing Strategic Analytics, Value, and Economics team. In this role, you’ll leverage advanced data science and health economics methods to help shape access to life-saving therapies and innovations. You’ll work with rich, real-world healthcare data including Medicare and Medicaid claims to uncover insights that directly inform policy, pricing, and patient access decisions across the life sciences sector. This position offers the opportunity to apply your analytical expertise to real-world evidence (RWE), health outcomes, and market access challenges while making a measurable impact on how treatments reach the patients who need them most.
+
+Analytics and coding work will include health economics and outcomes research (HEOR), market basket assessment of diseases or treatment usage, and related evidence-generation studies for pharma clients.
+
+Job Duties
+
+• Design and execute rigorous analyses of Medicare, Medicaid, and commercial healthcare claims data to generate real-world evidence supporting HEOR, value, and market access initiatives.
+
+• Design and lead claims-based RWE analyses evaluating utilization, cost, and quality impacts using CCW data in VRDC and other secure environments.
+
+• Develop and validate SAS programs to support observational studies, comparative effectiveness research, and health economic analyses.
+
+• Build and maintain analytical models and data pipelines using SAS to ensure accuracy, reproducibility, and scalability of HEOR analyses.
+
+• Synthesize findings into clear, compelling insights that inform payer strategy, pricing, reimbursement, and policy decisions for life sciences clients.
+
+• Collaborate cross-functionally with internal teams and client stakeholders to align evidence generation strategies with business and scientific goals.
+
+• Developing RWE reporting systems, continuous data quality optimization, and analytics for health economics and outcomes research (HEOR) evaluation and stakeholder decision-making.
+
+Key Responsibilities
+
+• Lead components of analyses or deliverables under general guidance.
+
+• Conduct independent research and interpret data.
+
+• Support proposal inputs and client-ready materials.
+
+• Mentor Associates on basic methods and quality standards.
+
+Core Competencies
+
+Technical Proficiency
+
+Problem Solving
+
+Accountability
+
+Mentorship
+
+Client Awareness
+
+Requirements
+
+• Master’s or PhD in Data Science, Biostatistics, Health Economics, Epidemiology, Public Health, Computer Science, or a related quantitative field
+
+• Experienced in both qualitative & quantitative research, survey design, and analyses.
+
+• At least 7 years of related experience, with SAS programming experience.
+
+• 7+ years of experience (or equivalent graduate-level research experience) applying data science in healthcare, HEOR, or life sciences.
+
+• Proven ability to translate complex findings into clear, decision-ready insights to support payer strategy, value assessment, and policy making.
+
+• Demonstrated experience with large-scale health data analysis (claims, EHR, registry, or clinical trial data).
+
+• Solid understanding of health outcomes, cost analyses, and study designs used in HEOR and RWE research.
+
+• Experience working in HEOR, value and economics outcomes research (VEOR), or real world evidence (RWE) claims experience
+
+• Extensive experience working with health care datasets and performing quantitative research
+
+An ideal candidate may also have:
+
+• Understanding of health care policy issues in Medicare and/or Medicaid
+
+• Experience working with data offered in the CMS’ Chronic Condition Warehouse
+
+• Experience working in the Virtual Research Data Center (VRDC) offered by CCW
+
+• Experience working with data in Medicare Standard Analytic Files (SAF), Research Identifiable Files (RIF), or Medicaid T-MSIS data
+
+Location
+
+Candidates can be based anywhere in the U.S., with a preference for those operating in the Eastern or Central Standard Time Zone. Candidates based in Washington, DC or Austin, TX, will have the option of hybrid work arrangements.
+
+Compensation and Benefits
+
+The annual base salary range is $126,000-$158,000 plus a bonus plan. This range reflects ADVI’s current expectations for the role. Actual compensation may vary and will be determined based on a number of factors including, but not limited to, job related skills, experience, education, internal equity, and market considerations. The base salary range does not include bonuses, potential commission or other incentive compensation, which may be available as part of the total rewards package. Additional details regarding compensation philosophy and benefits will be shared by the recruiter during the interview process.
+
+ADVI offers an outstanding benefits package, including the following:
+
+• Medical, dental, and vision
+
+• 8 paid holidays, including one ADVI Anniversary Day per calendar year
+
+• 401(k) retirement contribution match, up to 3 percent of salary, with immediate vesting
+
+• Health Reimbursement Account
+
+• Life and short-term and long-term disability insurance
+
+• Paid vacation and sick leave
+
+Diversity Statement
+
+ADVI’s commitment to diversity, equity, inclusion, and collaboration is key to building extraordinary teams. We hire people with exceptional talents, abilities, and potential, then build an environment where you can become the best version of yourself.
+
+Our Vision
+
+To be the leading and most knowledgeable go-to-market access and commercialization partner for life sciences and healthcare innovators worldwide.
+
+Our Mission
+
+To provide life science and healthcare innovators the benefit of our team’s wisdom, empathy, and creativity that, through data-informed strategy, generates evidence to optimize outcomes and, through tech-enabled access solutions, creates opportunities and expands care.
+
+Our Values
+
+Act with Integrity
+
+Strive for Excellence
+
+Make an Impact
+
+Think smart, Stay curious
+
+Celebrate the Journey, not just the results
+
+We look forward to hearing from you!
+
+#LI-Remote",False,2 days ago,1779926400.0,2026-05-28T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'dental_coverage', 'paid_time_off']","['Health insurance', 'Dental insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dhhu_GmmTpLWJ9ZblAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 8V2r6LbcfvEo3ekJAAAAAA==,Remote Data Scientist,Micro1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbTSNjZy9d_d7sTdyUBXgNpqzH1cAWe9tBuLOx&s=0,https://www.micro1.ai,BeBee,Contractor,['CONTRACTOR'],https://bebee.com/us/jobs/remote-data-scientist-micro1-temple-hills--lensa-7428_de97c2d9620f316595014b16b55a4996e6acba3e7d69e7a8a986f434c69200f7,False,"[{'apply_link': 'https://bebee.com/us/jobs/remote-data-scientist-micro1-temple-hills--lensa-7428_de97c2d9620f316595014b16b55a4996e6acba3e7d69e7a8a986f434c69200f7', 'is_direct': False, 'publisher': 'BeBee'}]","Data Scientist Required Skills statistics & Mathematics data handling data collecting data analysis and modeling data visualization data clesning programming About micro1 micro1 connects domain experts to the development of frontier AI models. Real-world expertise is turned into training data, evaluations, and feedback loops that improve how models perform. AI labs and enterprises use micro1 to train models and build reliable AI agents through advanced evaluations and reinforcement learning environments.
 
 Experts contribute directly to how AI systems learn, reason, and perform across domains like finance, healthcare, engineering, and more. Our platform identifies and vets top talent through an AI recruiter, enabling high-quality contributions at scale. Our goal is to enable 1 billion people to do meaningful work by applying their expertise to AI.
@@ -264,7 +362,7 @@ Develop, validate, and implement statistical models to extract actionable insigh
 
 Conduct exploratory data analysis to identify trends, patterns, and opportunities for business improvement.
 
-Present findings and recommendations through compelling data visualizations and",False,5 days ago,1779580800.0,2026-05-24T00:00:00.000Z,"Temple Hills, MD",Temple Hills,Maryland,US,38.8140024,-76.9455296,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8V2r6LbcfvEo3ekJAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Present findings and recommendations through compelling data visualizations and",False,6 days ago,1779580800.0,2026-05-24T00:00:00.000Z,"Temple Hills, MD",Temple Hills,Maryland,US,38.8140024,-76.9455296,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8V2r6LbcfvEo3ekJAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 emzmUpKef0JYGQE4AAAAAA==,"Data Scientist - Machine Learning, Search & Personalization",Turn2Partners,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turn2partners.com&size=128",https://www.turn2partners.com,ZipRecruiter,Full-time,['FULLTIME'],"https://www.ziprecruiter.com/c/Turn2Partners/Job/Data-Scientist-Machine-Learning,-Search-&-Personalization/-in-Washington,DC?jid=b8ceeee026944c87",False,"[{'apply_link': 'https://www.ziprecruiter.com/c/Turn2Partners/Job/Data-Scientist-Machine-Learning,-Search-&-Personalization/-in-Washington,DC?jid=b8ceeee026944c87', 'is_direct': False, 'publisher': 'ZipRecruiter'}]","This Turn2 client is a rapidly scaling technology company that is seeking a Data Scientist to design and deploy intelligent systems that shape how users search, discover, and interact with digital products. This role sits at the intersection of research and product, ideal for someone eager to solve hard problems at scale using applied ML.
 
 You'll lead the development of real-time ranking, recommendation, and personalization models, working closely with engineering and product stakeholders to drive measurable user impact.
@@ -292,45 +390,7 @@ Bonus Points For:
 • Advanced degree in Computer Science, Data Science, or a related technical field.
 • Experience with cloud platforms like AWS, GCP, or Azure.
 • Familiarity with real-time inference systems or large-scale retrieval architectures.
-• Ability to bridge ML research and product needs-delivering practical solutions with business impact.",False,25 days ago,1777852800.0,2026-05-04T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DemzmUpKef0JYGQE4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-RGQgFa0WBFT7-bYWAAAAAA==,Data Scientist – Supply Chain Risk Management,VT Group (VTG),https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62g3xzMiq01wQn59QTtnlh_-CstfOK7Mwd9UH&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-supply-chain-risk-management-at-vt-group-vtg-4413582958,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-supply-chain-risk-management-at-vt-group-vtg-4413582958', 'is_direct': False, 'publisher': 'LinkedIn'}]","Overview
-
-VTG is seeking a motivated Data Scientist to join our team supporting a program focused on Supply Chain Risk Management (SCRM). The successful candidate will contribute to the development of data-driven insights and analytic solutions that help identify, assess, and mitigate risks in complex supply chains. This position (hybrid role) will report to the Washington Navy Yard in Washington, DC.
-
-What will you do?
-
-• Apply statistical methods, artificial intelligence, machine learning, and predictive modeling to identify patterns, anomalies, and potential risks
-• Write clean, efficient, and well-documented code in Python leveraging data science libraries (e.g., pandas, NumPy, scikit-learn, PyTorch, TensorFlow)
-• Query, manipulate, and analyze structured and unstructured data from databases (SQL, NoSQL, Hive, etc.)
-• Support data ingestion, processing, and visualization workflows to deliver actionable insights to government stakeholders
-• Collaborate with a cross-functional team of analysts, data engineers, front-end developers, and subject matter experts to deliver mission-critical solutions
-• Present findings through reports, dashboards, and briefings to both technical and non-technical audiences
-• Develop and implement data science solutions to analyze large and complex datasets related to supply chain networks
-
-Do you have what it takes?
-
-Required Qualifications
-
-• Bachelor’s degree in Data Analytics, Statistics, Economics, Supply Chain Management, Computer Science, or a related field
-• 1–3 years of hands-on experience in data science, analytics, or applied machine learning
-• Strong proficiency in Python and core data science libraries
-• Experience with databases (SQL and/or NoSQL) for querying and analysis
-• Strong problem-solving skills and the ability to communicate technical insights clearly
-• Must have and maintain a Secret clearance-eligible for a Top Secret clearance
-• U.S. citizenship
-
-Desired Qualifications/Skills/Abilities
-
-• Background or coursework in Supply Chain Management, Logistics, or Risk Analysis
-• Experience with big data tools (Hadoop, Spark, Hive, etc.)
-• Familiarity with government contracting or defense-related projects
-• Experience developing in Cloudera Data Science Workbench (CDSW)
-
-Travel Requirements
-
-Minimal travel, mostly in the Washington DC area.
-
-Pay Range: VTG’s estimated starting pay range is $90,000-$120,000 annually, which is a general guideline for the geographic location. When extending an offer, VTG also considers work experience, education, skill level, market considerations and may possibly include contractual requirements which may cause an offer to fall outside of this range.",True,16 days ago,1778630400.0,2026-05-13T00:00:00.000Z,Anywhere,,,,,,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRGQgFa0WBFT7-bYWAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+• Ability to bridge ML research and product needs-delivering practical solutions with business impact.",False,26 days ago,1777852800.0,2026-05-04T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DemzmUpKef0JYGQE4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 jP9DTA35CxtBFLhCAAAAAA==,Data Scientist Jobs,Kforce Federal Solutions,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://clearancejobs.com&size=128",,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8871055/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/8871055/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Data Scientist
 
 Hybrid | Washington, DC (1 Day Onsite per Week)
@@ -368,4 +428,42 @@ Experience analyzing customer behavior, retention metrics, or churn models
 Ability to translate complex data findings into clear, meaningful insights
 
 Active Public Trust or active clearance is required at time of application",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjP9DTA35CxtBFLhCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,100K–120K a year,100000.0,120000.0,YEAR,{},,,
-fanZ9496yumHECojAAAAAA==,"Data Scientist: NLP, GenAI & Visualization",Accenture,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUgXT7fSzUAzsFdPzgV0cLhWHP5Aw2aDO4w46x&s=0,https://www.accenture.com,BeBee,Full-time,['FULLTIME'],https://bebee.com/us/jobs/data-scientist-nlp-genai-visualization-accenture-washington-dc-united-states--jobgoal-9663_0b0168d0fb027b58073a2fc1c0a0ccf5,False,"[{'apply_link': 'https://bebee.com/us/jobs/data-scientist-nlp-genai-visualization-accenture-washington-dc-united-states--jobgoal-9663_0b0168d0fb027b58073a2fc1c0a0ccf5', 'is_direct': False, 'publisher': 'BeBee'}]","A leading technology firm is seeking a data analyst to drive positive change within federal agencies. The role involves analyzing data trends, developing machine learning models, and creating interactive visualizations. Candidates should have experience in NLP, Python, and data visualization tools like Power BI. This position offers a competitive salary range and supports federal missions with strategic insights.",False,6 days ago,1779494400.0,2026-05-23T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfanZ9496yumHECojAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+RGQgFa0WBFT7-bYWAAAAAA==,Data Scientist – Supply Chain Risk Management,VT Group (VTG),https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62g3xzMiq01wQn59QTtnlh_-CstfOK7Mwd9UH&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-supply-chain-risk-management-at-vt-group-vtg-4413582958,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-%E2%80%93-supply-chain-risk-management-at-vt-group-vtg-4413582958', 'is_direct': False, 'publisher': 'LinkedIn'}]","Overview
+
+VTG is seeking a motivated Data Scientist to join our team supporting a program focused on Supply Chain Risk Management (SCRM). The successful candidate will contribute to the development of data-driven insights and analytic solutions that help identify, assess, and mitigate risks in complex supply chains. This position (hybrid role) will report to the Washington Navy Yard in Washington, DC.
+
+What will you do?
+
+• Apply statistical methods, artificial intelligence, machine learning, and predictive modeling to identify patterns, anomalies, and potential risks
+• Write clean, efficient, and well-documented code in Python leveraging data science libraries (e.g., pandas, NumPy, scikit-learn, PyTorch, TensorFlow)
+• Query, manipulate, and analyze structured and unstructured data from databases (SQL, NoSQL, Hive, etc.)
+• Support data ingestion, processing, and visualization workflows to deliver actionable insights to government stakeholders
+• Collaborate with a cross-functional team of analysts, data engineers, front-end developers, and subject matter experts to deliver mission-critical solutions
+• Present findings through reports, dashboards, and briefings to both technical and non-technical audiences
+• Develop and implement data science solutions to analyze large and complex datasets related to supply chain networks
+
+Do you have what it takes?
+
+Required Qualifications
+
+• Bachelor’s degree in Data Analytics, Statistics, Economics, Supply Chain Management, Computer Science, or a related field
+• 1–3 years of hands-on experience in data science, analytics, or applied machine learning
+• Strong proficiency in Python and core data science libraries
+• Experience with databases (SQL and/or NoSQL) for querying and analysis
+• Strong problem-solving skills and the ability to communicate technical insights clearly
+• Must have and maintain a Secret clearance-eligible for a Top Secret clearance
+• U.S. citizenship
+
+Desired Qualifications/Skills/Abilities
+
+• Background or coursework in Supply Chain Management, Logistics, or Risk Analysis
+• Experience with big data tools (Hadoop, Spark, Hive, etc.)
+• Familiarity with government contracting or defense-related projects
+• Experience developing in Cloudera Data Science Workbench (CDSW)
+
+Travel Requirements
+
+Minimal travel, mostly in the Washington DC area.
+
+Pay Range: VTG’s estimated starting pay range is $90,000-$120,000 annually, which is a general guideline for the geographic location. When extending an offer, VTG also considers work experience, education, skill level, market considerations and may possibly include contractual requirements which may cause an offer to fall outside of this range.",True,17 days ago,1778630400.0,2026-05-13T00:00:00.000Z,Anywhere,,,,,,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRGQgFa0WBFT7-bYWAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+fanZ9496yumHECojAAAAAA==,"Data Scientist: NLP, GenAI & Visualization",Accenture,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUgXT7fSzUAzsFdPzgV0cLhWHP5Aw2aDO4w46x&s=0,https://www.accenture.com,BeBee,Full-time,['FULLTIME'],https://bebee.com/us/jobs/data-scientist-nlp-genai-visualization-accenture-washington-dc-united-states--jobgoal-9663_0b0168d0fb027b58073a2fc1c0a0ccf5,False,"[{'apply_link': 'https://bebee.com/us/jobs/data-scientist-nlp-genai-visualization-accenture-washington-dc-united-states--jobgoal-9663_0b0168d0fb027b58073a2fc1c0a0ccf5', 'is_direct': False, 'publisher': 'BeBee'}]","A leading technology firm is seeking a data analyst to drive positive change within federal agencies. The role involves analyzing data trends, developing machine learning models, and creating interactive visualizations. Candidates should have experience in NLP, Python, and data visualization tools like Power BI. This position offers a competitive salary range and supports federal missions with strategic insights.",False,7 days ago,1779494400.0,2026-05-23T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfanZ9496yumHECojAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
