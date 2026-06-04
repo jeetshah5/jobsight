@@ -1,103 +1,143 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews
-xzxskB7-M1gfc9AfAAAAAA==,"AI/ML Data Scientist - MLOps, Quantitative, Statistics",Jobs via Dice,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/ai-ml-data-scientist-mlops-quantitative-statistics-at-jobs-via-dice-4424019133,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/ai-ml-data-scientist-mlops-quantitative-statistics-at-jobs-via-dice-4424019133', 'is_direct': False, 'publisher': 'LinkedIn'}]","Dice is the leading career destination for tech experts at every stage of their careers. Our client, SES, is seeking the following. Apply via Dice today!
+5Z72jmoq9Lysu8VvAAAAAA==,"Data Scientist, Mid",Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4423098555,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4423098555', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0241455
 
-Sr AI/ML Engineer With Data Scientist And MLOps Experience
+Data Scientist, Mid
 
-Type: W2 With Benefits - No C2C
+The Opportunity:
 
-Location: Hybrid 2-3 days onsite in Washington, DC
+As a data scientist, you’re excited at the prospect of unlocking the secrets held by a data set, and you’re fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors from fraud detection to cancer research, to national intelligence, we need you to help find the answers in the data.
 
-Top 5 Technical Skills:
+On our team, you’ll use your leadership skills and data science expertise to create real-world impact. You’ll work closely with clients to understand their questions and needs, and then dig into their data-rich environments to find the pieces of their information puzzle. You’ll guide teammates and lead the development of algorithms and systems. You’ll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you’ll provide a deep understanding of the data, what it all means, and how it can be used.
 
-• Statistical modeling, machine learning, AI, and applied analytics
-• Python
-• AWS ML Platforms (AWS SageMaker, MLFlow, S3, compute services, Redshift)
-• Model deployment and MLOps practices
-• Data Processing
+Work with us as we use data science for good.
 
-Job Description:
+Join us. The world can’t wait.
 
-We are seeking a Full Stack Data Scientist to develop AI/ML solutions end-to-end, from business problem formulation and model development through production-ready application delivery and operationalization. This role combines deep modeling expertise, strong software engineering skills, and practical MLOps experience. The ideal candidate builds models that matter, writes code that lasts, and partners with platform teams to deploy, monitor, and operate AI/ML solutions efficiently and reliably at scale.
+You Have:  
 
-Key Responsibilities
+• 2+ years of experience using data science programming languages such as Python or R
+• Experience creating ETL pipelines, including querying APIs, cleaning and conditioning data, and creating schemas for data storage
+• Experience with version control tools, including git, GitLab, GitHub, or Bitbucket
+• Knowledge of statistical analysis, predictive modeling, and machine learning methods
+• Ability to design and develop automated analytic software, techniques, and algorithms
+• Ability to develop solutions and integrate and extend free and open-source software (FOSS) or COTS products
+• Ability to generate data visualizations with tools such as Tableau, Power BI, or ArcGIS
+• TS/SCI clearance
+• Bachelor’s degree and 3+ years of experience in data science, or 7+ years of experience in data science in lieu of a degree
 
-• Translate complex business requirements into AI/ML-based technical solutions and ensure efficiency, scalability and reliability
-• Design, develop, validate, and document AI/ML models and applications
-• Build production-grade Python code and pipelines for data processing, feature engineering, training, and inference.
-• Develop model-driven applications and services (batch or real-time).
-• Apply software engineering best practices including modular design, testing, code reviews, and CI/CD.
-• Collaborate with MLOps teams on deployment, monitoring, versioning, and retraining.
-• Implement model performance, stability, and data drift monitoring.
-• Produce documentation to support governance, validation, and audit requirements.
+Nice If You Have:  
 
-Required Qualifications
+• Experience working with GEOINT, HUMINT, MASINT, OSINT, and SIGINT and the data and tools associated with these disciplines
+• Experience with intelligence or operations analysis in the DoD or Intelligence Community
+• Knowledge of DevOps, including CI/CD pipelines and Jenkins
+• TS/SCI clearance with a polygraph
 
-• Proven hands-on experience (6+ years preferred) in production-ready models and applications that solve real business problems while actively participating in MLOps to ensure solutions operate reliably in production.
-• Strong experience in statistical modeling, machine learning, AI, and applied analytics.
-• Advanced proficiency in Python, ML libraries, SQL, and big data processing (e.g. pandas, NumPy, scikit-learn, TensorFlow, PySpark ).
-• Experience writing production-ready, maintainable code and application design.
-• Strong experience with AWS cloud ML platforms (e.g., AWS SageMaker, MLFlow, S3, compute services, Redshift).
-• Experience with model deployment and MLOps practices
-• Strong problem-solving and communication skills.
+Clearance: 
 
-Education Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, Engineering, or a related quantitative field.
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required. 
 
-Benefits:
+Compensation
 
-SES hires W2 benefitted and non-benefitted consultants. Our contract employee benefits include group medical dental vision life LT and ST disability insurance, 21 days of accrued paid time off, 401k, tuition reimbursement, performance bonuses, paid overtime, and more.
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
 
-Please contact me to discuss the details of this position further.
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $77,600.00 to $176,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.
 
-• Please forward resume directly to for immediate consideration - rstarinieri at sesc .com
+Identity Statement
 
-I look forward to speaking with you soon!
+As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
 
-Robin Starinieri
+Candidate AI Usage Policy
 
-Director of Recruiting
+AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.
 
-Systems Engineering Services",False,9 hours ago,1780448400.0,2026-06-03T01:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxzxskB7-M1gfc9AfAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-yvqIJWymez93d0lTAAAAAA==,Data Scientist Jobs,SPA,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://clearancejobs.com&size=128",,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8951218/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/8951218/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Overview
+Work Model
 
-Systems Planning and Analysis, Inc. (SPA) is a well-established and progressive defense contracting company in the DC Metro area. We are a professional services firm established in 1972 that has a long-standing reputation for unrivaled technical and analytical support to some of the top decision makers in the Federal Sector. We do state-of-the-art work and have a cadre of outstanding professionals on our team.
+Our people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.
 
-The Joint, Office of the Secretary of Defense, Interagency Division (JOID) provides expert support services to a range of customers spanning across the Department of Defense, Federal Civilian, and international markets. JOID provides a diverse portfolio of analytical and programmatic capabilities to help our customers make informed decisions on their most challenging issues.
+• Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.
+• Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.
+• Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.
 
-JOID assists the Defense Threat Reduction Agency (DTRA) in developing leading edge technologies to counter WMD in support of Combatant Commands (CCMDs) and transitioning these technologies to military services and Combatant Commanders (COCOMs). SPA provides expertise across the full range of chemical, biological, radiological, nuclear and high-yield explosives (CBRNE) WMD, Counter Improvised Threat and Countering Threat Network technologies to support understanding, detection, identification, characterization, denial, control, disabling, defeating, disposing, safeguarding the force, managing consequences, and test and evaluation in support of military and civilian operations.
+Commitment to Non-Discrimination
 
-We have a near-term need for a Data Scientist to provide onsite support in Lorton, VA.
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,8 hours ago,1780534800.0,2026-06-04T01:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5Z72jmoq9Lysu8VvAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+OSnh9I2bWSvYy1KBAAAAAA==,Data Scientist  (Full-Time position),Jobs via Dice,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-full-time-position-at-jobs-via-dice-4424252320,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-full-time-position-at-jobs-via-dice-4424252320', 'is_direct': False, 'publisher': 'LinkedIn'}]","Dice is the leading career destination for tech experts at every stage of their careers. Our client, SumasEdge Corporation, is seeking the following. Apply via Dice today!
 
-Responsibilities
+Job Title:- Data Scientist
 
-The candidate will assist the Nuclear Technologies Detection (NTD) Division in providing a data science services capable of supporting scalable, highly available application solutions that leverage cloud native services; supporting the transformation of monolithic, legacy applications to a more modular, micro-services architecture; providing artificial intelligence and machine learning (AI/ML) pipeline architecture design, development, and test knowledge and expertise with respect to AI/ML areas including natural language processing, computer vision, machine learning, and large language modeling; providing data architecture design, development and test knowledge and expertise with respect to cloud architecture, design patterns, and data analysis requirements; and defining data architectures that support both the enterprise and application-level capabilities with systems and network security, scalability, fault tolerance and optimal performance. Apply strong expertise in analyzing, interpreting, and applying modeling tools and an understanding of DoD initiatives aimed at closing knowledge gaps by supporting foundational research, hazard modeling, and data/computer science to support the warfighter. Stay abreast of current novel science and technology (S&T) in the field while exhibiting programmatic skills to trace capabilities to stakeholder requirements. The position is for in-person work at the DTRA HQ in Lorton, VA, at least 2 days a week and additional days as the government requires to complete mission objectives.
+Location:- Arlington, Virginia that is currently looking to fill an open full-time (PERM) Data Scientist position. This role will require 100% onsite support.
+
+Duration:- 12-24 months +
+
+Client:- Oil and Gas
+
+Visa:- H1
+
+Add note- Once again, this is a 100% fully onsite position. Try to locate candidate with at least 3 years’ experience in their most recent position. Please forward qualified candidate for review and don’t hesitate advising if any questions.
+
+Job Description-:
 
 Qualifications
 
-Required:
-• BS in Data Science, Mathematics, Computer Science, or a related technical field.
-• 3+ years of experience in application of scientific principles for scientific research, analysis, and modeling involving data/software.
-• Experience in the following areas: • Analyzing and recommending approaches for making heterogeneous data sources broadly available for discoverability and access to support a wide consumer-base, analytic needs, and use by diverse applications, services, and systems.
-• Aiding in optimizing the management of data across nodes and the performance of distribution, search, and retrieval.
-• Executing analytical experiments and prototyping to help solve problems across various domains and industries.
-• Identifying relevant data sources and sets to mine for client business needs, and collect large structured and unstructured datasets and variables.
+• 7+ years of practical data science/data analytics experience.
+• Master’s degree (or PhD level) in Computer Science, Data Analytics, Engineering, Mathematics, Business, or related field of study.
+• Knowledge in cloud data analytics solutions, managing, developing, and maintaining machine learning solutions.
+• Fundamental skills in data processing languages such as SQL, Python, or Scala.
+• Knowledge in building data science solutions using cloud data services.
+• Strong documentations skills.
+• Excellent interpersonal and communications skills, with strong critical thinking and attention to detail.
+• Experience with Azure infrastructure especially Azure Data Lake and Azure Data Factory.
+• Experience using Databricks for machine learning algorithm development
+• Experience in coding languages primarily PySpark, Python, and SQL.",False,14 hours ago,1780513200.0,2026-06-03T19:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOSnh9I2bWSvYy1KBAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+qogHXK-MQfp02rh7AAAAAA==,Alternative Data Scientist - Hedge Fund / Consulting Joint Venture - Up to $250K Base,Saragossa,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIz5W7IIo_zu1y3AubPFgLXGkIHYf920Ji5lbH&s=0,https://saragossa.co.uk,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/alternative-data-scientist-hedge-fund-consulting-joint-venture-up-to-%24250k-base-at-saragossa-4420121143,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/alternative-data-scientist-hedge-fund-consulting-joint-venture-up-to-%24250k-base-at-saragossa-4420121143', 'is_direct': False, 'publisher': 'LinkedIn'}]","You get to shape how a newly formed macro research team thinks about the world, using data most economists never get close to.
 
-• Ability to accomplish tasks with minimal supervision and a demonstrated proactive work approach, with a strong sense of accountability, work ethic, and punctuality.
-• Self-starter, self-motivated, problem solver, with demonstrated critical and analytical thinking and multi-tasking skills.
-• Excellent written and oral communication skills.
-• Agility with computer software and Microsoft Office products.
-• Active DoD Secret clearance with the abiltiy to obtain a Top Secret clearance.
-• Broad understanding of DTRA and DTRA RD's mission and organization.
-• Able to travel of 10-20% to support program goals and deliver reports or presentations.
+This is a chance to join a joint venture between a top-tier management consulting firm and one of the most respected global macro funds around, building something together from scratch. You're coming in early, which means your work doesn't disappear into a drawer. It moves markets.
 
-Desired:
-• MS in a STEM or related field and 5+ years of related experience in that field.
-• Experience within or working with the CBDP enterprise (JPEO, JSTO, JRO, National Labs, DoD Service Labs, DHS, DARPA, BARDA).
-• An understanding of database management, data trends analysis, data structures, databases, and data warehousing.
-• Experience working with national strategy and doctrine development or implementation.
-• Active TS/SCI clearance.
-• Knowledge of/experience in Federal/DoD acquisition.
-• Experience with AR/VR/XR, and TAK products.
-• Experience analyzing data to produce reports and improve processes for U.S. Military Projects.",False,10 hours ago,1780444800.0,2026-06-03T00:00:00.000Z,"Lorton, VA",Lorton,Virginia,US,38.704282,-77.2277603,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyvqIJWymez93d0lTAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Your job is to take large, complex alternative datasets and turn them into macroeconomic insight that actually gets used. Real assets under management. Real conviction behind the research. The analysis you produce informs how the fund views the world, not how a slide deck reads in a quarterly review.
+
+The data environment here is serious. You're working with sources and scale that most research roles simply don't have access to. If you've spent time frustrated by the gap between the questions you want to answer and the data you're allowed to touch, that gap closes here.
+
+You have an advanced degree in economics or a related field. You're fluent in econometrics and applied statistics. You've worked with large, messy, real-world datasets and you know how to make them say something meaningful. This would suit someone looking to make a genuine step up in terms of impact and access.
+
+Ready to do work that actually moves something?
+
+Get in touch.
+
+No up-to-date CV required.",False,20 hours ago,1780491600.0,2026-06-03T13:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqogHXK-MQfp02rh7AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+HxQ5TqGDT6qlqFvGAAAAAA==,Data Scientist Principal,SAIC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoLMPc4BmkZwrPV5trv8lm_Tdhu47_qXpFie9&s=0,,SAIC Careers,Full-time,['FULLTIME'],https://jobs.saic.com/jobs/17665625-data-scientist-principal,False,"[{'apply_link': 'https://jobs.saic.com/jobs/17665625-data-scientist-principal', 'is_direct': False, 'publisher': 'SAIC Careers'}]","Description
+
+﻿We are seeking a highly skilled and motivated AI Utilization Specialist with robust data science acumen to support the Headquarters United States Air Force Strategic Deterrence and Nuclear Integration, Nuclear Systems Integration Division (AF/A10XC). The ideal candidate will drive the integration of Artificial Intelligence (AI) tools and workflow automation within divisional processes while aligning operational practices with Department of War (DoW) guidance and policies. This position requires critical thinking, technical expertise, and collaboration across various stakeholders. Work will be performed onsite in the Arlington, VA area (Pentagon).
+
+Duties and Responsibilities:
+• Analyze divisional workflows to identify areas for process improvement through automation, recommending and implementing AI-driven efficiencies.
+• Develop and implement Standard Operating Procedures (SOPs) for AI tool deployment and utilization tailored to the needs of the AF/A10XC division.
+• Interpret and apply DoW guidance, including GenAI.mil policies, ensuring AI employment adheres to regulatory, ethical, and technical standards.
+• Act as a liaison between technical teams, leadership, and end-users to facilitate seamless adoption of AI tools and automated workflows.
+• Create detailed documentation and training materials to support sustainable AI usage. Conduct training sessions as needed for end-users.
+
+Qualifications
+
+Required Qualifications:
+
+Active Top Secret (TS) clearance
+
+Excellent oral and written communication skills, with the ability to convey complex technical topics to both technical and non-technical stakeholders.
+
+Familiarity with AI tools, workflow automation and DoW AI policies (GenAI.mil)
+
+Education:
+
+Bachelor’s degree (BA/BS) and a minimum of 10 years of professional experience, OR Master’s degree (MA/MS) with a minimum of 8 years of professional experience.
+
+Desired Experience and Skills:
+
+Familiarity with Air Force organizational structure, processes, and operations, particularly in the context of nuclear integration or strategic deterrence.
+
+Working knowledge of collaboration platforms (e.g., SharePoint) and task management tools used in DoD or large-scale organizational settings.
+
+Proven track record in developing workflow modernization frameworks and AI-based process enhancements.
+
+DoD staff or Headquarters support experience",False,2 days ago,1780358400.0,2026-06-02T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHxQ5TqGDT6qlqFvGAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 Blo9ax5G-P6YBgh6AAAAAA==,Senior Data Scientist,Boeing,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrZMAXhe-mD5loYAi7dRFR0HOLo2zbmY5kUnuq&s=0,https://www.boeing.com,Boeing,Full-time,['FULLTIME'],https://jobs.boeing.com/job/arlington/senior-data-scientist/185/95013450592,False,"[{'apply_link': 'https://jobs.boeing.com/job/arlington/senior-data-scientist/185/95013450592', 'is_direct': False, 'publisher': 'Boeing'}]","Job Description
 
 At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
@@ -177,7 +217,7 @@ This position is for 1st shift
 
 Equal Opportunity Employer:
 
-Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",False,22 days ago,1778544000.0,2026-05-12T00:00:00.000Z,"Arlington, VA  (+1 other)",,,,,,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBlo9ax5G-P6YBgh6AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",False,23 days ago,1778544000.0,2026-05-12T00:00:00.000Z,"Arlington, VA  (+1 other)",,,,,,"['health_insurance', 'dental_coverage']","['Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBlo9ax5G-P6YBgh6AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 zRvGeQjEc2WeRtbqAAAAAA==,Data Scientist - TS/SCI,Integrity Management Consulting,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlHurURt5hwQrdvFcophw9pQTLef2rBWuDFWb&s=0,https://integritymc.com,Indeed,Full-time and Contractor,"['FULLTIME', 'CONTRACTOR']",https://www.indeed.com/viewjob?jk=2886f799ab6fb6bd,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=2886f799ab6fb6bd', 'is_direct': False, 'publisher': 'Indeed'}]","Location: Washington, D.C.
 
 Required Qualifications
@@ -215,73 +255,47 @@ Location
 Clearance
 
 • Preferred clearance is Top Secret/Sensitive Compartmented Information (TS/SCI).",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzRvGeQjEc2WeRtbqAAAAAA%3D%3D&vssid=jobs-detail-viewer,,120K–165K a year,120000.0,165000.0,YEAR,{},,,
-HxQ5TqGDT6qlqFvGAAAAAA==,Data Scientist Principal,SAIC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwoLMPc4BmkZwrPV5trv8lm_Tdhu47_qXpFie9&s=0,,SAIC Careers,Full-time,['FULLTIME'],https://jobs.saic.com/jobs/17665625-data-scientist-principal,False,"[{'apply_link': 'https://jobs.saic.com/jobs/17665625-data-scientist-principal', 'is_direct': False, 'publisher': 'SAIC Careers'}]","Description
+yvqIJWymez93d0lTAAAAAA==,Data Scientist Jobs,SPA,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://clearancejobs.com&size=128",,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8951218/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/8951218/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Overview
 
-﻿We are seeking a highly skilled and motivated AI Utilization Specialist with robust data science acumen to support the Headquarters United States Air Force Strategic Deterrence and Nuclear Integration, Nuclear Systems Integration Division (AF/A10XC). The ideal candidate will drive the integration of Artificial Intelligence (AI) tools and workflow automation within divisional processes while aligning operational practices with Department of War (DoW) guidance and policies. This position requires critical thinking, technical expertise, and collaboration across various stakeholders. Work will be performed onsite in the Arlington, VA area (Pentagon).
+Systems Planning and Analysis, Inc. (SPA) is a well-established and progressive defense contracting company in the DC Metro area. We are a professional services firm established in 1972 that has a long-standing reputation for unrivaled technical and analytical support to some of the top decision makers in the Federal Sector. We do state-of-the-art work and have a cadre of outstanding professionals on our team.
 
-Duties and Responsibilities:
-• Analyze divisional workflows to identify areas for process improvement through automation, recommending and implementing AI-driven efficiencies.
-• Develop and implement Standard Operating Procedures (SOPs) for AI tool deployment and utilization tailored to the needs of the AF/A10XC division.
-• Interpret and apply DoW guidance, including GenAI.mil policies, ensuring AI employment adheres to regulatory, ethical, and technical standards.
-• Act as a liaison between technical teams, leadership, and end-users to facilitate seamless adoption of AI tools and automated workflows.
-• Create detailed documentation and training materials to support sustainable AI usage. Conduct training sessions as needed for end-users.
+The Joint, Office of the Secretary of Defense, Interagency Division (JOID) provides expert support services to a range of customers spanning across the Department of Defense, Federal Civilian, and international markets. JOID provides a diverse portfolio of analytical and programmatic capabilities to help our customers make informed decisions on their most challenging issues.
+
+JOID assists the Defense Threat Reduction Agency (DTRA) in developing leading edge technologies to counter WMD in support of Combatant Commands (CCMDs) and transitioning these technologies to military services and Combatant Commanders (COCOMs). SPA provides expertise across the full range of chemical, biological, radiological, nuclear and high-yield explosives (CBRNE) WMD, Counter Improvised Threat and Countering Threat Network technologies to support understanding, detection, identification, characterization, denial, control, disabling, defeating, disposing, safeguarding the force, managing consequences, and test and evaluation in support of military and civilian operations.
+
+We have a near-term need for a Data Scientist to provide onsite support in Lorton, VA.
+
+Responsibilities
+
+The candidate will assist the Nuclear Technologies Detection (NTD) Division in providing a data science services capable of supporting scalable, highly available application solutions that leverage cloud native services; supporting the transformation of monolithic, legacy applications to a more modular, micro-services architecture; providing artificial intelligence and machine learning (AI/ML) pipeline architecture design, development, and test knowledge and expertise with respect to AI/ML areas including natural language processing, computer vision, machine learning, and large language modeling; providing data architecture design, development and test knowledge and expertise with respect to cloud architecture, design patterns, and data analysis requirements; and defining data architectures that support both the enterprise and application-level capabilities with systems and network security, scalability, fault tolerance and optimal performance. Apply strong expertise in analyzing, interpreting, and applying modeling tools and an understanding of DoD initiatives aimed at closing knowledge gaps by supporting foundational research, hazard modeling, and data/computer science to support the warfighter. Stay abreast of current novel science and technology (S&T) in the field while exhibiting programmatic skills to trace capabilities to stakeholder requirements. The position is for in-person work at the DTRA HQ in Lorton, VA, at least 2 days a week and additional days as the government requires to complete mission objectives.
 
 Qualifications
 
-Required Qualifications:
+Required:
+• BS in Data Science, Mathematics, Computer Science, or a related technical field.
+• 3+ years of experience in application of scientific principles for scientific research, analysis, and modeling involving data/software.
+• Experience in the following areas: • Analyzing and recommending approaches for making heterogeneous data sources broadly available for discoverability and access to support a wide consumer-base, analytic needs, and use by diverse applications, services, and systems.
+• Aiding in optimizing the management of data across nodes and the performance of distribution, search, and retrieval.
+• Executing analytical experiments and prototyping to help solve problems across various domains and industries.
+• Identifying relevant data sources and sets to mine for client business needs, and collect large structured and unstructured datasets and variables.
 
-Active Top Secret (TS) clearance
+• Ability to accomplish tasks with minimal supervision and a demonstrated proactive work approach, with a strong sense of accountability, work ethic, and punctuality.
+• Self-starter, self-motivated, problem solver, with demonstrated critical and analytical thinking and multi-tasking skills.
+• Excellent written and oral communication skills.
+• Agility with computer software and Microsoft Office products.
+• Active DoD Secret clearance with the abiltiy to obtain a Top Secret clearance.
+• Broad understanding of DTRA and DTRA RD's mission and organization.
+• Able to travel of 10-20% to support program goals and deliver reports or presentations.
 
-Excellent oral and written communication skills, with the ability to convey complex technical topics to both technical and non-technical stakeholders.
-
-Familiarity with AI tools, workflow automation and DoW AI policies (GenAI.mil)
-
-Education:
-
-Bachelor’s degree (BA/BS) and a minimum of 10 years of professional experience, OR Master’s degree (MA/MS) with a minimum of 8 years of professional experience.
-
-Desired Experience and Skills:
-
-Familiarity with Air Force organizational structure, processes, and operations, particularly in the context of nuclear integration or strategic deterrence.
-
-Working knowledge of collaboration platforms (e.g., SharePoint) and task management tools used in DoD or large-scale organizational settings.
-
-Proven track record in developing workflow modernization frameworks and AI-based process enhancements.
-
-DoD staff or Headquarters support experience",False,1 day ago,1780358400.0,2026-06-02T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHxQ5TqGDT6qlqFvGAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-1qQWw6OMQC9K4cHxAAAAAA==,Lead Data Scientist,"Next Gen IT, Inc",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYCdBdap3Gtck0epoYQu-38iuB88PIhDpsYwR2&s=0,https://www.nextgenitinc.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/lead-data-scientist-at-next-gen-it-inc-4421355523,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/lead-data-scientist-at-next-gen-it-inc-4421355523', 'is_direct': False, 'publisher': 'LinkedIn'}]","Location: Bethesda, MD or Boca Raton, FL
-
-Onsite - 5 days onsite (***Bethesda is highly preferred***)
-
-You will
-
-• Be responsible for designing machine learning and AI models by framing business problems, engineering features, and selecting appropriate algorithms and architectures. When designing solutions create processes that can be utilized for multiple business reasons and is adaptable. Responsible for larger more complex business problems that are multi-dimensional.
-• Train models by preparing data, fitting algorithms, tuning hyperparameters, and validating robustness through cross-validation techniques. Prior to development able to articulate the trade-off on different modeling techniques and implications when applied to business problem.
-• Validate model performance using statistical metrics, conduct fairness and bias assessments, and perform error analysis to refine model quality. Create evaluation metrics and results that tie to business outcomes. Able to articulate how model performance gain equates to business value.
-• Deploy models into production environments by packaging them appropriately, integrating with systems, automating deployment workflows, including robust error handling and documenting for maintainability.
-• Deploy models into production environments by packaging them appropriately, integrating with systems, automating deployment workflows, including robust error handling and documenting for maintainability.
-• Monitor deployed models by tracking performance over time, detecting data drift, triggering retraining when necessary, and implementing logging and alerting mechanisms.
-• Working with junior team members to discuss trade-offs and solutions for team members business problems. Provide thought leadership on different ways to advance the business utilizing machine learning and AI.
-• Communicate model results and trade-offs to leadership and stakeholder.
-
-You will come with
-
-• Bachelor''s Degree in Data Science, Computer Science, Mathematics, Statistics, Economics or related fields required or equivalent years of experience.
-• Master''s Degree in Computer Science, Mathematics, Statistics or related field preferred.
-• 5-8 years in data science, predictive analytics, econometrics, software engineering, data engineering or related fields preferred.
-• Proven expertise in designing and architecting advanced machine learning and AI solutions, including leading efforts to frame complex business problems, define scalable feature engineering strategies, and select optimal algorithms and architectures for enterprise-level applications.
-• Proven expertise in model training and optimization, with the ability to design efficient training pipelines, implement distributed training strategies, and apply sophisticated hyperparameter tuning techniques to maximize performance and scalability.
-• Proven expertise in model validation and governance, including establishing rigorous evaluation frameworks, conducting comprehensive fairness and bias audits, and driving continuous improvement through advanced error analysis and benchmarking.
-• Proven expertise in production deployment of ML systems, including designing robust CI/CD pipelines, implementing containerization and orchestration (e.g., Docker, Kubernetes), and ensuring compliance with security and reliability standards across cloud environments.
-• Oversight of model monitoring and lifecycle management, including building automated monitoring systems, implementing drift detection and retraining workflows, and defining alerting mechanisms to maintain long-term model health and business impact.
-• Expert-level programming skills in Python and SQL, with the ability to develop production-grade code, optimize queries for large-scale datasets, and mentor team members on best practices for coding and data management.
-• Working with junior team members to discuss trade-offs and solutions for team members business problems. Provide thought leadership on different ways to advance the business utilizing machine learning and AI.
-
-Top Skills Needed
-
-• End‑to‑end machine learning system design Ability to frame complex, multi‑dimensional business problems into scalable ML/AI solutions - covering feature engineering, algorithm selection, model architecture, and ensuring designs are reusable and adaptable across the enterprise.
-• Production ML engineering & lifecycle management Strong experience deploying, monitoring, and maintaining ML models in production, including CI/CD pipelines, containerization (Docker/Kubernetes), cloud environments, performance monitoring, drift detection, and automated retraining to ensure long‑term reliability and business impact.
-• Model validation, governance & business communication Expertise in validating models using statistical metrics, fairness and bias assessments, error analysis, and clearly translating model performance and trade‑offs into business value for leadership and stakeholders.",False,5 days ago,1780012800.0,2026-05-29T00:00:00.000Z,"Chevy Chase, MD",Chevy Chase,Maryland,US,38.9961473,-77.07727229999999,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1qQWw6OMQC9K4cHxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Desired:
+• MS in a STEM or related field and 5+ years of related experience in that field.
+• Experience within or working with the CBDP enterprise (JPEO, JSTO, JRO, National Labs, DoD Service Labs, DHS, DARPA, BARDA).
+• An understanding of database management, data trends analysis, data structures, databases, and data warehousing.
+• Experience working with national strategy and doctrine development or implementation.
+• Active TS/SCI clearance.
+• Knowledge of/experience in Federal/DoD acquisition.
+• Experience with AR/VR/XR, and TAK products.
+• Experience analyzing data to produce reports and improve processes for U.S. Military Projects.",False,1 day ago,1780444800.0,2026-06-03T00:00:00.000Z,"Lorton, VA",Lorton,Virginia,US,38.704282,-77.2277603,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyvqIJWymez93d0lTAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 voCJvnl-ZL9ecgblAAAAAA==,"Data Scientist, Mid level",Planet Technologies,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbHCIeohnBTeJxGW-91yFkeeI-NV3mSsgbm8Dz&s=0,https://go-planet.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=521763da910891c2,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=521763da910891c2', 'is_direct': False, 'publisher': 'Indeed'}]","Planet Technologies, the Nation’s leading Microsoft services provider to the public sector, is looking for a highly motivated individual to join our growing team as Mid level Data Scientist. In this role, you will be supporting impactful projects that make a difference for our country.
 
 Responsibilities
@@ -333,64 +347,6 @@ Salaries for Data Scientist, Mid at Planet Technologies range from $125,000 and 
 Visit www.go-planet.com to learn more about us. Details about our benefits can be found here Planet Technologies Benefit Guide 2025-2026
 
 We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvoCJvnl-ZL9ecgblAAAAAA%3D%3D&vssid=jobs-detail-viewer,,125K–200K a year,125000.0,200000.0,YEAR,{},,,
-ctn4uxW1ebh4f9LRAAAAAA==,"Data Scientist, Mid",Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4413291035,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4413291035', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0239482
-
-Data Scientist, Mid
-
-The Opportunity:
-
-Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global challenges. Across private and public sectors — from fraud detection, to cancer research, to national intelligence — you know the answers are in the data.
-
-We have an opportunity for you to use your analytical skills to improve our business. You’ll work closely with your customer to understand their questions and needs, and then dig into their data-rich environment to find the pieces of their information puzzle. You’ll apply analytical skills and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help clients make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good in advising.
-
-Join us. The world can’t wait.
-
-You Have:
-
-• 2+ years of experience in data science in a professional work environment
-• Experience with machine learning, data mining, statistics, or graph algorithms in academic or internship environments
-• Experience in data gathering, analytical, and problem-solving work
-• Knowledge of an object-oriented language, including Java, C++, C#, or Python
-• Knowledge of SQL
-• Secret clearance
-• Bachelor’s degree in a STEM field
-
-Nice If You Have:
-
-• Experience with using R, Perl, Python, Tableau, SAS, or SPSS for data analysis
-• Experience with AWS, including S3 and Lamda
-• Possession of excellent verbal and written communication skills
-• Possession of excellent interpersonal skills
-
-Clearance:
-
-Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; Secret clearance is required.
-
-Compensation
-
-At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen’s benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
-
-Salary at Booz Allen is determined by various factors, including but not limited to location, the individual’s particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $77,600.00 to $176,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen’s total compensation package for employees. This posting will close within 90 days from the Posting Date.
-
-Identity Statement
-
-As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
-
-Candidate AI Usage Policy
-
-AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.
-
-Work Model
-
-Our people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.
-
-• Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.
-• Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.
-• Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.
-
-Commitment to Non-Discrimination
-
-All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,1 day ago,1780358400.0,2026-06-02T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dctn4uxW1ebh4f9LRAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 emzmUpKef0JYGQE4AAAAAA==,"Data Scientist - Machine Learning, Search & Personalization",Turn2Partners,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://turn2partners.com&size=128",https://www.turn2partners.com,ZipRecruiter,Full-time,['FULLTIME'],"https://www.ziprecruiter.com/c/Turn2Partners/Job/Data-Scientist-Machine-Learning,-Search-&-Personalization/-in-Washington,DC?jid=b8ceeee026944c87",False,"[{'apply_link': 'https://www.ziprecruiter.com/c/Turn2Partners/Job/Data-Scientist-Machine-Learning,-Search-&-Personalization/-in-Washington,DC?jid=b8ceeee026944c87', 'is_direct': False, 'publisher': 'ZipRecruiter'}]","This Turn2 client is a rapidly scaling technology company that is seeking a Data Scientist to design and deploy intelligent systems that shape how users search, discover, and interact with digital products. This role sits at the intersection of research and product, ideal for someone eager to solve hard problems at scale using applied ML.
 
 You'll lead the development of real-time ranking, recommendation, and personalization models, working closely with engineering and product stakeholders to drive measurable user impact.
@@ -418,81 +374,41 @@ Bonus Points For:
 • Advanced degree in Computer Science, Data Science, or a related technical field.
 • Experience with cloud platforms like AWS, GCP, or Azure.
 • Familiarity with real-time inference systems or large-scale retrieval architectures.
-• Ability to bridge ML research and product needs-delivering practical solutions with business impact.",False,1 month ago,1777766400.0,2026-05-03T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DemzmUpKef0JYGQE4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-Z8IsTwcGucEkAgJBAAAAAA==,"Manager, Data Scientist - Model Risk Office",Capital One,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://capitalone.com&size=128",https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/manager-data-scientist-model-risk-office/1732/91589939936,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/manager-data-scientist-model-risk-office/1732/91589939936', 'is_direct': False, 'publisher': 'Capital One Career'}]","Manager, Data Scientist - Model Risk Office
+• Ability to bridge ML research and product needs-delivering practical solutions with business impact.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DemzmUpKef0JYGQE4AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+5uNHcxzmJUWPcTUnAAAAAA==,Data Scientist / ML Engineer - Army (TS/SCI) with Security Clearance,Praescient Analytics,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sFvEqesS_Glp3UqbQRNRRjDiC3wDqemN_kio&s=0,https://praescientanalytics.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-ml-engineer-army-ts-sci-with-security-clearance-at-praescient-analytics-4419422097,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-ml-engineer-army-ts-sci-with-security-clearance-at-praescient-analytics-4419422097', 'is_direct': False, 'publisher': 'LinkedIn'}]","Location: Arlington, VA Clearance Required: Active TS/SCI Clearance Employment Type: Full-Time (W-2 or 1099) Overview Praescient Analytics is seeking a highly motivated Data Scientist / Machine Learning Engineer to support our Department of Defense (DoD) and national security partners. The ideal candidate will have a strong background in data science, machine learning, and software engineering, with the ability to design and implement cutting-edge solutions that transform complex datasets into actionable insights. This role requires both analytical acumen and technical creativity to solve real-world intelligence and defense challenges through the power of AI. Responsibilities
 
-Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
-
-As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
-
-Team Description
-The Capital One Model Risk Office is dedicated to safeguarding the company from model failures while simultaneously enhancing decision-making through models, including unique risks associated with Generative AI (GenAI). Leveraging expertise in statistics, software engineering, and business, we strive to achieve optimal results for both Risk Management and the broader Enterprise. We prioritize long-term success by continually investing in future capabilities: acquiring new skills, developing superior tools, and cultivating strong relationships with trusted partners. Our approach involves learning from past errors to develop increasingly robust techniques that prevent recurrence.
-
-Role Description
-In this role, you will:
-• Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
-
-• Leverage a broad stack of technologies — Python, Conda, AWS, H2O, Spark, and more — to reveal the insights hidden within huge volumes of numeric and textual data
-
-• Validate and build statistical or machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
-
-• Flex your interpersonal skills to translate the complexity of your work into tangible business goals
-
-The Ideal Candidate is:
-• Creative. You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
-
-• A leader. You challenge conventional thinking and work with stakeholders to identify and improve the status quo. You’re passionate about talent development for your own team and beyond.
-
-• Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
-
-• A data guru. “Big data” doesn’t faze you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
-
-Basic Qualifications:
-• Currently has, or is in the process of obtaining one of the following with an expectation that the required degree will be obtained on or before the scheduled start date:
-• A Bachelor's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 6 years of experience performing data analytics
-
-• A Master's Degree in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) or an MBA with a quantitative concentration plus 4 years of experience performing data analytics
-
-• A PhD in a quantitative field (Statistics, Economics, Operations Research, Analytics, Mathematics, Computer Science, or a related quantitative field) plus 1 year of experience performing data analytics
-
-• At least 1 year of experience leveraging open source programming languages for large scale data analysis
-
-• At least 1 year of experience working with machine learning
-
-• At least 1 year of experience utilizing relational databases
-
-Preferred Qualifications:
-• PhD in “STEM” field (Science, Technology, Engineering, or Mathematics) plus 3 years of experience in data analytics, financial modeling or financial model validation
-
-• At least 1 year of experience working with AWS
-
-• At least 4 years’ experience in Python, Scala, or R for large scale data analysis
-
-• At least 4 years’ experience with statistical modeling or machine learning
-
-• At least 4 years’ experience with SQL
-
-Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
-
-The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
-
-McLean, VA: $197,300 - $225,100 for Mgr, Data Science
-
-Riverwoods, IL: $179,400 - $204,700 for Mgr, Data Science
-
-Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
-
-This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
-Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website. Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
-
-This role is expected to accept applications for a minimum of 5 business days.
-
-No agencies please. Capital One is an equal opportunity employer (EOE, including disability/vet) committed to non-discrimination in compliance with applicable federal, state, and local laws. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
-
-If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
-
-For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
-
-Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
-
-Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,6 days ago,1779926400.0,2026-05-28T00:00:00.000Z,"McLean, VA  (+1 other)",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZ8IsTwcGucEkAgJBAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+• Design, develop, and implement machine learning systems and predictive models to support mission-driven analytics.
+• Study and refine data science prototypes, transforming them into production-ready ML solutions.
+• Develop and optimize algorithms using supervised, unsupervised, and deep learning techniques.
+• Select appropriate datasets, data representation methods, and feature engineering strategies for each problem space.
+• Conduct data mining, statistical analysis, and model evaluation to ensure high performance and reliability.
+• Perform testing, tuning, and retraining of models to improve predictive accuracy and robustness over time.
+• Utilize data-oriented programming languages and visualization tools to translate raw data into meaningful insights.
+• Visualize and interpret data findings through dynamic dashboards, reports, and analytic visualizations.
+• Collaborate with cross-functional technical teams and mission stakeholders to integrate AI/ML solutions into operational systems. Required Qualifications
+• Bachelor’s degree in Computer Science, Data Science, Engineering, Mathematics, or related field.
+• 5+ years of experience developing and deploying AI/ML models or data-driven applications.
+• Proficiency in Python, R, or similar data-oriented programming languages.
+• Experience with machine learning frameworks (e.g., TensorFlow, PyTorch, Scikit-learn).
+• Strong understanding of data preprocessing, feature selection, and model evaluation techniques.
+• Experience with data visualization tools such as Power BI, Tableau, or custom dashboards.
+• Ability to manage and analyze large structured and unstructured datasets.
+• Excellent problem-solving skills and attention to detail. Desired Qualifications
+• Master’s degree in a quantitative or technical field.
+• Experience supporting DoD, IC, or Federal programs.
+• Familiarity with natural language processing (NLP), deep learning, or reinforcement learning techniques.
+• Experience developing automated pipelines for ML model training and deployment.
+• Understanding of cloud-based ML environments (AWS, Azure, GCP). What you can expect from us:
+• Real opportunity for career growth in an environment where your achievements will be celebrated.
+• Constant collaboration with numerous teams to ensure client success.
+• A team that respects and embraces your ideas and expertise.
+• Coworkers that are motivated by pursuing excellence, rather than the prospect of personal gain.
+• A workplace dedicated to supporting and improving public safety and government agencies. Benefits:
+• Very competitive salary based on qualifications and experience.
+• Comprehensive, Company paid Aetna Health Care Medical for you (We pay your premiums and deductibles)
+• 401(k) with company match
+• Travel & performance incentives
+• 3 weeks paid time off (plus Federal Holidays)
+• $5K annual training allowance
+• $500 book allowance
+• Tuition reimbursement program Praescient Analytics is a Certified Woman-Owned Small Business (WOSB) with over a decade of expertise in advanced analytics, engineering, and DevOps, specializing in transforming complex data into actionable intelligence for informed decision-making. Since 2011, we have supported over 40 organizations across diverse domains, including military intelligence operations, financial and fraud investigations, and insider threat detection. Our team of experts—skilled in cloud computing, artificial intelligence, machine learning, data science, DevOps, and engineering—brings deep experience in solving complex challenges. With a proven track record in federal contracting, we deliver tailored, high-impact solutions designed to enhance operational efficiency, ensure mission success, and address the evolving needs of our clients. Praescient's innovative and adaptive approach makes us a trusted partner in delivering data-driven insights and technological excellence for critical missions. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. US Citizenship Required Interested Candidates: Please forward your resume to and please visit our website to apply online at www.praescientanalytics.applicantstack.com/x/openings.",False,9 days ago,1779753600.0,2026-05-26T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,"['paid_time_off', 'health_insurance']","['Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5uNHcxzmJUWPcTUnAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
