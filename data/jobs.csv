@@ -1,135 +1,4 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews
-sUQv4RMrBu0cvgw-AAAAAA==,STINGRAI Data Scientist (Data Scientist 2),HII,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhij5nz96fB1SaUadhujTggAEzqroQPYHqbG1-&s=0,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=c2585f225d910d2c,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=c2585f225d910d2c', 'is_direct': False, 'publisher': 'Indeed'}]","Date: Jul 2, 2026
-
-Location: Washington, DC, District of Columbia, United States
-
-#job-location.job-location-inline { display: inline; }
-
-Company: HII's Mission Technologies division
-
-Requisition Number: 29227
-
-Required Travel: 11 - 25%
-
-Employment Type: Full Time/Salaried/Exempt
-
-Anticipated Salary Range: $94,750.00 - $175,000.00
-
-Security Clearance: Top Secret
-
-Level of Experience: Mid HI
-
-This opportunity resides with All-Domain Operations (ADO), a business group within HII’s Mission Technologies division. All-Domain Operations comprises multi-domain operations, platforms and logistics, and intelligence operations.
-
-HII designs, develops, integrates and manages the sensors, systems and other assets necessary to support integrated ISR operations and accelerated decision-making. With data fusion and mission management capabilities for the Department of Defense, the combatant commands and the intelligence community, HII advances the mission around the globe.
-
-Leadership Mindset at HII – Mission Technologies
-
-Leadership at HII is a mindset, not a title. Through our Leadership Capability Framework, we define how every employee grows, leads, and contributes—regardless of role. It sets the standard for how you can develop yourself and what you can expect from leaders across our organization. We look for candidates who want to grow in alignment with these capabilities:
-
-Know & Grow Your People – Commit to learning and supporting team success.
-
-Build Relationships – Communicate openly, collaborate well, and build trust.
-
-Take Ownership – Deliver on commitments and take pride in your work.
-
-Customer First – Focus on the mission and those we serve.
-
-Shape the Future – Bring ideas, curiosity, and continuous improvement.
-
-Act with Urgency – Take initiative and follow through with purpose.
-
-These capabilities guide how all employees contribute to our shared success across Mission Technologies.
-
-Who We Are
-
-HII – Mission Technologies is seeking a Data Scientist. The Data Scientist provides advanced analytic, data‑science, and data‑engineering support to identify, coordinate, harvest, and expose relevant data sources in support of mission‑partner data‑integration requirements. This role develops and applies quality and confidence methodologies to ensure that newly acquired data is properly processed, validated, and optimized for downstream analytical use. The Data Scientist contributes to the design and refinement of analytical techniques, supports schema development, and ensures that new data sources are properly aligned to evolving data architectures. The position also conducts long‑term data and trend analysis to identify systemic vulnerabilities and high‑priority threats, informing strategies to mitigate supply chain risks and enhance mission resilience. Additional responsibilities include recommending best practices for the implementation of artificial intelligence (AI) and machine learning (ML) capabilities.
-
-This requisition supports hiring at multiple experience levels. Final placement will be determined based on the selected applicant’s qualifications, experience, and skill sets.
-
-STINGRAI: Advancing Mission Success Through Intelligence, Innovation, and Operational Excellence
-
-Every day, HII helps U.S. Southern Command (SOUTHCOM) and its mission partners stay ahead of evolving threats by delivering the intelligence, technology, and operational expertise needed to protect U.S. interests across the Western Hemisphere. Join our team on STINGRAI and support mission-critical operations through advanced intelligence, surveillance, cyber, engineering, and all-domain capabilities that strengthen regional security, enable informed decision-making, and help defend our nation today while preparing for tomorrow's challenges.
-
-What You Will Do
-
-Identify, coordinate, harvest, and expose relevant data sources to support mission‑partner data‑integration requirements.
-
-Develop or apply quality and confidence methods to enhance data processing and maximize analytical utility of new and novel data sources.
-
-Support the development of new analytical techniques and the refinement of existing ones to ensure extraction of maximum value from diverse datasets.
-
-Contribute to data‑schema development, revision, and maintenance, ensuring new data sources are properly mapped to established structures.
-
-Conduct long‑term data and trend analyses to identify systemic vulnerabilities, emerging risks, and high‑priority threats.
-
-Recommend actionable strategies to mitigate threats and challenges across the supply chain.
-
-Provide expert guidance on best practices for implementing AI and ML capabilities to enhance analytical performance and mission outcomes.
-
-Collaborate with mission partners, analysts, and technical teams to ensure data solutions align with operational objectives.
-
-Minimum Qualifications
-
-Level 2: 2 years relevant experience with Bachelors in related field; 0 years experience with Masters in related field; or High School Diploma or equivalent and 6 years relevant experience.
-
-Level 3: 5 years relevant experience with Bachelors in related field; 3 years relevant experience with Masters in related field; 0 years experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 9 years relevant experience.
-
-Level 4: 9 years relevant experience with Bachelors in related field; 7 years relevant experience with Masters in related field; 4 years relevant experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 13 years relevant experience.
-
-Level 5: 15 years relevant experience with Bachelors in related field; 13 years relevant experience with Masters in related field; 10 years relevant experience with PhD or Juris Doctorate in related field; or High School Diploma or equivalent and 19 years relevant experience.
-
-Experience harvesting, validating, structuring, and integrating diverse data sources, including structured and unstructured data.
-
-Strong understanding of data‑quality assessment methods, confidence metrics, and preprocessing techniques.
-
-Experience developing or optimizing analytical techniques and applying statistical or machine‑learning methods to extract insights.
-
-Familiarity with data‑schema design, data modeling, and integration architectures.
-
-Ability to conduct long‑term trend and vulnerability analysis to identify systemic risks.
-
-Understanding of supply chain vulnerabilities, threat identification, risk assessment, or similar mission areas (preferred but can be trained).
-
-Working knowledge of AI/ML concepts, implementation best practices, and model evaluation.
-
-Strong analytical, problem‑solving, and critical‑thinking skills.
-
-Excellent communication abilities, with experience translating technical findings into actionable insights for non‑technical audiences.
-
-Ability to work both independently and collaboratively in a fast‑paced, mission‑focused environment.
-
-Ability to work independently and within cross‑functional teams in a fast‑paced, mission‑driven environment.
-
-Clearance: Must possess and maintain a Top-Secret clearance.
-
-Physical Requirements
-
-May require working in an office, industrial, shipboard, or laboratory environment. Capable of climbing ladders and tolerating confined spaces and extreme temperature variances.
-
-The listed salary range for this role is intended as a good faith estimate based on the role's location, expectations, and responsibilities. When extending an offer, HII's Mission Technologies division takes a variety of factors into consideration which include, but are not limited to, the role's function and a candidate's education or training, work experience, and key skills.
-
-Meet HII’s Mission Technologies Division
-
-Our team of more than 7,000 professionals worldwide delivers all-domain expertise and advanced technologies in service of mission partners across the globe. Mission Technologies is leading the next evolution of national defense – the data evolution - by accelerating a breadth of national security solutions for government and commercial customers. Our capabilities range from C5ISR, AI and Big Data, cyber operations and synthetic training environments to fleet sustainment, environmental remediation and the largest family of unmanned underwater vehicles in every class. Find the role that’s right for you. Apply today. We look forward to meeting you.
-
-To learn more about Mission Technologies, click here for a short video: https://vimeo.com/732533072
-
-HII is more than a job - it’s an opportunity to build a new future. We offer competitive benefits such as best-in-class medical, dental and vision plan choices; wellness resources; employee assistance programs; Savings Plan Options (401(k)); financial planning tools, life insurance; employee discounts; paid holidays and paid time off; tuition reimbursement; as well as early childhood and post-secondary education scholarships. Bonus/other non-recurrent compensation is occasionally offered for qualified positions, and if applicable to this role will be addressed by the recruiter at the screening phase of application.
-
-Why HII
-
-We build the world’s most powerful, survivable naval ships and defense technology solutions that safeguard our seas, sky, land, space and cyber. Our workforce includes skilled tradespeople; artificial intelligence, machine learning (AI/ML) experts; engineers; technologists; scientists; logistics experts; and business administration professionals.
-
-Recognized as one of America’s top large company employers, we are a values and ethics driven organization that puts people’s safety and well-being first. Regardless of your role or where you serve, at HII, you’ll find a supportive and welcoming environment, competitive benefits, and valuable educational and training programs for continual career growth at every stage of your career.
-
-Together we are working to ensure a future where everyone can be free and thrive.
-
-All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.
-
-Do You Need Assistance?
-
-If you need a reasonable accommodation for any part of the employment process, please send an e-mail to buildyourcareer@hii-co.com and let us know the nature of your request and your contact information. Reasonable accommodations are considered on a case-by-case basis. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address. Additionally, you may also call 1-844-849-8463 for assistance. Press #3 for HII Mission Technologies.",False,2 days ago,1783036800.0,2026-07-03T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'dental_coverage', 'paid_time_off']","['Health insurance', 'Dental insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsUQv4RMrBu0cvgw-AAAAAA%3D%3D&vssid=jobs-detail-viewer,,"94,750–175,000 a year",94750.0,175000.0,YEAR,{},,,
 hrNxuo0NBYM6hibEAAAAAA==,Principal Data Scientist (Operations) - 90339320 - Washington,Amtrak,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0hFXBO-Ki7knxwalP4HPwYLT-VX-qMPvlxenz&s=0,https://www.amtrak.com,Amtrak Careers,Full-time,['FULLTIME'],https://careers.amtrak.com/job/Washington-Principal-Data-Scientist-%28Operations%29-90339320-Washington-DC-20002/1402052400/,False,"[{'apply_link': 'https://careers.amtrak.com/job/Washington-Principal-Data-Scientist-%28Operations%29-90339320-Washington-DC-20002/1402052400/', 'is_direct': False, 'publisher': 'Amtrak Careers'}]","Your success is a train ride away!
 
 As we move America’s workforce toward the future, Amtrak connects businesses and communities across the country. We employ more than 20,000 diverse, energetic professionals in a variety of career fields throughout the United States. The safety of our passengers, our employees, the public and our operating environment is our priority, and the success of our railroad is due to our employees.
@@ -243,7 +112,108 @@ In accordance with federal law governing security checks of covered individuals 
 
 Note that any education requirement listed above may be deemed satisfied if you have an equivalent combination of education, training and experience.
 
-Amtrak is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race/color, to include traits historically associated with race, including but not limited to, hair texture and hairstyles such as braids, locks and twists, religion, sex (including pregnancy, childbirth and related conditions, such as lactation), national origin/ethnicity, disability (intellectual, mental and physical), veteran status, marital status, ancestry, sexual orientation, gender identity and gender expression, genetic information, citizenship or any other personal characteristics protected by law.",False,13 days ago,1782086400.0,2026-06-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'dental_coverage', 'paid_time_off']","['Health insurance', 'Dental insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhrNxuo0NBYM6hibEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Amtrak is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race/color, to include traits historically associated with race, including but not limited to, hair texture and hairstyles such as braids, locks and twists, religion, sex (including pregnancy, childbirth and related conditions, such as lactation), national origin/ethnicity, disability (intellectual, mental and physical), veteran status, marital status, ancestry, sexual orientation, gender identity and gender expression, genetic information, citizenship or any other personal characteristics protected by law.",False,14 days ago,1782086400.0,2026-06-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['paid_time_off', 'dental_coverage', 'health_insurance']","['Paid time off', 'Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhrNxuo0NBYM6hibEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Dz1HL7u6gP5V7JsPAAAAAA==,Graph Data Scientist,Ardent,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://theardentcompanies.com&size=128",https://theardentcompanies.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=ec6e9bf6850e341b,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=ec6e9bf6850e341b', 'is_direct': False, 'publisher': 'Indeed'}]","At Ardent, we hire people who want more than a job — they want to serve a mission that matters. Our teams support the federal government's most critical national security and defense priorities, helping protect the nation, strengthen resilience, and advance the technologies and capabilities that keep America secure. For veterans, cleared professionals, and purpose-driven innovators, Ardent is a place to continue serving alongside a team that understands the importance of the mission and the people behind it.
+
+We also know top talent has choices, which is why we back our mission with benefits and flexibility that stand out: competitive pay, comprehensive health coverage, flexible PTO, federal holidays off, tuition reimbursement, professional development support, wellness stipends, and a culture that values and rewards hard work, dedication, and adaptability. If you want to build something meaningful, while enjoying the kind of flexibility and support that you need to do your best work — Ardent is where your next mission begins.
+
+Ardent is seeking a Graph Data Scientist to join our team.
+
+This is a remote position.
+
+Position Description:
+
+Ardent is seeking a Graph Data Scientist to develop graph-based analytics solutions supporting fraud prevention, investigative analysis, and program integrity initiatives within a federal environment.
+
+This role will focus on using graph databases, network analysis, statistical methods, and machine learning techniques to identify relationships, hidden connections, suspicious activity, and emerging fraud patterns across large and complex datasets. The Graph Data Scientist will work closely with data scientists, investigators, analysts, data engineers, and government stakeholders to design, implement, and operationalize graph analytics capabilities.
+
+Responsibilities and Duties:
+
+• Design, develop, and implement graph-based analytics solutions supporting fraud detection and investigative analysis.
+
+• Use graph databases and network analysis techniques to identify hidden relationships, patterns, and connections across entities.
+
+• Develop graph models representing individuals, organizations, transactions, accounts, programs, and other relevant entities.
+
+• Apply graph algorithms involving centrality, community detection, link analysis, path analysis, clustering, and anomaly detection.
+
+• Integrate graph analytics with machine learning, statistical analysis, and other advanced analytic methods.
+
+• Analyze structured, semi-structured, and unstructured data from public, non-public, and commercial sources.
+
+• Support entity resolution, identity matching, relationship mapping, and risk-scoring activities.
+
+• Develop and refine fraud-detection models, rules, and investigative use cases.
+
+• Collaborate with investigators and analysts to translate operational and investigative needs into graph analytics solutions.
+
+• Build visualizations, link charts, dashboards, and other work products that clearly communicate complex relationships.
+
+• Support the development, testing, validation, and deployment of graph analytics models and applications.
+
+• Evaluate model performance and recommend adjustments to improve accuracy, scalability, and usefulness.
+
+• Document methodologies, data sources, assumptions, model designs, findings, and limitations.
+
+• Participate in technical reviews, quality-control activities, and project demonstrations.
+
+• Present analytical findings and recommendations to technical and non-technical stakeholders.
+
+• Support the maintenance and improvement of deployed graph analytics solutions.
+
+Requirements:
+
+• Minimum of 3 years of hands-on experience using Neo4j or a similar graph database.
+
+• Proficiency with Cypher or a comparable graph query language.
+
+• Minimum of 3 years of hands-on experience applying graph methods to fraud detection, investigative analytics, risk analysis, or knowledge graph initiatives.
+
+• Strong understanding of network topology, centrality measures, community detection, path analysis, clustering, and relationship analysis.
+
+• Minimum of 3 years of experience applying statistical and machine learning techniques to graph-structured data.
+
+• Experience working with graph algorithms, anomaly detection, classification, or predictive modeling.
+
+• Experience designing, implementing, and optimizing graph data pipelines, data models, and graph schemas.
+
+• Experience working with large, complex, and high-volume datasets.
+
+• Strong Python skills using standard machine learning, data science, and graph analytics libraries.
+
+• Experience with data preparation, feature engineering, model validation, and performance evaluation.
+
+• Experience communicating complex analytical findings through visualizations, reports, and presentations.
+
+• Strong analytical, problem-solving, and communication skills.
+
+• Ability to collaborate with technical teams, investigators, analysts, and government stakeholders.
+
+• Ability to successfully complete and maintain the required government background investigation.
+
+Preferred Qualifications:
+
+• Experience supporting federal fraud prevention, investigative, oversight, or program-integrity initiatives.
+
+• Experience working with Offices of Inspectors General, law enforcement organizations, or federal benefit programs.
+
+• Experience developing graph analytics solutions involving fraud rings, identity fraud, financial networks, or suspicious relationship patterns.
+
+• Experience with Neo4j Graph Data Science, NetworkX, PyTorch Geometric, DGL, or similar graph analytics libraries.
+
+• Experience with knowledge graphs, entity resolution, link prediction, or graph embeddings.
+
+• Experience integrating graph databases with cloud platforms, data lakes, or enterprise analytics environments.
+
+• Experience with Azure Databricks, Microsoft SQL Server, Power BI, or comparable technologies.
+
+• Experience deploying graph analytics solutions into production environments.
+
+• Bachelor's or advanced degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, or a related field.
+
+Due to the nature of the work we support, all candidates in consideration for this role must be willing to undergo the government issued background investigation process. We highly encourage all Veterans and those with disabilities to apply.
+
+Ardent is an equal opportunity employer. We will not discriminate in employment, recruitment, advertisements for employment, compensation, termination, upgrading, promotions, and other conditions of employment against any employee or job applicant on the bases of race, color, gender, national origin, age, religion, creed, disability, veteran's status, sexual orientation, gender identity, gender expression, or any other basis protected by state, local, or federal law.",True,4 days ago,1782950400.0,2026-07-02T00:00:00.000Z,Anywhere,,,,,,"['paid_time_off', 'health_insurance']","['Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDz1HL7u6gP5V7JsPAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
 5Z72jmoq9Lysu8VvAAAAAA==,"Data Scientist, Mid",Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4423098555,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-mid-at-booz-allen-hamilton-4423098555', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0241455
 
 Data Scientist, Mid
@@ -305,48 +275,54 @@ Our people-first culture prioritizes the benefits of collaboration, whether it o
 
 Commitment to Non-Discrimination
 
-All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,10 days ago,1782345600.0,2026-06-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5Z72jmoq9Lysu8VvAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-KUUePyB6GRIto-ZqAAAAAA==,"Sr Data Scientist, Tech",Uber,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Ot9E_D-UX1kzYlcIlMLBc1maph67A8dJvRF&s=0,https://www.uber.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/sr-data-scientist-tech-at-uber-4426552293,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/sr-data-scientist-tech-at-uber-4426552293', 'is_direct': False, 'publisher': 'LinkedIn'}]","About The Role
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,11 days ago,1782345600.0,2026-06-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5Z72jmoq9Lysu8VvAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+s89quXyl9Q6BUweKAAAAAA==,Lead Data Scientist (Artificial Intelligence/Machine Learning),US Department of the Treasury,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHU1m1hEh1K-roFU1SwubvMkarhJ8cpo4SD3B&s=0,https://home.treasury.gov,ZipRecruiter,Full-time,['FULLTIME'],"https://www.ziprecruiter.com/c/US-Department-of-the-Treasury/Job/Lead-Data-Scientist-(Artificial-Intelligence-Machine-Learning)/-in-Washington,DC?jid=51b7a407c0b96a9a",False,"[{'apply_link': 'https://www.ziprecruiter.com/c/US-Department-of-the-Treasury/Job/Lead-Data-Scientist-(Artificial-Intelligence-Machine-Learning)/-in-Washington,DC?jid=51b7a407c0b96a9a', 'is_direct': False, 'publisher': 'ZipRecruiter'}]","WHAT IS INFORMATION TECHNOLOGY?
 
-We are seeking a Senior Survey Scientist to create and leverage survey-related insights to inform Marketing, Ops, and Product strategies. The ideal candidate will have expertise in research design, psychometrics, and other quantitative methods, as well as a deep understanding of consumer behavior and market trends.
+A description of the business units can be found at: https://www.jobs.irs.gov/about/who/business-divisions
+• Position(s) are to be filled in the following area(s):
+• IT - Taxpayer Services and Online Accounts
+• Consider each location carefully when applying. If you are selected for a location, that location will become your official post of duty.
 
-What The Candidate Will Need / Bonus Points
+REVIEW THE ADDITIONAL INFORMATION BELOW FOR FURTHER DETAILSQualifications:
 
----- What the Candidate Will Do ----
+Federal experience is not required. Experience may have been gained in the public sector, private sector or through Volunteer Service. One year of experience refers to full-time work; part-timework is considered on a prorated basis. To ensure full credit for your work experience, please indicate dates of employment by month/day/year, and indicate number of hours worked per week, on your resume.
 
-• Serve as a strategic advisor to Marketing, Ops, and Product stakeholders through high-impact research.
-• Design and conduct research studies of survey and behavioral data, 1st and 3rd party, to develop insights on our users. Develop an understanding of demographic, behavioral and attitudinal trends and the general population
-• Develop survey instruments and sampling plans that produce reliable and valid data, and apply psychometric principles to ensure the accuracy of survey results.
-• Oversee the end-to-end research lifecycle for the most complex, high-priority initiatives, ensuring technical excellence across the team.
-• Synthesize and communicate insights to cross-functional teams to enable adoption of data-driven insights and recommendations
-• Own and drive the strategic vision for company-wide survey governance and data integrity.
-• Architect and implement novel survey methodologies and measurement frameworks
-• Mentor and guide junior and mid-level scientists, providing technical oversight and fostering a culture of rigorous scientific inquiry.
+You must meet the following requirements by the closing date of this announcement.
 
-Basic Qualifications
+BASIC REQUIREMENTS: EDUCATION:
+You must have a bachelor's or higher degree in mathematics, statistics, computer science, data science or other field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
 
-• 5-7+ years of work experience designing and conducting survey-based research
-• Strong communication and collaboration skills, with the ability to present research findings to both technical and non-technical audiences
-• Highly proficient in survey analysis skills, including regression analysis, factor analysis, cluster analysis, and conjoint analysis
-• Strong coding skills in SQL; Python or R
-• Ability to build and scale automated analytical pipelines for recurring global trackers
-• Expertise working with Qualtrics or similar survey design tools
+OR
 
-Preferred Qualifications
+COMBINATION OF EDUCATION AND EXPERIENCE: A combination of education and experience that includes courses equivalent to a major field of study (30 semester hours) as shown in the paragraph above, plus additional education or appropriate experience.
 
-• PhD in social science with emphasis in quantitative methods, statistics, or similar field
-• Previous experience in survey science team or data science team with a focus on brand marketing or consumer behavior
-• Experimental analysis skills, including A/B testing
-• Proven track record of solving ambiguous, large-scale business problems where standard methodologies may not apply.
+SPECIALIZED EXPERIENCE GRADE 14: In addition to the basic requirements, you must have one (1) year of specialized experience at a level of difficulty and responsibility equivalent to the GS-13 grade level in the Federal service. Specialized experience for this position includes:
+• Designing, developing, integrating, testing, and supporting conversational AI solutions, virtual assistants, chatbots, digital messaging platforms, voice automation, interactive voice response (IVR) platforms, or generative AI-enabled customer engagement solutions in a production environment.
+• Developing and optimizing natural language understanding (NLU), natural language processing (NLP), speech recognition, intent classification, entity recognition, conversational workflows, or automated self-service solutions supporting customer interactions across voice and digital channels.
+• Designing, testing, implementing, and refining prompt engineering strategies, generative AI workflows, large language model (LLM) integrations, and AI-assisted customer engagement capabilities to improve automation, containment, customer experience, and operational outcomes.
+• Integrating conversational AI, generative AI, voice, chat, messaging, or digital engagement platforms with enterprise applications, APIs, backend systems, authentication services, customer data platforms, or knowledge management solutions.
+• Demonstrating subject matter expert (SME)-level proficiency in at least one modern programming language such as Java or Python, including development of backend services, automation, integrations, data processing pipelines, or conversational application logic.
+• Analyzing customer interaction data, conversation transcripts, chat sessions, operational metrics, and user behavior to identify trends, improve AI performance, evaluate model effectiveness, and enhance customer experience outcomes.
+• Developing, querying, and analyzing large datasets using cloud-based analytics platforms and data warehouses to support AI model evaluation, operational reporting, and business decision-making.
+• Troubleshooting and resolving complex system integration, application reliability, authentication, speech processing, conversational AI, generative AI, digital engagement, or performance issues across interconnected platforms.
+• Applying DevSecOps, CI/CD pipelines, automated testing, version control, and agile software development practices in enterprise environments.
+• Collaborating with business stakeholders, architects, engineers, cybersecurity personnel, data scientists, and operations teams to translate business requirements into AI-enabled technical solutions.
 
-~~ ~~, For New York, NY-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.
+AND
 
-For San Francisco, CA-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.
+You must also meet the following requirements:
+• MINIMUM AGE REQUIREMENT: Minimum age for federal employment is 18 years old, or at least 16 years old and have:
+• Graduated from high school or been awarded a certificate equivalent to graduating from high school; or
+• Completed a formal vocational training program; or
+• Received a statement from school authorities agreeing with your preference for employment rather than continuing your education.
 
-For Washington, DC-based roles: The base salary range for this role is USD$171,000 per year - USD$190,000 per year.
+For more information on qualifications please refer to OPM's Qualifications Standards.
+Education:A college or university degree generally must be from an accredited (or pre-accredited) college or university recognized by the U.S. Department of Education. For a list of schools which meet these criteria, please refer to Department of Education Accreditation page.
 
-For all US locations, you will be eligible to participate in Uber's bonus program, and may be offered an equity award & other types of comp. All full-time employees are eligible to participate in a 401(k) plan. You will also be eligible for various benefits. More details can be found at the following link https://jobs.uber.com/en/benefits .",False,21 hours ago,1783162800.0,2026-07-04T11:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKUUePyB6GRIto-ZqAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-699AH6TNQAq-ru8iAAAAAA==,"Data Scientist, AWS Security",Amazon.com Services LLC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0507178a1a8ba583,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=0507178a1a8ba583', 'is_direct': False, 'publisher': 'Indeed'}]","DESCRIPTION
+FOREIGN EDUCATION: Education completed in foreign colleges or universities may be used to meet the requirements. You must show proof the education credentials have been deemed to be at least equivalent to that gained in conventional U.S. education program. It is your responsibility to provide such evidence when applying. Click here (Section 3, Explanation of Terms) or here for Foreign Education Credentialing instructions.
+
+We recommend choosing an evaluator from a member organization of one of the following national associations of credential evaluation services: National Association of Credential Evaluation Services (NACES) or Association of International Credentials Evaluators (AICE).Employment Type: OTHER",False,5 days ago,1782864000.0,2026-07-01T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Ds89quXyl9Q6BUweKAAAAAA%3D%3D&vssid=jobs-detail-viewer,125776.0,"125,776 a year",,,YEAR,{},,,
+699AH6TNQAq-ru8iAAAAAA==,"Data Scientist, AWS Security",Amazon.com Services LLC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0,https://www.amazon.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0507178a1a8ba583,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=0507178a1a8ba583', 'is_direct': False, 'publisher': 'Indeed'}]","DESCRIPTION
 
 As a Data Scientist on our team, you will leverage advanced analytics and machine learning to protect our cloud infrastructure from security threats. You'll develop and deploy sophisticated anomaly detection models, predictive algorithms, and real-time analysis systems that identify and automate the mitigation of cyber threats across Amazon's infrastructure. Your expertise in statistical analysis, machine learning, and big data processing will be crucial in building scalable security solutions.
 
@@ -429,126 +405,168 @@ Our inclusive culture empowers Amazonians to deliver the best results for our cu
 The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
 
 USA, VA, Arlington - 136,000.00 - 184,000.00 USD annually",False,,,,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,"['paid_time_off', 'dental_coverage', 'health_insurance']","['Paid time off', 'Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D699AH6TNQAq-ru8iAAAAAA%3D%3D&vssid=jobs-detail-viewer,,136K–184K a year,136000.0,184000.0,YEAR,{},,,
-jP9DTA35CxtBFLhCAAAAAA==,Data Scientist Jobs,Integral Federal,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://integralfed.com&size=128",https://integralfed.com,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8978688/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/8978688/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Overview
+okAetTmAusrxJgdpAAAAAA==,Data Scientist,Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNgyNE6MkHk0QSGhnQMhcB8pFGEqpppjCSamB&s=0,https://www.boozallen.com,Adzuna,Full-time,['FULLTIME'],https://www.adzuna.com/details/5786761794,False,"[{'apply_link': 'https://www.adzuna.com/details/5786761794', 'is_direct': False, 'publisher': 'Adzuna'}]","Job Number: R0243614
 
-The Data Scientist supports all Data Acquisition, Analytics, and Governance Services tasks and the strategy, design, and deployment of all advanced analytical and AI/ML models for the Office of Naval Research (ONR) Comptroller's Office Data and Analytics (D&A) Division architecture.
+Data Scientist
+The Opportunity:
 
-Responsibilities
+As a data scientist, you're excited at the prospect of unlocking the secrets held by a data set, and you're fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors, from fraud detection to cancer research to national intelligence, we need you to help find the answers in the data.
 
-• Provide comprehensive technical infrastructure support for all systems supporting the data and analytics environment.
-• Design, deploy, and operate all data and applications within a cloud environment authorized at the FedRAMP High baseline and DoD Impact Level 5 (IL5), and maintain the system's Authority to Operate (ATO) at all times lo include configuration management, security patching, system monitoring, and help desk support.
-• Support the architecture design for scalability to accommodate future growth in data volume and user load.
-• Sustain secure data access mechanisms, including Application Programming Interfaces (APIs) and user interfaces for data exploration, as well as a secure Bulk Data Download capability for authorized users.
-• Manage access mechanisms under a formal data governance framework, including metadata management and data cataloging. develop and deploy machine learning (ML) and artificial intelligence (AI) models, including Natural Language Processing (NLP) to analyze unstructured text and the integration of AI/ML platforms (e.g., AWS SageMaker, Azure Machine Learning)
-• Automate infrastructure and workflows using Infrastructure as Code (IaC) tools (e.g., Terraform, Ansible), build and manage CI/CD pipelines for secure software deployment, and develop streaming data pipelines (e.g., using Apache Kafka or AWS Kinesis) for real-time data processing.
+On our team, you'll use your leadership skills and data science expertise to create real-world impact. You'll work closely with clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle. You'll guide teammates and lead the development of algorithms and systems. You'll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used.
 
-Qualifications
+Work with us as we use data science for good.
 
-Required:
-• Bachelor's Degree in computer science or IT related degree with 10 years experience
-• Ten (10) years of experience developing and deploying analytical models to address Science & Technology (S&T) or business requirements within a Department of War (DoW) organization.
-• Five (5) years of hands-on experience using Python or R for statistical analysis, predictive modeling, and developing artificial intelligence/machine learning (AI/ML) models.
-• Verifiable project experience developing data pipelines for batch or streaming data processing, including data cleansing, standardization, and normalization.
-• Experience on at least two (2) distinct projects that required the application of advanced analytical techniques (such as Natural Language Processing (NLP), Network Analysis, or Bibliometric Analysis) to S&T portfolio data.
-• Secret Clearance.
+Join us. The world can't wait.
 
-Company Overview
+You Have:
+• 5+ years of experience in data science or analytics
+• 1+ years of experience with natural language processing or text mining
+• Experience with Excel spreadsheets to include formulas and data structures for data analysis and reporting
+• Experience in Python programming to support data extraction, data cleaning, data mining, data transformations, and data analysis
+• Experience analyzing structured and unstructured data sources and with query languages like Structured Query Language (SQL) variants to efficiently query and manage large datasets
+• Experience with Document Store Databases such as Elasticsearch and ArangoDB and Graph Databases concepts of nodes and edges
+• Experience with data visualization using Kibana, Tableau, or Power Bi to present data insights clearly through dashboards, charts, and graphs
+• Experience in producing detailed written intelligence reports and assessments
+• TS/SCI clearance
+• Bachelor's degree
 
-Integral partners with federal defense, intelligence, and civilian leaders to tackle their most important challenges and deliver positive outcomes. Since our founding in 1998, we have helped clients leverage existing and emerging technologies to transform their enterprises, empower growth, drive innovation, and build sustainable success. The forward-leaning solutions we deliver are tailored to each mission with a focus on keeping our nation safe and secure.
+Nice If You Have:
+• Experience with DevOps to include Docker and Kubernetes in support of application deployments and monitoring
+• Experience with developing predictive data models
+• Experience in the developments of algorithms leveraging R, Python, or SQL
+• Experience with Web Development programming languages in support of Graphical User Interfaces (GUI)
+• Experience with all-source analysis combining technical intelligence expertise with analytical and communication skills to synthesize information from multiple sources and produce actionable intelligence
 
-Integral is headquartered in McLean, VA and serves clients throughout the country.
+Clearance:
 
-We offer a comprehensive total rewards package including paid parental leave and immediate vesting in our 401(k). Give us a try and become part of a curated group of professionals at Integral Federal!
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
 
-Our package also includes:
+Compensation
 
-· Medical, Dental & Vision Insurance
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
 
-· Flexible Spending Accounts
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
 
-· Short-Term and Long-Term Disability Insurance
+Identity Statement
 
-· Life Insurance
+As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
 
-· Paid Time Off & Holidays
+Candidate AI Usage Policy
 
-· Earned Bonuses & Awards
+AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.
 
-· Professional Training Reimbursement
+Work Model
+Our people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.
+• Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.
+• Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.
+• Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.
 
-· Employee Assistance Program
+Commitment to Non-Discrimination
 
-Equal Opportunity Employer/Protected Veteran/Disability",False,19 days ago,1781568000.0,2026-06-16T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjP9DTA35CxtBFLhCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-elM_Emhtb05qdpCCAAAAAA==,"People Research Data Scientist, AI Fairness & Bias",OpenAI,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAH-ncogZngQdT36bBCPbBxxxxDjIbtiu0LESN&s=0,https://openai.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/people-research-data-scientist-ai-fairness-bias-at-openai-4427720900,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/people-research-data-scientist-ai-fairness-bias-at-openai-4427720900', 'is_direct': False, 'publisher': 'LinkedIn'}]","About The Team
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,3 days ago,1783036800.0,2026-07-03T00:00:00.000Z,"Mt Rainier, MD",Mt Rainier,Maryland,US,38.936433,-76.9609825,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DokAetTmAusrxJgdpAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+XqEEh9n0R9qnG2WTAAAAAA==,"Data Scientist, Air Dominance & Strike",Anduril Industries,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEL59rrawzVH0LyZ_O8CK0PldopIL7IP5yMh_a&s=0,https://www.anduril.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-air-dominance-strike-at-anduril-industries-4431666407,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-air-dominance-strike-at-anduril-industries-4431666407', 'is_direct': False, 'publisher': 'LinkedIn'}]","Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most innovative companies to the defense industry, Anduril is changing how military systems are designed, built and sold. Anduril’s family of systems is powered by Lattice OS, an AI-powered operating system that turns thousands of data streams into a realtime, 3D command and control center. As the world enters an era of strategic competition, Anduril is committed to bringing cutting-edge autonomy, AI, computer vision, sensor fusion, and networking technology to the military in months, not years.
 
-OpenAI’s People team hires, engages, and retains world-class talent to safely build and deploy AGI that benefits all of humanity. The People Analytics team helps leaders make rigorous, evidence-based talent decisions and ensures that the systems supporting those decisions are valid, reliable, fair, and accountable.
+About The Team
 
-About The Role
+The Air Dominance & Strike team at Anduril develops aerial and multi-domain robotic systems. The team is responsible for taking products like Fury (unmanned fighter jet) and Barracuda (air-breathing cruise missile) from concept to product. The team also develops Lattice for Mission Autonomy, Anduril’s premier software platform that enables masses of Fury, Barracuda, and other first and third party robots to collaborate across various missions. We work in close coordination with specialist teams like Perception, Motion Planning, Hardware, and Test Engineering to solve some of the hardest problems facing our customers. We are looking for software engineers and roboticists excited about creating a powerful autonomy software stack that includes computer vision, motion planning, SLAM, controls, estimation, and secure communications.
 
-As a People Data Scientist focused on AI fairness and bias testing, you will help establish how OpenAI evaluates AI-assisted People systems and high-impact talent processes. You will design and conduct rigorous assessments to identify, measure, and mitigate potential bias across the lifecycle of models, agents, decision-support tools, and automated workflows.
+About The Job
 
-Your work will span the entire employee life-cycle, such as hiring, performance, promotion, employee development, workforce planning, etc. You will evaluate both technical systems and the broader human-AI decision processes in which they operate, examining not only model performance but also data quality, measurement validity, differential outcomes, human oversight, and unintended consequences.
+As a Data Scientist at Anduril, you will dive into unique, complex challenges that come with the territory of high-stakes, advanced technology in the defense sector. Your expertise will drive innovation in autonomous systems, shaping the future of defense and intelligence with solutions that are deployed at unparalleled speed. If you're eager to leverage your data science skills in an environment that encourages bold ideas and offers the resources to turn them into reality, Anduril provides the perfect platform to propel your career and make a tangible difference in a world entering a new era of strategic competition. Join us and be part of the transformation that's setting new standards for military capabilities and security.
 
-We’re looking for an experienced data scientist or applied researcher who can translate complex fairness questions into defensible evaluation strategies, scalable testing infrastructure, and clear recommendations for technical teams and senior leaders.
+Required Qualifications
 
-This role is preferred to be based in San Francisco, CA.
-
-In This Role, You Will
-
-• Define and lead fairness and bias-testing strategies for AI-assisted People processes, models, agents, and decision-support systems from development through deployment and ongoing monitoring.
-• Design rigorous algorithmic audits and validation studies, including adverse-impact analysis, subgroup and intersectional evaluation, error-rate analysis, calibration, measurement invariance, reliability, criterion-related validity, and sensitivity testing.
-• Identify the appropriate fairness criteria for each use case, evaluate tradeoffs among competing definitions of fairness, and clearly document the assumptions, limitations, and residual risks of each approach.
-• Evaluate end-to-end human-AI decision systems, including model outputs, user behavior, human overrides, escalation pathways, and whether AI assistance changes the quality, consistency, or equity of decisions.
-• Develop evaluation approaches for generative and agentic AI, including test-set design, counterfactual testing, behavioral evaluation, human-rating studies, robustness testing, and analysis of disparate performance across populations and contexts.
-• Investigate the sources of observed disparities, including data representation, label and measurement bias, proxy variables, model design, decision thresholds, workflow design, and differential adoption or usage.
-• Partner with engineering, People Operations, Legal, Privacy, Security, and People Systems teams to recommend and evaluate mitigations such as data improvements, model changes, threshold adjustments, workflow redesign, monitoring controls, and additional human oversight.
-• Build scalable fairness-evaluation infrastructure, including reusable datasets, automated validation pipelines, regression tests, monitoring systems, self-service tools, and standardized reporting.
-• Establish research and documentation standards for fairness test plans, dataset and model documentation, validation reports, limitations, monitoring plans, and decision records.
-• Translate complex findings into concise, decision-ready narratives, helping leaders understand the significance of identified risks, the strength of the evidence, available mitigation options, and remaining uncertainty.
-
-You Might Thrive In This Role If You Have
-
-• Deep expertise in algorithmic fairness, bias measurement, responsible AI, psychometrics, applied statistics, or the evaluation of high-impact decision systems.
-• Exceptional strength in research design, measurement, experimentation, causal inference, and statistical modeling.
-• Hands-on experience applying methods such as subgroup and intersectional analysis, adverse-impact testing, equalized-odds and equal-opportunity analysis, demographic-parity assessment, calibration analysis, counterfactual testing, measurement invariance, reliability analysis, and validation studies.
-• Strong judgment about the limitations of fairness metrics, including the ability to determine which measures are appropriate for a particular decision context rather than applying a single universal definition of fairness.
-• Experience evaluating machine-learning models, generative AI systems, agents, or human-AI workflows using quantitative and qualitative evidence.
-• High proficiency in Python or R and SQL, with experience working across complex, sensitive, and imperfect datasets.
-• Experience building reproducible evaluation pipelines, automated testing frameworks, analytical tools, monitoring systems, or governed research workflows.
-• Ability to distinguish statistical disparities from their potential causes and to communicate findings without overstating certainty or making unsupported causal or legal conclusions.
-• Ability to work effectively with technical, operational, legal, privacy, and executive stakeholders and influence consequential decisions through evidence and sound judgment.
-• Deep curiosity, intellectual humility, strong attention to detail, and a commitment to developing AI systems and organizational processes that work well for people across different backgrounds and circumstances.
+• A background in Computer Science, Mathematics, Statistics, Data Science, or a related technical field with a strong quantitative foundation.
+• 3+ years of demonstrated expertise in Python for building data transformations, pipelines, and analysis tooling
+• Familiarity with Unix/Linux environments, including proficiency with the command line interface and the ability to efficiently manage and navigate distributed computing systems.
+• A proven track record of effectively working with large and complex datasets, as well as the capacity to quickly understand and work within established codebases and complex system architectures.
+• A strong commitment to applying data science to solve real-world problems, with the ability to translate technical findings into actionable recommendations that have a tangible impact.
+• Excellent communication and collaboration skills, with the ability to engage effectively with multidisciplinary teams, including engineers, product managers, and non-technical stakeholders.
 
 Preferred Qualifications
 
-• Experience conducting fairness assessments, algorithmic audits, model-risk reviews, adverse-impact analyses, or validation studies in employment or another high-impact domain.
-• Familiarity with fairness and model-evaluation tools such as Fairlearn, AI Fairness 360, responsible-AI evaluation frameworks, explainability methods, or comparable internal tooling.
-• Experience evaluating large language models, generative AI systems, safety classifiers, or agentic workflows, including behavioral testing and human evaluation.
-• Experience with employment selection, talent assessment, psychometrics, organizational research, or the validation of hiring, performance, promotion, or workforce decisions.
-• Familiarity with responsible-AI frameworks and emerging requirements related to automated employment decision systems, algorithmic auditing, data privacy, and AI governance.
-• Experience creating model cards, dataset documentation, fairness scorecards, audit reports, monitoring plans, or other review artifacts for high-impact systems.
-• Advanced degree in Quantitative Psychology, Computer Science, Statistics, Economics, Data Science, Behavioral Science, or a related quantitative field; PhD preferred but not required.
+• Experience working with Digital twin simulation, robotics or multi-agent autonomous systems
+• Experience with cloud computing platforms (e.g., AWS, GCP, Azure) and familiarity with containerization (e.g., Docker, Kubernetes) is highly beneficial.
+• Knowledge of best practices in data governance, ethics, and privacy, as well as experience with data security and compliance requirements relevant to sensitive and classified information.
+• Leadership experience, with the ability to mentor junior data scientists and lead project teams in the execution of complex data science initiatives.
+• Experience working with terabyte-scale data, robotics data formats (e.g. MCAP, HDF5), and dataframes (e.g. Pandas, PySpark).
 
-About OpenAI
+US Salary Range
 
-OpenAI is an AI research and deployment company dedicated to ensuring that general-purpose artificial intelligence benefits all of humanity. We push the boundaries of the capabilities of AI systems and seek to safely deploy them to the world through our products. AI is an extremely powerful tool that must be created with safety and human needs at its core, and to achieve our mission, we must encompass and value the many different perspectives, voices, and experiences that form the full spectrum of humanity.
+$166,000—$220,000 USD
 
-We are an equal opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability, genetic information, or other applicable legally protected characteristic.
+Benefits
 
-For additional information, please see OpenAI’s Affirmative Action and Equal Employment Opportunity Policy Statement.
+The salary range for this role is an estimate based on a wide range of compensation factors, inclusive of base salary only. Actual salary offer may vary based on (but not limited to) work experience, education and/or training, critical skills, and/or business considerations. Highly competitive equity grants are included in the majority of full time offers; and are considered part of Anduril's total compensation package. Additionally, Anduril offers top-tier benefits for full-time employees, including:
 
-Background checks for applicants will be administered in accordance with applicable law, and qualified applicants with arrest or conviction records will be considered for employment consistent with those laws, including the San Francisco Fair Chance Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, and the California Fair Chance Act, for US-based candidates. For unincorporated Los Angeles County workers: we reasonably believe that criminal history may have a direct, adverse and negative relationship with the following job duties, potentially resulting in the withdrawal of a conditional offer of employment: protect computer hardware entrusted to you from theft, loss or damage; return all computer hardware in your possession (including the data contained therein) upon termination of employment or end of assignment; and maintain the confidentiality of proprietary, confidential, and non-public information. In addition, job duties require access to secure and protected information technology systems and related data security obligations.
+At Anduril, we invest in our people. Our comprehensive, competitive benefits package (available at little to no cost to employees) ensures you’re supported in health, recovery, and whatever comes next. For more information, Explore Our Benefits.
 
-To notify OpenAI that you believe this job posting is non-compliant, please submit a report through this form. No response will be provided to inquiries unrelated to job posting compliance.
+Protecting Yourself from Recruitment Scams
 
-We are committed to providing reasonable accommodations to applicants with disabilities, and requests can be made via this link.
+Anduril is committed to maintaining the integrity of our Talent acquisition process and the security of our candidates. We've observed a rise in sophisticated phishing and fraudulent schemes where individuals impersonate Anduril representatives, luring job seekers with false interviews or job offers. These scammers often attempt to extract payment or sensitive personal information.
 
-OpenAI Global Applicant Privacy Policy
+To Ensure Your Safety And Help You Navigate Your Job Search With Confidence, Please Keep The Following Critical Points In Mind
 
-At OpenAI, we believe artificial intelligence has the potential to help people solve immense global challenges, and we want the upside of AI to be widely shared. Join us in shaping the future of technology.
+• No Financial Requests: Anduril will never solicit payment or demand personal financial details (such as banking information, credit card numbers, or social security numbers) at any stage of our hiring process. Our legitimate recruitment is entirely free for candidates.
+• Please always verify communications:
+• Direct from Anduril: If you receive an email from one of our recruiters, it will only come from an @anduril.com address.
+• Via Agency Partner: If contacted by a recruiting agency for an Anduril role, their email will clearly identify their agency. If you suspect any suspicious activity, please verify the agency's authenticity by reaching out to contact@anduril.com.
+• Exercise Caution with Unsolicited Outreach: If you receive any communication that appears suspicious, contains grammatical errors, or makes unusual requests, do not engage. Always confirm the sender's email domain is @anduril.com before providing any personal information or clicking on links.
+• What to Do If You Suspect Fraud: Should you encounter any questionable or fraudulent outreach claiming to be from Anduril, please report it immediately to contact@anduril.com. Your proactive caution is invaluable in protecting your personal information and upholding the security and trustworthiness of our recruitment efforts.
 
-Compensation Range: $198K - $220K",False,20 days ago,1781481600.0,2026-06-15T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DelM_Emhtb05qdpCCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,198K–220K a year,198000.0,220000.0,YEAR,{},,,
-4Q4FHIIa-gTl3_9gAAAAAA==,"Manager, Data Scientist - Deposit Forecasting and Pricing",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/manager-data-scientist-deposit-forecasting-and-pricing/1732/96359807984,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/manager-data-scientist-deposit-forecasting-and-pricing/1732/96359807984', 'is_direct': False, 'publisher': 'Capital One Career'}]","Manager, Data Scientist - Deposit Forecasting and Pricing
+Data Privacy
+
+To view Anduril's candidate data privacy policy, please visit https://anduril.com/applicant-privacy-notice/.
+
+By submitting your application, you consent to Anduril Industries using a third-party service provider to conduct pre-employment risk, integrity, and due diligence screening and assessing potential risks as part of your application process. This third-party service provider provides risk-intelligence services that may include analysis of sanctions and watchlists, adverse media, public-record information, and other lawful open-source or commercial data sources. This third-party service provider does not act as a consumer reporting agency. Use of this provider helps to ensure compliance with applicable laws and protect technology, intellectual property, and organizational security.",False,14 days ago,1782086400.0,2026-06-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXqEEh9n0R9qnG2WTAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+KUUePyB6GRIto-ZqAAAAAA==,"Sr Data Scientist, Tech",Uber,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSkhiANVLt_R92CpQXTrYM085lI0YP1CRfQyD2&s=0,https://www.uber.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=9ba6770ec4532aa4,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=9ba6770ec4532aa4', 'is_direct': False, 'publisher': 'Indeed'}]","About the Role
+
+We are seeking a Senior Survey Scientist to create and leverage survey-related insights to inform Marketing, Ops, and Product strategies. The ideal candidate will have expertise in research design, psychometrics, and other quantitative methods, as well as a deep understanding of consumer behavior and market trends.
+
+What the Candidate Will Need / Bonus Points - What the Candidate Will Do -
+
+• Serve as a strategic advisor to Marketing, Ops, and Product stakeholders through high-impact research.
+
+• Design and conduct research studies of survey and behavioral data, 1st and 3rd party, to develop insights on our users. Develop an understanding of demographic, behavioral and attitudinal trends and the general population
+
+• Develop survey instruments and sampling plans that produce reliable and valid data, and apply psychometric principles to ensure the accuracy of survey results.
+
+• Oversee the end-to-end research lifecycle for the most complex, high-priority initiatives, ensuring technical excellence across the team.
+
+• Synthesize and communicate insights to cross-functional teams to enable adoption of data-driven insights and recommendations
+
+• Own and drive the strategic vision for company-wide survey governance and data integrity.
+
+• Architect and implement novel survey methodologies and measurement frameworks
+
+• Mentor and guide junior and mid-level scientists, providing technical oversight and fostering a culture of rigorous scientific inquiry.
+
+- Basic Qualifications -
+
+• 5-7+ years of work experience designing and conducting survey-based research
+
+• Strong communication and collaboration skills, with the ability to present research findings to both technical and non-technical audiences
+
+• Highly proficient in survey analysis skills, including regression analysis, factor analysis, cluster analysis, and conjoint analysis
+
+• Strong coding skills in SQL; Python or R
+
+• Ability to build and scale automated analytical pipelines for recurring global trackers
+
+• Expertise working with Qualtrics or similar survey design tools
+
+- Preferred Qualifications -
+
+• PhD in social science with emphasis in quantitative methods, statistics, or similar field
+
+• Previous experience in survey science team or data science team with a focus on brand marketing or consumer behavior
+
+• Experimental analysis skills, including A/B testing
+
+Proven track record of solving ambiguous, large-scale business problems where standard methodologies may not apply.
+
+~~ ~~",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKUUePyB6GRIto-ZqAAAAAA%3D%3D&vssid=jobs-detail-viewer,,171K–190K a year,171000.0,190000.0,YEAR,{},,,
+4Q4FHIIa-gTl3_9gAAAAAA==,"Manager, Data Scientist - Deposit Forecasting and Pricing",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/en/job/mclean/manager-data-scientist-deposit-forecasting-and-pricing/1732/96359807984,False,"[{'apply_link': 'https://www.capitalonecareers.com/en/job/mclean/manager-data-scientist-deposit-forecasting-and-pricing/1732/96359807984', 'is_direct': False, 'publisher': 'Capital One Career'}]","Manager, Data Scientist - Deposit Forecasting and Pricing
 
 Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
@@ -625,128 +643,54 @@ For technical support or questions about Capital One's recruiting process, pleas
 
 Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
 
-Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,23 days ago,1781222400.0,2026-06-12T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4Q4FHIIa-gTl3_9gAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-7jGo7HZ15DoKRY_OAAAAAA==,Experienced Data Scientist,Boeing,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEaCEjF_x9vDFpFWG5frc6BCDuHQXwJmX0vRT8&s=0,https://www.boeing.com,Boeing,Full-time,['FULLTIME'],https://jobs.boeing.com/job/herndon/experienced-data-scientist/185/96565792800,False,"[{'apply_link': 'https://jobs.boeing.com/job/herndon/experienced-data-scientist/185/96565792800', 'is_direct': False, 'publisher': 'Boeing'}]","Job Description
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,24 days ago,1781222400.0,2026-06-12T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4Q4FHIIa-gTl3_9gAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+jP9DTA35CxtBFLhCAAAAAA==,Data Scientist Jobs,Integral Federal,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://integralfed.com&size=128",https://integralfed.com,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/8978688/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/8978688/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Overview
 
-At Boeing, we innovate and collaborate to make the world a better place. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us.
+The Data Scientist supports all Data Acquisition, Analytics, and Governance Services tasks and the strategy, design, and deployment of all advanced analytical and AI/ML models for the Office of Naval Research (ONR) Comptroller's Office Data and Analytics (D&A) Division architecture.
 
-The Boeing Defense, Space & Security (BDS) organization, Intelligence Systems portfolio, is seeking an Experienced Data Scientist to join our Mission Operations team in Herndon, VA.
+Responsibilities
 
-Our team focuses on delivering complex solutions in some of the most challenging environments on Earth. We provide support for our Mission Operations Portfolio area which design, build, test, deploy, operate, and maintain a wide variety of mission critical platforms and systems for commercial and government customers.
+• Provide comprehensive technical infrastructure support for all systems supporting the data and analytics environment.
+• Design, deploy, and operate all data and applications within a cloud environment authorized at the FedRAMP High baseline and DoD Impact Level 5 (IL5), and maintain the system's Authority to Operate (ATO) at all times lo include configuration management, security patching, system monitoring, and help desk support.
+• Support the architecture design for scalability to accommodate future growth in data volume and user load.
+• Sustain secure data access mechanisms, including Application Programming Interfaces (APIs) and user interfaces for data exploration, as well as a secure Bulk Data Download capability for authorized users.
+• Manage access mechanisms under a formal data governance framework, including metadata management and data cataloging. develop and deploy machine learning (ML) and artificial intelligence (AI) models, including Natural Language Processing (NLP) to analyze unstructured text and the integration of AI/ML platforms (e.g., AWS SageMaker, Azure Machine Learning)
+• Automate infrastructure and workflows using Infrastructure as Code (IaC) tools (e.g., Terraform, Ansible), build and manage CI/CD pipelines for secure software deployment, and develop streaming data pipelines (e.g., using Apache Kafka or AWS Kinesis) for real-time data processing.
 
-This Data Scientist position performs data analytics development and data visualization to meet business requirements and provide data to the engineering teams to decrease risk and ensure engineering excellence.
+Qualifications
 
-Position Responsibilities:
-• Developing data analytics capabilities in Python to solve business problems
-• Developing automated processes/scripts to capture and analyze data to track Key Performance Indicators across a large-scale distributed system
-• Assisting with system designs to enable data science capabilities
-• Assisting with maintaining data quality
-• Analyzing system performance, identifying bottlenecks, and suggesting optimizations to improve overall system efficiency and responsiveness
-• Maintaining accurate documentation of system configurations, procedures, and troubleshooting steps
-• Participating in the planning and implementation of new systems, upgrades, and migrations, ensuring compatibility and adherence to best practices
-• Staying up to date with the latest technologies, industry trends, and security practices, and continuously improving skills and knowledge
+Required:
+• Bachelor's Degree in computer science or IT related degree with 10 years experience
+• Ten (10) years of experience developing and deploying analytical models to address Science & Technology (S&T) or business requirements within a Department of War (DoW) organization.
+• Five (5) years of hands-on experience using Python or R for statistical analysis, predictive modeling, and developing artificial intelligence/machine learning (AI/ML) models.
+• Verifiable project experience developing data pipelines for batch or streaming data processing, including data cleansing, standardization, and normalization.
+• Experience on at least two (2) distinct projects that required the application of advanced analytical techniques (such as Natural Language Processing (NLP), Network Analysis, or Bibliometric Analysis) to S&T portfolio data.
+• Secret Clearance.
 
-Basic Qualifications (Required Skills/Experience):
-• This position requires an active TS/SCI U.S. Security Clearance and current FSP (Full Scope Polygraph) (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active.)
-• 3+ years of experience in Data Science
-• Experience developing data analytics with Python
-• Experience with common data analysis and data visualization
+Company Overview
 
-Preferred Qualifications (Desired Skills/Experience):
-• Associate degree or higher in a relevant field
-• Experience with common Python packages used for data science
-• Experience with cloud platforms such as AWS, Azure, and/or GCP
-• Certifications in Data Science and/or Data Visualization
+Integral partners with federal defense, intelligence, and civilian leaders to tackle their most important challenges and deliver positive outcomes. Since our founding in 1998, we have helped clients leverage existing and emerging technologies to transform their enterprises, empower growth, drive innovation, and build sustainable success. The forward-leaning solutions we deliver are tailored to each mission with a focus on keeping our nation safe and secure.
 
-Conflict of Interest:
+Integral is headquartered in McLean, VA and serves clients throughout the country.
 
-Successful candidates for this job must satisfy the Company’s Conflict of Interest (COI) assessment process.
+We offer a comprehensive total rewards package including paid parental leave and immediate vesting in our 401(k). Give us a try and become part of a curated group of professionals at Integral Federal!
 
-Contract Program Award:
+Our package also includes:
 
-The position is contingent upon The Boeing Company receiving program award for a proprietary program.
+· Medical, Dental & Vision Insurance
 
-Drug Free Workplace:
+· Flexible Spending Accounts
 
-Boeing is a Drug Free Workplace where post offer applicants and employees are subject to testing for marijuana, cocaine, opioids, amphetamines, PCP, and alcohol when criteria is met as outlined in our policies.
+· Short-Term and Long-Term Disability Insurance
 
-Pay & Benefits:
+· Life Insurance
 
-At Boeing, we strive to deliver a Total Rewards package that will attract, engage and retain the top talent. Elements of the Total Rewards package include competitive base pay and variable compensation opportunities.
+· Paid Time Off & Holidays
 
-The Boeing Company also provides eligible employees with an opportunity to enroll in a variety of benefit programs, generally including health insurance, flexible spending accounts, health savings accounts, retirement savings plans, life and disability insurance programs, and a number of programs that provide for both paid and unpaid time away from work.
+· Earned Bonuses & Awards
 
-The specific programs and options available to any given employee may vary depending on eligibility factors such as geographic location, date of hire, and the applicability of collective bargaining agreements.
+· Professional Training Reimbursement
 
-Pay is based upon candidate experience and qualifications, as well as market and business considerations.
+· Employee Assistance Program
 
-Summary pay range for Experienced (Level 3): $137,700.00 - $186,300.00
-
-Applications for this position will be accepted until Jul. 17, 2026
-
-Export Control Requirements:
-
-This position must meet U.S. export control compliance requirements. To meet U.S. export control compliance requirements, a “U.S. Person” as defined by 22 C.F.R. §120.62 is required. “U.S. Person” includes U.S. Citizen, U.S. National, lawful permanent resident, refugee, or asylee.
-
-Export Control Details:
-
-US based job, US Person required
-
-Relocation
-
-Relocation assistance is not a negotiable benefit for this position.
-
-Security Clearance
-
-This position requires an active Top Secret/Sensitive Compartmented Information (TS/SCI) U.S. Security Clearance with an adjudicated Counterintelligence or Full Scope Polygraph (U.S. Citizenship Required). (A U.S. Security Clearance that has been active in the past 24 months is considered active.).
-
-Visa Sponsorship
-
-Employer will not sponsor applicants for employment visa status.
-
-Shift
-
-This position is for 1st shift
-
-Contingent Upon Program Reward
-
-The position is contingent upon program award
-
-Equal Opportunity Employer:
-
-Boeing is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military/veteran status or other characteristics protected by law.",False,3 days ago,1782950400.0,2026-07-02T00:00:00.000Z,"Herndon, VA",Herndon,Virginia,US,38.9695545,-77.3860976,"['health_insurance', 'dental_coverage']","['Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7jGo7HZ15DoKRY_OAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
-Hu3ow7LfPdq-t4DFAAAAAA==,Data Scientist SETA (TS/SCI #26-099),"Strategic Analysis, Inc.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4QW6HKB5P1O2vD33X2A7usoedscLGIqFRPR3L&s=0,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=4898133e770c1b99,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=4898133e770c1b99', 'is_direct': False, 'publisher': 'Indeed'}]","Strategic Analysis, Inc. is seeking a candidate to provide scientific support with Data Science/Statistics expertise. The successful candidate will support the Defense Advanced Research Projects Agency (DARPA) in managing and developing programs in high-risk, high-reward research and development (R&D) projects. A key element of this role is proactive communication, both written and oral, with key stakeholders including performers, supporting organizations, military transition partners, and international collaborators. The candidate is expected to function as part of a strongly collaborative scientific and technical team, but also to act independently to complete time-critical tasks. The candidate must be comfortable in working at security levels across the spectrum from unclassified open discussion potentially with foreign nationals to collateral classified programs with validated higher levels of need-to-know.
-
-Required Capabilities and Characteristics:
-
-1.) Seeking a highly skilled and motivated SETA to support the conceptualization, development, and execution of cutting-edge DARPA programs.
-
-2.) Ability to support the development and management of new programs in strategic communication.
-
-3.) Experience in causal modeling and other fields of data science.
-
-4.) Experience in U.S. foreign policy, messaging campaigns, and data-driven program evaluation.
-
-5.) Must have experience in statistics or another core quantitative method and be capable of reviewing and assessing proposed concepts for scientific and technical merit.
-
-6.) Strong technical writing skills, ability to communicate complex scientific ideas to broad audiences, digest basic and applied research across areas of data science, computational social science, behavioral economics, sociology/anthropology, communication theory, and marketing, and demonstrate a willingness to explore the scientific literature for emerging technologies and innovations.
-
-7.) Outstanding organization, communication, coordination, and time management skills are required.
-
-8.) Must be able to work within a multi-disciplinary team and handle a wide variety of tasks, including briefing support, program management, and general administrative actions.
-
-Key Responsibilities:
-
-1.) Assist in the conceptualization and design of various DARPA programs technologies.
-
-3.) Monitor and evaluate the progress of funded research programs, providing feedback and recommendations to Program Managers.
-
-4.) Identify emerging trends and opportunities to inform future program directions. Facilitate collaboration between DARPA, academic institutions, industry partners, and government stakeholders.
-
-5.) Prepare technical reports, briefings, and presentations to communicate program progress and outcomes. Strong expertise in biomedical sensors, medical devices, and physiological modeling. Proficiency in machine learning and AI techniques, with experience in time-series analysis, medical imaging, or related areas.
-
-6.) Other duties as assigned.
-
-Education: Ph.D. preferred.
-
-Clearance: DoD TS/SCI security clearance is preferred, must have a secret clearance.",False,17 days ago,1781740800.0,2026-06-18T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHu3ow7LfPdq-t4DFAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
+Equal Opportunity Employer/Protected Veteran/Disability",False,20 days ago,1781568000.0,2026-06-16T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['paid_time_off', 'dental_coverage', 'health_insurance']","['Paid time off', 'Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjP9DTA35CxtBFLhCAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,
