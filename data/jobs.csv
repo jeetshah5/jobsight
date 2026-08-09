@@ -1,1 +1,650 @@
+job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
+c1NlTS1GVndhWmlQcVVuTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMHN6TmpONE1WOHhWVFJZYkhVMGExSkdVVzEwVGxaclJISmpWM05xWTFRelVuY3hOV3BMZVVsUmJXdENiWFJ2WldGNE5Xd3hkRVUwV0ZWSFN6VXhNekZFYmsxV056RlBZek5YVUZCa1VuWm5jVEl5Ymt4UFlYSmhaVXc1ZGpselJXRjJkR1JKVXpaSVdqVjJiR1I0T0hWUVEwTkdWelJyVkRkbldERXhaRmRvV1VZeWJqVVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVVJtWnFXVlJYWVZoVlVHMUxkV3RwYnpWQ2VFMU1PR3MzTlVGMw,Data Scientist at U.S. Department of Health and Human Services,Berkeley Industrial Engineering & Operations Research,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7V1f70px4POKbxVFHogDLFZPncwHLjJ8QMcbP&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-at-u-s-department-of-health-and-human-services-at-berkeley-industrial-engineering-operations-research-4449796758,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-at-u-s-department-of-health-and-human-services-at-berkeley-industrial-engineering-operations-research-4449796758', 'is_direct': False, 'publisher': 'LinkedIn'}]","Administration for Children and Families
 
+Office of Refugee Resettlement (ORR)
+
+NOTE: This job will close when we have received 100 applications which may be sooner than the closing date.
+
+As a Data Scientist, you will use your knowledge and experience to optimize business results and customer experience by:
+
+• Utilizing tools such as Microsoft Power Automate; PowerBI, Tableau, Python, Structured Query Language (SQL), SAS, Oracle, machine learning methods, and other data analytics tools, as necessary.
+• Developing mathematical and/or statistical models for evaluation, identification, collection, and analysis of all data used to support assigned projects or program(s). Analyzing complex data elements and systems, data flows, dependencies, and relationships.
+• Preparing presentations, writing reports, building data visualization products, and working to communicate technical results and actionable insights to decision-makers with varying levels of analytic sophistication.
+• Interfacing and collaborating with staff elements, and others to refine understanding of underlying problems(s) and devise possible solutions. Expert understanding of issues and requirements of each division as well as leadership, to report/dashboard requirements and data needs
+
+Please see full job announcement on USAJobs.gov for complete details and how to apply.
+
+You must be a US citizen to apply.
+
+This is not a remote position.",False,2 days ago,1786060800.0,2026-08-07T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsSeM-FVwaZiPqUnMAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,sSeM-FVwaZiPqUnMAAAAAA==
+NDE5cjJxTXVQeUNRUHNYTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbTlWUW5kbVdsZENPR0ZyTnpJMWJHbGhNV010VFhGdU0yNTVUa3BHTUhNNU9UaFZkVkpJTkROeVFUUmljakpOZGpGME9EZGlOWEExY0hoMVVYTklhVFYxY1Vwc2VWWXhaRE5WTVZoWGJtWlBNM2hhUkV0VmVtTjZiM1ZOU0RjMmExRlBRbXN3ZG1nM1FWWmZjRXBCVDJveU5sZ3RNVTkzV25wWWFHNDNjRlJ4V0Y5T1EwSVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVWRqSmtVbTUwVWpsa1ZESjVYMnh6VGpOWVlsRXlVUzFEYWw5bg,SAR Data Scientist/Imagery Scientist Top Secret Required,Ramtec Consulting LLC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8O3sWvId_WLB6jyPVTa7pBNRd11IX2NRukpc6&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/sar-data-scientist-imagery-scientist-top-secret-required-at-ramtec-consulting-llc-4449208237,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/sar-data-scientist-imagery-scientist-top-secret-required-at-ramtec-consulting-llc-4449208237', 'is_direct': False, 'publisher': 'LinkedIn'}]","Ramtec LLC and Partners have a need for a SAR Data Scientist/Imagery Scientist to join a Federal Program in Falls Church, VA. This is a direct-hire opportunity with our client, a highly respected Federal Integrator. A current TS/SCI Clearance is required.
+
+We are seeking an experienced SAR Data Scientist/Imagery Scientist to join a high-performing team supporting advanced AI and machine learning initiatives for complex national security and intelligence missions.
+
+This program focuses on evaluating AI models against Government datasets to assess their performance, resilience, and robustness across a broad spectrum of adversarial scenarios. The effort also includes testing and validating autonomous algorithms designed to support operational decision-making in dynamic mission environments.
+
+As a SAR Exploitation/Imagery Scientist, you will provide subject matter expertise in Synthetic Aperture Radar (SAR) imagery, geospatial analysis, and quantitative assessment to support data curation, imagery exploitation, and dataset development for machine learning model testing and evaluation. You will collaborate with engineers, data scientists, and mission analysts to ensure imagery products are prepared, standardized, and optimized for AI/ML applications.
+
+Required Qualifications
+• 4+ years of experience working with Synthetic Aperture Radar (SAR) imagery, including collection methodologies, radar phenomenology, image formation, and exploitation products.
+• Experience evaluating SAR imagery quality metrics and interpreting sensor metadata, including the effects of collection geometry (e.g., graze angle, squint angle, azimuth) on SAR phenomenology.
+• Demonstrated experience exploiting SAR imagery to detect, identify, and geolocate objects of interest.
+• Strong understanding of remote sensing principles, imagery processing, and advanced SAR exploitation techniques.
+• Excellent communication skills with the ability to effectively present SAR methodologies, imagery products, and analytical findings to both technical and non-technical audiences.
+
+Preferred Qualifications
+• Experience applying computer vision (CV), machine learning (ML), or deep learning techniques to SAR imagery and geospatial data to support intelligence, defense, or remote sensing applications.
+
+Key Responsibilities
+• Support the Lead SAR Scientist in evaluating emerging sensor capabilities and comparing new collection platforms with existing operational systems.
+• Assess the impact of new sensor data on existing data architectures, including metadata, file formats, schemas, APIs, and ETL processes required to ingest and integrate data into operational pipelines.
+• Evaluate data acquisition strategies, expected collection latency, available data formats, and applicable security domains for new sensor sources.
+• Develop preprocessing and standardization workflows to prepare imagery for labeling, analytics, and AI/ML model testing. This may include file format conversion, image tiling, geospatial normalization, and other data preparation activities to ensure compatibility with established data standards.
+• Please note that pursuant to a government contract, this specific position requires U.S. citizenship status
+
+What is Important to Us:
+• You are an excellent communicator in writing and speaking.
+• You have the ability to work independently but also value teamwork.
+• Your problem-solving skills are excellent.
+• You are looking for a job where performance appraisals occur regularly, and you look forward to advancing your career.
+• You seek a community of virtue-centered co-workers and clients.
+
+CLEARANCE:
+
+Active TS/SCI clearance and be willing to eventually obtain a CI Polygraph level clearance.
+
+Ramtec, SSA and its clients are Equal Opportunity / Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.",False,2 days ago,1786060800.0,2026-08-07T00:00:00.000Z,"Falls Church, VA",Falls Church,Virginia,US,38.882334,-77.1710914,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D419r2qMuPyCQPsXMAAAAAA%3D%3D&vssid=jobs-detail-viewer,,170K–190K a year,170000.0,190000.0,YEAR,{},,,,419r2qMuPyCQPsXMAAAAAA==
+Nm5oeWlnZXRoVWwzTm8yR0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlZOZURGRFEybDBaR1ZCWkRCTU1sTkZZamx6Vm5CeFZuVjFWbTVXTW01aVYyTm9TMlphZFVoSVIzUlJkazVXT1ZWblpuTnZWMGhDUTBabVdIQm1aMVJpWTFoQ1YzbzJWMWx2T0dFM2F6Tm9ZMnBUZEZsRlNGZFpWa2R4U2pKcmJIVlZYelJhWmxkNmQwUnhja0pMU21WSWNtaG5iM1JrZWtWbGQzQjFXVFV3VUhGVU1USVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVGIzWktOWEZpVmpRNVZERklXa1JWT1dwbFNHMTBZVEo1WTBGbg,Operational Research/Data Scientist,"Unissant, Inc.",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxU4WUmQLfY-lkRKCRQuvZG0QeuRVdrpPybrH&s=0,https://www.unissant.us,Haystack,Full-time,['FULLTIME'],https://haystackapp.io/jobs/0c4c3a61-9ca8-4882-8407-7f1f81d68c73,False,"[{'apply_link': 'https://haystackapp.io/jobs/0c4c3a61-9ca8-4882-8407-7f1f81d68c73', 'is_direct': False, 'publisher': 'Haystack'}]","Unissant, Inc. delivers innovative capabilities to the agencies that keep our nation healthy and safe. We apply our domain expertise, data acumen, and technology know-how to achieve breakthrough results for our clients. Working collaboratively, we advance missions and careers through a focus on honesty, integrity, and dependability. We continuously look for talent, excited to join that effort. To learn more about our exciting organization, please visit us at .
+
+We are seeking a Senior Data Scientist to join our team in Washington, DC, in support of the Department of Homeland Security (DHS), Immigration and Customs Enforcement (ICE), Law Enforcement Systems and Analysis (LESA) program within the Statistical Tracking Unit (STU).
+
+The STU is the official statistical reporting unit for ICE, responsible for ensuring accountability, consistency, and efficiency in the statistical reporting of ICE operations. STU supports analysis of key performance metrics, provides ad hoc analysis and reporting for congressional inquiries, interagency requests, litigation, and FOIA, and assesses and improves reporting tools including the ICE Integrated Decision Support System (IIDS) and ENFORCE. The ideal candidate is a data scientist with strong predictive modeling, feature engineering, and model evaluation skills, with particular ability to support official reporting workflows, data quality monitoring, and business requirements development in a high-accountability government environment. In addition, the ideal candidate brings substantial experience in operations research (OR) methods and federal environments and is able to apply OR techniques to enforcement and immigration lifecycle problems.
+
+Essential Duties and Responsibilities:
+• Develop and implement predictive modeling and machine learning solutions to support STU statistical reporting, data quality monitoring, and enforcement analysis within the immigration lifecycle.
+• Perform feature engineering: identifying, constructing, and selecting relevant variables from structured and unstructured data in ICE systems of record (ENFORCE, IIDS, and related databases) to optimize model and report performance.
+• Design and execute comprehensive model evaluation and validation frameworks including cross-validation, A/B testing, precision/recall analysis, and population/filter validation per STU standard operating procedures.
+• Provide data quality monitoring: analyze data to identify patterns, data quality issues, and anomalies; document findings and provide recommendations to federal staff in writing.
+• Complete a ""Weekly Population Report Validation"" process: validate all standard populations and filters in systems of record by the first business day of each week; communicate data quality issues to federal staff by 3:00 PM EST on the first business day of each week.
+• Gather business requirements, design, and execute recurring and ad-hoc reports from databases of record at prescribed frequencies for federal staff review; conduct peer reviews of deliverables daily or as requested.
+• Gather business requirements and draft reporting methodologies; participate in the testing and validation of business rule implementations; provide final training documentation as directed by the STU Unit Chief.
+• Identify data resources, research historical data, integrate structured and unstructured data from disparate sources, and incorporate new data from systems as required.
+• Support EOFY (End of Fiscal Year) Management: conduct population audits, validate fiscal year reports, identify data quality issues, and draft updated methodologies for new fiscal year reporting.
+• Co-lead STU working groups (including the STU Database Working Group); identify gaps for LESA business tool development; draft technical requirements for ITM; provide UAT and validation of implementations.
+• Evaluate and provide recommendations for current and emerging business tools: SQL, AI, Tableau, GIS, Python, QLIK, Databricks; support FOIA and litigation data pulls from ERO systems.
+• Create data visualizations and storytelling artifacts using standard and non-standard datasets; present data in organized formats for STU reporting and congressional/interagency deliverables.
+• Apply operations research methods (such as optimization, simulation, queuing theory, and decision analysis) to enforcement, detention, and immigration lifecycle questions, designing models that can be used in official reporting and policy analysis.
+• Collaborate with federal stakeholders to translate enforcement and operations questions into OR-driven analytical frameworks and documented methodologies that align with LESA and STU standards.
+
+Work Experience and Job Skills:
+• 10+ years of experience in data science, applied machine learning, statistical analysis, operations research, or quantitative reporting, preferably in a federal law enforcement, compliance, or statistical reporting environment.
+• Demonstrated experience in predictive modeling and ML techniques: supervised learning (classification, regression), unsupervised learning (clustering), and ensemble methods.
+• Strong feature engineering skills across structured, categorical, and time-series data common to government enforcement and immigration datasets.
+• Experience designing and implementing model/report validation frameworks and population audits; familiarity with ICE systems (ENFORCE, IIDS, OBIEE/OAS) is a strong plus.
+• Ability to work in a high-accountability reporting environment, meeting strict delivery deadlines with accurate, error-free deliverables consistent with STU SOPs.
+• Experience supporting FOIA, litigation, or congressional reporting requests preferred.
+• Strong SQL skills for querying government databases; Python and/or R programming; experience with Databricks, Oracle OBIEE/OAS, or UiPath is a plus.
+• Proficiency with data visualization tools: Python (matplotlib, seaborn, Plotly), Tableau, Qlik, Power BI, GIS/ArcGIS.
+• Demonstrated, hands-on experience in operations research: building and evaluating optimization models, simulation models, or decision-support tools, preferably applied to federal, law enforcement, immigration, or other large-scale operational contexts.
+• Prior experience working directly with federal agencies (e.g., DHS, DOJ, ICE, CBP, or similar) on data, reporting, or analytical initiatives is strongly preferred.
+
+Education:
+• Bachelor''s Degree required. Preferred fields: Computer Science, Data Science, Statistics, Mathematics, or related discipline.
+• Master''s Degree in a quantitative discipline preferred. Degrees in Operations Research or closely related quantitative fields are highly desirable.
+
+Certificates, Licenses and Registrations:
+• Data science or ML certifications (e.g., AWS Certified Machine Learning, Databricks ML Associate, or equivalent) preferred.
+• Tableau, QLIK, or SQL certifications are a plus.
+• Operations research or advanced analytics certifications are a plus.
+
+Communication Skills:
+• Excellent verbal and written skills; able to communicate data findings clearly to technical and non-technical federal staff and leadership.
+• Ability to produce timely, accurate, and error-free deliverables in writing consistent with FOUO/LES requirements and STU standard operating procedures.
+• Able to clearly explain operations research models, assumptions, and limitations to non-technical stakeholders, and document methodologies in a way suitable for official STU use.
+
+Clearance Requirements:
+• Active ICE clearance required; preference for candidates currently cleared or cleared within the last two years.
+• Ability to obtain and maintain required clearance level is a condition of employment.
+• Prior DHS/ICE clearance and recent experience working under DHS/ICE security and reporting requirements are strongly preferred.
+
+Travel:
+• Minimal travel expected. On-site in Washington, D.C. Metropolitan area.
+
+Environmental Requirements:
+• Mainly a routine office environment.
+• May be required to lift up to ten (10) pounds.
+• Flexible in working extended hours.
+
+The above statements are intended to describe the general nature and level of work being performed by the individual(s) assigned to this position. They are not intended to be an exhaustive list of all duties, responsibilities, and skills required. Unissant management reserves the right to modify, add, or remove duties and to assign other duties as necessary. In addition, where applicable and available, reasonable accommodation(s) may be made to enable individuals with disabilities to perform essential functions of this position.
+
+Please note: Candidate(s) will be required to go through pre-employment screening.
+
+Unissant, Inc. is a proud Equal Opportunity Employer! (EOE; M/F/Disability/Vets)",False,3 days ago,1785974400.0,2026-08-06T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6nhyigethUl3No2GAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,6nhyigethUl3No2GAAAAAA==
+Q2NVVThoWVhTQXJtUklfNUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURnBGU1hWaU9GUlhhelIzVUZabFgycEhiWGRNYmxVeE4zTXpZbUk0Tm5wWGFGTXhiakZUYTBSWmREZHlVV2huUzJWcVFVeFZkRWw2UVVoalMyUjNlakZmTkZaQlpHMVRMVWhFUVRadE16bHdiblZqUjBsbmEyMW5WbEp1Y1ZSeFRsVnZZa3R4ZG5kV1lrdDNSa3hpVUV3NFlWOW9VVW90YjJaVU5pMUhjbFpvVEZnek1HOFNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVE9FdExkM2RzV0ZOaVYybHNOa2ROWTJsT1RDMXdlWE5DTTNCMw,HR Data Scientist,The MITRE Corporation,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvN3G6Bhf3gxoVsaGZLyNlvY_O-H4KroJnmSts&s=0,,MITRE Careers,Full-time,['FULLTIME'],https://careers.mitre.org/us/en/job/R117122/HR-Data-Scientist,False,"[{'apply_link': 'https://careers.mitre.org/us/en/job/R117122/HR-Data-Scientist', 'is_direct': False, 'publisher': 'MITRE Careers'}]","Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities for career growth, and a culture of innovation that embraces adaptability, collaboration, technical excellence, and people in partnership. If this sounds like the choice you want to make, then choose MITRE - and make a difference with us.
+
+The HR Data Scientist develops analytical solutions that improve workforce decision-making by applying statistical analysis, programming, and data science techniques to HR data. This role designs and automates data pipelines, integrates and harmonizes data from multiple HR systems, develops standardized data definitions and workforce metrics, and builds reproducible analytical models and workflows. Working closely with HR, IT, Finance, and business leaders, the HR Data Scientist transforms complex workforce data into actionable insights and establishes the technical foundation for diagnostic, predictive, and prescriptive people analytics.
+
+Roles & Responsibilities:
+• Develop statistical analyses and progressively more advanced analytical models that support the organization's evolution from descriptive to diagnostic and predictive workforce analytics.
+• Develop reusable analytical assets, datasets, and models that enable scalable self-service analytics and decision support.
+• Develop predictive and statistical models to answer complex workforce questions.
+• Apply machine learning, causal inference, and other analytical techniques where appropriate.
+• Partner with HR, business leaders, and People Analytics colleagues to frame ambiguous questions into analytical approaches.
+• Use Python, SQL, and modern data science techniques to investigate workforce challenges.
+• Build reusable datasets, feature engineering pipelines, and analytical data models.
+• Improve the quality, reliability, and accessibility of people data.
+• Automate recurring analyses and data preparation processes.
+• Validate analytical models and communicate assumptions, limitations, and results to ensure reliable, actionable business insights.
+• Collaborate with data engineering teams to improve data architecture and governance.
+• Evaluate emerging AI and analytical techniques for People Analytics applications.
+• Develop and maintain standardized HR data definitions, business rules, calculation methodologies, metadata, and data dictionaries to improve the quality, consistency, governance, and trustworthiness of workforce analytics.
+• Collaborate with HR Centers of Excellence to translate business requirements into sustainable data and analytics solutions
+
+Basic Qualifications:
+• Typically requires a minimum of 8 years of related experience with a Bachelor’s degree; or 6 years and a Master’s degree; or a PhD with 3 years’ experience; or equivalent combination of related education and work experience.
+• Bachelor's degree in Data Science, Statistics, Computer Science, Mathematics, Economics, Industrial-Organizational Psychology, or a related quantitative field
+• 5+ years of experience in data science, people analytics, workforce analytics, or a related quantitative analytics role.
+• Experience developing, validating, and deploying statistical and predictive models using Python, SQL, and machine learning techniques.
+• Experience preparing, integrating, and transforming complex datasets, with familiarity in ETL/ELT pipelines, analytical data modeling, and workflow automation.
+• Experience leveraging Workday HCM and integrating data across multiple HR systems to develop analytical data models that support advanced workforce analytics and reporting.
+• Experience collaborating with data engineering, technology, and data governance teams to improve HR data quality, standards, documentation, and enterprise analytics capabilities.
+• Demonstrated experience automating reporting processes and improving operational efficiencies.
+• Strong analytical, problem-solving, communication, and stakeholder management skills, with the ability to influence cross-functional partners and communicate complex analytical concepts to diverse audiences.
+• This position requires a minimum of 4 days a week on-site.
+
+Preferred Qualifications:
+• Data visualization tools (Power BI, Tableau)
+• Cloud data platforms (Snowflake, Databricks, Azure, AWS)
+• APIs and data integration
+• Experience supporting global HR organizations and complex enterprise environments
+
+This requisition requires the candidate to have a minimum of the following clearance(s):
+None
+
+This requisition requires the hired candidate to have or obtain, within one year from the date of hire, the following clearance(s):
+None
+
+Salary compensation range and midpoint:
+$122,000 - $152,500 - $183,000 Annual
+
+Work Location Type:
+Onsite
+
+It is unlawful in Massachusetts to require or administer a lie detector test as a condition of employment or continued employment. An employer who violates this law shall be subject to criminal penalties and civil liability.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local or international law.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please email recruitinghelp@mitre.org for general support and collegerecruiting@mitre.org for intern positions. This service is for individuals requiring reasonable accommodation requests. Please note that vendor solicitations will not receive a reply.
+
+Benefits information may be found here.
+
+Copyright © 1997-2026, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.",False,1 day ago,1786147200.0,2026-08-08T00:00:00.000Z,"McLean, VA  (+1 other)",McLean,Virginia,US,38.9338676,-77.1772604,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCcUU8hYXSArmRI_5AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,CcUU8hYXSArmRI_5AAAAAA==
+Njk5QUg2VE5RQXEtcnU4aUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEV6TWs1SmJtdEtXbkZ4TVU5d2RVOXVVV3BoWjJZNFVXWXlTakpwZDFabFZHRjFRVnBQZWtSamJ6bEhaemRNWmtkb2MwZzVlV0ZpY2s1VVZuVmtaRWhGWkcxVWVYTTRNbGRuUkVGMllXZDJkRUZ2TkdkTmNuWk5XbmhEZERWRFpVZzFNVEUwYjJkcVRGUm1XbVY2U0haUE56RmpPV1ZSWlRodWRGOTBkazlZTW1OUWRsRVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daU2NUWTBVRlJRTVVKV1NFWndYMmh1VjFseWNYVXhhM2hoYjIxbg,"Data Scientist, AWS Security",Amazon.com Services LLC,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJpHPsPCtT7v0dsfLzY7WalItl5ZK269S36ESB&s=0,https://www.amazon.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0507178a1a8ba583,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=0507178a1a8ba583', 'is_direct': False, 'publisher': 'Indeed'}]","DESCRIPTION
+
+As a Data Scientist on our team, you will leverage advanced analytics and machine learning to protect our cloud infrastructure from security threats. You'll develop and deploy sophisticated anomaly detection models, predictive algorithms, and real-time analysis systems that identify and automate the mitigation of cyber threats across Amazon's infrastructure. Your expertise in statistical analysis, machine learning, and big data processing will be crucial in building scalable security solutions.
+
+You'll collaborate with software engineers, security engineers, and fellow data scientists to:
+
+• Analyze large-scale security data using statistical methods and data mining techniques
+
+• Create automated systems for real-time pattern recognition and risk assessment
+
+• Build data pipelines and ETL processes to handle massive security datasets
+
+• Translate complex analytical findings into actionable security insights
+
+We use the full power of AWS technologies, including Amazon SageMaker, EMR, and other ML/AI services to protect every AWS customer from security threats. Experience with Python and a strong background in statistical analysis and machine learning are essential.
+
+We're looking for a new teammate who is enthusiastic, empathetic, curious, motivated, reliable, and able to work effectively with a diverse team of peers. We want someone who will help us amplify the positive & inclusive team culture we've been building.
+
+We understand that life is dynamic and we have a flexible work environment that enables individuals to adjust their work schedule to accommodate personal needs. Our team is distributed, though most of the team is located in Maryland and Virginia. We generally keep core business hours of 10:00 AM EST - 3:00 PM EST, while allowing flexibility as needed. At AWS Security, it’s not about clocking hours, it’s about delivering results.
+
+On-Call Responsibility
+
+This position involves on-call responsibilities, typically for one week every two months. We don’t like getting paged in the middle of the night or on the weekend, so we work to ensure that our systems are fault tolerant. When we do get paged, we work together to resolve the root cause so that we don’t get paged for the same issue twice.
+
+Key job responsibilities
+
+• Running experiments to assess potential risk of security responses.
+
+• Expanding our existing LLM agent pipelines
+
+• Analyzing post mortems to understand what data signals could have prevented the occurence
+
+About the team
+
+Diverse Experiences
+
+Amazon Security values diverse experiences. Even if you do not meet all of the qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why Amazon Security?
+
+At Amazon, security is central to maintaining customer trust and delivering delightful customer experiences. Our organization is responsible for creating and maintaining a high bar for security across all of Amazon’s products and services. We offer talented security professionals the chance to accelerate their careers with opportunities to build experience in a wide variety of areas including cloud, devices, retail, entertainment, healthcare, operations, and physical stores.
+
+Inclusive Team Culture
+
+In Amazon Security, it’s in our nature to learn and be curious. Ongoing DEI events and learning experiences inspire us to continue learning and to embrace our uniqueness. Addressing the toughest security challenges requires that we seek out and celebrate a diversity of ideas, perspectives, and voices.
+
+Training & Career Growth
+
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, training, and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance
+
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why flexible work hours and arrangements are part of our culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve.
+
+BASIC QUALIFICATIONS
+
+• 3+ years of data querying languages (e.g. SQL), scripting languages (e.g. Python) or statistical/mathematical software (e.g. R, SAS, Matlab, etc.) experience
+
+• 3+ years of machine learning/statistical modeling data analysis tools and techniques, and parameters that affect their performance experience
+
+• Master's degree in Science, Technology, Engineering, or Mathematics (STEM), or experience working in Science, Technology, Engineering, or Mathematics (STEM)
+
+PREFERRED QUALIFICATIONS
+
+• Ph.D. in Science, Technology, Engineering, or Mathematics (STEM)
+
+• Knowledge of machine learning concepts and their application to reasoning and problem-solving
+
+• Experience in Python, Perl, or another scripting language
+
+• Experience in a ML or data scientist role with a large technology company
+
+• Experience in defining and creating benchmarks for assessing GenAI model performance
+
+• Experience applying quantitative analysis to solve business problems and making data-driven business decisions
+
+Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+The base salary range for this position is listed below. Your Amazon package will include sign-on payments and restricted stock units (RSUs). Final compensation will be determined based on factors including experience, qualifications, and location. Amazon also offers comprehensive benefits including health insurance (medical, dental, vision, prescription, Basic Life & AD&D insurance and option for Supplemental life plans, EAP, Mental Health Support, Medical Advice Line, Flexible Spending Accounts, Adoption and Surrogacy Reimbursement coverage), 401(k) matching, paid time off, and parental leave. Learn more about our benefits at https://amazon.jobs/en/benefits.
+
+USA, VA, Arlington - 136,000.00 - 184,000.00 USD annually",False,,,,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D699AH6TNQAq-ru8iAAAAAA%3D%3D&vssid=jobs-detail-viewer,,136K–184K a year,136000.0,184000.0,YEAR,{},,,,699AH6TNQAq-ru8iAAAAAA==
+UmNlcldRck9yc0RndHpVaEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWRKUTI5VllrcG5aRWRwWkVGRk4xSTBTWEpNVUVWbVRpMXZhbkJFVFRWdlVXaGFRa2hOTlVkek5qRnNYMWxrY2tocGEwcGxibXR2UlhBMFJWTkRPUzEzZWs4dGNWbExiRXhJZWxZdFJFY3RjSE5tVW1aRE5GTmFiMnhxUmxSSFlubFlUVFZ6UnpWWGJIQkZTazB5TTB0bFRuUnpOakpYY3pGbFpraDRPRzg1VWt3MWJXZ1NGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daUlZEUllTSFJ4YTJGMFYzcHVlbUZ3ZFhKNFpuZEJkemxPWlc1Ug,Data Scientist Jobs,Alpha Omega,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://alphaomega.com&size=128",https://alphaomega.com,Clearance Jobs,Full-time,['FULLTIME'],https://www.clearancejobs.com/jobs/9079198/data-scientist,False,"[{'apply_link': 'https://www.clearancejobs.com/jobs/9079198/data-scientist', 'is_direct': False, 'publisher': 'Clearance Jobs'}]","Job Title: Data Scientist
+Clearance Required: US Citizen, Public Trust Clearance
+Work Location: Hybrid, Camp Springs, MD
+
+Alpha Omega is looking for a Data Scientist to join our team in support of a large security operations program with a federal client. Our threat hunting team seeks to uncover the presence of attacker tactics, techniques, and procedures (TTP) to support the customers’ mission of ensuring confidentiality, integrity, and availability of the infrastructure for the agency to achieve its mission. The Threat Hunt Analyst will apply the proper techniques and procedures for the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody.
+
+Responsibilities:
+
+• Apply the proper techniques and procedures for the identification, collection, examination, and analysis of data while preserving the integrity of the information and maintaining a strict chain of custody
+
+• Advanced traffic analysis (at the packet level) and reconstruction of network traffic to discover anomalies, trends, and patterns affecting the customers networks
+
+• Work with engineers to ensure large data sets and tools are being used effectively to support machine learning and data science analysis techniques.
+
+• Develop algorithms and models based on analyst use cases for security log data.
+
+• Support Hunt Team operations by leveraging innovative approaches to incident discovery.
+
+• Assist in other areas of SOC operations as needed such as data trending, statistical analysis, incident investigation/mitigation, etc.
+
+Required Skills/Experience:
+
+• Data and predictive analytics experience especially using log/incident data.
+
+• Experience ingesting and analyzing data from AWS, MS ATP, Tanium and other security tools into Splunk or AWS/Hadoop.
+
+• Developing and applying ML models on large sets of streaming and static data to uncover insights
+
+• Understanding of Security domain and experience applying data analytics in security domain
+
+Preferred Skills/Experience:
+
+• Performing NETFLOW or PCAP analysis using Wireshark, Cisco Stealthwatch, AWS VPC Flow logs, is a big plus
+
+• Configuring Splunk modules or AWS ML services or other data analytics tools to assist in security anomaly and hunt detection
+
+• Network, live system, sandbox static and RAM/memory forensic malware analysis
+
+Required Certifications:
+
+• At least one of the following: Security+, CYSA+, GCIH, ISC2 CISSP, GSE, GREM, GAWN, GCIA, GPPA, GSEC, GCED, GSLC, GSNA, GCFA, or other comparable certification
+
+Required Education:
+
+• Minimum Bachelors in Computer science or Data Analytics
+
+Salary and Benefit Information:
+
+The likely salary range for this position is $117,000 – $137,000. This is not, however, a guarantee of compensation or salary. There are multiple factors that are considered in determining final pay for a position, including, but not limited to, relevant work experience, skills, certifications and competencies that align to the specified role, education and certifications as well as contract provisions regarding labor categories that are specific to the position and could fall outside of this range.
+
+Application Deadline: September 30, 2026
+
+Joining the Alpha Omega team entitles you to participate in all retirement benefits, plans of deferred compensation, health and insurance benefits, and other such benefits as set forth in the company’s policy and benefits manuals. See below, to name a few:
+
+• PTO including paid parental, military, and bereavement leave
+
+• Eleven (11) paid Federal holidays, five of which are floating holidays (as designated by the company’s holiday schedule each year)
+
+• Health and Dental Insurance (including 100% employer paid premiums for employee coverage under the HDHP health plan)
+
+• Life Insurance, STD/LTD term disability coverage, with employer paid premiums
+
+• 401 (k) plan with a match that is 100% vested after you complete two years of service
+
+• FSA/DFSA/HSA flexible benefit plans
+
+• Annual Tuition & Professional Development Reimbursement benefit
+
+We regularly review our Total Rewards package to ensure our offerings are competitive and reflect what our employees have told us they value most.
+
+Our Company:
+
+Alpha Omega is an award-winning solutions provider dedicated to delivering mission-enabling technology and strategic solutions for our customers. Since our founding in 2016, we have grown to over 700 employees nationwide consisting of former operators, technologists, and strategists who bring decades of government and industry experience. They are united by one purpose: ensuring our nation’s continued global leadership.
+
+We have a unified operating model providing technical capabilities and solutions for customers across two main business units:
+
+• National Security – supporting agencies such as the Department of Homeland Security (DHS), Navy, Air Force, Army, and the Department of State (DOS).
+
+• National Resilience – supporting agencies such as Federal Deposit Insurance Corporation (FDIC), Treasury, Health & Human Services (HHS), National Institutes of Health (NIH), National Oceanic and Atmospheric Administration (NOAA) and the United States Department of Agriculture (USDA)
+
+Through strategic partnerships, intellectual property, and relentless drive for innovation, Alpha Omega is shaping the future of government technology. We are proud to be a Virginia Best Places to Work 8 times, an Inc. 5000 honoree 7 times, and a Washington Post Top Workplaces 4 times. Join us in driving transformation that secures the nation's future.
+
+Culture and Values:
+
+Guided by our core values—Harmony, Engagement, Accountability, Resourcefulness, and Tenacity (HEART)— we foster a culture of innovation, collaboration, and continuous learning and are committed to delivering high-impact solutions. We recognize and reward hard work.
+
+Alpha Omega's culture is driven by our values and mission. We invest in top talent through mentorship, growth, and meaningful work. We value individuality, reward integrity, and foster a diverse, high-performing team united by purpose-at work, in service, and in the community.
+
+Qualifications
+
+Skills
+
+Behaviors
+
+:
+
+Motivations
+
+:
+
+Education
+
+Experience
+
+Licenses & Certifications
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+This employer is required to notify all applicants of their rights pursuant to federal employment laws.
+
+For further information, please review the Know Your Rights notice from the Department of Labor.
+
+Powered by UKG",False,3 days ago,1785974400.0,2026-08-06T00:00:00.000Z,"Camp Springs, MD",Camp Springs,Maryland,US,38.8040027,-76.90663959999999,"['health_insurance', 'paid_time_off', 'dental_coverage']","['Health insurance', 'Paid time off', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRcerWQrOrsDgtzUhAAAAAA%3D%3D&vssid=jobs-detail-viewer,,117K–137K a year,117000.0,137000.0,YEAR,{},,,,RcerWQrOrsDgtzUhAAAAAA==
+R0ItdWlFTGRDM3IwSG53SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblpTVWxkaVNUWTBVMjlLTTNneGQxbENiMWxOU0RWWldXUlhURGh5Y1dJM1ZuaE1SbGxZT0U5aFoxVXhPVU5yUlZnMFZtUmpiVzgyUVZkbVEzZFdTa0pLUWtSb05sTlpaVFZQVFVWUFJESlFNaTFaZUVOaFVYcGpVMFkwYTBJNGFVTjVkVFJRTkVWcWQybDNWbEpKTTJOVU5VSmlSMlZaU0c5ZmJUQmFRVXhWUVdKak5UVVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daU1JqUk1TRWRUUkZWU2VVeE9XRmhUVDBGak4xcFRhR1pOUlhKUg,Data Scientist,ECS Federal LLC,,,Monster,Full-time,['FULLTIME'],https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6,False,"[{'apply_link': 'https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6', 'is_direct': False, 'publisher': 'Monster'}]","Everforth ECS is seeking a Data Scientist to work in our Arlington, VA office. Please Note: This position is contingent upon additional funding.
+
+Responsibilities include:
+• Works independently and within teams to use the necessary data extraction, manipulation, and aggregation techniques to prepare, clean, normalize, and validate data to complete varied projects and tasks.
+• Researches, designs, and develops visualization solutions using a range of methods which support investigative and audit products.
+• Designs experiments, tests hypotheses, and builds scalable models using data science and artificial intelligence (e.g. machine learning) methods.
+• Designs, develops, and adapts mathematical, statistical, econometric, and other analytical solutions for audit, investigation, research, and support functions.
+• Leads artificial intelligence activities such as natural language processing, predictive analytics, and machine learning model development, training, evaluation, testing, refinement, deployment, and maintenance.
+• Translates complex technical findings into an easily understood narrative. Prepares comprehensive documentation for requirements, test plans, user manuals, technical diagrams, and training materials.
+• Develops project communications and maintains effective working relationships between project teams, stakeholders, and management.
+• Provides advice on issues affecting projects, such as data access, quality, storage, and other related needs.
+• Contributes to and presents training and conference materials to large audiences.
+• Independently performs comprehensive and efficient data collection and analysis of a variety of data sources to develop trends, descriptive statistics, or other insights.
+• Uses expert level knowledge to identify and develop sources of information from structured and unstructured data, criminal intelligence databases, public information sources, internal Postal Service databases, reference manuals, and audit and law enforcement reports.
+• Independently researches, extracts, evaluates, interprets, and visualizes data and information as actionable intelligence for auditors and investigators to detect, prevent, and respond to fraud, waste, and abuse.
+• Uses relational databases, data lakes, data lakehouses, and other data environments to create a variety of analytic products such as business intelligence tools, summary tables, comparison graphs, or temporal, association, and link analysis charts.
+• Interacts with other agencies and builds relationships with peers to share information and learn the latest developments in analytical tools and techniques to effectively support the OIG with mission related work.
+• Develops substantial knowledge of database applications and environments and shares expertise with coworkers in support of agency goals and objectives.
+• Coordinate with staff and customers to identify business and technical requirements.
+• Produce written documentation and artifacts for all work completed, including the translation of user requirements into technical designs.
+• Assist the agency in the development of programming and visualization solutions.
+• Troubleshoot and provide support on existing projects or application efforts.
+• Engineer data analytic solutions, including prototyping, proof of concept, and full implementation.
+• Evaluate, assess, document, and test data security and continuity of operations for systems and programs.
+• Ensure compatibility between equipment and software, analyze operational/systems requirements, support design reviews, and present technical briefings.
+• Perform analysis of data for Extraction, Transformation, and Load (ETL) strategies, pattern recognition, and application of analytical tools.
+• Review, analyze, and modify existing products including coding, debugging, testing, and documenting.
+• Provide guidance to coworkers on business and technical issues affecting projects, such as data access, data quality, storage capacity, and analytic tools and software.
+• Assist with training and conference development which may include presentations to large audiences.
+
+Skills:
+Analysis Skills, Artificial Intelligence (AI), Business Continuity Planning (BCP), Business Intelligence Software, Capacity Analysis, Communication Skills, Data Analysis, Data Collection, Data Modeling, Data Quality, Data Science, Data Storage, Data Visualization, Database Extract Transform and Load (ETL), Database Programming, Debugging Skills, Documentation, Experiment Design, Identify Issues, Information/Data Security (InfoSec), Law Enforcement, Legal Reports, Machine Learning, Mail Services, Mathematics, Natural Language Processing (NLP), Operational Audit, Operations Security (OPSEC), Pattern Matching, People Management, Predictive Modeling, Project Development, Proof of Concept, Prototyping, Relational Databases (RDBMS), Scalable System Development, Statistics, Structured Data, Systems Analysis, Technical Drawing, Technical Presentation, Technical Writing, Technical/Engineering Design, Test Data, Test Design, Test Plan/Schedule, Test Requirements, Testing, Training/Teaching, Unstructured Data
+
+About the Company:
+ECS Federal LLC
+
+ECS was founded in 2001 by experienced IT professionals with a commitment to quality processes, people and performance. Led by our Chairman, Roy Kapani, and an experienced executive leadership team, ECS provides our customers with solutions and services that support their critical needs and further mission objectives. This commitment has paved the way for expansive growth, year over year.
+
+ECS gained market share in 2011 in the Department of Defense and Federal spaces through both organic and acquisition growth. In May, ECS completed its first strategic acquisition with the purchase of OAK Management, Inc., a leading provider of marine environmental services, ship systems engineering, maritime consulting and platform acquisition management. The OAK acquisition kicked off ECS’ intention to add tactical acquisitions as a part of its long term strategy to supplement and expand upon organic growth and to build enterprise value. ECS closed out 2011 with the acquisition of Paradigm Technologies, Inc. The Paradigm transaction added approximately 200 employees to ECS’ existing 900+ employees. Paradigm also added new Defense clients for ECS, including the Missile Defense Agency, the Navy’s Program Executive Officer for Integrated Warfare Systems, the United States Marine Corps, and the U.S. Marshals Service.
+
+In 2012, ECS completed the acquisition of iLuMinA Solutions, Inc. iLuMinA brings large-scale Enterprise Resource Planning (ERP) software implementation and infrastructure design and development to ECS’ expanding capabilities.
+
+ECS will continue to invest in corporate infrastructure and quality processes as we grow and enhance our ability to offer professional excellence to both our customers and our employees.
+
+Company Size:
+50 to 99 employees
+
+Industry:
+Staffing/Employment Agencies
+
+Founded:
+2000
+
+Website:
+http://www.ecs-federal.com/",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGB-uiELdC3r0HnwHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,GB-uiELdC3r0HnwHAAAAAA==
+a0JHWklQMTJIMG95U0xBaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakp5TXpkYVRWQjZOR3QwTkcxMFUybHhORzE0VkRsbFgyVlZXVXN0Wm00M1dqbDRWMWh3V0ZoMlpYcDVOMjFZVFRKRldWSldNbFJRWm10U1IwVkpjRzVLYjFsNVRFUkdiMmxuYkUxbk1VaENaemhIWHpONk1FVnVjRFZzUWtKc2JrNVlUbkZsYUV4SVJEVTFPRFJKWTJSNFowZDFMVEJMUzNSZlFWVnFOMFY2TjFoa2JVd1NGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daUlJUQktlSEl3ZGpjNVJIbEJNbVpKYVZCRGVWZE9ObWxDVTI1bg,Data Scientist III,KBR,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wJYZgKBkrgC2YvpeyQ2V_hzgFyolV9TA1cMh&s=0,,Careers At KBR,Full-time,['FULLTIME'],https://careers.kbr.com/us/en/job/R2122526/Data-Scientist-III,False,"[{'apply_link': 'https://careers.kbr.com/us/en/job/R2122526/Data-Scientist-III', 'is_direct': False, 'publisher': 'Careers At KBR'}]","Title:
+Data Scientist III
+
+Belong. Connect. Grow. with KBR!
+
+KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities. In this position, your work will have a profound impact on the country’s most critical role – protecting our national security.
+
+Why Join Us?
+• Innovative Projects: KBR’s work is at the forefront of engineering, logistics, operations, science, program management, mission IT and cybersecurity solutions.
+
+• Collaborative Environment: Be part of a dynamic team that thrives on collaboration and innovation, fostering a supportive and intellectually stimulating workplace.
+
+• Impactful Work: Your contributions will be pivotal in designing and optimizing defense systems that ensure national security and shape the future of space defense.
+
+Key Responsibilities:
+
+KBR seeks a Lead Data Scientist to support the CAPE Joint Data Support (JDS) Division. CAPE JDS is a multi-source funded and OSD CAPE managed organization responsible for identifying, collecting, developing, analyzing, managing, and disseminating historical, current, and future years U.S. and Non-U.S. forces inventory, capabilities, and deployment data (including planning, programming, and acquisition data) supporting collaborative study teams guided by the Analysis Working Group (AWG). JDS develops standardized data products and analytic tools to support Joint analytic efforts focused on Senior Leader decision support. Additionally, JDS supports AWG led SCI/SAP/SAR studies and analyses.
+
+The Lead Data Scientist will be responsible for the analysis and evaluation of user business problems and the development of system recommendations to meet requirements. Analyzes current and technical processes to formulate and develop new and modified methods, techniques or systems. Duties include coordinating with business and technology teams to ascertain system requirements, such as program functions, output requirements, input data acquisition, execution of user acceptance, and may coordinate testing and system controls. Develops solutions to complex technical issues and problems that impact multiple area or disciplines. Regularly employs ingenuity and creativity to develop new technical solutions and systems in order to achieve functional objectives. Communicates with team members across multiple areas and client team members. Works to influence project/team leaders regarding solution design, process and/or approaches.
+
+Work Environment:
+• Location: On-site
+
+• Travel Requirements: Minimal 0-20%
+
+• Working Hours: Standard
+
+Qualifications:
+Required:
+• Must have an active Secret security clearance to be considered for the position
+
+• Bachelor’s degree in data science, statistics, mathematics, or a related field.
+
+• Eight (8) years of experience working with object-oriented programming languages and other coding environments (e.g., Python, Java, C++, C#, R, MATLAB, and Simulink)
+
+• Eight (8) years of experience designing, executing, and delivering data analyses leveraging at least one (1) of the following areas:
+
+• Statistics: Expertise with statistical modeling, experimental design, sampling, clustering, data reduction, confidence intervals, testing, modeling, and predictive modeling.
+
+• Mathematics: Expertise with big data and performing inventory management, forecasting, optimization, and supply chain analysis.
+
+• Visualization: Expertise providing visualization of data and analytic results in a meaningful way for senior decision makers to understand quickly with minimal to no explanation. These tasks will require expertise using programs such as Tableau, ArcGIS, and R to display data.
+
+• Artificial Intelligence & Machine Learning: Expertise utilizing artificial intelligence and machine learning techniques for developing and running algorithms and dealing with computational complexity.
+
+• The candidate must also possess adeptness in interfacing with clients and demonstrated expertise in Structured Query Language (SQL).
+
+Desired:
+• TS/SCI
+
+Scheduled Weekly Hours:
+40hrs
+
+Basic Compensation:
+The offered rate will be based on the selected candidate’s knowledge, skills, abilities and/or experience and in consideration of internal parity.
+
+Compensation for VA is $173,000K-$183,000K.
+
+Additional Compensation:
+KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives, long term incentives, or discretionary payments for exceptional performance.
+
+Ready to Make a Difference?
+If you’re excited about making a significant impact in the field of space defense and working on projects that matter, we encourage you to apply and join our team at KBR. Let's shape the future together.
+KBR Benefits
+KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision.
+
+Belong, Connect and Grow at KBR
+
+At KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.
+
+KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",False,,,,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,"['health_insurance', 'dental_coverage']","['Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkBGZIP12H0oySLAiAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,kBGZIP12H0oySLAiAAAAAA==
+QkNYdmktck5sajRTSVdQeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTazk1YlVOaVZIUmFPV2hIZFdkMVFtTlNjRWxDVm5oMlpWWlRVSFpaT0hKdmRVSXhiMmhWZW5sZloxTjVRbTF1YkdWWVdrMVpVMlIyUTNwblFsVXRXa1pHUTBwSmNqUXdSM05qZG5aeE1rVlNaemhRV1U5elJtWktNRWRVZGxsR1YyaFdMWFZKYkVVNU5VaFNkMDF3TmxGU1oyczBNbFZVZDA1Rk1FMTBXblpGWjA5bldtVVNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVU5VWkRha2s0UTNSd2RuWnRlbUp4TTJjM1NHNTNVbWcxTkVKUg,Associate Data Scientist,Quantifind,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN-gMORa91Dp0S60bOVLp093Cq1DDKW4Sqin4L&s=0,https://www.quantifind.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/associate-data-scientist-at-quantifind-4368552353,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/associate-data-scientist-at-quantifind-4368552353', 'is_direct': False, 'publisher': 'LinkedIn'}]","Who You Are
+
+You are a quantitative thinker who wants to develop further as both a data scientist and an engineer. You are skilled at finding the precise mathematical kernels of real-world problems and want to bring that talent to bear on the business questions facing the world’s leading financial services companies. You are excited to apply your existing expertise in fields such as statistics and computer science to solve mission critical problems. You are excited to work at a fast-paced startup where you will have a chance to expand your scientific and engineering skills to new areas. You share Quantifind’s commitment to winning together, and are eager to see your coworkers build on the technical foundations you will be creating. You are passionate about maintaining the high scientific and engineering standards required to enable your peers. Above all, you are a curious and independent problem solver who is motivated to find a place where your skills can have real impact.
+
+Who We Are
+
+Quantifind helps some of the world’s biggest banks catch money laundering and fraud. Quantifind also works with government agencies to use the same platform to uncover criminal networks and combat money laundering committed by internationally sanctioned entities. Unlike other players in this space, Quantifind delivers results as Software-as-a-Service (SaaS) with consumer-grade user experiences.
+
+Quantifind is a data science technology company whose AI platform uncovers signals of risk across disparate and unstructured text sources. In financial crimes risk management, Quantifind’s solution uniquely combines internal financial institution data with public domain data to assess risk in the context of Know Your Customer (KYC), Customer Due Diligence (CDD), Fraud Risk Management, and Anti-Money Laundering (AML) processes. Today these compliance processes are burdened by ever-increasing regulatory responsibilities and an expectation of frictionless transactions. Legacy technologies demand increasingly more human resources as the operations expand; Quantifind’s solution offers a way to cut through the inefficiency and enhance effectiveness through Machine Learning driven solutions that resolve for both accuracy and relevance.
+
+To help you succeed, we provide a supportive environment that fosters collaboration between teams and team members, where learning and professional growth are considered a key part of your success, and of ours. We offer a flexible work environment with a family friendly work-life balance.
+
+What You'll Be Doing
+
+Members of the Data Science team carry solutions all the way through initial scoping of the problem, performing exploratory analysis, model training, and finally putting highly performant implementations into production. As a team member your duties will include:
+
+• Collaborating with fellow team members and key stakeholders, such as, Product Managers, Platform Engineers to explore ideas, test hypotheses, and prototype solutions.
+• Working in an agile environment breaking down complex problems into smaller manageable tasks with the help of your teammates and manager.
+• Leveraging SQL, Python and PySpark to analyze large unstructured data sets to answer key business questions, inform next steps or set up modeling tasks.
+• Writing complex pipeline code often involving NLP enrichment steps to process large data sets.
+• Training machine learning models to solve complex problems.
+• Productionizing models in a Scala codebase following software engineering best practices.
+• Validating models using standard and custom performance metrics.
+• Leveraging Large Language Models (LLMs) to scale up various data science tasks (for example: data labeling, extracting structured information, …)
+• Participating in code reviews.
+
+What A Great Candidate Looks Like
+
+• MS or higher in the following areas: Statistics, Mathematics, or Computer Science
+• At least 1 year of professional industry experience, in addition to your academic experience
+• Outstanding analytical skills and the ability to communicate quantitative results to technical and non-technical audiences
+• Strong knowledge of Statistics/Probability/Machine Learning including core concepts of hypothesis testing, inference, bias-variance trade-off, regularization, dimensionality reduction etc.
+• Supervised and unsupervised statistical techniques such as regression, classification, and clustering
+• Experience with popular machine learning algorithms such as random forests, Boosting, and neural networks
+• Experience with Applied NLP methods such as topic modeling, text classification, word embeddings, and named entity extraction is a strong plus
+• Strong programming experience in Python and one or more of the following: Scala/Java or R
+• Experience with SQL and/or Spark
+• Knowledge of data structures and algorithm complexity
+
+The Opportunity We Offer
+
+Quantifind is seeking to fill an Associate Data Scientist position on our Data Science team. The Data Science team works closely with the Product Management team and Platform engineers to anticipate company needs and quickly put state-of-the-art mathematical tools into the hands of end users. Our development team is centered in Palo Alto, California, and we have technology hubs in Atlanta, Georgia, and in Washington, D.C. We are currently using a hybrid mix of working from home and in the office. The DC team is primarily remote, with periodic in person touchpoints at a physical office space in DC.
+
+A Highlight Of Our Benefits
+
+• Competitive salary
+• Company Equity
+• Exceptional benefits package
+• Flexible Vacation & Paid Time Off
+• Employer-matched 401(k) plan
+• A fun environment where work-life balance is valued
+
+The base salary range for this full-time position is $100,000-$130,000. Our salary ranges are determined by role, level, and location, and the range displayed on each job posting reflects the minimum and maximum target for new hire salaries for the position across all US locations. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training, and additional role-related considerations.
+
+Depending on the position offered, equity, bonuses, commission, or other forms of compensation may also be provided as part of a total compensation package, in addition to a full range of medical, financial, and other benefits.
+
+We are an equal opportunity employer. We pride ourselves on living our values. We are curious. We respect each other. We are proactively transparent. We relentlessly solve problems. We win together.
+
+Will you join us? Apply now!",False,14 days ago,1785024000.0,2026-07-26T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'paid_time_off']","['Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBCXvi-rNlj4SIWPyAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,BCXvi-rNlj4SIWPyAAAAAA==
+N1NWcUQ1WlhHdTMyWVd4eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlZSYTBWd1kzWlNYemRHWHpoU2RuQTJTSGhNUWxGdFIydG1iVVYxT1d4VFdVTktkSEU0WDBnNFRVVktNSEpZWXkweE1VRm1XVXRvUzBaQmJIQkZaelIxWDNka1FrdGxjRUkxZUdNeFYzZGhObE5xYW1wbVFsTndkRU4xUkdGS1MydGZMV2htVHpWYVIySlJTMDVLWXprM1N6RlJPVkExZW5OYWQwOUtVR2R3WTJ0WmJVMFNGMVZwVWpSaGNXMVRUVjlsUm5jNFkxQnRYMnB0TkZGdkdpSkJSSE55T1daVVdIbG5OR1JtTUVWQ1UwUlBNVGR6TUdRM1lscEdWemQzV2s5bg,"Data Scientist, Senior",Booz Allen Hamilton Inc.,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://boozallen.com&size=128",https://www.boozallen.com,CareerBuilder,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.careerbuilder.com/job-details/data-scientist-senior-arlington-va--c0a19bf8-0c91-4fcc-9d9c-790d90db07eb,False,"[{'apply_link': 'https://www.careerbuilder.com/job-details/data-scientist-senior-arlington-va--c0a19bf8-0c91-4fcc-9d9c-790d90db07eb', 'is_direct': False, 'publisher': 'CareerBuilder'}]","Data Scientist, Senior
+The Opportunity:
+As a data scientist, you're excited at the prospect of unlocking the secrets held by a data set, and you're fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors-from fraud detection to cancer research to national intelligence-we need you to help find the answers in the data.
+On our team, you'll use your leadership skills and data science expertise to create real-world impact. You'll work closely with clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle. You'll guide teammates and lead the development of algorithms and systems. You'll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used.
+Work with us as we use data science for good.
+Join us. The world can't wait.
+You Have:
+• 5+ years of experience using data science programming languages such as Python or R
+
+• Experience creating ETL pipelines, including querying APIs, cleaning and conditioning data, and creating schemas for data storage
+
+• Experience with version control tools, including git, GitLab, GitHub, or Bitbucket
+
+• Knowledge of statistical analysis, predictive modeling, and machine learning methods
+
+• Ability to design and develop automated analytic software, techniques, and algorithms
+
+• Ability to develop solutions and integrate and extend free and open-source software (FOSS) or COTS products
+
+• Ability to generate data visualizations with tools such as Kibana, Tableau, or Power BI
+
+• Active TS/SCI clearance; willingness to take a polygraph exam
+
+• Bachelor's degree
+
+Nice If You Have:
+• Experience working with GEOINT, HUMINT, MASINT, OSINT, and SIGINT, and the data and tools associated with these disciplines
+
+• Experience with intelligence or operations analysis in the DoD or Intelligence Community
+
+• Experience developing and implementing ontological frameworks
+
+• Experience in the development of algorithms leveraging R, Python, or SQL and NoSQL
+
+• Experience working with Deep Learning and AI frameworks including PyTorch, TensorFlow, and Keras
+
+• Experience working with Retrieval-Augmented Generation (RAG) and Large Language Models (LLM)
+
+• Experience with Distributed data and computing tools, including MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL
+
+• Experience with visualization packages, including Plotly, Seaborn, or ggplot2
+
+• Knowledge of DevOps, including CI/CD pipelines and Jenkins
+
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
+Compensation
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
+Identity Statement
+As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+Candidate AI Usage Policy
+AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.
+Work Model
+Our people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.
+• Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.
+
+• Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.
+
+• Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.
+
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.
+
+Benefits:
+Stock Options, Employee Referral Program, Flexible Spending Accounts, Employee Events, Retirement / Pension Plans, Tuition Reimbursement, Life Insurance, Merchandise Discounts, Military Leave, On Site Cafeteria, Parking, Prescription Drug Coverage, Professional Development, 401K, Childcare
+
+Skills:
+Algorithms, Analysis Software, Apache Hadoop, Apache Hive, Apache Kafka, Apache Spark, Application Programming Interface (API), Artificial Intelligence (AI), Biometrics, Cancer, Commercial Off-the-Shelf (COTS), Communication Skills, Compensation and Benefits, Continuous Deployment/Delivery, Continuous Integration, Data Cleaning, Data Science, Data Sets, Data Storage, Data Visualization Tools, Database Extract Transform and Load (ETL), Deep Learning, DevOps, Distributed Computing, Electronic Medical Records, Geospatial Intelligence (GEOINT), Git, GitHub, Human Intelligence (HUMINT), Intelligence Community, Jenkins, Leadership, Machine Learning, MapReduce, Measurement and Signature Intelligence (MASINT), Modeling Languages, MySQL, Needs Assessment, NoSQL, OSINT (Open Source Intelligence), Ontology, Open Source, Operational Audit, Power BI, Predictive Modeling, Programming Languages, Python Programming/Scripting Language, R Programming Language, SQL (Structured Query Language), Sensitive Compartmented Information (SCI), Signal Intelligence (SIGINT), Software Design, Software Development, Source Code/Configuration Management (SCM), Statistics, Structured Data, Tableau, Top Secret Clearance, United States Department of Defense (DoD), Unstructured Data, Work From Home
+
+About the Company:
+Booz Allen Hamilton Inc.
+
+Booz Allen is an advanced technology company delivering outcomes with speed for America’s most critical defense, civil, and national security priorities. We build technology solutions using AI, cyber, and other cutting-edge technologies to advance and protect the nation and its citizens. By focusing on outcomes, we enable our people, clients, and their missions to succeed—accelerating the nation to realize our purpose: Empower People to Change the World®.
+
+Company Size:
+10,000 employees or more
+
+Industry:
+Computer/IT Services
+
+Founded:
+1920
+
+Website:
+https://careers.boozallen.com/?source=JB-3666&utm_medium=Web&utm_source=Monster&utm_campaign=Online%20Profile",False,22 days ago,1784332800.0,2026-07-18T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7SVqD5ZXGu32YWxxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,99K–225K a year,99000.0,225000.0,YEAR,{},,,,7SVqD5ZXGu32YWxxAAAAAA==
