@@ -1,5 +1,101 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
-cm1senRLREVzMXJuVXpZRkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVnB3VkRaRFEzRXRkSEZpWkdKSFdscFBMV3Q2VjNkMU9FTXRWWHBNU0ZaaU56WkpRbkpaTlc5ak5GSk1hbWRVYTFCbFIyWXdOMHRGWjBoR09GQk9abFIyUzA1eFdqbGFXSGQzY25oM1RTMUdURzlsT0Y5YU9EVTNSMXBQWVdOeVlWWlpkWGxUYjJoaVJqSlRVRVJmWlU5WGNXbFdTMUZEYm05U1RXdFBUR3BVYkZVemJIUVNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daUlpVZHlXVFJaYjBSb01IbDFWM0l3ZG01c1NHZzVNMnRNV1VSMw,AI Data Science Expert - Remote,YO AI Labs,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6q5BrUyIc0c2-9zxvTzKttY6l3jBetki9iYN&s=0,,LinkedIn,Contractor,['CONTRACTOR'],https://www.linkedin.com/jobs/view/ai-data-science-expert-remote-at-yo-ai-labs-4453508426,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/ai-data-science-expert-remote-at-yo-ai-labs-4453508426', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Title: AI Data Science Domain Expert
+akE5bG1ETlhVYlRSUzktdUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTM2xyVG1KV0xUSlRhMU15U0d4RVNqbEdWbkl6WmpkSGJrMW1jSEJKYkc1RmRHTTJTVWcyYUc4NWJuRkZURXhwWHpRMVdtZDFWbnBUUldWcFN6bEdkMU13ZUZwNWQxazBlRzB5ZERab1NEWjVlVEV6YzIxcmMwOUViMUpCTVVaaVZsbDNVRFpYVlRsaU1FUnpUbTR3YmpGb1IwNVJSRFJ6WHpVNE9FdE5kRVEwTmtwdlFsb1NGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daVE5VTnBjREpaT0hGbloxbEVWV3N6Vm1aMGRuUjZlVmx5VUZkMw,Data Scientist,Base-2 Solutions,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLf3-ziXY2-cVbPicps4DdZTrhBI4KeWZY3ORr&s=0,https://www.base-2solutions.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-at-base-2-solutions-4455121199,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-at-base-2-solutions-4455121199', 'is_direct': False, 'publisher': 'LinkedIn'}]","• Requisition ID: 3543
+• Standard Title:
+• Required Security Clearance: Top Secret/SCI
+• Location: Bethesda, MD
+• Work Type: On-Site
+• Shift: First
+• Referral Eligibility: Eligible
+• U.S. Citizenship Required? Yes
+
+Position Summary
+
+Base-2 Solutions is seeking a Data Scientist to perform research-level data analytics at a customer site in Bethesda, MD. The role supports programs advancing research and advanced machine learning, natural language processing, and data fusion applications for mission-focused big data analytics. The Data Scientist will work as part of a research-focused team to advance national security objectives, analyze results, disseminate findings, and contribute to publications and presentations with actionable intelligence insights.
+
+Essential Duties And Responsibilities
+
+• Work closely with a team of data scientists, software developers, network engineers, senior investigators, program managers, researchers, and data analysts to design, build, and optimize a Data Science platform.
+• Analyze a variety of big data covering national security, cybersecurity, business intelligence, online social media, human behavior, and more.
+• Support multiple simultaneous projects, independently and collaboratively making mission-relevant discoveries and delivering findings to non-technical audiences.
+• Identify novel data sources to improve predictive algorithms and encourage user adoption of data analytics platforms.
+• Leverage expertise in research design, exploratory analysis, quantitative methods, user interface application design, and customer outreach and engagement.
+
+Required Qualifications
+
+• B.S. Degree in a quantitative or analytical field such as Computer Science, Mathematics, Economics, Statistics, Engineering, Physics, or Computational Social Science with 2+ years of experience; or Master's degree or equivalent graduate degree including certificate-based advanced training courses with less than 2 years of experience.
+• Experience in data science, analytics, or quantitative intelligence analysis with progressive technical development and outcomes.
+• Proficiency in one or more scripting languages such as Python.
+• Experience deploying data science applications using Docker, Kubernetes, and/or OpenShift.
+• Experience with information retrieval and search technologies such as Elastic Stack (Elasticsearch and Kibana) and/or Structured Query Language (SQL).
+• Experience working with hybrid teams of analysts, engineers, and developers to conduct research and build and deploy complex but user-friendly algorithms and analytical platforms.
+• Previous experience performing Data Science or Research in data analytics or big data that does not fit in memory.
+• Track record of active learning and creative problem solving.
+• Ability to analyze and assess software development or data acquisition requirements and determine cost-effective solutions.
+• Familiarity with git or other version control technologies.
+• Ability to own work and complete tasks on time with little or no supervision.
+
+Preferred Qualifications
+
+• Significant data analytics experience supporting military or intelligence community customers with progressive technical development and mission-focused outcomes.
+• Experience with at least two of the following data classes: forensic media (DOMEX), open source publicly available information (PAI), measurement and signatures intelligence (MASINT), or cybersecurity and cyber forensics.
+• Experience with Knowledge Graphs and related technologies such as neo4j or graph machine learning.
+• Experience developing predictive algorithms, image classifiers, and object detectors.
+• Familiarity with social network analysis, supply chain analysis, forensic accounting, pattern of life analysis, natural language processing, social media analysis, classification algorithms, and/or image processing.
+• Experience blending analytical methodologies and leveraging existing COTS/GOTS/OS tools in unconventional ways.
+• Experience with on-premises air-gapped environments and/or Amazon Web Services (AWS/C2S).
+• Familiarity with hardware platforms such as CPUs, GPUs, and FPGAs.
+
+Required Education and Experience Equivalency
+
+• B.S. Degree in a quantitative or analytical field with 2+ years of experience.
+• Master's degree or equivalent graduate degree including certificate-based advanced training courses with Less than 2 years of experience.
+
+Required Certifications
+
+• None specified.
+
+Required Security Clearance
+
+• Active Top Secret/SCI
+
+Pay & Benefit Highlights
+
+Compensation
+
+• Competitive fixed salary or hourly pay (based on experience, skills, location, and internal equity).
+• Employee referral bonuses up to $10,000 per hired referral.
+• Additional bonus opportunities for exceptional performance and contributions to business development and company growth (role-dependent).
+
+Health
+
+• 100% company-paid medical premiums for employees and eligible dependents.
+• Choose from multiple plan options with CareFirst, Kaiser, and UnitedHealthcare, including PPO, POS, HMO, and HSA-compatible plans.
+• 100% company-paid dental premiums for employees and eligible dependents.
+• 100% company-paid vision premiums for employees and eligible dependents.
+
+Income Protection
+
+• 100% company-paid premiums for short-term disability.
+• 100% company-paid premiums for long-term disability.
+• 100% company-paid premiums for accidental death & dismemberment (AD&D).
+• 100% company-paid premiums for life insurance up to $200,000.
+
+Retirement
+
+• 401(k) with immediate vesting: 4% company match plus a 4% non-elective company contribution (8% total).
+• 401(k) pre-tax and Roth options.
+
+Leave
+
+• Up to 20 days of flexible paid time off (PTO).
+• 11 paid floating holidays.
+
+Work-Life Balance
+
+• Flexible work schedules, including flex time and compressed work periods (contract and project-dependent).
+
+NT",False,2 days ago,1786665600.0,2026-08-14T00:00:00.000Z,"Chevy Chase, MD",Chevy Chase,Maryland,US,38.9961473,-77.07727229999999,"['paid_time_off', 'dental_coverage', 'health_insurance']","['Paid time off', 'Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjA9lmDNXUbTRS9-uAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,jA9lmDNXUbTRS9-uAAAAAA==
+cm1senRLREVzMXJuVXpZRkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMjR5VURKYVIwUmtlRzFyYkRGMFZUQnlVbmRvZDFWdFNHcERaVEpRWHpGRVUxbFJYM3B5T0Rka0xXdFBVbE5aUkROVWExOTVNbGh3YkZBMVZYQlFkamhyUmpReFJGOTFUVFpGV1VaU1ptbFVUSEJTTW5ZMGJ6QnVjelp0Vm1wV1EyWkJPVk5zUlVkelNXUmZlR3Q2Ukdkb2FEQjNXbVZrT1Rkd1QyWTViVWxPZUZkRWREa1NGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daU1RsSXhUV2hOU2toTFJVVlZNbTEyVkhoWWNFUnRVVlZqVVVGUg,AI Data Science Expert - Remote,YO AI Labs,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6q5BrUyIc0c2-9zxvTzKttY6l3jBetki9iYN&s=0,,LinkedIn,Contractor,['CONTRACTOR'],https://www.linkedin.com/jobs/view/ai-data-science-expert-remote-at-yo-ai-labs-4453508426,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/ai-data-science-expert-remote-at-yo-ai-labs-4453508426', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Title: AI Data Science Domain Expert
 
 Job Type: Contractor (Part-Time)
 
@@ -43,8 +139,8 @@ Preferred Qualifications
 • Strong analytical reasoning, critical thinking, and written communication skills.
 • Experience with data annotation, content review, or rubric-based evaluation is preferred.
 • Familiarity with prompt engineering, AI output evaluation, fact-checking, or RLHF is a plus.
-• Master's, MBA, PhD, or other advanced degree is preferred.",False,1 day ago,1786665600.0,2026-08-14T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrmlztKDEs1rnUzYFAAAAAA%3D%3D&vssid=jobs-detail-viewer,,100–200 an hour,100.0,200.0,HOUR,{},,,,rmlztKDEs1rnUzYFAAAAAA==
-X3YtczFiTzlQcE5BN09WdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa0pRZVhoVk1WTkZRV1p2VkhsTFkxcHhTbWd3UW1vMWNITTBaRGxZUlY5SllWOXdiM2hpTVdsUFdERkdTamwxZFVsdVJtMDNSMVIzZEVWdU4wczBhakpHVGtOT1NIZHBOVnBxYjNSbVZuRXlURTFuZEhWRk5XTTNOV3BvVVdOWVMwWlRhV0ZhTkdJeU5IQktVakZUUzFKNk9FWk5NSFpqTkU5TlduaG5kME5ZTld4bVptVVNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVFMwUXlVRXN0VGxkaGRHNUZZelZPWW10MlZIZHJWVU5vUWtkbg,Health Data Scientist,Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/health-data-scientist-at-booz-allen-hamilton-4451864877,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/health-data-scientist-at-booz-allen-hamilton-4451864877', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0246455
+• Master's, MBA, PhD, or other advanced degree is preferred.",False,2 days ago,1786665600.0,2026-08-14T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrmlztKDEs1rnUzYFAAAAAA%3D%3D&vssid=jobs-detail-viewer,,100–200 an hour,100.0,200.0,HOUR,{},,,,rmlztKDEs1rnUzYFAAAAAA==
+X3YtczFiTzlQcE5BN09WdEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0ZhV1dKSmFESlhjVFUzZERsS1kyUnJhWFp2ZDJ4WGRrOVhaR2c1ZVhaemVIcE9TSE5TU1cxRFVrdE9ZVFJ1YUdGbE9GRm5aR3RCZFc0d1duRjRWelZMZVZZNWNFWjVXakprVG5oQ2RHTXdMVlpyZW5wYVRESnBibGh1YjBOdk9YZEVlR3QxTkVsMVpFOWtUeTF2TUdjdE4xTnBVRFJ6U3pCbWNsRm5TV2ROWDFsYVJqUVNGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daVFVtMWFUVU10YkRKRGMxOXJia2x2ZURsV1MzRldjVUpZV2psMw,Health Data Scientist,Booz Allen Hamilton,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUUHvWQO_2M0LgWXsiIgahXpPembu3P3QAUAC3&s=0,https://www.boozallen.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/health-data-scientist-at-booz-allen-hamilton-4451864877,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/health-data-scientist-at-booz-allen-hamilton-4451864877', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Number: R0246455
 
 Health Data Scientist
 
@@ -114,8 +210,8 @@ Our people-first culture prioritizes the benefits of collaboration, whether it o
 
 Commitment to Non-Discrimination
 
-All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,4 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_v-s1bO9PpNA7OVtAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,_v-s1bO9PpNA7OVtAAAAAA==
-SkktOU5YZ1h1clQ5Q2FlRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWhZY20wMlpVSTFWRXRIUlhSRFEwTnZTM00zTjIxdlJIRm5WbnBVV2pjMVFqTnlTM1ZVVFcweE1HbHBSMjE1Wkdwck9EVjJjVEpNUkdGZmFXZENURU16Y0VkMFoyaE1WV3d5TlZFeFlXZ3RUbkZRWW5oak9XNUpSR3RoU2xVemRWSllUa2hDV0ZaUlQwWXpZazg0YlVGRE1sSTVkalZDTjJkSGFuWTFTbkZhTFdGRk1GTVNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVFRtdzFjWGh6TVdKZlVFaDNlbXBvVTFwb1VHTktWVzFzYVVGMw,"Principal Data Scientist, Customer Protection Agentic Claims Data Science",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/principal-data-scientist-customer-protection-agentic-claims-data-science/1732/99040494592,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/principal-data-scientist-customer-protection-agentic-claims-data-science/1732/99040494592', 'is_direct': False, 'publisher': 'Capital One Career'}]","Principal Data Scientist, Customer Protection Agentic Claims Data Science
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.",False,5 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_v-s1bO9PpNA7OVtAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,_v-s1bO9PpNA7OVtAAAAAA==
+SkktOU5YZ1h1clQ5Q2FlRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWRtUVhsNlJ6VTViamR3YkV0aWJWaExWR3BLTTNSa1REQm9aVXN3T1dkRVNYazFiMFJxVldSU2VGQXlaM2hNUm5OUlIxWmhlV2RMTnpGWVVXcERWRmgyYjIxWllWSlBNR3hVYnpoME5XZHlkelZuVHpaMWJETkpOVXAxWm5ocWIyUlhObFpDVDFONlRVaHpkMWxWYm1GRVExWndVVkJuUTFoRE5uRktRMDQwU25oWGMzVVNGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daUlgxcHdaRVZsYTBaNWNVVnZaR2RDYkdreU5ucDZMVUZLVjJoUg,"Principal Data Scientist, Customer Protection Agentic Claims Data Science",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/principal-data-scientist-customer-protection-agentic-claims-data-science/1732/99040494592,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/principal-data-scientist-customer-protection-agentic-claims-data-science/1732/99040494592', 'is_direct': False, 'publisher': 'Capital One Career'}]","Principal Data Scientist, Customer Protection Agentic Claims Data Science
 
 Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
@@ -187,8 +283,8 @@ For technical support or questions about Capital One's recruiting process, pleas
 
 Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
 
-Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,4 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJI-9NXgXurT9CaeEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,JI-9NXgXurT9CaeEAAAAAA==
-ZXVEOWV3RXFkeUNyT2t6bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDV6Y25wSFVIcFFXVlptYWxadWMxSXdkMHREVVdZMGJYY3lNWGREVkdnNFJISktWalpvYjNSa1RHbFZTRzV3YmpoclVWaHlWME13ZURJeWNGWkNNbmw2T0hoeFYxWjNUbGhuUkVKb1gwMXJjRTloTFhZeWFtaDVZMGhaYkU1cWRHSnRWM2hXWkd4aExXTllTWE5KY2pZNU9EazBaemxTV1hOd1dEUjBUWEJuTVhkcWQwNFNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVFlWOW1UR05HUTFKck1HaFlURTh0WVd4c01pMWxNRGxXT1Rabg,Data Scientist (Multiple Levels),Noblis,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noblis.org&size=128",https://noblis.org,Noblis Careers,Full-time,['FULLTIME'],https://careers.noblis.org/jobs/26582?lang=en-us,False,"[{'apply_link': 'https://careers.noblis.org/jobs/26582?lang=en-us', 'is_direct': False, 'publisher': 'Noblis Careers'}]","Responsibilities
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,5 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJI-9NXgXurT9CaeEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,JI-9NXgXurT9CaeEAAAAAA==
+ZXVEOWV3RXFkeUNyT2t6bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1JQUW1SblEwWnBOMGt3ZDFScVNEQnZkRWt3YlY5QlZsbENlRWw1TWtweWVWWnBkaTFFU1dSeWFUQnpaM2Q1VW5wbmEwdExVWFpZYlRObFIxVjVVREJ4ZFZOSk9IUXpPVnBzYmpKVlZHaHRla0l5UzB3NFJXNTFOVTFDUlU4dE5VUnZjRlF3TjNkcE5sVjBWa0Y0T0haUFMwczNPVk5TWjFGYWF6QmlRa1pRY1dZdFMzb1NGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daVFkyaDFlbXg2VURWc09IVkRkWEpmTUZjMFJVczFhbTE2U0RGQg,Data Scientist (Multiple Levels),Noblis,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noblis.org&size=128",https://noblis.org,Noblis Careers,Full-time,['FULLTIME'],https://careers.noblis.org/jobs/26582?lang=en-us,False,"[{'apply_link': 'https://careers.noblis.org/jobs/26582?lang=en-us', 'is_direct': False, 'publisher': 'Noblis Careers'}]","Responsibilities
 
 We are seeking highly qualified Subject Matter Experts (SMEs) across multiple levels (I–V) to support data science, aviation, engineering, psychological, analytical, and technical programs within the Federal Aviation Administration (FAA) or related federal initiatives. SMEs will apply advanced knowledge in their respective technical or analytical disciplines—particularly data science, machine learning, and data-driven analysis—to solve complex problems, integrate requirements, and contribute to system design, program execution, and organizational effectiveness.
 
@@ -309,52 +405,323 @@ Compensation at Noblis is determined by various factors, including but not limit
 Posted Salary Range
 
 USD $71,800.00 - USD $240,350.00 /Yr.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeuD9ewEqdyCrOkznAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,euD9ewEqdyCrOkznAAAAAA==
-aXVya1lEaDVnQk96WXQ3NkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTemQ1UXpSRlMyRk5UMncyVGtFMVlWaGFSbUppWmtWR1JERTNlVGRVVTBSTk9FWkRhMHhzWm1wcFZFcFdaMmQ2WWxZMVpFNTBkRlEyZW1WVk4za3piaTFTUkVoeVEwSnVOV3hDU0VsNVJYQjRZbWMxTkZsUWJpMXFRMHROZVdSVlJsVnlWRWh3VVdWdUxVNDFaM1ZyZEc1dVUyOTRVVXRYY214SFRsbDJhMkZUUlZCUVlXRVNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daU2FqUnJZekpUUzJsVlRHeFhWbXRqWjI1SVFqRTBjek5RY1RoMw,"Data Scientist, Lead",Bigbear.ai,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bigbear.ai&size=128",https://bigbear.ai,BigBear.ai Careers,Full-time,['FULLTIME'],https://careers.bigbear.ai/jobs/4319?lang=en-us,False,"[{'apply_link': 'https://careers.bigbear.ai/jobs/4319?lang=en-us', 'is_direct': False, 'publisher': 'BigBear.ai Careers'}]","Residency
+MXI4bHpaNkVqNHpQZ3l4N0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDlVYUd4VE1uZ3hNak14VGsxZmJXTTRTVmxyUkU0eldGbFFhbkpLVEZWZlgxcEhiakI0ZEMweWMweHlhVFowVFZGb2VXMXJSekkzTWtaVFpYSlRObWgyVERCRlZHRm9VVWxhVlhsMFkzaENSa05xWWpKUU1rdHdSVGRWYzBsTU1rZ3pVbFJuTXpWNlNITTBSbWQxUzAxZkxUTlZkREJoYUZSeVprbHJTVzU0V0Zsbk5WUVNGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daVGJVOWhaek54WTA1T1NGbEZhbGgzZEVKUVlqSTVZbEZUVEhkQg,Data Scientist (Remote Eligible),Mathematica Inc,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mathematica.org&size=128",https://www.mathematica.org,Mathematica.csod.com,Full-time,['FULLTIME'],https://mathematica.csod.com/ux/ats/careersite/4/home/requisition/352?c=mathematica,False,"[{'apply_link': 'https://mathematica.csod.com/ux/ats/careersite/4/home/requisition/352?c=mathematica', 'is_direct': False, 'publisher': 'Mathematica.csod.com'}]","Data Scientist (Remote Eligible)
 
-All applicants must reside in the United States at the time of application.
+About Mathematica:
+Mathematica applies expertise at the intersection of data, methods, policy, and practice to improve well-being around the world. We collaborate closely with public- and private-sector partners to translate big questions into deep insights that improve programs, refine strategies, and enhance understanding. Our work yields actionable information to guide decisions in wide-ranging policy areas, from health, education, early childhood, and family support to nutrition, employment, disability, and international development. Mathematica offers our employees competitive salaries, and a comprehensive benefits package, as well as the advantages of being 100 percent employee owned. As an employee stock owner, you will experience financial benefits of ESOP holdings that have increased in tandem with the company’s growth and financial strength. You will also be part of an independent, employee-owned firm that is able to define and further our mission, enhance our quality and accountability, and steadily grow our financial strength. Learn more about our benefits here: https://www.mathematica.org/career-opportunities/benefits-at-a-glance.
 
-Overview
+Primary Duties and Responsibilities:
 
-BigBear.ai is seeking a Data Scientist to conduct data analytics, data engineering, data mining, exploratory analysis, predictive analysis, and statistical analysis using scientific techniques to correlate data into graphical, written, visual, and verbal narrative products to enable more informed analytic decisions. The successful candidate will proactively retrieve information from various sources, analyze it for better understanding, and assist with building AI tools that automate key processes. This position will be based out of Washington, D.C. or the greater National Capital Region (NCR). This is an opportunity to get in on the “ground level” of a new and exciting program with a critical Department of War (DoW) customers.
+We are looking for a Data Scientist who will derive meaning from data through the creation and deployment of data-driven approaches to solve problems and answer important policy questions for clients. A Data Scientist owns data processing and analysis tasks and supports more senior level data science staff in implementing statistical, machine learning, generative AI, and other data science methods for use in research reports, internal systems, or client systems. Data Scientists will work on all aspects of the data science project life cycle, including understanding client needs, building data pipelines, monitoring data quality, developing documentation, creating visualizations, brainstorming modeling approaches, and implementing those models. Our data scientists underpin our company's core offerings in program improvement, policy assessment, and data science, which yield crucial evidence and information for policy and decision makers. This position will work remotely or flexibly in one of our office locations.
 
-What you will do
+Example projects include:
+• Build and evaluate generative AI tools to extract clinically important information from unstructured doctors’ notes, then use that information to construct predictive models and descriptive statistics to improve doctor decision-making and predictive accuracy.
+• Evaluate and monitor the impacts of an alternative payment model for primary care in terms of care quality, cost, and health outcomes for diverse beneficiaries, using claims from thousands of primary care practices across the country. Use the same data to predict future hospital costs and behavior.
+• Analyze nationwide geographic access to food retailers by integrating geospatial data on retailer locations, neighborhood demographics, demand, and social vulnerability. Apply network-based accessibility analyses to compare convenient access within and across states overall and by urbanicity and retailer type and develop interactive dashboards that help policymakers identify disparities and improve access to nutrition assistance.
+• Use national survey data and grocery store purchase data to simulate realistic American diets and analyze their nutritional value. Analyze how that nutritional value compares to guidelines and what it suggests are practical, culturally aware food baskets consumers might purchase to meet the guidelines.
+• Build knowledge synthesis solutions for government and foundation clients leveraging NLP and GenAI methods (knowledge graphs, Model Context Protocol, retrieval-augmented generation) to extract quantitative information (e.g., summary statistics, regression results) and contextual details (e.g., implementation specifics, focus group discussion themes) to distill large literatures into digestible datasets that support evidence-informed policymaking.
+• Develop and evaluate a reproducible benchmarking pipeline to compare state healthcare spending against peer markets nationwide, harmonizing multi-source claims and Census data, applying statistical matching to select comparable regions, and normalizing spending through risk-adjusted regression models to support state rate-setting decisions.
+• Build and evaluate interpretable machine learning models to predict clinical care tiers from health assessment data, supporting state healthcare program's transition to a new assessment tool.
+• Partner with subject-matter experts to engineer clinically meaningful features from raw assessment items, and apply stratified sampling and diagnostics to deliver transparent models suited to high-stakes eligibility and reimbursement decisions.
 
-Duties typically include: creating various ML-based tools or processes, such as recommendation engines or automated lead scoring systems. Perform statistical analysis, apply data mining techniques, and build high quality prediction systems. The successful candidate should be skilled in data visualization and use of graphical applications, including Microsoft Office (Power BI) and Tableau; major data science languages, such as R and Python; managing and merging of disparate data sources, preferably through R, Python, or SQL; statistical analysis; and data mining algorithms. Additionally, the candidate should have prior experience with large data Multi-INT analytics, ML, and automated predictive analytics.
+Specifically, this Data Scientist contributes to team-based projects by:
+• Conducting causal, predictive, and descriptive analyses
+• Writing and maintaining programming systems in languages such as Python and R to build and evaluate models
+• Developing reliable data pipelines to obtain, combine, and transform datasets on cloud, internal, and client servers
+• Communicating technical results to diverse stakeholders including clients and cross-functional teams
+• Developing and maintaining technical and methodological documentation
+• Co-developing analysis plans with a senior data scientist or researcher
+• Leading and managing small teams and tasks with oversight from a more senior staff member
 
-What you need to have
+Required Qualifications:
+• Master’s degree in a technical field such as statistics, data science, data analytics, mathematics, operations research, computer science, and/or social science; equivalent years of experience can be substituted
+• Demonstrated interest and/or experience using data science and/or statistics to contribute to projects with a policy/social impact in academic and/or professional settings
+• Experience applying generative AI programmatically to extract insights from unstructured data, construct new features for analysis, or as a part of a larger systematic analysis
+• Experience executing causal, predictive, and descriptive data science and statistics techniques including regression modeling, machine learning algorithms, network analysis, or natural language processing
+• At least three years of experience performing data cleaning and analysis using programming languages such as R, Python, or Julia in the academic, extra-curricular, or professional environment
+• Ability and desire to work independently and take initiative as part of an interdisciplinary team that may be geographically dispersed. This includes being able to learn from resources such as academic articles, white papers, self-guided tutorials, and package documentation and willingness to constantly learn and contribute to knowledge sharing with team members
+• Experience with reproducible research principles, version control, interactive visualizations, and common packages/libraries for supporting data science work in R, Python, and/or Julia (e.g., tidyverse, data.table, R Shiny, R Markdown, pandas, polars, NumPy, scikit-learn, MLJ.jl, DataFrames.jl, and/or Makie.jl)
+• Desired but not required: experience with healthcare datasets (for example, Medicare or Medicaid claims and enrollment data), production-quality machine learning applications, cloud computing environments (AWS/Databricks/Snowflake/etc.), and algorithmic fairness and ethics
 
-• Must possess a TS/SCI clearance with a CI poly (or ability to obtain)
+This position offers an anticipated annual base salary range of $70,000- $90,000. To apply, please submit a cover letter (optional), resume, and salary expectations.
 
-• Bachelor’s degree in data science, data engineering, mathematics, or another related field
+Staff in our Data Solutions division will eventually work with some of our largest clients, including the Centers for Medicaid & Medicare Services (CMS) and other agencies. Most staff working on these contracts will be required to complete a successful background investigation including the Questionnaire for Public Trust Position SF-85 (https://www.opm.gov/forms/pdf_fill/sf85p.pdf). Staff that are unable to successfully undergo the background investigation will need to be able to obtain work outside these contracts. Staff will work with their supervisor to get re-staffed, however if they are unable to do so it may result in employment termination due to lack of work.
 
-• Minimum of 3 years of experience conducting analysis using data science or engineering (an additional 4 years of experience may be substituted for the above education requirements)
+STAFFING AGENCIES AND THIRD-PARTY RECRUITERS: Mathematica is not accepting candidates for this role or any technical role from staffing agencies or third-party recruiters. Please do not contact technical or senior staff at Mathematica or share unsolicited resumes. All agency inquiries go through the talent acquisition team and will be routed accordingly.
 
-• Deep understanding and experience using Python and/or R
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
 
-• Prior experience with large data, multi-INT analytics, machine learning, and automated predictive analytics
+At Mathematica, we understand the importance of building relationships with colleagues. If you’re not located near one of our offices but would like opportunities to meet up with co-workers, we offer coworking spaces where available. Ask your Talent Acquisition partner for more information about this opportunity and whether it’s an option in your area.
 
-What we'd like you to have
+Any offer of employment will be contingent upon passing a background check. Various federal agencies with whom we contract require that staff successfully undergo security clearance as a condition of working on the project. If you are assigned to such a project, you will be required to obtain the requisite security clearance. Additionally, if you participate in/complete the application process and are denied, Mathematica may choose to terminate your employment.
 
-• Current CI poly
+We take pride in our employees and in their commitment to excellence. We encourage staff to collaborate in developing creative solutions to difficult problems and to share the responsibility and enjoyment of carrying out complex projects. This collegial spirit has helped us earn our reputation for innovative and high quality work.",False,,,,"Washington, DC  (+1 other)",,,,,,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1r8lzZ6Ej4zPgyx7AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,1r8lzZ6Ej4zPgyx7AAAAAA==
+R0ItdWlFTGRDM3IwSG53SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVlYyVVZkUWRWSk9ORjluUVhabFgyVnBiMWczVEZFdFRrcHRVMGxtTFVwVWNrUTVUelpOYlZSeWVVaFlSbVZKYVdOdFZVSnJjRWh4TlhsMGIxbHlZa1JPVm1Kdk9IcHJTalprVkRaSmFEaFZiMUZHWW1sR1gxcHhRVGhMVkd0VWQycG9TalpMUlhFeFVuSXllV3RqTUVwRlEwUnNkbWw1ZWtGUmFEWlhWRFJCVFUweU5ua1NGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daUlZVUklXamQzTWxnNFkxUTFPV00xWm5FeGRtVk1lbE5PTjBoQg,Data Scientist,ECS Federal LLC,,,Monster,Full-time,['FULLTIME'],https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6,False,"[{'apply_link': 'https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6', 'is_direct': False, 'publisher': 'Monster'}]","Everforth ECS is seeking a Data Scientist to work in our Arlington, VA office. Please Note: This position is contingent upon additional funding.
 
-• Master’s degree in data science, data engineering, mathematics, or another related field
+Responsibilities include:
+• Works independently and within teams to use the necessary data extraction, manipulation, and aggregation techniques to prepare, clean, normalize, and validate data to complete varied projects and tasks.
+• Researches, designs, and develops visualization solutions using a range of methods which support investigative and audit products.
+• Designs experiments, tests hypotheses, and builds scalable models using data science and artificial intelligence (e.g. machine learning) methods.
+• Designs, develops, and adapts mathematical, statistical, econometric, and other analytical solutions for audit, investigation, research, and support functions.
+• Leads artificial intelligence activities such as natural language processing, predictive analytics, and machine learning model development, training, evaluation, testing, refinement, deployment, and maintenance.
+• Translates complex technical findings into an easily understood narrative. Prepares comprehensive documentation for requirements, test plans, user manuals, technical diagrams, and training materials.
+• Develops project communications and maintains effective working relationships between project teams, stakeholders, and management.
+• Provides advice on issues affecting projects, such as data access, quality, storage, and other related needs.
+• Contributes to and presents training and conference materials to large audiences.
+• Independently performs comprehensive and efficient data collection and analysis of a variety of data sources to develop trends, descriptive statistics, or other insights.
+• Uses expert level knowledge to identify and develop sources of information from structured and unstructured data, criminal intelligence databases, public information sources, internal Postal Service databases, reference manuals, and audit and law enforcement reports.
+• Independently researches, extracts, evaluates, interprets, and visualizes data and information as actionable intelligence for auditors and investigators to detect, prevent, and respond to fraud, waste, and abuse.
+• Uses relational databases, data lakes, data lakehouses, and other data environments to create a variety of analytic products such as business intelligence tools, summary tables, comparison graphs, or temporal, association, and link analysis charts.
+• Interacts with other agencies and builds relationships with peers to share information and learn the latest developments in analytical tools and techniques to effectively support the OIG with mission related work.
+• Develops substantial knowledge of database applications and environments and shares expertise with coworkers in support of agency goals and objectives.
+• Coordinate with staff and customers to identify business and technical requirements.
+• Produce written documentation and artifacts for all work completed, including the translation of user requirements into technical designs.
+• Assist the agency in the development of programming and visualization solutions.
+• Troubleshoot and provide support on existing projects or application efforts.
+• Engineer data analytic solutions, including prototyping, proof of concept, and full implementation.
+• Evaluate, assess, document, and test data security and continuity of operations for systems and programs.
+• Ensure compatibility between equipment and software, analyze operational/systems requirements, support design reviews, and present technical briefings.
+• Perform analysis of data for Extraction, Transformation, and Load (ETL) strategies, pattern recognition, and application of analytical tools.
+• Review, analyze, and modify existing products including coding, debugging, testing, and documenting.
+• Provide guidance to coworkers on business and technical issues affecting projects, such as data access, data quality, storage capacity, and analytic tools and software.
+• Assist with training and conference development which may include presentations to large audiences.
 
-• At least 8 years of experience conducting analysis using data science or engineering, with at least a portion of experience within the last 2 years
+Skills:
+Analysis Skills, Artificial Intelligence (AI), Business Continuity Planning (BCP), Business Intelligence Software, Capacity Analysis, Communication Skills, Data Analysis, Data Collection, Data Modeling, Data Quality, Data Science, Data Storage, Data Visualization, Database Extract Transform and Load (ETL), Database Programming, Debugging Skills, Documentation, Experiment Design, Identify Issues, Information/Data Security (InfoSec), Law Enforcement, Legal Reports, Machine Learning, Mail Services, Mathematics, Natural Language Processing (NLP), Operational Audit, Operations Security (OPSEC), Pattern Matching, People Management, Predictive Modeling, Project Development, Proof of Concept, Prototyping, Relational Databases (RDBMS), Scalable System Development, Statistics, Structured Data, Systems Analysis, Technical Drawing, Technical Presentation, Technical Writing, Technical/Engineering Design, Test Data, Test Design, Test Plan/Schedule, Test Requirements, Testing, Training/Teaching, Unstructured Data
 
-• Experience working creating products for Object Based Intelligence purposes
+About the Company:
+ECS Federal LLC
 
-• Experience within the DoW and/or US Intelligence Community
+ECS was founded in 2001 by experienced IT professionals with a commitment to quality processes, people and performance. Led by our Chairman, Roy Kapani, and an experienced executive leadership team, ECS provides our customers with solutions and services that support their critical needs and further mission objectives. This commitment has paved the way for expansive growth, year over year.
 
-Pay transparency
+ECS gained market share in 2011 in the Department of Defense and Federal spaces through both organic and acquisition growth. In May, ECS completed its first strategic acquisition with the purchase of OAK Management, Inc., a leading provider of marine environmental services, ship systems engineering, maritime consulting and platform acquisition management. The OAK acquisition kicked off ECS’ intention to add tactical acquisitions as a part of its long term strategy to supplement and expand upon organic growth and to build enterprise value. ECS closed out 2011 with the acquisition of Paradigm Technologies, Inc. The Paradigm transaction added approximately 200 employees to ECS’ existing 900+ employees. Paradigm also added new Defense clients for ECS, including the Missile Defense Agency, the Navy’s Program Executive Officer for Integrated Warfare Systems, the United States Marine Corps, and the U.S. Marshals Service.
 
-Please note the targeted compensation range is provided as an estimate, and any actual compensation offer may vary depending on the needs of the company, or an applicant's skillset, competencies, experience, education, certifications, location, or other factors. The estimated range does not include the value of any benefits offered.
+In 2012, ECS completed the acquisition of iLuMinA Solutions, Inc. iLuMinA brings large-scale Enterprise Resource Planning (ERP) software implementation and infrastructure design and development to ECS’ expanding capabilities.
 
-About BigBear.ai
+ECS will continue to invest in corporate infrastructure and quality processes as we grow and enhance our ability to offer professional excellence to both our customers and our employees.
 
-BigBear.ai is a leading provider of AI-powered decision intelligence solutions for national security, supply chain management, and digital identity. Customers and partners rely on Bigbear.ai’s predictive analytics capabilities in highly complex, distributed, mission-based operating environments. Headquartered in McLean, Virginia, BigBear.ai is a public company traded on the NYSE under the symbol BBAI. For more information, visit https://bigbear.ai/ and follow BigBear.ai on LinkedIn: @BigBear.ai and X: @BigBearai.
+Company Size:
+50 to 99 employees
 
-BigBear.ai is an Equal opportunity employer all protected groups, including protected veterans and individuals with disabilities.",False,12 hours ago,1786730400.0,2026-08-14T18:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiurkYDh5gBOzYt76AAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,iurkYDh5gBOzYt76AAAAAA==
-Q1BVUUN1UEVMWTRMcE1QS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTakJLV0hGSlJGUlhRbk52TFdKV1lrRmhWbWhNVW1KbmJXZDVNMWs0V1hKdlVUbHBiRzl1Y2tNMGIyNDJOazg1WDI5RlJYTjJNVVZDWTJwck9VOHdUMmRDTlZORk5reHljMGxuYTNGSWVUTklRWEJNYVVSbk9DMWhVbHBqWWpWV1kwdHZNRkZRZG5KdVJESkRjMG8xU0dwQ0xUbHBWVFJyUm1kb2RrTXhTVjh5ZWpScFUza1NGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daUmMzSm5VMEpMVHpoNVUwVkNjRFZKY204eWRtRldiblEwTld4bg,"Staff Data Scientist, Product",GEICO,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHvxfABiVkeFwZU0I8RSD_EHghjb4Yt_my7LW&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/staff-data-scientist-product-at-geico-4451483295,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/staff-data-scientist-product-at-geico-4451483295', 'is_direct': False, 'publisher': 'LinkedIn'}]","Why Join GEICO?
+Industry:
+Staffing/Employment Agencies
+
+Founded:
+2000
+
+Website:
+http://www.ecs-federal.com/",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGB-uiELdC3r0HnwHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,GB-uiELdC3r0HnwHAAAAAA==
+N1NWcUQ1WlhHdTMyWVd4eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVFpIV0ZnMWQyOVZNV3gxYkRSS1ZGY3hkMjFoYlZWUlNHMXNlRUpFVUdGd01YTkpjR1F0YVZwSFZIbEZhWGhOVFU4MGNqVkxlVGgwU3psemNWUTFaR2h6WlZaa1ZtcEVWazVXYUVKblJ6UnpNMUJrYkd0S2JWRkNVR0pzZEVoSWNXMUlUVGxwWmxSaWFEZFFiMlZqT0V4WWFYTllXR0V0YzFwUVYzaDVaVk13Um1SbFVWY1NGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daUmRFVnNUVTVOVFRKSmQydGFOM1ZzZDJJdFZXbFNURGt3VTJGQg,"Data Scientist, Senior",Booz Allen Hamilton Inc.,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://boozallen.com&size=128",https://www.boozallen.com,CareerBuilder,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.careerbuilder.com/job-details/data-scientist-senior-arlington-va--c0a19bf8-0c91-4fcc-9d9c-790d90db07eb,False,"[{'apply_link': 'https://www.careerbuilder.com/job-details/data-scientist-senior-arlington-va--c0a19bf8-0c91-4fcc-9d9c-790d90db07eb', 'is_direct': False, 'publisher': 'CareerBuilder'}]","Data Scientist, Senior
+The Opportunity:
+As a data scientist, you're excited at the prospect of unlocking the secrets held by a data set, and you're fascinated by the possibilities presented by IoT, machine learning, and artificial intelligence. In an increasingly connected world, massive amounts of structured and unstructured data open new opportunities. As a data scientist at Booz Allen, you can help turn these complex data sets into useful information to solve global challenges. Across private and public sectors-from fraud detection to cancer research to national intelligence-we need you to help find the answers in the data.
+On our team, you'll use your leadership skills and data science expertise to create real-world impact. You'll work closely with clients to understand their questions and needs and then dig into their data-rich environments to find the pieces of their information puzzle. You'll guide teammates and lead the development of algorithms and systems. You'll use the right combination of tools and frameworks to turn sets of disparate data points into objective answers to advise your clients as they make informed decisions. Ultimately, you'll provide a deep understanding of the data, what it all means, and how it can be used.
+Work with us as we use data science for good.
+Join us. The world can't wait.
+You Have:
+• 5+ years of experience using data science programming languages such as Python or R
+
+• Experience creating ETL pipelines, including querying APIs, cleaning and conditioning data, and creating schemas for data storage
+
+• Experience with version control tools, including git, GitLab, GitHub, or Bitbucket
+
+• Knowledge of statistical analysis, predictive modeling, and machine learning methods
+
+• Ability to design and develop automated analytic software, techniques, and algorithms
+
+• Ability to develop solutions and integrate and extend free and open-source software (FOSS) or COTS products
+
+• Ability to generate data visualizations with tools such as Kibana, Tableau, or Power BI
+
+• Active TS/SCI clearance; willingness to take a polygraph exam
+
+• Bachelor's degree
+
+Nice If You Have:
+• Experience working with GEOINT, HUMINT, MASINT, OSINT, and SIGINT, and the data and tools associated with these disciplines
+
+• Experience with intelligence or operations analysis in the DoD or Intelligence Community
+
+• Experience developing and implementing ontological frameworks
+
+• Experience in the development of algorithms leveraging R, Python, or SQL and NoSQL
+
+• Experience working with Deep Learning and AI frameworks including PyTorch, TensorFlow, and Keras
+
+• Experience working with Retrieval-Augmented Generation (RAG) and Large Language Models (LLM)
+
+• Experience with Distributed data and computing tools, including MapReduce, Hadoop, Hive, EMR, Kafka, Spark, Gurobi, or MySQL
+
+• Experience with visualization packages, including Plotly, Seaborn, or ggplot2
+
+• Knowledge of DevOps, including CI/CD pipelines and Jenkins
+
+Clearance:
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information; TS/SCI clearance is required.
+Compensation
+At Booz Allen, we celebrate your contributions, provide you with opportunities and choices, and support your total well-being. Our offerings include health, life, disability, financial, and retirement benefits, as well as paid leave, professional development, tuition assistance, work-life programs, and dependent care. Our recognition awards program acknowledges employees for exceptional performance and superior demonstration of our values. Full-time and part-time employees working at least 20 hours a week on a regular basis are eligible to participate in Booz Allen's benefit programs. Individuals that do not meet the threshold are only eligible for select offerings, not inclusive of health benefits. We encourage you to learn more about our total benefits by visiting the Resource page on our Careers site and reviewing Our Employee Benefits page.
+Salary at Booz Allen is determined by various factors, including but not limited to location, the individual's particular combination of education, knowledge, skills, competencies, and experience, as well as contract-specific affordability and organizational requirements. The projected compensation range for this position is $99,000.00 to $225,000.00 (annualized USD). The estimate displayed represents the typical salary range for this position and is just one component of Booz Allen's total compensation package for employees. This posting will close within 90 days from the Posting Date.
+Identity Statement
+As part of the hiring process, we will ask you to complete an identity verification process that leverages advanced biometrics and artificial intelligence to ensure authenticity and protect against identity fraud. You are expected to be on camera during interviews and assessments. We reserve the right to take your picture to verify your identity and prevent fraud.
+Candidate AI Usage Policy
+AI is a part of our daily work at Booz Allen, and we are committed to the responsible and ethical use of AI tools. However, we want to ensure a fair candidate process based on your own skills and knowledge. As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is prohibited unless permission is explicitly provided.
+Work Model
+Our people-first culture prioritizes the benefits of collaboration, whether it occurs in person or virtually. To support engagement and effective communication, employees working virtually are generally expected to have their cameras on during meetings.
+• Remote: If this position is listed as remote, there may still be occasions when you are required to work in person at a Booz Allen or customer facility.
+
+• Hybrid: If this position is listed as hybrid, you will be expected to work from a Booz Allen facility frequently, in alignment with leadership expectations and the needs of the role. You may also be required to work from or visit a customer facility.
+
+• Onsite: If this position is listed as onsite, work will primarily be performed at a Booz Allen office or customer facility, where employees will collaborate directly with colleagues and customers as required by the role.
+
+Commitment to Non-Discrimination
+All qualified applicants will receive consideration for employment without regard to disability, status as a protected veteran or any other status protected by applicable federal, state, local, or international law.
+
+Benefits:
+Stock Options, Employee Referral Program, Flexible Spending Accounts, Employee Events, Retirement / Pension Plans, Tuition Reimbursement, Life Insurance, Merchandise Discounts, Military Leave, On Site Cafeteria, Parking, Prescription Drug Coverage, Professional Development, 401K, Childcare
+
+Skills:
+Algorithms, Analysis Software, Apache Hadoop, Apache Hive, Apache Kafka, Apache Spark, Application Programming Interface (API), Artificial Intelligence (AI), Biometrics, Cancer, Commercial Off-the-Shelf (COTS), Communication Skills, Compensation and Benefits, Continuous Deployment/Delivery, Continuous Integration, Data Cleaning, Data Science, Data Sets, Data Storage, Data Visualization Tools, Database Extract Transform and Load (ETL), Deep Learning, DevOps, Distributed Computing, Electronic Medical Records, Geospatial Intelligence (GEOINT), Git, GitHub, Human Intelligence (HUMINT), Intelligence Community, Jenkins, Leadership, Machine Learning, MapReduce, Measurement and Signature Intelligence (MASINT), Modeling Languages, MySQL, Needs Assessment, NoSQL, OSINT (Open Source Intelligence), Ontology, Open Source, Operational Audit, Power BI, Predictive Modeling, Programming Languages, Python Programming/Scripting Language, R Programming Language, SQL (Structured Query Language), Sensitive Compartmented Information (SCI), Signal Intelligence (SIGINT), Software Design, Software Development, Source Code/Configuration Management (SCM), Statistics, Structured Data, Tableau, Top Secret Clearance, United States Department of Defense (DoD), Unstructured Data, Work From Home
+
+undefined:
+Booz Allen Hamilton Inc.
+
+Booz Allen is an advanced technology company delivering outcomes with speed for America’s most critical defense, civil, and national security priorities. We build technology solutions using AI, cyber, and other cutting-edge technologies to advance and protect the nation and its citizens. By focusing on outcomes, we enable our people, clients, and their missions to succeed—accelerating the nation to realize our purpose: Empower People to Change the World®.
+
+Company Size:
+10,000 employees or more
+
+Industry:
+Computer/IT Services
+
+undefined:
+1920
+
+Website:
+https://careers.boozallen.com/?source=JB-3666&utm_medium=Web&utm_source=Monster&utm_campaign=Online%20Profile",False,29 days ago,1784332800.0,2026-07-18T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8816208,-77.09098089999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7SVqD5ZXGu32YWxxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,99K–225K a year,99000.0,225000.0,YEAR,{},,,,7SVqD5ZXGu32YWxxAAAAAA==
+bEFIaXNzOTZZaHlfb3lyMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZOTmxGUVVEaE1PVE5YY25oTFEybFliMEZUTm5oYVdHMWZaMVphWmxoeVpWWnZPRTV3WlZGR09YZDFSWGd3VmtkeE1VeGtZVVI0TlZJemNWZHRlR1YzWW5Kb1UxTkVRV1EzWXpOSVQzbzBkbUZmUVRsSFNWUjRVRVJXWTFobmMzSlVXRlJQUWtWUFIyRndTVzU0U0V4WFRXOHhkWGhFWjFWTVgwTjZVV3R2ZWxsUGNUUVNGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daU2QzZHlVMGhHZEdaS05tOVFlR1ZOYmtKaFltRmlWREJmWTBKMw,Data Scientist/Analyst,Censeo Consulting Group,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXb5WG4D2Xz2Mkrq3wnZr4winjcl1BlGUMs5Ua&s=0,https://www.censeoconsulting.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=9aeeae184d5b34c0,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=9aeeae184d5b34c0', 'is_direct': False, 'publisher': 'Indeed'}]","Data Scientist/Analyst - Department of State
+
+The Position:
+
+We are seeking driven, thoughtful candidates with experience in impact/performance assessments and data visualization to support impactful initiatives for our Federal clients at the U.S. Department of State (DOS).
+
+As a Data Scientist/Analyst with Censeo, you will support economic and performance analysis and reporting for a key Department of State program. You will work closely with DOS teams to establish performance metrics, collect performance data, conduct analysis, and develop dashboard reporting for a flagship Department program.
+
+Key Responsibilities:
+
+• Define baseline performance indicators and develop methodologies for ongoing data collection across exchange program initiatives
+
+• Measure the longitudinal impact of past program participants on U.S. economic and business ecosystems
+
+• Provide federal, state, and local-level fiscal impact estimates, including revenue generation and tax implications
+
+• Implement systems for continuous tracking and timely reporting of key performance metrics
+
+• Build an interactive, public-facing dashboard that displays real-time performance data, including state, regional, and national trends
+
+• Develop a flagship annual economic impact report with key findings
+
+• Provide monthly and annual summaries for internal and external use
+
+• Deliver special reports as needed (e.g., country-specific, sector-specific deep dives, impact on rural vs. urban economies)
+
+• Compare exchange program impacts to other global exchange models
+
+• Evaluate public-private partnerships and contributions from private sector employers
+
+• Collaborate with cross-functional teams to develop realistic, innovative solutions to complex challenges
+
+• Communicate findings and recommendations clearly through written reports and presentations
+
+• Build and maintain strong client relationships, proactively identifying and mitigating delivery risks
+
+The Ideal Candidate:
+
+At Censeo, we value unique perspectives and a passion for solving complex problems. Our team thrives on innovation, collaboration, and a commitment to public service. We’re looking for candidates who bring curiosity, initiative, and a desire to make a meaningful impact.
+
+• BA/BS required; Master’s or PhD strongly preferred in Economics, Applied Economics, Public Policy, or a closely related field
+
+• 5-10+ years of experience conducting economic economic analysis, policy evaluation, and performance measurement for federal agencies or other large organizations
+
+• Strong quantitative and analytical skills, using tools such as advanced Excel, R, Python, STATA, or SAS to perform economic analysis and data modeling
+
+• Experience tracking metrics by providing continuous monitoring and analysis of performance and economic data
+
+• Proven experience delivering public‑facing analytical products to produce clear summary reporting for nontechnical audiences using analytics platforms such as Tableau, Power BI, or equivalent
+
+• Ability to document methodologies, assumptions, and limitations and communicate clearly to stakeholders
+
+• Familiarity with federal reporting requirements, performance measurement frameworks, and performance evaluation best practices
+
+• Experience supporting or working directly with the U.S. Department of State or other international organization (preferred)
+
+• Experience in consulting, professional services, or federal government contracting
+
+• Excellent written and verbal communication skills including the ability to synthesize complex information
+
+• Excellent analytical and problem-solving skills
+
+• Strong attention to detail and accuracy
+
+The Company:
+
+Censeo Consulting Group is a top Washington D.C. based management consulting firm dedicated to helping public sector and non-profit clients build operational excellence, deliver better outcomes, and lower cost. We take a personalized approach to strategic consulting to solve our clients’ most complex problems and build operational excellence that transforms their organizations, allowing them to better deliver on their public and social missions.
+At Censeo, our award-winning culture means you’ll join a tight-knit community of 75 brilliant and passionate colleagues. We are advocates for a better functioning public sector, and we’re also good friends who know the names of each other’s dogs. Our philosophy is horizontal, not hierarchical, and our open-door policy encourages a culture of entrepreneurship at all levels. We share successes, make decisions together, and foster an environment for those with passion and initiative to lead. Our colleagues bring their own unique personalities to work every day and use them to help shape our growing firm in ways that reach far beyond client projects.
+
+The Location:
+
+Censeo Consulting Group is based in Washington D.C., a fantastic city for working professionals. We work in a hybrid setting with flexibility to work from home and work in our office conveniently located in the heart of downtown, just a few blocks away from the White House. And with many of our clients also based in D.C., we have the luxury of leaving for a meeting and being back in the office in time for post-work happy hours, team dinners, and game nights.
+
+The Fine Print:
+
+• The salary range for this role is $80,000 - $160,000 depending on experience
+
+• Expected travel 0-10%; may increase based on business needs
+
+• This is an exempt, full-time position
+
+• This role is subject to a hybrid work schedule
+
+• Essential Physical Functions
+
+• Sitting: Particularly for sustained periods of time
+
+• Light Carrying: Physically transporting items weighing less than 15 pounds from one location to another
+
+Censeo offers a competitive compensation and benefits package, including paid vacation and sick leave, flexible and remote work opportunities, and tuition and training reimbursement. More information on our benefits and perks can be found at https://www.censeoconsulting.com/about/join-us/.
+
+Censeo is an equal opportunity employer. We are committed to providing equal opportunity to all applicants and employees in full compliance with all applicable state and federal laws prohibiting discrimination on the basis of race, color, age, gender, religion, national origin, disability, protected veteran status, or any other class protected by applicable state or federal law.
+
+Join Our Award-Winning Culture!
+
+Our passion wins awards. But don’t just take it from us…
+
+• 2024 Vault #41 Consulting 50 North America
+
+• 2024 Vault #7 Best Consulting Firm for Hours in the Office
+
+• 2023 Vault #9 Best Consulting Firm for Work/Life Balance
+
+• 2023 Vault #23 Best Consulting Firm for Overall Diversity
+
+• 2023 Management Consulted #3 Best Boutique Firms in Washington DC
+
+• 2022 Vault #41 Best Overall Consulting Firm to Work For
+
+• 2020 Vault #21 Best Boutique Consulting Firm
+
+• 2019 Ivy Exec #7 Best Boutique Consulting Firm
+
+• 2018 Consulting Magazine Best Small Firms to Work For
+
+• 2017 Vault #12 Best Boutique Consulting Firm
+
+• 2016 Forbes Best Management Consulting Firms in America
+
+• 2015 Washington Business Journal’s Philanthropy List
+
+#LI-Hybrid
+
+kpOpxALlNQ",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'paid_time_off']","['Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlAHiss96Yhy_oyr0AAAAAA%3D%3D&vssid=jobs-detail-viewer,,80K–160K a year,80000.0,160000.0,YEAR,{},,,,lAHiss96Yhy_oyr0AAAAAA==
+Q1BVUUN1UEVMWTRMcE1QS0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbFJhT0dGaFNscG5WMEpRWVZWMVRGY3hja1oyVWxSbVYwaDVkRzlMU1ZKcE0wWkNiMWhTVTAxM1ExQlBTRE5sTWxWYVlXcGlTazFTV2xWaWQyeE9UMVJoYWpsdlUyaGlhemxMV0MxMU4wRkhZVGR6TkY5V1JVWnRhRlI2TVhKcGVHOVRXRlZYT0RaT1pqRldUbDkzVERsVU9GUmlVbkV3WkVzNFMwMDBhbWhEWVVOeU9FUVNGekpHY1VKaGRVOVJSblpMYzNKMVJWQTBPR0ZtTFVGUkdpSkJSSE55T1daUlRFZGliemxmWVd0S2VFSklXbkpIVkZocVVFNWliMDg0U0RkQg,"Staff Data Scientist, Product",GEICO,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReHvxfABiVkeFwZU0I8RSD_EHghjb4Yt_my7LW&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/staff-data-scientist-product-at-geico-4451483295,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/staff-data-scientist-product-at-geico-4451483295', 'is_direct': False, 'publisher': 'LinkedIn'}]","Why Join GEICO?
 
 At GEICO, we offer a rewarding career where your ambitions are met with endless possibilities.
 
@@ -416,326 +783,4 @@ Great Rewards: Competitive pay, benefits, and flexibility to support your well-b
 
 The equal employment opportunity policy of the GEICO Companies provides for a fair and equal employment opportunity for all associates and job applicants regardless of race, color, religious creed, national origin, ancestry, age, gender, pregnancy, sexual orientation, gender identity, marital status, familial status, disability or genetic information, in compliance with applicable federal, state and local law. GEICO hires and promotes individuals solely on the basis of their qualifications for the job to be filled.
 
-GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",False,4 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"Bethesda, MD",Bethesda,Maryland,US,38.9848328,-77.09431719999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCPUQCuPELY4LpMPKAAAAAA%3D%3D&vssid=jobs-detail-viewer,,115K–230K a year,115000.0,230000.0,YEAR,{},,,,CPUQCuPELY4LpMPKAAAAAA==
-R0ItdWlFTGRDM3IwSG53SEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbVp1T1Vock4za3piakJtVURoSWJVUmFjVkpwVG5nNVQzUlpYMkZ4VFhSa1FteHJaRGc1TmxneU9YQXpUSGxsT0RSb1dVeEZjR3hXYTFsNmNrbERjRVoxYmxkemJtRjZjRzFoYzA5M05Ia3dSSEZWYkUxUmRqTXhWemhOT1dFeWRYSnZaSGhNVVU1eVptTTJhek5YY2tWcVNVeGxhMEZCUVZoc1QzZDNVazV1U21WeVJWb1NGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVFV6Vk9TWGRSVmpWSWVWZDVjVzA0YVRCTlpGSkxaMWRwWDBoMw,Data Scientist,ECS Federal LLC,,,Monster,Full-time,['FULLTIME'],https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6,False,"[{'apply_link': 'https://www.monster.com/job-openings/data-scientist-washington-dc--f9e55c41-aea0-49aa-a371-e1279887ecd6', 'is_direct': False, 'publisher': 'Monster'}]","Everforth ECS is seeking a Data Scientist to work in our Arlington, VA office. Please Note: This position is contingent upon additional funding.
-
-Responsibilities include:
-• Works independently and within teams to use the necessary data extraction, manipulation, and aggregation techniques to prepare, clean, normalize, and validate data to complete varied projects and tasks.
-• Researches, designs, and develops visualization solutions using a range of methods which support investigative and audit products.
-• Designs experiments, tests hypotheses, and builds scalable models using data science and artificial intelligence (e.g. machine learning) methods.
-• Designs, develops, and adapts mathematical, statistical, econometric, and other analytical solutions for audit, investigation, research, and support functions.
-• Leads artificial intelligence activities such as natural language processing, predictive analytics, and machine learning model development, training, evaluation, testing, refinement, deployment, and maintenance.
-• Translates complex technical findings into an easily understood narrative. Prepares comprehensive documentation for requirements, test plans, user manuals, technical diagrams, and training materials.
-• Develops project communications and maintains effective working relationships between project teams, stakeholders, and management.
-• Provides advice on issues affecting projects, such as data access, quality, storage, and other related needs.
-• Contributes to and presents training and conference materials to large audiences.
-• Independently performs comprehensive and efficient data collection and analysis of a variety of data sources to develop trends, descriptive statistics, or other insights.
-• Uses expert level knowledge to identify and develop sources of information from structured and unstructured data, criminal intelligence databases, public information sources, internal Postal Service databases, reference manuals, and audit and law enforcement reports.
-• Independently researches, extracts, evaluates, interprets, and visualizes data and information as actionable intelligence for auditors and investigators to detect, prevent, and respond to fraud, waste, and abuse.
-• Uses relational databases, data lakes, data lakehouses, and other data environments to create a variety of analytic products such as business intelligence tools, summary tables, comparison graphs, or temporal, association, and link analysis charts.
-• Interacts with other agencies and builds relationships with peers to share information and learn the latest developments in analytical tools and techniques to effectively support the OIG with mission related work.
-• Develops substantial knowledge of database applications and environments and shares expertise with coworkers in support of agency goals and objectives.
-• Coordinate with staff and customers to identify business and technical requirements.
-• Produce written documentation and artifacts for all work completed, including the translation of user requirements into technical designs.
-• Assist the agency in the development of programming and visualization solutions.
-• Troubleshoot and provide support on existing projects or application efforts.
-• Engineer data analytic solutions, including prototyping, proof of concept, and full implementation.
-• Evaluate, assess, document, and test data security and continuity of operations for systems and programs.
-• Ensure compatibility between equipment and software, analyze operational/systems requirements, support design reviews, and present technical briefings.
-• Perform analysis of data for Extraction, Transformation, and Load (ETL) strategies, pattern recognition, and application of analytical tools.
-• Review, analyze, and modify existing products including coding, debugging, testing, and documenting.
-• Provide guidance to coworkers on business and technical issues affecting projects, such as data access, data quality, storage capacity, and analytic tools and software.
-• Assist with training and conference development which may include presentations to large audiences.
-
-Skills:
-Analysis Skills, Artificial Intelligence (AI), Business Continuity Planning (BCP), Business Intelligence Software, Capacity Analysis, Communication Skills, Data Analysis, Data Collection, Data Modeling, Data Quality, Data Science, Data Storage, Data Visualization, Database Extract Transform and Load (ETL), Database Programming, Debugging Skills, Documentation, Experiment Design, Identify Issues, Information/Data Security (InfoSec), Law Enforcement, Legal Reports, Machine Learning, Mail Services, Mathematics, Natural Language Processing (NLP), Operational Audit, Operations Security (OPSEC), Pattern Matching, People Management, Predictive Modeling, Project Development, Proof of Concept, Prototyping, Relational Databases (RDBMS), Scalable System Development, Statistics, Structured Data, Systems Analysis, Technical Drawing, Technical Presentation, Technical Writing, Technical/Engineering Design, Test Data, Test Design, Test Plan/Schedule, Test Requirements, Testing, Training/Teaching, Unstructured Data
-
-About the Company:
-ECS Federal LLC
-
-ECS was founded in 2001 by experienced IT professionals with a commitment to quality processes, people and performance. Led by our Chairman, Roy Kapani, and an experienced executive leadership team, ECS provides our customers with solutions and services that support their critical needs and further mission objectives. This commitment has paved the way for expansive growth, year over year.
-
-ECS gained market share in 2011 in the Department of Defense and Federal spaces through both organic and acquisition growth. In May, ECS completed its first strategic acquisition with the purchase of OAK Management, Inc., a leading provider of marine environmental services, ship systems engineering, maritime consulting and platform acquisition management. The OAK acquisition kicked off ECS’ intention to add tactical acquisitions as a part of its long term strategy to supplement and expand upon organic growth and to build enterprise value. ECS closed out 2011 with the acquisition of Paradigm Technologies, Inc. The Paradigm transaction added approximately 200 employees to ECS’ existing 900+ employees. Paradigm also added new Defense clients for ECS, including the Missile Defense Agency, the Navy’s Program Executive Officer for Integrated Warfare Systems, the United States Marine Corps, and the U.S. Marshals Service.
-
-In 2012, ECS completed the acquisition of iLuMinA Solutions, Inc. iLuMinA brings large-scale Enterprise Resource Planning (ERP) software implementation and infrastructure design and development to ECS’ expanding capabilities.
-
-ECS will continue to invest in corporate infrastructure and quality processes as we grow and enhance our ability to offer professional excellence to both our customers and our employees.
-
-Company Size:
-50 to 99 employees
-
-Industry:
-Staffing/Employment Agencies
-
-Founded:
-2000
-
-Website:
-http://www.ecs-federal.com/",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGB-uiELdC3r0HnwHAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,GB-uiELdC3r0HnwHAAAAAA==
-MW1LUllKWUdWcjM2U0pYeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFpTTTNScWRXeGFUR2RNTmpCd1YxQllVbVJzT0ROeFZEVnhjMGxITVRCRlgwVllZeTFhZVhseE4yMHlkVlpyV0haNVVuQnJhRTlJWWxsaFkwZGZWRU0wTjNjNU1XRnFNbFJCT0doS01TMW9Va1pCVlRaSVNqQkJkVEpZTUc1ell6VlNWa0pvTlVKYVYwVnlNMGRSUldoMVJYTmZTVGhTVlhoNWRtOUxWVUZwYUU5d2Eya1NGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daU09GUlhaVlpVTWs1TVkxUnFVRlJDWWsxV2RVSnhSemhsUjFCMw,Data Scientist-HEOR,ADVI Health,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdXH0bSkmpWnrbjvBOozgCk9uitsg40AD6ziO2&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-heor-at-advi-health-4414981657,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-heor-at-advi-health-4414981657', 'is_direct': False, 'publisher': 'LinkedIn'}]","Description
-
-About Us
-
-ADVI Health: Expert Advice. Clear Vision.
-
-Since 2013, clients have sought ADVI Health’s expert advice, informed by data and guided by a clear vision of the complex intersection of life sciences/healthcare innovation, economics, policy, and patient impact. Our aim is to be the leading and most knowledgeable go-to-market access and commercialization partner for life sciences and healthcare innovators, worldwide.
-
-We are a collaborative team of consultants and advisors, all of whom are veterans of top healthcare and life sciences organizations, the federal government, state government, top consultants, nonprofits, commercial payers, or data and analytics companies. Our work cuts through complexity across asset, franchise, corporate, and executive level strategy, shapes markets, and enables therapies to launch faster, smarter, and at scale in multiple therapeutic areas, lifecycle stages, and areas of the world. Our global client roster includes biopharma manufacturers, MedTech, precision medicine diagnostics and tools companies, and cancer provider and patient organizations, from the C-suite down and across the product lifecycle. We solve complicated problems with data-informed commercialization, market access, and policy expertise. Based in Washington, DC and Austin, TX, the company delivers insight- and data-informed advice and vision for leaders in healthcare business and policy. ADVI offers a comprehensive perspective by integrating business, policy, and science to find creative solutions through data, learned insight, and compelling strategy to help clients make decisions across all healthcare segments.
-
-ADVI is at the forefront of healthcare delivery transformation, payment reform, public and private payer coverage, and healthcare merger and acquisition deal flow within the US and abroad. Learn more... visit us at www.advi.com
-
-Position Overview
-
-We are seeking a Data Scientist to join our growing Strategic Analytics, Value, and Economics team. In this role, you’ll leverage advanced data science and health economics methods to help shape access to life-saving therapies and innovations. You’ll work with rich, real-world healthcare data including Medicare and Medicaid claims to uncover insights that directly inform policy, pricing, and patient access decisions across the life sciences sector. This position offers the opportunity to apply your analytical expertise to real-world evidence (RWE), health outcomes, and market access challenges while making a measurable impact on how treatments reach the patients who need them most.
-
-The person in this role will perform healthcare claims-based analytics for a variety of internal and client-facing teams. Analytics work will include health economics and outcomes research (HEOR), market basket assessment of diseases or treatment usage, and related evidence-generation studies.
-
-Job Duties
-
-• Designing and executing analyses in Medicare and Medicaid healthcare claims
-• Lead in the development and production of deliverables (Excel workbooks and power point decks) as well as communicating results to shareholders
-• Manage data analysts and assist in the QA of programs and analyses
-
-Requirements
-
-• Master’s or PhD in Data Science, Biostatistics, Health Economics, Epidemiology, Public Health, Computer Science, or a related quantitative field
-• At least 3 years of professional experience with SAS, SQL, or other relevant programming experience applying data science in healthcare, HEOR, or life sciences.
-• Demonstrated experience with large-scale health data analysis (claims, EHR, registry, or clinical trial data).
-• Experience working with data offered in the CMS’ Chronic Condition Warehouse
-• Experience working in the Virtual Research Data Center (VRDC) offered by CCW
-• Experience working with data in Medicare Standard Analytic Files (SAF), Research Identifiable Files (RIF), or Medicaid T-MSIS data
-
-Location
-
-Candidates can be based anywhere in the U.S., with a preference for those operating in the Eastern or Central Standard Time Zone. Candidates based in Washington, DC or Austin, TX, will have the option of hybrid work arrangements.
-
-Compensation And Benefits
-
-The salary range is $90,000-$140,000 annual base salary plus bonus plan. Exceptionally qualified candidates will be evaluated according to experience levels. Please include your salary requirements with your application if they exceed the posted range. ADVI offers an outstanding benefits package, including the following:
-
-• Medical, dental, and vision
-• 8 paid holidays, including one ADVI Anniversary Day per calendar year
-• 401(k) retirement contribution match, up to 3 percent of salary, with immediate vesting
-• Health Reimbursement Account
-• Life and short-term and long-term disability insurance
-• Paid vacation and sick leave
-
-Diversity Statement
-
-ADVI’s commitment to diversity, equity, inclusion, and collaboration is key to building extraordinary teams. We hire people with exceptional talents, abilities, and potential, then build an environment where you can become the best version of yourself.
-
-Our Vision
-
-To be the leading and most knowledgeable go-to-market access and commercialization partner for life sciences and healthcare innovators worldwide.
-
-Our Mission
-
-To provide life science and healthcare innovators the benefit of our team’s wisdom, empathy, and creativity that, through data-informed strategy, generates evidence to optimize outcomes and, through tech-enabled access solutions, creates opportunities and expands care.
-
-Our Values
-
-Act with Integrity
-
-Strive for Excellence
-
-Make an Impact
-
-Think smart, Stay curious
-
-Celebrate the Journey, not just the results
-
-We look forward to hearing from you!",True,,,,Anywhere,,,,,,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1mKRYJYGVr36SJXxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,1mKRYJYGVr36SJXxAAAAAA==
-QnZXZkl1amVCYko2Q2ZEd0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVVl4ZUVkalJ6QjRSMHhLZGtaNVozRkxURm8wTkVKQ1FqUmplVTFyWTI5bmRuUjRNbGQyY0VNeFJqSmlhVWs1T1ZwQlN6Tm5NSGRxTm5abE5EQm1hMjVZUjNkeFVGSk5kRk5uTWxsVVVXVlNjVXB6TjFGeWJWRklURzVtVEhwTVNVSnBkbEJaYlVSbE0xaHZVVEJaTVhkTlRVOXFWbXhEV1dOa1VVVTFka0U1UW1GRWEwOFNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVU4wYzNhVVF6UjI5YVgyMUNOM05ZYW5kVU5WWlBXRTlqUWxoMw,Legal Practice Technology Data Scientist,Kirkland and Ellis,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEjMLsSXpdN9tSMjsqOqpKCV98aYkphwbDf-7&s=0,https://staffjobsus.kirkland.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=181f96dda4f332e2,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=181f96dda4f332e2', 'is_direct': False, 'publisher': 'Indeed'}]","About Kirkland & Ellis
-
-At Kirkland & Ellis, we don’t just meet the standard for legal excellence — we set it. Our culture is built on teamwork, ingenuity and an unwavering commitment to continuous growth. We tackle the most sophisticated legal challenges with bold ideas and innovative solutions, powered by the exceptional experience and ambition of our 7,000+ people, including 4,000+ attorneys, across 24 offices worldwide. Our dedicated professionals share our lawyers’ commitment to excellence and show up each day to do meaningful work that helps drive global business, investment and innovation forward.
-
-What You’ll Do
-
-If you have spent your career in eDiscovery and litigation support and are ready to apply that foundation, along with a broader technical skill set, to a wider scope of work, this could be the role for you.
-
-Impact. Data Scientists sit within a group of discovery, data management, and AI specialists dedicated to designing and executing client-focused workflows on some of the most complex matters in our industry. You will report to the Associate Director of Technical Operations. The role is hands-on and client-facing; more than half of your time will be spent directly embedded in active matters. This position sits within the firm’s Innovation Program.
-
-Coordination and Execution of In-house Solution Development. You will support the collection of requirements and the design and building of in-house solutions. You will consult with case teams on data strategies and execute rapid solution development including custom scripting, data management, database development, and visualization design. You will complete requests requiring advanced technologies such as document layout analysis, LLM-based information extraction, semantic chunking, and entity recognition, while maintaining comprehensive documentation throughout.
-
-Data Project Service Delivery. You will support matter-specific needs as a subject matter resource, analyzing and troubleshooting data processing and analytics issues. You will develop custom eDiscovery workflows and execute data-heavy, data-modeling projects that require creative problem-solving and technical depth.
-
-Department Initiatives. You will work closely with other data science teams and Legal Practice Technology (“LPT”) leadership to evaluate and test internal solutions and emerging technology. You will serve as a go-to resource for technical knowledge in AI, contributing your expertise to the team’s continuous advancement of its capabilities.
-
-What You’ll Bring
-
-• 3+ years of experience in a law firm, legal services, or professional services organization with significant experience working in a team environment.
-
-• Ability to translate complex concepts into client-friendly language.
-
-• Highly analytical with strong problem-solving skills and the ability to translate ambiguous problems into structured solutions.
-
-• Knowledge of statistical analysis and data modeling.
-
-• Demonstrated hands-on experience with Relativity custom development. Deep knowledge in eDiscovery-focused data processing, structured analytics, and related troubleshooting.
-
-• Expert-level proficiency in Microsoft Excel, including VBA development, Power Query, complex formula construction, advanced data modeling, and chart design.
-
-• Experience in creating data visualizations with hands-on proficiency in tools such as Plotly, Tableau, and Microsoft Power BI.
-
-• Strong Python skills for data analysis, statistical modeling, and AI/ML prototyping (e.g., pandas, PyTorch, TensorFlow); advanced SQL proficiency; experience building data pipelines.
-
-• Proficiency in front-end web technologies including JavaScript, HTML, and CSS, with the ability to develop interactive web-based tools and dashboards.
-
-• Hands-on experience with AI platforms and tools (e.g., OpenAI, Microsoft Azure OpenAI, Hugging Face, LangFlow, LangChain), including practical implementation of RAG pipelines, vector databases, and knowledge graph construction.
-
-• General knowledge of social network analysis, natural language processing, classification algorithms, and image processing.
-
-• Familiarity with git, svn, JIRA, or other version control technologies.
-
-• Familiarity with hardware platforms (e.g., CPUs, GPUs, FPGAs).
-
-• Bachelor’s degree.
-
-• Familiarity with leading legal technology platforms is preferred (docketing systems, document management systems, case management systems, eDiscovery, data collection and web capture solutions).
-
-• Experience evaluating LLM output quality through benchmarking, precision, recall, and extraction accuracy assessment is preferred.
-
-Compensation
-
-The base salary range below represents the low and high end of the salary range for this position in each of the below locations. This range may differ based on your geographic location and cost of living considerations. At Kirkland & Ellis, we consider compensation more than just a base salary. We offer an exceptional range of flexible benefits including comprehensive healthcare, paid time off, and retirement. We also offer personal support and tailored learning and development opportunities all designed to help you realize your full potential both in life and at work.
-
-Compensation Range:
-
-Chicago: $133,000 - $150,000
-
-New York City: $133,000 - $166,000
-
-Los Angeles: $133,000 - $166,000
-
-Bay Area: $133,000 - $191,000
-
-Washington D.C.: $133,000 - $166,000
-
-Boston: $133,000 - $166,000
-
-How to Apply
-
-Thank you for your interest in Kirkland & Ellis LLP. To complete an application and submit your resume, please click ""Apply Now.""
-
-Don't meet every job requirement? That's okay! If you're excited about this role but your experience doesn't perfectly fit every qualification, we encourage you to apply anyway. You may be just the right person for this role or others at Kirkland.
-
-Equal Employment Opportunity
-
-The Firm will consider for employment qualified applicants with arrest and conviction records and criminal histories consistent with local laws.
-
-All employment decisions, including the recruiting, hiring, placement, training availability, promotion, compensation, evaluation, disciplinary actions, and termination of employment (if necessary) are made without regard to the employee’s race, color, creed, religion, sex, pregnancy or childbirth, personal appearance, family responsibilities, sexual orientation or preference, gender identity, political affiliation, source of income, place of residence, national or ethnic origin, ancestry, age, marital status, military veteran status, unfavorable discharge from military service, physical or mental disability, or on any other basis prohibited by applicable law. #LI-Hybrid #LI-LB1 #LI-Remote",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'paid_time_off', 'health_insurance']","['Dental insurance', 'Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBvWfIujeBbJ6CfDwAAAAAA%3D%3D&vssid=jobs-detail-viewer,,133K–191K a year,133000.0,191000.0,YEAR,{},,,,BvWfIujeBbJ6CfDwAAAAAA==
-MVNkREN3M0ljd1BmcmZKeEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3BVWW1aWWVsbHRRVmRXVHpobVkxcFBUMkZKVUhVMmVGVlhkell0VVdsak1HOXlkWHBsYjBkalIxOUdOMEk0VFd4WmVXeG5TbWx6V2pCV2NGaHJlRTVPTTJ4U1pTMHRiMlF3WjB4eFNrNTViVXhVTjNCcFdFUnBVelI1Wm1kamIxSlRZV0V4ZFdkSU1qUmhlVE01Y0dGd2NFaFhXR2h3WjB4bmJHTlViV3RPUzFFdGRuQVNGelZCYVVGaGMycFBTMTh6V210UVNWQjVkVXR2TUVGWkdpSkJSSE55T1daVU4wSnNkSEpPY2xJeVptWnRTakpDU0VWTGVrUk5SaTFuTldOMw,Data Scientist ll - Digital Intelligence,Socure Inc,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://socure.com&size=128",https://www.socure.com,CareerBuilder,Full-time,['FULLTIME'],https://www.careerbuilder.com/job-details/data-scientist-ll-digital-intelligence-washington-dc--c351e9d4-5c93-4581-a219-55a177e17fb2,False,"[{'apply_link': 'https://www.careerbuilder.com/job-details/data-scientist-ll-digital-intelligence-washington-dc--c351e9d4-5c93-4581-a219-55a177e17fb2', 'is_direct': False, 'publisher': 'CareerBuilder'}]","Why Socure?
-Socure is building the identity trust infrastructure for the digital economy - verifying 100% of good identities in real time and stopping fraud before it starts. The mission is big, the problems are complex, and the impact is felt by businesses, governments, and millions of people every day.
-We hire people who want that level of responsibility. People who move fast, think critically, act like owners, and care deeply about solving customer problems with precision. If you want predictability or narrow scope, this won't be your place. If you want to help build the future of identity with a team that holds a high bar for itself - keep reading.
-Job Summary:
-Socure is the leading provider of digital identity verification and fraud prevention solutions, using AI and machine learning to power accurate identity trust decisions. Our mission is to eliminate identity fraud and ensure online trust across industries.
-We are seeking a Data Scientist II to join our Digital Intelligence team. In this role, you will develop machine learning features, analytical methods, and production-oriented risk signals using device, network, browser, mobile, API, session, and behavioral telemetry.
-This is a hands-on role for a data scientist who can independently deliver well-scoped projects, work with complex and noisy data, and partner with engineering, product, and risk teams to improve fraud detection, identity confidence, and customer outcomes. You will deepen your expertise in Digital Intelligence while contributing to models and signals used in real-world production decisions.
-Job Responsibilities:
-• Develop machine learning features, models, and analytical methods for device, network, browser, mobile, session, and behavioral intelligence.
-
-• Work on scoped fraud and identity risk problems where data quality, labels, telemetry coverage, and product tradeoffs need careful analysis.
-
-• Build features from large-scale, high-cardinality, sparse, noisy, and platform-dependent telemetry.
-
-• Analyze signal patterns such as spoofing, emulator behavior, automation, proxy/VPN usage, low-entropy fingerprints, telemetry gaps, and device or session fragmentation.
-
-• Design and execute validation analyses, including train/test splits, holdout checks, leakage review, drift assessment, customer impact analysis, and feature stability review.
-
-• Use supervised, unsupervised, statistical, and heuristic approaches to identify durable fraud and identity risk signals.
-
-• Investigate imperfect labels, delayed outcomes, instrumentation gaps, and changing fraud patterns to distinguish useful signal from data artifacts.
-
-• Partner with senior data scientists, engineering, product, risk, and platform teams to clarify requirements, prepare data, implement features, and support production rollout.
-
-• Contribute to model documentation, feature definitions, explainability materials, dashboards, and production-readiness reviews.
-
-• Communicate methods, assumptions, findings, limitations, and recommendations clearly to technical and cross-functional stakeholders.
-
-• Support junior data scientists and analysts through code review, analytical feedback, and sharing effective modeling and validation practices.
-
-Job Requirements:
-• Bachelor's, Master's, or Ph.D. in Computer Science, Machine Learning, Statistics, Mathematics, Data Science, or a related quantitative field, or equivalent practical experience.
-
-• 5+ years of experience in data science, applied machine learning, statistical modeling, analytics engineering, or a related technical role.
-
-• Experience building, evaluating, and improving machine learning models, features, analytical pipelines, or risk signals.
-
-• Strong SQL skills and experience working with large-scale, complex datasets.
-
-• Strong proficiency in Python and experience with data science libraries such as pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, or similar.
-
-• Experience with distributed data processing tools such as Spark, PySpark, Databricks, or equivalent frameworks.
-
-• Solid understanding of supervised learning, unsupervised learning, feature engineering, model evaluation, statistical validation, and experiment analysis.
-
-• Ability to work with noisy data, imperfect labels, missing values, instrumentation gaps, and changing data distributions.
-
-• Strong analytical judgment across data quality, feature design, model selection, explainability, and business impact.
-
-• Experience collaborating with engineering, product, analytics, or risk teams to move data science work toward production or operational use.
-
-• Clear communication skills, including the ability to explain technical work, assumptions, tradeoffs, and results to non-specialist stakeholders.
-
-• Ability to operate independently on defined problem areas while seeking guidance appropriately on ambiguous or high-risk decisions.
-
-Preferred Qualifications:
-• Background in fraud detection, identity verification, trust and safety, anomaly detection, cybersecurity, risk modeling, or another adversarial data domain.
-
-• Experience with device intelligence, browser/mobile fingerprinting, behavioral biometrics, network intelligence, VPN/proxy detection, or telemetry signal processing.
-
-• Experience developing features from high-cardinality categorical data using techniques such as aggregation, frequency encoding, target encoding, embeddings, graph features, or representation learning.
-
-• Familiarity with production ML workflows, model monitoring, feature monitoring, or batch and near-real-time decisioning systems.
-
-• Experience with dashboarding, model explainability, feature documentation, or customer-impact analysis.
-
-• Interest in adversarial behavior, fraud patterns, telemetry quality, and applied ML systems that operate in real-world production environments.
-
-What You'll Gain
-You will work on meaningful data science problems in fraud prevention and identity verification, using high-scale Digital Intelligence telemetry to build features and risk signals that contribute to real-world production decisions.
-You will gain deeper experience with device, network, browser, mobile, session, and behavioral intelligence while working closely with senior data scientists, engineering, product, and risk partners. This role offers the opportunity to grow from independently delivering scoped modeling projects toward owning broader workstreams and developing Senior-level technical judgment over time.
-Socure is an equal opportunity employer that values diversity in all its forms within our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-If you need an accommodation during any stage of the application or hiring process-including interview or onboarding support-please reach out to your Socure recruiting partner directly.
-Follow Us!
-YouTube | LinkedIn | X (Twitter) | Facebook
-
-Skills:
-Analysis Skills, Application Programming Interface (API), Artificial Intelligence (AI), Automation, Biometrics, Code Reviews, Communication Skills, Computer Science, Cross-Functional, Data Analysis, Data Processing, Data Quality, Data Science, Data Sets, Documentation, Documentation Models, Emulators, Instrumentation, Internet Security, Machine Learning, Mathematics, Model Validation, Pattern Analysis, Production Support, Production Systems, Project Estimates, Python Programming/Scripting Language, Reporting Dashboards, Resolve Customer Issues, Risk, Risk Modeling, SQL (Structured Query Language), Science Library, Signal Processing, Stability Analysis, Statistical Modeling, Statistics, Telemetry, Trade-Off Analysis, VPN (Virtual Private Network), Web Browsers
-
-undefined:
-Socure Inc
-
-Since 1971, this telecommunications service provider has maintained a reputation for quality, longevity, stability, and value. The company serves a nationwide customer base which ranges in size from small to large enterprises, spanning industries that include healthcare, government and education, oil and gas, retail, and financial.
-
-As an Avaya Platinum Business Partner, a Microsoft Gold Partner, and strategic partnerships with Interactive Intelligence and Cisco, SOURCE architects and designers craft network applications that voice-enable critical business processes for our customers. These telecom systems and applications not only reduce costs, they literally power sustainable competitive advantage.
-
-With expertise at designing, integrating and implementing multi-vendor, multi-site, multi-technology voice and data communications solutions, combined with a diverse portfolio of managed services, SOURCE continues to be a premier partner to customers for converged telecommunications solutions.
-
-To explore a world where voice and data merge, log on to www.source.com. Youâ€™ll find a portfolio of mission-critical solutions that will help you realize the full potential of your communication environment, such as:
-
-• Project Management
-
-• System Implementation
-
-• Asset Management & Logistics
-
-• Maintenance Services
-
-• Professional Services
-
-• Disaster Recovery Services
-
-At SOURCE, our mission is clear: To exceed the expectations of our customers by creating value as their trusted business partner in the communications eco-system through the integration of people, technology and systems.
-
-Company Size:
-50 to 99 employees
-
-Industry:
-Telecommunications Services
-
-undefined:
-1971
-
-Website:
-http://source.com/",False,29 days ago,1784246400.0,2026-07-17T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1SdDCw3IcwPfrfJxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,1SdDCw3IcwPfrfJxAAAAAA==
+GEICO reasonably accommodates qualified individuals with disabilities to enable them to receive equal employment opportunity and/or perform the essential functions of the job, unless the accommodation would impose an undue hardship to the Company. This applies to all applicants and associates. GEICO also provides a work environment in which each associate is able to be productive and work to the best of their ability. We do not condone or tolerate an atmosphere of intimidation or harassment. We expect and require the cooperation of all associates in maintaining an atmosphere free from discrimination and harassment with mutual respect by and for all associates and applicants.",False,5 days ago,1786406400.0,2026-08-11T00:00:00.000Z,"Bethesda, MD",Bethesda,Maryland,US,38.9848328,-77.09431719999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCPUQCuPELY4LpMPKAAAAAA%3D%3D&vssid=jobs-detail-viewer,,115K–230K a year,115000.0,230000.0,YEAR,{},,,,CPUQCuPELY4LpMPKAAAAAA==
