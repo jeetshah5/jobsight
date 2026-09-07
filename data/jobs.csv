@@ -1,113 +1,5 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
-OHBadUN0cGJGZkJVaENNWUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFZvT0RkaVNUTnhjbUpXYW5CMFpqTkZMVWRaVFVkRFIyVjJaMk5hU2xabGIwMHRYMjFPZGxoT1VuZGxPREZEYW14SVdpMTJkamhxV2xweWFsTlhhVkJJV0VGRlJXaG1MVmx1WDJ4eE9VWlhiR3BMVmxCcE5sOXBRekpTVGpaSVRFcFhaRWREV25CYVgwOVhRM0J6YjNoeFZrUndjbHByUTJZd1RsUTJUMDlTTkZsWGVsb1NGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVExVRjVUVE5xZFVwRU9HaFVWbU52VWpWTkxUTjBOMnN4VjJkbg,Data Scientist Defense/Public Sector,McKinsey & Company,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlLlLZ3WVmo4HxbkKae1rR5N4EYgDU0Mkn3frP&s=0,https://www.mckinsey.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-defense-public-sector-at-mckinsey-company-4443958079,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-defense-public-sector-at-mckinsey-company-4443958079', 'is_direct': False, 'publisher': 'LinkedIn'}]","Who You'll Work With
-
-Driving lasting impact and building long-term capabilities with our clients is not easy work. You are the kind of person who thrives in a high performance/high reward culture - doing hard things, picking yourself up when you stumble, and having the resilience to try another way forward.
-
-In return for your drive, determination, and curiosity, we'll provide the resources, mentorship, and opportunities you need to become a stronger leader faster than you ever thought possible. Your colleagues—at all levels—will invest deeply in your development, just as much as they invest in delivering exceptional results for clients. Every day, you'll receive apprenticeship, coaching, and exposure that will accelerate your growth in ways you won’t find anywhere else.
-
-When you join us, you will have:
-
-• Continuous learning: Our learning and apprenticeship culture, backed by structured programs, is all about helping you grow while creating an environment where feedback is clear, actionable, and focused on your development. The real magic happens when you take the input from others to heart and embrace the fast-paced learning experience, owning your journey.
-• A voice that matters: From day one, we value your ideas and contributions. You’ll make a tangible impact by offering innovative ideas and practical solutions, all while upholding our unwavering commitment to ethics and integrity. We not only encourage diverse perspectives, but they are critical in driving us toward the best possible outcomes.
-• Global community: With colleagues across 65+ countries and over 100 different nationalities, our firm’s diversity fuels creativity and helps us come up with the best solutions for our clients. Plus, you’ll have the opportunity to learn from exceptional colleagues with diverse backgrounds and experiences.
-• World-class benefits: On top of a competitive salary (based on your location, experience, and skills), we provide a comprehensive benefits package to enable holistic well-being for you and your family.
-
-Your Impact
-
-You’ll blend advanced analytics with semantic modeling to transform raw data into actionable intelligence that shapes products and business strategy.
-
-You’ll design predictive models, run large scale experiments, and surface insights, while also helping define ontologies and knowledge graphs that connect and contextualize enterprise data.
-
-Partnering with engineers and domain experts, you’ll establish data standards, ensure quality, and operationalize models and graph services at scale. The solutions you deliver will accelerate innovation, improve client experiences, and enable faster, more confident decision making across the Platform.
-
-As a member of the Platform team, you will collaborate with the Client Capabilities Network team to deliver state-of-the-art generative AI automations.
-
-You will experience what it’s like to develop a generative AI product with a firm-wide impact. You’ll join a cross-functional team of data scientists, engineers, designers, and product managers working on a high-priority initiative. Leveraging cutting-edge technology, we aim to revolutionize how we conduct and synthesize knowledge research, enabling firm members to deliver impactful stories effortlessly.
-
-You will work hands-on with the latest multimodal LLMs, conducting experiments and deploying production pipelines that utilize generative models (such as GPT-like models) for automating knowledge search, curation, and synthesis processes. This includes model training, fine-tuning, evaluation, and iteration, enhancing creativity and content generation.
-
-Your Qualifications and Skills
-
-• US Citizenship required
-• Defense experience and experience working with data at various classification levels required
-• SECRET Security Clearance Required; TS+ clearance preferred
-• 3+ years of experience as a Data Scientist; Previous enterprise platform experience preferred
-• Deep theoretical and practical knowledge of NLP, Transformers, LLMs, and Generative AI
-• Required experience with OpenAI’s GPT suite, including previous experience with their multimodal LLMs: GPT4V, GPT4o
-• Theoretical understanding of how LLMs can be leveraged to build classification models, re-rankers, and recommendation systems
-• Strong programming skills: well-versed with building end-to-end data models and pipelines in Python according to the best engineering practices
-• Experience managing a Git repository - maintaining effective version control with organized & clean branching strategies
-• Experience with knowledge graphs",False,24 days ago,1786579200.0,2026-08-13T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8pZuCtpbFfBUhCMYAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,8pZuCtpbFfBUhCMYAAAAAA==
-S2FmdVN5RzV6MnlrUEhGV0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURlpYUlVGdlVWTTJla2x0WlROU2FtWnVPVTFQYVRGNVJUZE9UVGg1WlcxS09XbzJSVkpSVEZBemVqWnZiMDVHWTFrdFJGOWpZbTR6ZUVkM05VcEhXRmRHTTA0MVQyMU9NbGx3ZUVSbFJ6Y3RkWFZTV0hCVFVVMW9ZbkZDTUdsT2IxSmhZbU5wVkRsYVVVbEVSMXB3ZWtGS1lsSkNZMkZaUjNCS1VsbGxXVWhuUkZsU0xUWVNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVGRVYzVVME53YWxOSldFOVBhR2MwVTFRekxVZzFOMFZETkZKbg,Data Scientist II,KBR,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wJYZgKBkrgC2YvpeyQ2V_hzgFyolV9TA1cMh&s=0,,Careers At KBR,Full-time,['FULLTIME'],https://careers.kbr.com/us/en/job/R2122523/Data-Scientist-II,False,"[{'apply_link': 'https://careers.kbr.com/us/en/job/R2122523/Data-Scientist-II', 'is_direct': False, 'publisher': 'Careers At KBR'}]","Title:
-Data Scientist II
-
-Belong. Connect. Grow. with KBR!
-
-KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities. In this position, your work will have a profound impact on the country’s most critical role – protecting our national security.
-
-Why Join Us?
-• Innovative Projects: KBR’s work is at the forefront of engineering, logistics, operations, science, program management, mission IT and cybersecurity solutions.
-
-• Collaborative Environment: Be part of a dynamic team that thrives on collaboration and innovation, fostering a supportive and intellectually stimulating workplace.
-
-• Impactful Work: Your contributions will be pivotal in designing and optimizing defense systems that ensure national security and shape the future of space defense.
-
-Key Responsibilities:
-KBR seeks a Data Scientist to support the CAPE Joint Data Support (JDS) Division. CAPE JDS is a multi-source funded and OSD CAPE managed organization responsible for identifying, collecting, developing, analyzing, managing, and disseminating historical, current, and future years U.S. and Non-U.S. forces inventory, capabilities, and deployment data (including planning, programming, and acquisition data) supporting collaborative study teams guided by the Analysis Working Group (AWG). JDS develops standardized data products and analytic tools to support Joint analytic efforts focused on Senior Leader decision support. Additionally, JDS supports AWG led SCI/SAP/SAR studies and analyses.
-
-The Data Scientist as part of a team will be responsible for the analysis and evaluation of user business problems and the development of system recommendations to meet requirements. Analyzes current and technical processes to formulate and develop new and modified methods, techniques or systems. Duties include coordinating with business and technology teams to ascertain system requirements, such as program functions, output requirements, input data acquisition, execution of user acceptance, and may coordinate testing and system controls. Develops technical solutions that require collaboration with experts, deep analyses and understanding of impact on end- product/solution. Develops solutions to technical problems and issues that are unclear and require deep technical knowledge. Communicates with and client project team members. Works to influence team members regarding solution design, process and/or approaches.
-
-Work Environment:
-• Location: On-site
-
-• Travel Requirements: Minimal 0-20%
-
-• Working Hours: Standard
-
-Qualifications:
-Required:
-• Must have an active Secret security clearance to be considered for the position
-
-• Bachelor’s degree in data science, statistics, mathematics, or a related field.
-
-• Four (4) years of experience working with object-oriented programming languages and other coding environments (e.g., Python, Java, C++, C#, R, MATLAB, and Simulink)
-Four (4) years of experience designing, executing, and delivering data analyses leveraging at least one (1) of the following areas:
-
-• Statistics: Expertise with statistical modeling, experimental design, sampling, clustering, data reduction, confidence intervals, testing, modeling, and predictive modeling.
-
-• Mathematics: Expertise with big data and performing inventory management, forecasting, optimization, and supply chain analysis.
-
-• Visualization: Expertise providing visualization of data and analytic results in a meaningful way for senior decision makers to understand quickly with minimal to no explanation. These tasks will require expertise using programs such as Tableau, ArcGIS, and R to display data.
-
-• Artificial Intelligence & Machine Learning: Expertise utilizing artificial intelligence and machine learning techniques for developing and running algorithms and dealing with computational complexity
-
-• The candidate must also possess adeptness in interfacing with clients and demonstrated expertise in Structured Query Language (SQL).
-
-Desired:
-• TS/SCI Clearance
-
-Scheduled Weekly Hours:
-40hrs
-
-Basic Compensation:
-The offered rate will be based on the selected candidate’s knowledge, skills, abilities and/or experience and in consideration of internal parity.
-
-Compensation for VA is $136,000K-$146,000K.
-
-Additional Compensation:
-KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives, long term incentives, or discretionary payments for exceptional performance.
-
-Ready to Make a Difference?
-If you’re excited about making a significant impact in the field of space defense and working on projects that matter, we encourage you to apply and join our team at KBR. Let's shape the future together.
-KBR Benefits
-KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision.
-
-Belong, Connect and Grow at KBR
-
-At KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.
-
-KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",False,,,,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKafuSyG5z2ykPHFWAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,KafuSyG5z2ykPHFWAAAAAA==
-aDFqSU04LTFULUVINGl1OUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbmhaWmpCTE9EbGpVVVZWZFdGVlFYbFVNRFEyVm1KRFFVTnpSWEoyWmpWcWVDMVpjWGxuU0Uxc1RXa3hUSHA0Y1VoSWFqWjFSRFZVYlZsNVgxVlVaVlJzWkVoMGFGUXlkVVJuU200MFVtMHhNV3czVWxsaFRXaHRXamxuZDFvM1NIWm1NM0pTVlhScGMweEdOMDVyYW5SVVlVaHBaMjVFWTBFd2FtbGhNbWRRVFRVdFlWZ1NGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVVFuWlpWamx5TWxwV1VIbENSa2h5U2tWMVUzcG9NRkpUU1hSQg,Data Scientist - Law Enforcement Analytics & Program,Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsPV50auya_P5N4t5W3jXXiFwdOQQhbhzNzhn&s=0,https://www.meta.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0b63669914d94125,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=0b63669914d94125', 'is_direct': False, 'publisher': 'Indeed'}]","Meta is seeking a Data Scientist to join our Law Enforcement Analytics & Program (LEAP) team. Our mission is to enable Meta's capacity to balance public safety, user privacy, and compliance obligations at scale through strategic coordination, technical leadership, and operational success across the Security, Integrity, Investigations (SI2) legal team and its partners. This role leverages AI, data and insights to drive decisions that enable predictability, and proactive detection, allowing us to operate efficiently and reliably at scale. You will be building AI models and will be involved in the design, development, and deployment of intelligent solutions that reduce the operational and investigative burden. This role will directly impact the scalability and efficiency of our operations and investigations through proactive detection, automation, and resolution of routine tasks, inefficiencies, and incidents. In addition, this is a crucial role in translating data into action and identifying opportunities for efficiency and effectiveness.
+aDFqSU04LTFULUVINGl1OUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalZaZUhKcWFGOTRYMnhCWVVKZk0wWjBhRlJXWDI5dVVIVnhiekppY210WWVtTmhNM0JDYnpoRVYyNWlNVnAzY0d0MU1FdEVWa1p0Tmw5dGRtb3llbUZ5YUhnM1JFdDZaRll6Y1daUVVsaG1VelJEYldWblRERTVSa1JGZVVWWk1WSlRTREIwVEUxVVRXRnRkMk40TjJscFpETXdlbEZsYzBkSGMwRTVabVp2V0U1dlNXWVNGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daUlgzVmxOV013TTJWQllrdzNOVnBJVTNkdmRXbzJiazlLUjJKUg,Data Scientist - Law Enforcement Analytics & Program,Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrsPV50auya_P5N4t5W3jXXiFwdOQQhbhzNzhn&s=0,https://www.meta.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=0b63669914d94125,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=0b63669914d94125', 'is_direct': False, 'publisher': 'Indeed'}]","Meta is seeking a Data Scientist to join our Law Enforcement Analytics & Program (LEAP) team. Our mission is to enable Meta's capacity to balance public safety, user privacy, and compliance obligations at scale through strategic coordination, technical leadership, and operational success across the Security, Integrity, Investigations (SI2) legal team and its partners. This role leverages AI, data and insights to drive decisions that enable predictability, and proactive detection, allowing us to operate efficiently and reliably at scale. You will be building AI models and will be involved in the design, development, and deployment of intelligent solutions that reduce the operational and investigative burden. This role will directly impact the scalability and efficiency of our operations and investigations through proactive detection, automation, and resolution of routine tasks, inefficiencies, and incidents. In addition, this is a crucial role in translating data into action and identifying opportunities for efficiency and effectiveness.
 
 Data Scientist - Law Enforcement Analytics & Program Responsibilities:
 
@@ -178,7 +70,7 @@ Meta is committed to providing reasonable accommodations for candidates with dis
 $151,000/year to $213,000/year + bonus + equity + benefits
 
 Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dh1jIM8-1T-EH4iu9AAAAAA%3D%3D&vssid=jobs-detail-viewer,,151K–213K a year,151000.0,213000.0,YEAR,{},,,,h1jIM8-1T-EH4iu9AAAAAA==
-cXRjWmNuS3UtZUM5dUtzcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbEJuVWpkSlkwRnljMU5IUkdaTE1DMXZlSFY2WHpselRVMXNZMFF5VDBRM2NFaG9VMFpOYlRRdFZVMXFOMGxvU0dOdGVGaFpWV2hmTWs1SlRsWmZkRjlTWVhWYWNrNVpVazVTUTI4d1ZsSldhV0pHWVRoTVJrTnBWVXhaYUZCb2FFNUlYMFpNTldVMWJVTmlTSHAzTFdRdGVYVk5UWGxFYjNVNFIyWkRMVGhHVFhReFNYUVNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daUmMxZEdibmx6ZDFsWWRXdzRNbXhXYm10QlZ5MHdZV1V6YzNGMw,"Principal Associate, Data Scientist - Emerging ML",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-emerging-ml/1732/98436292992,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-emerging-ml/1732/98436292992', 'is_direct': False, 'publisher': 'Capital One Career'}]","Principal Associate, Data Scientist - Emerging ML
+cXRjWmNuS3UtZUM5dUtzcEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1prV1dWcWQwMXhlVlJXU3pOdE4yOVRVVEptWkZBNGJtTXpRMUZrTFdGWFJsWTBjRm94T1dab1dXcEthVU01WW10UUxUbE5SVTQxVkY5MmJWOVFYMWQ1UjJWc2JURk5PRTVyTVd0VlpqTkxObXh4WW1aVU9FWkVORGQzVGt0NlltRnZjMGhKYzI1UVJrdEthMkU1UTJoNE1HUlBhVGN5WlhGT2FISnZNRUpKTm1aSmJWa1NGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daUlRVSnVSa1U1TjBab1QwTjFiblZqUkdFeVJtdEdkelpFVTNwQg,"Principal Associate, Data Scientist - Emerging ML",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQs10RDe3UNykrDDS1GdWOFzLadY76FR6vn0DJ&s=0,https://www.capitalone.com,Capital One Career,Full-time and Part-time,"['FULLTIME', 'PARTTIME']",https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-emerging-ml/1732/98436292992,False,"[{'apply_link': 'https://www.capitalonecareers.com/job/mclean/principal-associate-data-scientist-emerging-ml/1732/98436292992', 'is_direct': False, 'publisher': 'Capital One Career'}]","Principal Associate, Data Scientist - Emerging ML
 
 Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
@@ -249,7 +141,7 @@ For technical support or questions about Capital One's recruiting process, pleas
 Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
 
 Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,,,,"McLean, VA   (+2 others)",,,,,,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqtcZcnKu-eC9uKspAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,qtcZcnKu-eC9uKspAAAAAA==
-TVNhRjBnd0dyX2MyZHJ5eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTalJaUkc5MlNHdHJUV3BpWWs1SlpVSTVlVk5qY0d0MVNGRkhSMkphZUhBMFpXaFJOamxZWVhCUVpqRmpXSFZSWDNKb1JEVnFWRUpaVlVkR1psTndSMVl4WVRsdGVucGhVM1JoYVUxSmNIWnZUMUpHV1hoSUxVbENaVzQxUmxwNFlUYzVOV000VURCa1lqazFaamQyVW5aVmFsWkVXRGhyWVVjMmVsY3dkRlZ4U3paM1JTMFNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daUlNFWkpaRk5sTFdvMGFYcG5VVUZqY0VOSFVVNW5hWFpIWmw5Qg,Data Scientist SME III,Knowesis Inc.,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC4vgm4Q4iDOA6eqg0hEfj69u4RdGSoHYZgnV&s=0,https://www.knowesis-inc.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-sme-iii-at-knowesis-inc-4456781926,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-sme-iii-at-knowesis-inc-4456781926', 'is_direct': False, 'publisher': 'LinkedIn'}]","Brief Description
+TVNhRjBnd0dyX2MyZHJ5eEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGxVVVV4b2FtcE1ZelJ2ZURoVmNYQTFSM1ZmZEVWT2JqQnpielp2YzBSUUxWZzBSMDVmV1dWUlFWVkdibEpyVW5OWExUWXpWV1ZHU1V3elZsRjRaV2hTWmtWbkxUZE1PWGsxTldGbmRFRXRiSHBwVXpKZllqbG5aMFZxT1ZOVVp6ZFJUMGRIY0ZSV09XdzBSekZUT1ZkQ2RVaEljMGN0UmtwVFVFTlJSM2MwV25GbFVtVVNGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daVFMzaGtPVkIyZWkxSGJsQkVVa0V3WlV0eFptVjZlRFp1U2psbg,Data Scientist SME III,Knowesis Inc.,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZC4vgm4Q4iDOA6eqg0hEfj69u4RdGSoHYZgnV&s=0,https://www.knowesis-inc.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-sme-iii-at-knowesis-inc-4456781926,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-sme-iii-at-knowesis-inc-4456781926', 'is_direct': False, 'publisher': 'LinkedIn'}]","Brief Description
 
 Position: Data Scientist SME III
 
@@ -288,92 +180,8 @@ Benefits
 
 • Health (PPO & HDHP) Insurance, Dental, Vision, STD & LTD, Basic Life Insurance, 401k Company Match, & Voluntary Products.
 
-Knowesis is committed to providing equal employment opportunities to all individuals based on merit and qualifications. We prohibit discrimination in all aspects of employment as required by Title VII of the Civil Rights Act and other applicable federal laws. Our company values all applicants and employees and fosters a work environment where everyone is treated with respect and dignity.",False,17 days ago,1787184000.0,2026-08-20T00:00:00.000Z,"Silver Spring, MD",Silver Spring,Maryland,US,38.9960671,-77.0280731,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMSaF0gwGr_c2dryxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,MSaF0gwGr_c2dryxAAAAAA==
-dmJzczI2Uy16NFMtenNIa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXA0U1ZCWlF6ZE5jMjUwYVUxT1YxcE5SVVZ4U0VsdWFFRnZOV3d0U1ZNdFpIbExWRzVJTjNVeWRrdFdlWHAyUjFkUFduWkxlbXh1TXpoaWFXbGxkVlZKWm10UWF6VnFWWEIxVWtkSVMyVllRVkZXU2xsSFREUmpVMFZyZUhSTmNIWnVkbVJyWms4eVRWQmFORlJPWHpKVWNWcDFSV05OU214eE1VUjJibXhZTVc1b2RWOFNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daUlRXaHdTRTAxT0VWaE5FSk5iRzVoVms1WVNYQnliV3RqTFV4Qg,Health IT Data Scientist (Hybrid / Telework Eligible),"Red Pulley, Inc.",,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=c03db765312bccd6,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=c03db765312bccd6', 'is_direct': False, 'publisher': 'Indeed'}]","Description:
-Red Pulley Technology Solutions, Inc. is seeking a Health IT Data Scientist II to support the ICE Health Service Corps (IHSC) Health Information Technology Unit (HITU) Enterprise Health IT Staffing and Professional Services Support program. This role applies statistical, predictive, and exploratory analytic techniques to complex healthcare and operational data to generate insights that inform strategic planning, performance monitoring, and evidence-based decision-making.
-
-All development, configuration, and implementation activities performed by this role are conducted within authorized Government-managed platforms and environments, subject to Government oversight, direction, and approval, with written authorization required prior to deployment to production environments.
-
-U.S Citizenship Required
-
-Location: Washington, DC Metro Area, DMV Area
-
-Clearance: Public Trust - Preliminary and Complete Fitness Determination Required
-
-Employment Type: Full-Time
-
-Minimum Qualifications:
-
-• Advanced degree or equivalent experience in Data Science, Statistics, or a related quantitative field
-
-• Advanced expertise applying statistical, predictive, and exploratory analytics to healthcare and operational data
-
-• Experience designing and implementing data models, forecasts, and analytic methodologies
-
-• Strong knowledge of healthcare data domains, including utilization, cost, quality, and performance metrics
-
-• Experience conducting cost modeling, trend analysis, and scenario forecasting
-
-• Skill in communicating complex analytic findings through reports, dashboards, and executive briefings
-
-Requirements:
-
-Preferred Qualifications
-
-• Experience collaborating with Data Engineers to operationalize and scale analytic models
-
-• Experience developing repeatable analytic frameworks and methodologies for enterprise use
-
-• Familiarity with federal healthcare data governance, privacy, and security requirements
-
-• Experience supporting high-priority, time-sensitive analytical requests for senior leadership
-
-Key Responsibilities
-
-• Design and execute advanced data analysis, predictive models, and statistical methodologies using healthcare and operational data
-
-• Perform cost modeling, utilization analysis, trend analysis, and forecasting to support strategic planning
-
-• Collaborate with Data Engineers to operate analytic models and ensure scalability
-
-• Develop repeatable analytic frameworks and methodologies for enterprise use
-
-• Validate data sources, analytic assumptions, and model outputs to ensure accuracy and reliability
-
-• Translate analytic results into actionable insights through reports, dashboards, and executive briefings
-
-• Support leadership requests for high-priority, time-sensitive analyses
-
-• Document analytic methodologies, assumptions, and limitations
-
-Benefits:
-
-At Red Pulley Technology Solutions, we invest in our people so they can deliver exceptional results in support of critical missions. Our comprehensive benefits package includes:
-
-• Competitive compensation aligned with experience and market conditions
-
-• 401(k) retirement plan with company matching to support long-term financial security
-
-• Comprehensive health coverage, including medical, dental, and vision insurance
-
-• Health Savings Account (HSA) and Flexible Spending Account (FSA) options
-
-• Life insurance coverage for added peace of mind
-
-• Generous paid time off (PTO) to support work-life balance
-
-• Parental leave for growing families
-
-• Professional development assistance, including training and certification support
-
-• Tuition reimbursement to encourage continued education and career advancement
-
-Our benefits reflect Red Pulley’s commitment to workforce stability, professional growth, and creating an environment where mission-focused professionals can thrive.
-
-Affirmative Action/EEO statement
-
-Red Pulley is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",True,,,,Anywhere,,,,,,"['dental_coverage', 'paid_time_off', 'health_insurance']","['Dental insurance', 'Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dvbss26S-z4S-zsHkAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,vbss26S-z4S-zsHkAAAAAA==
-SXZ6Vld1SDlWTF9UV1VMY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVkZ1YzNGVVRIbENXRWxoWVhWWldtZHFTbXhtVG1KckxYWkVTMDB5VUVVNU5sY3dZWEI0UjNBNVZUZEpUVk14UVZJMGJVcDNWRU55WVVwYVNVaDNaazVZWW5NMmMzSnBNME55VTFkeVNUTjZNVFZyVERsRlFtTXlOVlkzZFRnMVNuaHdVVVEzUkc1TmJYZE1WMUU1Wkdob1JsOW9VVWhSWWxGWGNsaHhRVXRJYm1oblQyOFNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVVRXbFhWbUV3Y1ZKdVRXdHplRzU1VkVObVVYRkxWMjQyY2xKUg,Mid-Level Data Scientist,Leidos,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDOmwA1EV4oAFbpq-h9oJdTF9j0qhmpgstDXl&s=0,https://www.leidos.com,Leidos Careers,Full-time,['FULLTIME'],https://careers.leidos.com/jobs/17721335-mid-level-data-scientist,False,"[{'apply_link': 'https://careers.leidos.com/jobs/17721335-mid-level-data-scientist', 'is_direct': False, 'publisher': 'Leidos Careers'}]","Description
+Knowesis is committed to providing equal employment opportunities to all individuals based on merit and qualifications. We prohibit discrimination in all aspects of employment as required by Title VII of the Civil Rights Act and other applicable federal laws. Our company values all applicants and employees and fosters a work environment where everyone is treated with respect and dignity.",False,18 days ago,1787184000.0,2026-08-20T00:00:00.000Z,"Silver Spring, MD",Silver Spring,Maryland,US,38.9960671,-77.0280731,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMSaF0gwGr_c2dryxAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,MSaF0gwGr_c2dryxAAAAAA==
+SXZ6Vld1SDlWTF9UV1VMY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMng2TFVRNVlYTnVjamREVDNodGRWTllTVk5UZUhaM1NsQXdUMlZGWVZORFpXWm9SR0paVUZKeFMyRTJWbVpTUzB3NVJWVnZhRmRIVFVWdGVUaFVkVXBQVDBaWU0zRmhPWGxQUlZweE9GazNSREl6Y1U1d1VUaERjR2RaVlRVM1lXOXBUVFJXVm5WSFZIUlRPRTlhUjFSbU9VeFpWVTEzYTJ4clJuVktVMHcwWVdSSFRHc1NGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daU0xXVXlUbTlGTFZJMlpHNXFaMTlIYjBGYVYzaEdjaTEwTWtkbg,Mid-Level Data Scientist,Leidos,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDOmwA1EV4oAFbpq-h9oJdTF9j0qhmpgstDXl&s=0,https://www.leidos.com,Leidos Careers,Full-time,['FULLTIME'],https://careers.leidos.com/jobs/17721335-mid-level-data-scientist,False,"[{'apply_link': 'https://careers.leidos.com/jobs/17721335-mid-level-data-scientist', 'is_direct': False, 'publisher': 'Leidos Careers'}]","Description
 Leidos is actively interviewing for a Mid-Level Data Scientist to join our team in Springfield, VA.
 This team member will collect, process, and perform data analysis and deliver data driven solutions to quantitatively improve the mission area of Maritime Features. Surface, Publications, Events, Dissemination, Source Assessment, and Metrics.
 
@@ -476,7 +284,91 @@ If you believe you are the victim of a scam, contact your local law enforcement 
 Commitment to Non-Discrimination
 
 All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",False,,,,"Springfield, VA",Springfield,Virginia,US,38.7892801,-77.18720359999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIvzVWuH9VL_TWULcAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,IvzVWuH9VL_TWULcAAAAAA==
-T0ZUalk4V1d5XzhDVEZjVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURGxvYW5KSFNtZHRVbWRqVDJsU1JGWlhlV1pxT1hScFRXMDBSVGxWTkhWc1VYSnFhR1ZDWlRoVlNEQjNhVGx0U0VsU1ptSnhjMWw1UTB3M2NtRjJNbHBOTUZGbkxXcFdVMVZ5ZUdkRFJsZEtkRmxFVkVwbGRFWkdZa3hOTm1OVVduZ3hhbU13ZUhWSlowaEdNVEJLYWtaVE9FRlZXbFJHTURWUGNrSTFSRW8wV0hoQldHZ1NGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVVJFMWpaV05HUVZZMWFWOVVialJmY1Mxa2QzVkVZbUU1ZDNoMw,Data Scientist - Law Enforcement Analytics & Program,Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsFRyjpkinrFtGml967FleCTmbm67BUPvL42H&s=0,https://www.meta.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-law-enforcement-analytics-program-at-meta-4445099626,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-law-enforcement-analytics-program-at-meta-4445099626', 'is_direct': False, 'publisher': 'LinkedIn'}]","Meta is seeking a Data Scientist to join our Law Enforcement Analytics & Program (LEAP) team. Our mission is to enable Meta's capacity to balance public safety, user privacy, and compliance obligations at scale through strategic coordination, technical leadership, and operational success across the Security, Integrity, Investigations (SI2) legal team and its partners. This role leverages AI, data and insights to drive decisions that enable predictability, and proactive detection, allowing us to operate efficiently and reliably at scale. You will be building AI models and will be involved in the design, development, and deployment of intelligent solutions that reduce the operational and investigative burden. This role will directly impact the scalability and efficiency of our operations and investigations through proactive detection, automation, and resolution of routine tasks, inefficiencies, and incidents. In addition, this is a crucial role in translating data into action and identifying opportunities for efficiency and effectiveness.
+dmJzczI2Uy16NFMtenNIa0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbXBtWTFCWmNWOXlUbkI1TldjM1RUYzJUREpNYTA5NGQwUTJYekZ2WlZVMWJDMVRNRGgyY21aRmNqTlpkek4xYmw5NE5rb3RSbmQ1V2xwTFozQkVSWEl5T1dSbmJWUXRVVzFXYkRVelRqQjRibGhJTFU1cFRtNXlWVk5RT1ZOU2QzSTRTMkpzZDNOT2RGUmFRekZuY1hac1ZGVlhWV0prT0dSaFp6RlZabWh3V1Vsb05sa1NGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daU01qTlpObWxGU1RKT1NTMDNTbTlRY0VSRWIwdExTRVpmTm1wMw,Health IT Data Scientist (Hybrid / Telework Eligible),"Red Pulley, Inc.",,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=c03db765312bccd6,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=c03db765312bccd6', 'is_direct': False, 'publisher': 'Indeed'}]","Description:
+Red Pulley Technology Solutions, Inc. is seeking a Health IT Data Scientist II to support the ICE Health Service Corps (IHSC) Health Information Technology Unit (HITU) Enterprise Health IT Staffing and Professional Services Support program. This role applies statistical, predictive, and exploratory analytic techniques to complex healthcare and operational data to generate insights that inform strategic planning, performance monitoring, and evidence-based decision-making.
+
+All development, configuration, and implementation activities performed by this role are conducted within authorized Government-managed platforms and environments, subject to Government oversight, direction, and approval, with written authorization required prior to deployment to production environments.
+
+U.S Citizenship Required
+
+Location: Washington, DC Metro Area, DMV Area
+
+Clearance: Public Trust - Preliminary and Complete Fitness Determination Required
+
+Employment Type: Full-Time
+
+Minimum Qualifications:
+
+• Advanced degree or equivalent experience in Data Science, Statistics, or a related quantitative field
+
+• Advanced expertise applying statistical, predictive, and exploratory analytics to healthcare and operational data
+
+• Experience designing and implementing data models, forecasts, and analytic methodologies
+
+• Strong knowledge of healthcare data domains, including utilization, cost, quality, and performance metrics
+
+• Experience conducting cost modeling, trend analysis, and scenario forecasting
+
+• Skill in communicating complex analytic findings through reports, dashboards, and executive briefings
+
+Requirements:
+
+Preferred Qualifications
+
+• Experience collaborating with Data Engineers to operationalize and scale analytic models
+
+• Experience developing repeatable analytic frameworks and methodologies for enterprise use
+
+• Familiarity with federal healthcare data governance, privacy, and security requirements
+
+• Experience supporting high-priority, time-sensitive analytical requests for senior leadership
+
+Key Responsibilities
+
+• Design and execute advanced data analysis, predictive models, and statistical methodologies using healthcare and operational data
+
+• Perform cost modeling, utilization analysis, trend analysis, and forecasting to support strategic planning
+
+• Collaborate with Data Engineers to operate analytic models and ensure scalability
+
+• Develop repeatable analytic frameworks and methodologies for enterprise use
+
+• Validate data sources, analytic assumptions, and model outputs to ensure accuracy and reliability
+
+• Translate analytic results into actionable insights through reports, dashboards, and executive briefings
+
+• Support leadership requests for high-priority, time-sensitive analyses
+
+• Document analytic methodologies, assumptions, and limitations
+
+Benefits:
+
+At Red Pulley Technology Solutions, we invest in our people so they can deliver exceptional results in support of critical missions. Our comprehensive benefits package includes:
+
+• Competitive compensation aligned with experience and market conditions
+
+• 401(k) retirement plan with company matching to support long-term financial security
+
+• Comprehensive health coverage, including medical, dental, and vision insurance
+
+• Health Savings Account (HSA) and Flexible Spending Account (FSA) options
+
+• Life insurance coverage for added peace of mind
+
+• Generous paid time off (PTO) to support work-life balance
+
+• Parental leave for growing families
+
+• Professional development assistance, including training and certification support
+
+• Tuition reimbursement to encourage continued education and career advancement
+
+Our benefits reflect Red Pulley’s commitment to workforce stability, professional growth, and creating an environment where mission-focused professionals can thrive.
+
+Affirmative Action/EEO statement
+
+Red Pulley is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.",True,,,,Anywhere,,,,,,"['dental_coverage', 'paid_time_off', 'health_insurance']","['Dental insurance', 'Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dvbss26S-z4S-zsHkAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,vbss26S-z4S-zsHkAAAAAA==
+T0ZUalk4V1d5XzhDVEZjVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTblIwVEZkak1FTXdOWEJQVlV4SFZWRXpaVWxOUnpGQ1YxOUZiSGRUY1hWYVFraDBhRkJJUW5RNE1taEtjVXBuVUcxVVh6SjZORWxzV2xZMWVWQnlNVEoyY0daSGNXVndORE4xTFdRM1ZVdHBUbWxqYkZwVGVESkJiMlJGUTA0ME5WWmpVVWxzWWs1UWFqZGFSRGRVWW05blNFaExSMGhST0c5MWVFWndWWEZMUkcxU2EzZ1NGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daU2JUWjNVVll6U0RKTlVGWnViell0UjBOc1N5MVRWbTQwU0c1bg,Data Scientist - Law Enforcement Analytics & Program,Meta,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfsFRyjpkinrFtGml967FleCTmbm67BUPvL42H&s=0,https://www.meta.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-law-enforcement-analytics-program-at-meta-4445099626,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-law-enforcement-analytics-program-at-meta-4445099626', 'is_direct': False, 'publisher': 'LinkedIn'}]","Meta is seeking a Data Scientist to join our Law Enforcement Analytics & Program (LEAP) team. Our mission is to enable Meta's capacity to balance public safety, user privacy, and compliance obligations at scale through strategic coordination, technical leadership, and operational success across the Security, Integrity, Investigations (SI2) legal team and its partners. This role leverages AI, data and insights to drive decisions that enable predictability, and proactive detection, allowing us to operate efficiently and reliably at scale. You will be building AI models and will be involved in the design, development, and deployment of intelligent solutions that reduce the operational and investigative burden. This role will directly impact the scalability and efficiency of our operations and investigations through proactive detection, automation, and resolution of routine tasks, inefficiencies, and incidents. In addition, this is a crucial role in translating data into action and identifying opportunities for efficiency and effectiveness.
 
 Data Scientist - Law Enforcement Analytics & Program Responsibilities:
 
@@ -523,81 +415,83 @@ Meta is committed to providing reasonable accommodations for candidates with dis
 
 $151,000/year to $213,000/year + bonus + equity + benefits
 
-Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",False,15 days ago,1787356800.0,2026-08-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOFTjY8WWy_8CTFcVAAAAAA%3D%3D&vssid=jobs-detail-viewer,,151K–213K a year,151000.0,213000.0,YEAR,{},,,,OFTjY8WWy_8CTFcVAAAAAA==
-b0R5Tll5VjhYZkRqQ2NMbEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVzFJYkZwVmFHTlpaSGxuTm5KTldGTjRiVEIwTTJGaGVHUXlWVjlYU21Kc1QzTmhOalpzUkhKR0xVSXhlRzVYVkc1M1IzaDFNRFI1WjNZMWFWbElUbEpJWjJWamR6VjRTWFo2VUhFMWIyMVBkbmxTWXpSVmNYZFpWV2RIVW13NVpHaGtabm96TkhWclJUbFFNbmhIUkVGamVVRldlRlZJYm1wVmFsbEVVRjlhYW1kSE1XSVNGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daVGJtbE5RazF1ZFhsbVIwNDJNMmhzWWtwNFNXbEROVFZhUm1oQg,Junior Data Scientist with BI Skills,SynergisticIT,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://synergisticit.com&size=128",https://www.synergisticit.com,Monster,Full-time,['FULLTIME'],https://www.monster.com/job-openings/junior-data-scientist-with-bi-skills-arlington-va--ba08d6fb-4824-46aa-b09b-004687886694,False,"[{'apply_link': 'https://www.monster.com/job-openings/junior-data-scientist-with-bi-skills-arlington-va--ba08d6fb-4824-46aa-b09b-004687886694', 'is_direct': False, 'publisher': 'Monster'}]","The Job Market Isn’t Slow — It’s Selective
+Individual compensation is determined by skills, qualifications, experience, and location. Compensation details listed in this posting reflect the base hourly rate, monthly rate, or annual salary only, and do not include bonus, equity or sales incentives, if applicable. In addition to base compensation, Meta offers benefits. Learn more about benefits at Meta.",False,16 days ago,1787356800.0,2026-08-22T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOFTjY8WWy_8CTFcVAAAAAA%3D%3D&vssid=jobs-detail-viewer,,151K–213K a year,151000.0,213000.0,YEAR,{},,,,OFTjY8WWy_8CTFcVAAAAAA==
+WGJOd0U4SnlxT3Q3T25KZkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTamhPTnprMmFXUXphbmRUYzBSSGNqSk5aVmd0WWtaQk5sZHZUR0YwYTFKTU1reHlUVEZ3ZEVKQ1ZrSXdlVkpOV1drMFpIcEhjSEZ3VkdoUFgzRkVWM3BTTmxwTVZISmhjbXBCYm1zekxYTTNORmRzUTFaNmVURllUVGxUV2s5RldHUTVZakZTWm5KcFpUbHhOWGxhYldvM2RUSTBWelZ0VW1sMk5VSmpjakJrVkRnMk1tUVNGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daUlVGUjBOVUp0YVUxVmJreGlaaTF2U1ZscFNGWTVWRXgyZFRkUg,Associate Data Scientist,Software Engineering Institute | Carnegie Mellon University,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvp54gUK3i4Y462q8mo9Kxk7rGktIINQQC71iD&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/associate-data-scientist-at-software-engineering-institute-carnegie-mellon-university-4458110629,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/associate-data-scientist-at-software-engineering-institute-carnegie-mellon-university-4458110629', 'is_direct': False, 'publisher': 'LinkedIn'}]","What We Do
 
-Get Job Offers with a Process which works!
+Data Scientists at the SEI use advanced statistics, data analytics, machine learning, and artificial intelligence to help our government and industry clients research and solve cybersecurity challenges. In this role, you will work with our customers to identify areas where advanced statistical techniques can help tackle problems, plan and develop prototype solutions, and build out final products. You'll get a chance to work with elite cybersecurity professionals and university faculty to build new technologies that will influence national cybersecurity strategy for decades to come. You will co-author research proposals, execute studies, and present findings to DoW sponsors and at academic conferences.
 
-Many job seekers think the tech market is dead, but the truth is companies are hiring selectively. They want candidates who are trained, polished, and ready to contribute immediately. SynergisticIT prepares you exactly for that. You’ll gain hands‑on experience, master in‑demand technologies, and receive interview coaching that helps you outperform other applicants. Plus direct access to 28000+ contacts at different employers. If you’re tired of waiting for the market to “get better,” become the candidate companies are already looking for.
+Our team works on a wide range of projects. Our current work includes research in generative AI and large language models, computer vision, multimodal AI, agentic AI, and assurance of AI systems. Additionally, we craft metrics and experimental designs for large-scale cybersecurity research programs, develop human-in-the-loop machine learning solutions, and build classifiers to identify security vulnerabilities. If you are a data science or statistics expert with an interest in cybersecurity, we want to hear from you!
 
-You’ve done a ton of Leetcode. You’ve racked up certificates, done LeetCode challenges, and you know your way around system design like the back of your hand. On paper, you’re everything a tech company wants. However tech stacks and requirements change every day.
+Requirements
 
-Companies are looking for Employees who can contribute on Projects from Day 1. So what is needed is the right tech stack and the right project work. Companies have options and as a Jobseeker you can have options also if you have the right tech stack and Project work
+• BS in data science, machine learning, computer science, statistics, or related highly-quantitative discipline with three (3) years of experience or equivalent combination of training or experience; or MS in data science, machine learning, computer science, statistics, or related highly-quantitative discipline with one (1) year of experience; or PhD in data science, machine learning, computer science, statistics, or related highly-quantitative discipline.
+• Willingness to complete modest travel to various locations to support the SEI’s overall mission.
+• You will be subject to a background check and must be able obtain and maintain a U.S. Department of War security clearance.
 
-Since 2010, we’ve helped thousands of candidates land full-time jobs at tech leaders like Google, Apple, PayPal, Visa, Western Union, Wells Fargo, Intel, Paypal, JPMC, Wayfair, BOA, CITI and hundreds more with Job offers of $95k to $154k.
+Knowledge, Skills And Abilities
 
-Synergisticit focuses on closing the gap between your tech skills and what employers want now.
+• Experience in predictive modeling, data science, and/or AI & machine learning
+• Deep understanding of statistical modeling techniques and advanced data analytics
+• Proficient with at least one mathematical/statistical programming package (e.g., R, python numpy/scipy/pandas/polars, MATLAB, etc.)
+• Innovative and inquisitive with ability to imagine novel analytical solutions to problems Thrives in a multi-disciplinary environment
+• Strong communication skills
+• Expertise in one or more of the following:
+• Recommendation systems
+• Time-series forecasting (Prophet, NeuralProphet, Chronos, Lag-Llama, etc.)
+• NLP / LLMs (fine-tuning, RAG, evaluation, prompt engineering)
+• Causal inference / uplift modeling / synthetic controls
+• Modern ML frameworks: LightGBM/XGBoost, CatBoost, PyTorch,JAX, TensorFlow)
+• LLMs / agentic workflows (LangChain/LlamaIndex/Haystack)
+• Experience deploying models (FastAPI, Triton, KServe, SageMaker, Vertex AI, or similar)
+• Experience working with big data (Spark, Trino, Snowflake, BigQuery, Databricks)
 
-All visa types and U.S. citizens are encouraged to apply.
+Desired Experience
 
-We Focus on Java /Full stack/Devops and Data Science /Data Engineers/Data analysts/BI Analysts/ Machine learning/AI candidates
-Ideal Candidates:
+• Experience in cybersecurity and privacy is a plus is a plus
+• Experience in U.S. Government work and/or with FFRDCs, UARCs an National Labs is a plus
+• Demonstrated ability to learn new concepts and grow into new areas of work
 
-Recent grads in CS, Engineering, Math, or Statistics with limited or no job experience
-Jobseekers who had layoffs due to Downsizing and want to get in demand tech stack
-Professionals seeking a career switch to tech
-Candidates with career gaps or lacking real-world experience
-Individuals looking to boost their skill portfolio for better job prospects
-Computer Science grads with limited or no job experience
-Students who recently finished their Bachelor’s or Master’s programs
-Those struggling to land interviews despite having experience
-Currently, We are looking for entry-level software programmers, Java Full stack developers, Python/Java developers, Data analysts/Data Engineers/ Data Scientists, Machine Learning engineers for full time positions with clients.
+Location
 
-Top tech companies are flooded with smart grads. What gets you in the door now is real-world application, confidence in delivery, and the soft skills to own a room—or a Zoom.
+Arlington, VA, Pittsburgh, PA
 
-Please check below links:
+Job Function
 
-Event videos (OCW, JavaOne, Gartner): https://fast.wistia.com/embed/channel/k4mlq69ekl
-USA Today feature
-Discover JOPP: https://www.synergisticit.com/jopp/
-Contact: https://www.synergisticit.com/contact-us/
+Software/Applications Development/Engineering
 
-please read our blogs
+Position Type
 
-Why do Tech Companies not Hire recent Computer Science Graduates | https://www.synergisticit.com/why-tech-companies-dont-hire-recent-cs-graduates/
+Staff – Regular
 
-Technical Skills or Experience? | Which one is important to get a Job? | https://www.synergisticit.com/tech-skill-or-experience-which-one-is-more-important-for-a-jobseeker/
+Full time/Part time
 
-The Market’s Changed—Have You?
-Please note: Resume databases are shared with clients and interested clients will reach out directly if they find a qualified candidate for their req.
+Full time
 
-Resume submissions may be shared with our JOPP team database also. Please unsubscribe if contacted or if you don’t want to be contacted please don’t submit your resume.
+Pay Basis
 
-Qualifications:
+Salary
 
-Skills:
-Apple, Artificial Intelligence (AI), Business Intelligence, Candidate Pipeline, Coaching, Computer Science, Data Analysis, Data Science, DevOps, Intel Product Family, Java, Machine Learning, Mathematics, Python Programming/Scripting Language, Right-Sizing, Software Engineering, Statistics
+More Information
 
-undefined:
-SynergisticIT
+• Please visit “Why Carnegie Mellon” to learn more about becoming part of an institution inspiring innovations that change the world.
+• Click here to view a listing of employee benefits
+• Carnegie Mellon University is an Equal Opportunity Employer/Disability/Veteran.
+• Statement of Assurance",False,15 days ago,1787443200.0,2026-08-23T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXbNwE8JyqOt7OnJfAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,XbNwE8JyqOt7OnJfAAAAAA==
+ajZxNkpBZlZ6clFXZDVHeUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEpRVTBSd1REYzRRMEZ4WkROV1EyZHVYMWd0VmxKVUxXUkhUMkl3VkUxNU1qRTVTQzFPTmpOVGVVbHVSbWhoWVhSUWExaFNNbWRDZEVaQlVtaExSSEpHTVdoR1NESlJRMVpVYW1obmNrZHVNbDlCUWxoSWJWcGxOakEyZWxSbmRrOXpNMDR6TVRNNWVqZHBNSFJHV1c5TlJuUlJUVkZ6ZW5ac1ltcDVkSEpHWjNSbU5qUVNGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daUlJWaE9OR1l6TFVwNFkyRnFlbFZDYVVNdE1qZFNVVVZyY0Y5Mw,Data Scientist - ML & Generative AI,Ampcus Inc,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCTS5fpii91u1hHFR7TzzY-B9tWURYAxRV6Dq&s=0,https://ampcus.com,BeBee,Full-time,['FULLTIME'],https://bebee.com/us/jobs/data-scientist-ml-generative-ai-ampcus-inc-washington--pureheal-28528_25300_03ab845160deee404a4dc22641326b77,False,"[{'apply_link': 'https://bebee.com/us/jobs/data-scientist-ml-generative-ai-ampcus-inc-washington--pureheal-28528_25300_03ab845160deee404a4dc22641326b77', 'is_direct': False, 'publisher': 'BeBee'}]","Ampcus Inc. is seeking a highly motivated Data Scientist to join their team in Washington, DC. The ideal candidate will have experience in machine learning and predictive modeling, and be skilled in using AWS SageMaker for developing generative AI solutions.
 
-SynergisticIT is a California-based technology company specializing in software development solutions. Founded in 2010, it focuses on building scalable and efficient applications for businesses across various industries.
+This role involves developing algorithms, providing insights from data, and creating automated systems to enhance decision-making. A Master's degree or Ph.D. in STEM is preferred, along with at least 2 years of relevant experience.",False,23 days ago,1786752000.0,2026-08-15T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dj6q6JAfVzrQWd5GyAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,j6q6JAfVzrQWd5GyAAAAAA==
+NkNWSHhXWU9MMkFlZGFaQkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMWxUT0ZaNGNHeFJaekJGY0RoUVZESnRTMjVKWm14dlFURjZjbXhHUVZSblNFZ3pjWFk1YW01SGIwdFBPRlJoTVY5RFdXOXdRM0JVY0RsRk1UUnpia1J1YWxKWmFFSllkbkF4VW5jMGRXd3hjVmw2WjJrelFuSmlNMkZFUlU4dFJGOXplWGhUYlc5SmJUazFiREpyYlZwQ09VNXRPVmMxTFRWUFdURjRkME55Y1VGWFNqTVNGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daUlRXWTNZMlZXU21jdFNtTjZOVVoyYVhkTFFrTXdZbE01TkVOUg,Senior Data Scientist - TS required to apply - NCR,Bow Wave LLC,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bowwavellc.com&size=128",https://www.bowwavellc.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=2779223ee70d2c12,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=2779223ee70d2c12', 'is_direct': False, 'publisher': 'Indeed'}]","4+ years of experience in custom AI training (to include supervised and unsupervised) and Natural Language Processing (NLP) expertise focusing on unstructured data.
 
-The company provides custom software development services, including application design, system integration, cloud solutions, and technology upgrades. Its development approach emphasizes agility, innovation, and aligning solutions with client needs.
+5+ years of in-depth knowledge of at least one analytical/statistical language (Closure, Scala, Python, R).
 
-SynergisticIT works with organizations of different sizes, helping them adapt to evolving digital demands through reliable and high-quality software. By combining technical expertise with a results-driven mindset, the company aims to deliver solutions that enhance business performance and support long-term growth.
+2+ years of experience manipulating unstructured data from different platforms.
 
-Overall, SynergisticIT positions itself as a bridge between talent and opportunity in the technology sector. By integrating consulting, development, and upskilling services, the company aims to create value for both organizations seeking skilled professionals and individuals pursuing careers in IT.
+2+ years of experience with data visualization tools such as Elastic X-Pack (including Graph), Power BI, Tableau, or Qlik.
 
-Company Size:
-51 - 200
+Minimum Education: Bachelor's Degree,
 
-Headquarters:
-Fremont, CA, US
-
-undefined:
-2010",False,27 days ago,1786320000.0,2026-08-10T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoDyNYyV8XfDjCcLlAAAAAA%3D%3D&vssid=jobs-detail-viewer,,79K–127K a year,79000.0,127000.0,YEAR,{},,,,oDyNYyV8XfDjCcLlAAAAAA==
-bEFIaXNzOTZZaHlfb3lyMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURkpEVm1aWWFGSXdlVWhqZDA1QlVtWmFlSGhKYVhsWWJUZG5hMlpRTnpneloyUm1ZV3RFYUdKTmFUQkZkV3BqWTA1MGFHWjBZMFozWnpsdWRGUlhTRWR1TVdSU2JFSnVWbXhsY1hjNFNuUlZZV1I0YkdNeVowZHlRMEpTYzNBMVZHODViMHhpUW5KNFlVUlRhVlEyZUhWV2QwaEVhM2hCVUZNMVMyTnBPR3REWjNaWk1Ha1NGMjlVTm1SaGRWTTVTMDk1U1d0UVNWQXlXbVpUTUVGWkdpSkJSSE55T1daU05YUmtRVWh0UkdaV1IyRmZaM2hVTlZJNU4wOW1ZbWMzVkRCQg,Data Scientist/Analyst,Censeo Consulting Group,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9P5Hqu33JCnjgOv2UoogQqPDoLEiH5RXSihkW&s=0,https://www.censeoconsulting.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-analyst-at-censeo-consulting-group-4411758292,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-analyst-at-censeo-consulting-group-4411758292', 'is_direct': False, 'publisher': 'LinkedIn'}]","Data Scientist/Analyst - Department of State
+an educational background in Data Science is desirable.",False,,,,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6CVHxWYOL2AedaZBAAAAAA%3D%3D&vssid=jobs-detail-viewer,,147K–152K a year,147000.0,152000.0,YEAR,{},,,,6CVHxWYOL2AedaZBAAAAAA==
+bEFIaXNzOTZZaHlfb3lyMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3RsVkZkR01rTlpjMHBzU0dObVRIUkpVR0pxV0VwRFFVMU5aR3BmTm1WaFJFeEVaa1U1UlVZd1NHMDNVM0ExUmsxQ1FrVkVZbWhUVGtWR2VVNXlkbVJOY0VWSFdIVlNOREp0U1VrMWNIaERXRGRzVjJVeE15MDFhMXBNUmxWcGJqRnFZMjFRUkZsMWNHcGlja2d4WDFsTlZXeE9RMk5LUVd4T1pUQkRSR00wVFdWNmEwb1NGMFZMVDJWaGRYcHlSamhoYm5CMFVWQXlUbE41YjFGVkdpSkJSSE55T1daVFlsaHRNa3hpUzNSbFJuSkZUek5tY21wTmVYUTVUWG8zYW1Kbg,Data Scientist/Analyst,Censeo Consulting Group,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9P5Hqu33JCnjgOv2UoogQqPDoLEiH5RXSihkW&s=0,https://www.censeoconsulting.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-analyst-at-censeo-consulting-group-4411758292,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-analyst-at-censeo-consulting-group-4411758292', 'is_direct': False, 'publisher': 'LinkedIn'}]","Data Scientist/Analyst - Department of State
 
 The Position:
 
