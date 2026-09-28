@@ -1,5 +1,78 @@
 job_id,job_title,employer_name,employer_logo,employer_website,job_publisher,job_employment_type,job_employment_types,job_apply_link,job_apply_is_direct,apply_options,job_description,job_is_remote,job_posted_at,job_posted_at_timestamp,job_posted_at_datetime_utc,job_location,job_city,job_state,job_country,job_latitude,job_longitude,job_benefits,job_benefits_strings,job_google_link,job_salary,job_salary_string,job_min_salary,job_max_salary,job_salary_period,job_highlights,job_onet_soc,job_onet_job_zone,employer_reviews,job_uid
-SDJWRmdYS1pleHVndjJkSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTWEZFVm5GdVdUZExlR1ZRYmxVM1VpMUNVRTF0VG5sS1dFOVdaVkowU1dkNE9FazBkREZNTjBkMWJ6aFNWVXAwTFdSQ1NVeEdiM1EwYUhKS2EzVnNZVzV6Um1oNVpYbEtORTUxY1ZCUWFXSlFkWFUxUVRGNmFqRktkblpoZFdGRmVISlZYMWhJVTA1SGQwZEhkMEkyWVV0SWJXRjRPRmxDTjFwNlQwOTNkM0UzVDJOUlJXWVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daVFlYRXhPWGR4YjJkU2IwVlJaMjV5U3pOWFIyaERUVkJCWjNwQg,Data Scientist- Financial Investigation,Guidehouse,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHu760mZcVMrxAGr7Cs29-UvvD16to5FQy0Z&s=0,https://guidehouse.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-financial-investigation-at-guidehouse-4471846560,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-financial-investigation-at-guidehouse-4471846560', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Family
+aUFMaVBUY3ZmTkRxYnE5ZUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR1pQTms4eWIybFlSRXc0VTJKWVVUQTVlRmREUkZWZlVXNXhVblJ3V1dkRlVGOXBUR3hKZFc5bU5EaHNZek5ZVVZSS2IwdFFRV2s1UlhaU1V6QlFSemt5TmkxSGVuQlZRamxmT0Y5cGVGQkxhV2hqY0dvMFZsaHJRbWxQUVVSMU1YQnBOWGRKYjJnelZsQkhaV1pyU2pCRWJUaEhUVkJxTlZjdFVFMWlWekZuZDBWdWFVSVNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daVFdVZEpZVVZJTFhoUVIwZG5TMUJDVVcwMGF6bGFUV0oyTUdabg,Data Scientist,Leidos,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiDOmwA1EV4oAFbpq-h9oJdTF9j0qhmpgstDXl&s=0,https://www.leidos.com,Leidos Careers,Full-time,['FULLTIME'],https://careers.leidos.com/jobs/18278261-data-scientist,False,"[{'apply_link': 'https://careers.leidos.com/jobs/18278261-data-scientist', 'is_direct': False, 'publisher': 'Leidos Careers'}]","Description
+
+Leidos is actively hiring for multiple Data Scientist to support our team in Alexandria, VA.
+
+The Data Scientist shall support the maintenance and implementation of the data architecture for all Program data. This position requires experience with databases, cloud architecture, and compliance with data standards. This position is responsible for maintaining data backend workflows that allow for the movement of data across security domains and across systems.
+
+Primary Responsibilities
+
+· Assist in the creation of the necessary data pipelines to store and process data related to emergent sensors and platforms. This includes creation of any database tables and schemas, establishing relevant data health alerts, and the setup of data pipelines to support Extract, Transform, and Load (ETL) of all data related to the emergent sensors.
+
+· Develop workflows to enable API-based movement of data related to the sensors between data platforms as directed by the government.
+
+· Ensure all sensor data adheres to Government directed data schemas, formats, and governance requirements
+
+· Assess potential differences in metadata, data format, and data structure characteristics in regards to changes to databases, schemas, APIs, and other ETL related processes for the ingestion and movement of data when integrating into the existing data operations pipeline
+
+· Determine how to pre-process and standardize the data to match existing data standards or to be transformed into a usable state for labeling and model testing purposes. This may involve converting between file format types or tiling full-size images into specified sizes or geospatial bounds (chipping), orthorectification, or other types of data standardization, transformation, or manipulation.
+
+Basic Qualifications:
+
+· 4+ years of experience working with SQL or NoSQL databases and cloud architectures
+
+· Experience leveraging APIs to query systems and migrate data
+
+· Excellent written and verbal communication skills to articulate challenging technical concepts to both lay and expert audiences.
+
+· Experience with programming languages such as Python, JavaScript, or Java
+
+· Experience developing and sustaining operational data pipelines supporting multiple data formats and interfaces.
+
+· Bachelor’s Degree in related field. Additional years of experience can be considered in lieu of degree
+
+Preferred Qualifications:
+
+· Experience working with NGA IT enterprise solutions (e.g., NGA CORE, NGA MLOps), Government Authority to Operate (ATO) processes, and Government Non-Person Entity (NPE) certificates.
+
+· Experience implementing processes, standards, and tools within an organization based on the Scaled Agile Framework for Enterprise.
+
+· Experience developing dynamic visualizations to monitor availability, currency and volumetrics of operational data pipelines Required Tasks:
+
+o #GEOINTMISSION
+
+o #NSBA
+
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.
+
+Original Posting:
+September 24, 2026
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+Pay Range:
+Pay Range $92,300.00 - $166,850.00
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+About Leidos
+
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.
+
+Pay and Benefits
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.
+
+Securing Your Data
+
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.",False,5 days ago,1790121600.0,2026-09-23T00:00:00.000Z,"Alexandria, VA",Alexandria,Virginia,US,38.804693,-77.0435257,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiALiPTcvfNDqbq9eAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,iALiPTcvfNDqbq9eAAAAAA==
+SDJWRmdYS1pleHVndjJkSkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTelZFTm5ZemJGb3dNWGRNWlVwemVWRlFjSGhQU0hOSFlqVm9XbUoxVDJsUlQxQlNOM05rWWxkb1JuUTJUbmxWVkMxdk5XcEdaMUZEYW1Rd01FaG5VekZ1YmpZNVpYRlhabVpLTlZCM1JYazNSMmMxT1RoR2JUTm9lbmh0UWxGMFdrSTFRa2RZT0ROU05FRk9YMTlTU1hWaVptRXpYelp4UTFOcU5WUnJUMDUzTTJZMVoxOFNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daVVZYcGphMnBVWTBWd1ZFMTJSakJ6VVZkcmNYSmZhR0ZOVUdWQg,Data Scientist- Financial Investigation,Guidehouse,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0MHu760mZcVMrxAGr7Cs29-UvvD16to5FQy0Z&s=0,https://guidehouse.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-financial-investigation-at-guidehouse-4471846560,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-financial-investigation-at-guidehouse-4471846560', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Family
 
 Risk & Regulatory Compliance Consulting
 
@@ -72,8 +145,8 @@ All communication regarding recruitment for a Guidehouse position will be sent f
 
 If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com. Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.
 
-Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",False,2 days ago,1790294400.0,2026-09-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH2VFgXKZexugv2dJAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,H2VFgXKZexugv2dJAAAAAA==
-aHJOeHVvME5CWU02aGliRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVU0zYWxjMlNsTm5lbGx0ZEVJMFNXaDJhVVpETVVSdU0wZHhjalZLWVhCalNIWjBMVUphV0MxMFJUaENaVkpDYTFoWVRuaFlaRkF5Yld4YWRIUlNhalUwV0UweE5HcDJVa0oxVFVsWU9YVlZNMEpqY2tab1FVNDFkbk5zUXpscFYySjJUa1JqTmpCcFpsRjVZakJyY1VseFJGa3RhVWxOV2xKMWJXVkJjako2V1U1bk5XMFNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daUlFsUkNZVTlZVHpsdU9VaENaRzE2VERoUGNFTm5iVlZpTVZSQg,Data Scientist,Amgen,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ_zSgAbkmN7HZUqnSmWEiOIBpdWVabCdUimx&s=0,https://www.amgen.com,Amgen,Full-time,['FULLTIME'],https://careers.amgen.com/en/job/washington/data-scientist/87/99087184432,False,"[{'apply_link': 'https://careers.amgen.com/en/job/washington/data-scientist/87/99087184432', 'is_direct': False, 'publisher': 'Amgen'}]","Join Amgen’s Mission of Serving Patients
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",False,3 days ago,1790294400.0,2026-09-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH2VFgXKZexugv2dJAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,H2VFgXKZexugv2dJAAAAAA==
+aHJOeHVvME5CWU02aGliRUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURWhGTnpKUVdGUTNRMjVIZURCYWMzQnFWV3B6ZVRCNVQzTjVUazlIWVVjelZXY3lVbVV6VTIxM2FWVmFSSE50YnkxV04wZDBNVk4yZWpCNVpEZFhVbVl3YkdKcFMwYzJUVE16VVhaTlltTkpUbmhaWnpVM1JESkZlUzFGYjBWUU5FcEhXV05sUldGVVkwZFdlbVZVVEVwdVlrWlRiVVJ1Y1ZSMloyaHFlVzVGVlc1MmRFMFNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daUmRrczFWM0JQUlhKTWRsbHpTVmhoUkdsNWFsZHVkVkZPWmxCQg,Data Scientist,Amgen,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJQ_zSgAbkmN7HZUqnSmWEiOIBpdWVabCdUimx&s=0,https://www.amgen.com,Amgen,Full-time,['FULLTIME'],https://careers.amgen.com/en/job/washington/data-scientist/87/99087184432,False,"[{'apply_link': 'https://careers.amgen.com/en/job/washington/data-scientist/87/99087184432', 'is_direct': False, 'publisher': 'Amgen'}]","Join Amgen’s Mission of Serving Patients
 
 At Amgen, if you feel like you’re part of something bigger, it’s because you are. Our shared mission—to serve patients living with serious illnesses—drives all that we do.
 
@@ -158,8 +231,19 @@ As an organization dedicated to improving the quality of life for people around 
 
 Amgen is an Equal Opportunity employer and will consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other basis protected by applicable law.
 
-We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",False,27 days ago,1788134400.0,2026-08-31T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhrNxuo0NBYM6hibEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,hrNxuo0NBYM6hibEAAAAAA==
-ajQ4TFV0UVJPYTh6T1puaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTa3RXU0Rabk5EbHhSbXR3ZEU5NmVYZGZXR1JMZWxOVmVtTTJZMjR4YW5JeFVqTm1ZVGRTVlhCNFFVRkJWWGxPVG5oR1ZHSlRYMFJCY21WTGJEUlVkV1ZKUTAwNGMxSm9SV0pUYjNwYU5YTklla0kxTTNKWWVHTXpaRTlWVTI1WWNtSTRhVmhQVEhwUFQyeGFjVkpoWkZSWVpYSmplbXB0YlZCSVZITmlkazlqTW5CdWMwd1NGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daU1ZFMURXRUY1UjJZMVZtWmxWVXM1YUdzelh6aFRialkwV0dsQg,SAS Data Scientist I – Health Data Research - DC,NORC at the University of Chicago,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomdqYGcabxNFm8sv6ohV85lo1uiStThT99ky0&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/sas-data-scientist-i-%E2%80%93-health-data-research-dc-at-norc-at-the-university-of-chicago-4470072328,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/sas-data-scientist-i-%E2%80%93-health-data-research-dc-at-norc-at-the-university-of-chicago-4470072328', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Summary
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.",False,29 days ago,1788048000.0,2026-08-30T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhrNxuo0NBYM6hibEAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,hrNxuo0NBYM6hibEAAAAAA==
+SVpiRG4zSkJIZXV2OTJuVEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlUxUm1GWGNHaHdNekU0UlZoNlNYVkRkSGMyVDJSVGFHWlJYM1o0U3pGcVNsSndYMVJ1WlZCWGFuaElkbE5IYVhwc2JuUnFVbWhGZFV3M1EyeHNWa2cxZURSUlYyeFdiRE5pT0haelQzZERWMFV6VmtwaWVqQnJMVnBCZUhoYVFXdGxRVGxTTFhacVdHNDJjVTFHWkZobFN6SXRiRmxHVDJoRFUzTm5VbmRWZW5WbGFEQVNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daUk1FWjBNa0ZVUVRReU0wNVllRXhrTW1KTlVuVktSWE5zTkZwMw,Data Scientist Senior - Secret clearance required to apply - Arlington VA,Bow Wave LLC,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bowwavellc.com&size=128",https://www.bowwavellc.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=3bb387b9018dc45f,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=3bb387b9018dc45f', 'is_direct': False, 'publisher': 'Indeed'}]","Must Have:
+
+4+ years of experience in custom AI training (to include supervised and unsupervised) and Natural Language Processing (NLP) expertise focusing on unstructured data.
+
+5+ years of in-depth knowledge of at least one analytical/statistical language (Closure, Scala, Python, R).
+
+2+ years of experience manipulating unstructured data from different platforms.
+
+2+ years of experience with data visualization tools such as Elastic X-Pack (including Graph), Power BI, Tableau, or Qlik.
+
+B.S in Computer Science, Data Science, Mathematics, or Statistics",False,7 days ago,1789948800.0,2026-09-21T00:00:00.000Z,"Arlington, VA",Arlington,Virginia,US,38.8827061,-77.0831211,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIZbDn3JBHeuv92nTAAAAAA%3D%3D&vssid=jobs-detail-viewer,,165K–172K a year,165000.0,172000.0,YEAR,{},,,,IZbDn3JBHeuv92nTAAAAAA==
+ajQ4TFV0UVJPYTh6T1puaUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTeTA1TkVGNFlsWnRNWFU1TFVsc0xXVjZTbmhUUTIxMlFUTm5UWEpvU3pkM2FVZExWSEpVTjE5TlgycFhWa1E1U21SdldUVnBPVWxvZDE5UmR6TlhkRzV6UVVwTVJEWkpWVVZXVFdkdFJub3hhV3cxYmxwR2FXWkZibGRuVDE5dWVraEJiRTh3ZWtKNFFraEtOekJFWVdkQ1ZYVkNWRlJxTm1ZNFFXMUJkMlZTVERFMGFXc1NGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daUlRIRkxRalIxVWtKbWRFZHVRalEyVjA1bFlWWjZjQzFpUlVobg,SAS Data Scientist I – Health Data Research - DC,NORC at the University of Chicago,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTomdqYGcabxNFm8sv6ohV85lo1uiStThT99ky0&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/sas-data-scientist-i-%E2%80%93-health-data-research-dc-at-norc-at-the-university-of-chicago-4470072328,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/sas-data-scientist-i-%E2%80%93-health-data-research-dc-at-norc-at-the-university-of-chicago-4470072328', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Summary
 
 NORC at the University of Chicago is seeking a qualified Data Scientist I to join the Health Sciences Department to support hospital discharge data processing across states and harmonizing and packaging files into a uniform format. For this role, proficiency in SAS is a requirement. Experience with R or Python is welcome but not essential. Prior work with healthcare or administrative claims data is preferred, and strong documentation practices are important.
 
@@ -230,8 +314,8 @@ For over 80 years, NORC has evolved in many ways, moving the needle with researc
 
 Eeo Statement
 
-NORC is an equal opportunity employer. NORC evaluates qualified applicants without regard to race, color, religion, sex, gender, national origin, disability, status as a protected veteran, sexual orientation, and other legally protected characteristics.",False,2 days ago,1790294400.0,2026-09-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['paid_time_off', 'health_insurance', 'dental_coverage']","['Paid time off', 'Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dj48LUtQROa8zOZniAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,j48LUtQROa8zOZniAAAAAA==
-TUZEcTRaLTh5RW1yeDFyMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMDVMWkU5YVNXRkJkMFIzV1dkSGNFSk5NalI2VVdJMWRFeDVObEpXTTJONU5qQmlXbTlmUWpNNVUwMDVlazFwVEVGcllXSk1OVmd6T1hsblNVbENSMEZ2ZUZCSWRrMUtXRlZWWDE4M1UxRnlkVE5hWWxWdFMzbE5lbGhVWTJGWlZtcExRMVJTVWpZMll5MW1SbDlWUXkxRmNtaDBSVVJHVFdKMWJuQnpUM1ZTV1RSRFMwc1NGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daVVgxOXBTVjlxUm1aSFozaEVXbGh0Y25vdGJXUlRNRFkwUTBOQg,Junior Data Scientist,Guidehouse,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jAyQEJS0WE4ZhTtT-Z3nMl_vpOGKj5W_xpOH&s=0,https://guidehouse.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=7aa72c35865354d1,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=7aa72c35865354d1', 'is_direct': False, 'publisher': 'Indeed'}]","Job Family:
+NORC is an equal opportunity employer. NORC evaluates qualified applicants without regard to race, color, religion, sex, gender, national origin, disability, status as a protected veteran, sexual orientation, and other legally protected characteristics.",False,3 days ago,1790294400.0,2026-09-25T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'paid_time_off', 'health_insurance']","['Dental insurance', 'Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dj48LUtQROa8zOZniAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,j48LUtQROa8zOZniAAAAAA==
+TUZEcTRaLTh5RW1yeDFyMEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMlZqWDJaTGVWcEdUVU42VFdaNFRWZHdRUzFIVHpSb2FFRTFZVFo2YmxCV1YxQTFRMlZZUzAxaGRtbGFUbk00TFV4clNHdGhiRlV0WkhwT2VVaGFRbU5MUkhoZmNVSnpSMnh3TFdObGRIUklSRlphVlRGM1duRkNSalozYkZaV01XZFpTamh2VGpsQ05rbDVVVTg0UlVwclVDMWxhMjFZVlcxT1VFdEtlVFZpTUhKQ1pXMFNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daVVlqZHFZVk55V0c1T1prUTNRWGRGY0hOdU5WUk1lV1pPT0Y5Mw,Junior Data Scientist,Guidehouse,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6jAyQEJS0WE4ZhTtT-Z3nMl_vpOGKj5W_xpOH&s=0,https://guidehouse.com,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=7aa72c35865354d1,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=7aa72c35865354d1', 'is_direct': False, 'publisher': 'Indeed'}]","Job Family:
 Data Science Consulting
 
 Travel Required:
@@ -358,8 +442,49 @@ All communication regarding recruitment for a Guidehouse position will be sent f
 
 If any person or organization demands money related to a job opportunity with Guidehouse, please report the matter to Guidehouse’s Ethics Hotline. If you want to check the validity of correspondence you have received, please contact recruiting@guidehouse.com. Guidehouse is not responsible for losses incurred (monetary or otherwise) from an applicant’s dealings with unauthorized third parties.
 
-Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",False,9 days ago,1789689600.0,2026-09-18T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['dental_coverage', 'health_insurance']","['Dental insurance', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMFDq4Z-8yEmrx1r0AAAAAA%3D%3D&vssid=jobs-detail-viewer,,74K–124K a year,74000.0,124000.0,YEAR,{},,,,MFDq4Z-8yEmrx1r0AAAAAA==
-Z3FTdTMxQ1lTaHYtdG1QVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSHB3VGpkb2MzbG1TVmhRU2xwVGMxRnRkRlExY1dKb1VqZHlTbkZzYnpSU1RuVlhUbGR5YVV4RWFuUm5ZemQ1ZUVRd1VIaExMVWxSY3pKb1IxUnBlbEV5WkY4MlUyUkpTekZRWkdscFgxaEJjVFZ0VjJsTlRXVmpZVzluV1d4UlJsWnFRMGRIYm1zeFdrWnpPVTVRVUU5bFJYQkpUVlJwYzBFeVYwUmFXRFpzZUd0RFVtVVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daU09FZ3hVSGhzWm1KUGJXNTVVa0ZHVTBKelpUTXlSbkE1Y2xGbg,"Senior Associate, Data Scientist - Applied AI",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KR6ddAhl_bRXOgLnoqaEtirI8iHcZyNzObjR&s=0,https://www.capitalone.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/senior-associate-data-scientist-applied-ai-at-capital-one-4472291213,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/senior-associate-data-scientist-applied-ai-at-capital-one-4472291213', 'is_direct': False, 'publisher': 'LinkedIn'}]","Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
+Guidehouse does not accept unsolicited resumes through or from search firms or staffing agencies. All unsolicited resumes will be considered the property of Guidehouse and Guidehouse will not be obligated to pay a placement fee.",False,10 days ago,1789689600.0,2026-09-18T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['health_insurance', 'dental_coverage']","['Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMFDq4Z-8yEmrx1r0AAAAAA%3D%3D&vssid=jobs-detail-viewer,,74K–124K a year,74000.0,124000.0,YEAR,{},,,,MFDq4Z-8yEmrx1r0AAAAAA==
+dDJobF9kYUY5ekJwZkV0QUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVmhWTkhWNFh6RkljSFIwVkhGTWF6WnBRMjE1UXpSbVNXSlRORnBsVmpCM1NHMVhVbEpFTjE4eVFubGFTMFoyUzJkbFdHZFVVVVJsVm10blpVWmtVR05VVVdsa05WOTRWR3MyY1dGZlowTmhXa0V5UTJGMGVUUkNMVUkwWHpaUGNqTTJVVFZWU1dWeVdVRnFkekpRZW5sRlZrZGpTRXRMVjBOVldrTnRObmhwTUZwS1NGWVNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daVE1YWTNVRTAyYlVnNU5td3hUMUZDTVc0MU0xQm9TVUZqVmxCMw,Data Scientist with Security Clearance,Base-2 Solutions,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLf3-ziXY2-cVbPicps4DdZTrhBI4KeWZY3ORr&s=0,https://www.base-2solutions.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-with-security-clearance-at-base-2-solutions-4470929838,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-with-security-clearance-at-base-2-solutions-4470929838', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Description Position Summary Base-2 Solutions is seeking a Data Scientist to support a long-term mission-focused big data and predictive analytics program. The role involves delivering advanced data science capabilities to advance national security objectives, analyzing results, disseminating findings, and contributing to actionable intelligence insights. The position requires collaboration with a multidisciplinary team and offers a flexible schedule with a hybrid work model based in Bethesda, MD. Essential Duties and Responsibilities
+
+• Work closely with a team of data scientists, software developers, network engineers, senior investigators, program managers, researchers, and data analysts to design, build, and optimize a Search and Discovery platform.
+• Conduct research tasks to recommend optimal approaches to index and organize data for discovery and create reusable agents and tools.
+• Support multiple simultaneous projects, independently and collaboratively make mission-relevant discoveries, and communicate findings to non-technical audiences.
+• Identify novel data sources to improve predictive algorithms and encourage user adoption of data analytics platforms.
+• Leverage expertise in research design, exploratory analysis, quantitative methods, user interface application design, and customer engagement.
+• Collaborate with a hybrid team of analysts, engineers, and developers to build and deploy complex algorithms and analytical platforms.
+• Engage in co-development and cooperative research to leverage and reuse team products. Required Qualifications
+• B.S. Degree in a quantitative or analytical field such as Computer Science, Mathematics, Economics, Statistics, Engineering, Physics, or Computational Social Science; or Master's degree or equivalent graduate degree including certificate-based advanced training courses.
+• 4+ years of experience in data science, analytics, or quantitative intelligence analysis, with 2+ years required if holding a Master's degree.
+• Proficiency in Python.
+• Experience deploying data science applications using Docker, Kubernetes, and/or OpenShift.
+• Experience with information retrieval and search technologies such as Elastic Stack (Elasticsearch and Kibana) and/or SQL.
+• Familiarity with Git and cooperative software development practices.
+• Experience working with hybrid teams to conduct research and build analytical platforms.
+• Demonstrated active learning and creative problem solving. Preferred Qualifications
+• Experience supporting military or intelligence community customers with progressive technical development and mission-focused outcomes.
+• Experience constructing and performing evaluations of analytics including test data construction, test execution, and metrics.
+• Experience with Agentic software solutions such as Agno, CrewAI, Pydantic AI, or LangGraph.
+• Experience working in on-prem, air-gapped environments and/or Amazon Web Services (AWS/C2S). Required Education and Experience Equivalency
+• B.S. Degree in a quantitative or analytical field with 4+ years of experience.
+• Master's degree or equivalent graduate degree including certificate-based advanced training courses with 2+ years of experience. Required Certifications
+• None specified. Required Security Clearance
+• Active Top Secret/SCI Pay & Benefit Highlights Compensation
+• Competitive fixed salary or hourly pay (based on experience, skills, location, and internal equity).
+• Employee referral bonuses up to $10,000 per hired referral.
+• Additional bonus opportunities for exceptional performance and contributions to business development and company growth (role-dependent). Health
+• 100% company-paid medical premiums for employees and eligible dependents.
+• Choose from multiple plan options with CareFirst, Kaiser, and UnitedHealthcare, including PPO, POS, HMO, and HSA-compatible plans.
+• 100% company-paid dental premiums for employees and eligible dependents.
+• 100% company-paid vision premiums for employees and eligible dependents. Income Protection
+• 100% company-paid premiums for short-term disability.
+• 100% company-paid premiums for long-term disability.
+• 100% company-paid premiums for accidental death & dismemberment (AD&D).
+• 100% company-paid premiums for life insurance up to $200,000. Retirement
+• 401(k) with immediate vesting: 4% company match plus a 4% non-elective company contribution (8% total).
+• 401(k) pre-tax and Roth options. Leave
+• Up to 20 days of flexible paid time off (PTO).
+• 11 paid floating holidays. Work-Life Balance
+• Flexible work schedules, including flex time and compressed work periods (contract and project-dependent). NT",False,7 days ago,1789948800.0,2026-09-21T00:00:00.000Z,Chevy Chase,Chevy Chase,Maryland,US,38.9961473,-77.07727229999999,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dt2hl_daF9zBpfEtAAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,t2hl_daF9zBpfEtAAAAAAA==
+Z3FTdTMxQ1lTaHYtdG1QVkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURFpPY0had09GOW5hVmN4TUZoVVVFOXRRMlUwTUdkQ2JWSnRaM0ZtVkZoVVUwZzRkbW81VG5WbVRHRk5hVlpPZWxkSFowSkVPRTlwUWw5WlJsUkRhazVqUVhOdlVFdEphV0o2UVd4MVZGQTNVRmhMWTJsU1psWmZkMjVsU2paWmEwVXdVMk54Y2pNeGVFZDBNM2hVZGpJNFRuVjRaRkkyT0VoRVdrUXlNRmRaZFVWeGRXUVNGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daUlRXTkVVMnd0VlZKNFptMUhXbmhtYkZwTE9WUnJUR2R0T1VoQg,"Senior Associate, Data Scientist - Applied AI",Capital One,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KR6ddAhl_bRXOgLnoqaEtirI8iHcZyNzObjR&s=0,https://www.capitalone.com,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/senior-associate-data-scientist-applied-ai-at-capital-one-4472291213,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/senior-associate-data-scientist-applied-ai-at-capital-one-4472291213', 'is_direct': False, 'publisher': 'LinkedIn'}]","Data is at the center of everything we do. As a startup, we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making.
 
 As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a whole new scale, using the latest in computing and machine learning technologies and operating across billions of customer records to unlock the big opportunities that help everyday people save money, time and agony in their financial lives.
 
@@ -419,139 +544,61 @@ For technical support or questions about Capital One's recruiting process, pleas
 
 Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
 
-Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,22 hours ago,1790427600.0,2026-09-26T13:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgqSu31CYShv-tmPVAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,gqSu31CYShv-tmPVAAAAAA==
-Zm1HNUkybTRxVkFTMGhaMkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTVXhZUTNwVVUzSjZWVmhOWVZkRGJreElSbTE2UVhCQkxUbHlNMGxPYWtaelkwa3hjMHhEZEdjMVMwWkZUM0F0Vm1sS1FVWkJVRlpGWTNVeVMyTXplamxPT0haYWNrSmphazFHTTIxWU5tdG9abE5uZVhkNGRXeE9ObEppZDBOMU1tWXRTbkV6YVhGNU9VVk5NVE5zY1VGSVQyNWxTbGhGTjE5amJWaEhNM2N6VVZoVk5UQVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daVVRGVjJVVXBqVkVwcWIyaFVaVXRaTWs5c1JGQklNbGt4ZEdOUg,Data Scientist – Edge AI & Embedded Systems,Vantor Services Inc.,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Z0avceuO34WyGKYqTA9_UGBX7DukjmfEHacL&s=0,,Indeed,Full-time,['FULLTIME'],https://www.indeed.com/viewjob?jk=e560758aa0621f86,False,"[{'apply_link': 'https://www.indeed.com/viewjob?jk=e560758aa0621f86', 'is_direct': False, 'publisher': 'Indeed'}]","Vantor is forging the new frontier of spatial intelligence, helping decision makers and operators navigate what’s happening now and shape what’s coming next. Vantor is a place for problem solvers, changemakers, and go-getters—where people are working together to help our customers see the world differently, and in doing so, be seen differently. Come be part of a mission, not just a job, where you can: Shape your own future, build the next big thing, and change the world.
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC).",False,2 days ago,1790380800.0,2026-09-26T00:00:00.000Z,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgqSu31CYShv-tmPVAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,gqSu31CYShv-tmPVAAAAAA==
+R3BBN1RlYUVxYkhRR0d0aEFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBURXR2T0RCaFRrZHZVa3RsUlZOaU9HVndhMUJXUjIxb2NYRjFkREpmZFdjeVQybDVTM2RLYzBoS05IUnpaM1JWVFV3NFNUZzJZazQyUjJkNVdTMTNZV3hGUzFGTWRtMWZXRlpNWDIxbVEwVjRjMGxrY0ZwblVVRmtNMHBrVWpoR05HTlRkRE5HVkRkNVUzQmlSVE00Y0dveVMwSkliR3ROY2xZeU4zb3RZVFk1U2t0TFFsZ1NGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daVVF6Tk9XV2Q2WkhWSmVHbHFWRmxaY0hNMGNESkZlbUUwWDNObg,Financial Data Scientist (Remote),"Cardinal Technology Systems, Corp.","https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://cardinal-technology-systems-corp.breezy.hr&size=128",https://cardinal-technology-systems-corp.breezy.hr,Monster,Full-time,['FULLTIME'],https://www.monster.com/job-openings/financial-data-scientist-remote-washington-dc--db8ae807-60c3-49b2-a277-9a5b28686826,False,"[{'apply_link': 'https://www.monster.com/job-openings/financial-data-scientist-remote-washington-dc--db8ae807-60c3-49b2-a277-9a5b28686826', 'is_direct': False, 'publisher': 'Monster'}]","Responsibilities
 
-To be eligible for this position, you must be a U.S. Citizen. This position requires an active U.S. Government security clearance, applicants who do not currently hold the required clearance will not be eligible for consideration. Employment for cleared roles is contingent upon verification of clearance status.
-Export Control/ITAR: Certain roles may be subject to U.S. export control laws, requiring U.S. person status as defined by 8 U.S.C. 1324b(a)(3).
+Cardinal Technology Systems Corp. is a government IT solutions provider servicing commercial and government initiative in various parts of the United States. We are currently seeking a Financial Data Scientist to work for our company.
+Summary
+• Eligibility to obtain a U.S. Government SECRET / TOP SECRET Clearance. (Basic Federal Clearance requirements are U.S. Citizenship, clear criminal history check, no recent or pending bankruptcies)
+• Provides expert support to run analysis and analytical experiments using both structured and unstructured data.
+• Evaluates alternate models via theoretical approaches.
+• Supports financial data modeling, formulation, and analytical model development to improve business and operational decision-making.
+• Uses Python and other analytical tools to support data analysis, modeling, data validation, and reporting activities.
+• Identifies and exploits data assets, creating new patterns and business value.
+• Creates analyses and models to improve customer and operational Key Process Indicators (KPIs).
+• Enhances measurable value for the Agency and its customers.
+• Builds predictive models and develops advanced algorithms that extract and classify information from large datasets.
+• Analyzes data and develops robust statistical and predictive algorithms/models that drive product outputs.
+• Identifies meaningful patterns and trends, exposing new business opportunities.
+• Translates results into understandable and actionable output that answers real business questions.
+• Works with modules and process areas such as Acquire to Retire (A2R), Cost Accounting (CA), User Management (UMX), Time & Labor (T&L), Procure to Pay (P2P), Order to Cash (O2C), Budget to Report (B2R), and Custom Application Development (CAD) Support Services.
+• Supports Oracle E-Business Suite (EBS) financial process areas, including USSGL, B2R, P2P, O2C, and A2R.
+• Develops data conversion templates, pre/post conversion checklist/steps, data conversion design documents, data conversion status reports, and data conversion migration plans.
+• Provides expertise in COOP development and implementation, including disaster recovery planning, testing, support, recovery restoration, and system reconstitution.
+• Analyzes financial and ERP data sets.
+• Collaborates with hosting provider's teams, including Systems Engineers, Network Engineers, and Continuity/Disaster Recovery Teams.
+• Executes COOP exercises such as tabletop, simulation/remote recovery, and full failover exercises.
+• Maintains and enhances the DAI Information System Contingency Plan (ISCP).
+• Analyzes and upgrades COOP design to align with software upgrades and technical changes.
+• Evaluates new technologies like Oracle Golden Gate for COOP environment re-architecture.
+• Must be willing and able to travel to the client site in Washington, DC approximately 25% annually.
+Requirements
+• Eligibility to obtain a U.S. Government SECRET / TOP SECRET Clearance. (Basic Federal Clearance requirements are U.S. Citizenship, clear criminal history check, no recent or pending bankruptcies)
+• Must currently have or be willing to obtain one of the following certifications: Oracle Cloud Infrastructure (OCI) Foundations 2020 Certified Associate, Oracle Certified Associate (OCA), Oracle WebLogic Server 12c Administrator, Oracle Java SE 8 Programmer I, Oracle Enterprise Manager 12c Essentials (OEM 12c), Oracle Business Intelligence Publisher (BIP) 12c R1: Fundamentals, Oracle Planning 202x Certified Implementation Specialist (CIS), and Oracle Identity Governance 12c: Essentials.
+• Must have a master's degree in Computer Science, Statistics, Applied Math, or a related field.
+• Must have 5+ years of relevant and practical experience with SAS, data processing, data analytics, modeling/formulation, and financial data analysis.
+• Must have experience using Python for data analysis, modeling, data validation, automation, or reporting.
+• Must have deep experience with data mining and statistical analysis.
+• Experience supporting Oracle Financial shared service providers on an Oracle EBS R12.2 platform or higher.
+• Experience with Oracle EBS financial process areas, including USSGL, Budget to Report (B2R), Procure to Pay (P2P), Order to Cash (O2C), and Acquire to Retire (A2R).
+Benefits
+• Medical, Dental, Vision Benefits
+• Paid Life
+• Paid Vacation, Holidays, Sick Leave, Floating Holidays, Bereavement Leave
+• Semi-monthly pay cycle
+• Work With Us
 
-Please review the job details below.
+Cardinal Technology Systems, Corp (“CTech-Sys”), www.ctech-sys.com, is an SBA Certified 8(a) and HUBZone company located in the National Capital Region (NCR) and serves both government and commercial clients such clients as US CBP, US CIS, DLA, DFuse Technologies, and American Environmental Engineering Consultants.
 
-This position requires an active U.S. Government Security Clearance at the TS/SCI level with CI Polygraph.
+Cardinal Technology Systems, Corp is an Equal Employment Opportunity employer and it's our policy to consider applicants for employment without regard to sex, race, color, creed, religion, national origin, sexual orientation, marital status, age, disability, veteran status, alienage, ancestry, or any other factors prohibited by law. Employment selections are based on company and client requirements and the qualifications and skills of the candidate. CTech-Sys is committed to actively capitalizing on the diversity of skills, talents and perspectives of our employees.
 
-Project Description. Working as part of a small team of highly knowledgeable and skilled experts, you are helping the customer bring modern AI/ML capabilities to the tactical edge. Your team will take this project from concept to completion – identifying use cases; sourcing and curating data; recommending existing open-source, COTS, and GOTS models and applications; training, fine-tuning, and evaluating models; deploying them onto embedded hardware in air-gapped environments; and then sending out for use. We need someone who is curious, detail-oriented, loves digging into data and finding solutions to challenging problems, is as comfortable analyzing model performance as troubleshooting a Linux driver on a single board computer, and can communicate these complex concepts to less technical decision makers.
+Remote
 
-Location: This is an on-site position, reporting daily to work in Reston, VA. You will be working alongside your customer, the mission operators, and the requirements owners.
+Skills:
+Algorithms, Analysis Skills, Analytical Development, Automation, Bankruptcy, Budget Reporting, Business Intelligence, Business Operations, CAD (Computer-Aided Design) Software, Cloud Computing, Computer Science, Contingency Plans, Cost Accounting, Customer Support/Service, Data Analysis, Data Mining, Data Modeling, Data Processing, Data Quality, Data Science, Data Sets, Disaster Recovery, ERP (Enterprise Resource Planning), Environmental Engineering, Failover, Financial Analysis, Financial Modeling, Financial Services, Government, Information Technology & Information Systems, J2SE (Java SE), Mathematics, Network Architecture/Engineering, OEM (Original Equipment Manufacturer), Operational Improvement, Operations Processes, Oracle, Oracle Certifications, Oracle DBA (Database Administrator), Oracle ERP, Oracle Enterprise Manager, Oracle Financials, Oracle WebLogic Server, Order to Cash, Performance Metrics, Predictive Modeling, Process Improvement, Procure to Pay/Purchase to Pay (P2P), Python Programming/Scripting Language, Simulation, Small Business, Software Development, Software Engineering, Software Upgrades, Statistical Algorithms, Statistical Analysis System (SAS), Statistics, Structured Data, Systems Engineering, Technical Support, United States Citizen, Unstructured Data, Willing to Travel
 
-Responsibilities:
-
-This project is going to span the full data and model life-cycle, and you're going to get to flex different parts of your skillsets across the project. Here are some examples of tasks and responsibilities that you may have:
-
-• Source, curate, clean, and label datasets from open-source repositories (GitHub, GitLab, Hugging Face, Kaggle) and operational sensor data.
-
-• Train, fine-tune, and evaluate AI/ML models, including computer vision models and LLMs, for specific mission use cases.
-
-• Design evaluation methods and metrics to measure model accuracy, latency, and reliability under real-world conditions.
-
-• Optimize models for resource-constrained hardware using techniques such as quantization, pruning, and conversion to edge runtimes.
-
-• Build and deploy offline-native data and ML pipelines in containerized environments using Docker.
-
-• Configure and troubleshoot Linux-based embedded systems, including compatibility between specific kernels and hardware drivers.
-
-• Explore and analyze data from digital communication systems, including RF, cellular, and WiFi sources.
-
-• Evaluate open-source AI software and models to identify solutions that meet the customer's operational requirements.
-
-• Engage with customers to understand expectations and ensure delivered products meet operational requirements.
-
-• Produce supporting documentation, including model performance reports and inputs for user manuals.
-
-Minimum Qualifications:
-
-• Bachelor's degree or higher in an applicable technical degree, such as data science, computer science, computer engineering, statistics, or electrical engineering.
-
-• At least five years of relevant experience.
-
-• U.S. Citizen with a TS/SCI clearance and CI poly.
-
-• Solid understanding of AI/ML algorithms, including computer vision models and LLMs, and hands-on experience training and evaluating models using frameworks such as PyTorch or TensorFlow.
-
-• Proficiency in Python and its data science ecosystem (e.g., NumPy, pandas, scikit-learn), plus Bash scripting.
-
-• Experience configuring and building applications in Linux and deploying offline-native applications with Docker.
-
-Preferred Qualifications:
-
-• Previous experience working on-site to support the DoD or the IC.
-
-• Experience with data preparation, including cleaning, labeling, augmentation, and managing datasets.
-
-• Awareness of the current open-source AI/ML landscape and familiarity with GitHub, GitLab, Hugging Face, and Kaggle.
-
-• Contributions to open-source projects.
-
-• Experience optimizing models for edge deployment (quantization, pruning, TensorRT, ONNX Runtime, llama.cpp).
-
-• Familiarity with embedded system design and troubleshooting low-level Linux issues.
-
-• Understanding of common hardware architectures, including x86, ARM, SoC, and RISC-V.
-
-• Experience with any Single Board Computer (SBC), including Raspberry Pi, Arduino, BeagleBoard, NVIDIA Jetson, etc.
-
-• Experience with lower-level languages such as C, C++, or Java.
-
-• Experience analyzing RF or signal data; familiarity with Software Defined Radios (SDRs).
-
-• Understanding of modern digital communication systems, including RF, cellular, and WiFi.
-
-• Experience with MLOps practices such as model versioning and experiment tracking in offline environments.
-
-• Ability to communicate complex technical topics to a range of audiences, including technical and non-technical leaders.
-
-Pay Transparency: To support pay transparency, Vantor includes salary ranges in all U.S. job postings. Starting pay for this role will fall within the listed range and will be based on factors such as experience, qualifications, skills, location, and market conditions. Candidates who meet the minimum requirements for the role should not expect to receive compensation at the top of the range. The listed range reflects the expected pay for this position, and final offers will be determined based on each candidate’s experience, expertise, and alignment with the role.
-
-• The base pay for this position within the Washington, DC metropolitan area is: $140,000.00 - $187,000.00 - $205,700.00 annually.
-
-For all other states, we use geographic cost of labor as an input to develop market-driven ranges for our roles, and as such, each location where we hire may have a different range.
-
-Benefits: Vantor offers a competitive total rewards package that goes beyond the standard, including a robust 401(k) with company match, mental health resources, and unique perks like student loan repayment assistance, adoption reimbursement and pet insurance to support all aspects of your life. You can find more information on our benefits at: https://www.Vantor.com/careers
-
-The application window is three days from the date the job is posted and will remain posted until a qualified candidate has been identified for hire. If the job is reposted regardless of reason, it will remain posted three days from the date the job is reposted and will remain reposted until a qualified candidate has been identified for hire.
-
-The date of posting can be found on Vantor's Career page at the top of each job posting.
-
-To apply, submit your application via Vantor's Career page.
-
-EEO Policy: Vantor is an equal opportunity employer committed to an inclusive workplace. We believe in fostering an environment where all team members feel respected, valued, and encouraged to share their ideas. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, gender identity, sexual orientation, disability, protected veteran status, age, or any other characteristic protected by law.",False,3 days ago,1790208000.0,2026-09-24T00:00:00.000Z,"Reston, VA",Reston,Virginia,US,38.9586307,-77.35700279999999,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfmG5I2m4qVAS0hZ2AAAAAA%3D%3D&vssid=jobs-detail-viewer,,140K–206K a year,140000.0,206000.0,YEAR,{},,,,fmG5I2m4qVAS0hZ2AAAAAA==
-RXg3bTFHV2pLb2FIUVFwY0FBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTbWROTnkwd1RsZE1kVkJ6WkZOa1VGOUliRVpXZGtsUE1ISlphRTVGUjJSWlpsTTFRV2hHVEhsdlduUkViM2swWkVweU9GbFlXREJPVmtsR2NYWXplalJ1TjA1RExVcENhbEF6V0dkdFR6Qm9XSGxsUWxSMmRESndTbE5qUWxGQldIWnpWMVJMZDJac1ZuUTBTWGxvTld4SVdEaHNSamRqZUhkalJVeGhiMlo2VjAwNE4yZ1NGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daUk1pMTBNR1pZVDJ4YWJuSjZTR2RFTVMxVVZITmFVVXRsUVRCMw,"Data Scientist, GS-1560-11/12, FPL 12 (DH)",US Department of Education,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo3ziqzmrBftIIDxIy90BI22QbcIgoxxrrgt5Z&s=0,,ZipRecruiter,Full-time,['FULLTIME'],"https://www.ziprecruiter.com/c/us-department-of-education/Job/Data-Scientist,-GS-1560-11-12,-FPL-12-(DH)/-in-Washington,DC?jid=8233c665a8f7fffc",False,"[{'apply_link': 'https://www.ziprecruiter.com/c/us-department-of-education/Job/Data-Scientist,-GS-1560-11-12,-FPL-12-(DH)/-in-Washington,DC?jid=8233c665a8f7fffc', 'is_direct': False, 'publisher': 'ZipRecruiter'}]","This position is part of the Federal Student Aid (FSA), Data Office which operates under the Office of Strategic Planning and Policy Implementation. This position is located in various locations, providing flexibility for candidates interested in contributing to FSA's strategic and policy initiatives through data management and analysis.Qualifications:Minimum Qualification Requirements
-You may meet the minimum qualifications for the GS-11, if you possess the specialize experience.
-Specialized Experience for the GS-11 One year of experience in either federal or non-federal service that is equivalent to at least a GS-09 performing two (2) out of three (3) of the following duties or work assignments:
-1. Experience processing data, developing analytical solutions, and creating and maintaining code using data science tools.
-2. Experience supporting data validation and quality assurance within analytical workflows using Programing language (Python and SQL, etc.) ensuring accuracy of data presented in dashboards and/or predictive models.
-3. Experience assisting with statistical or analytical projects, by applying established criteria, investigating data related problems, analyzing findings, and presenting results or recommendation to management or other stakeholders.
-
-Minimum Qualification Requirements
-You may meet the minimum qualifications for the GS-12, if you possess the specialize experience.
-Specialized Experience for the GS-12 One year of experience in either federal or non-federal service that is equivalent to at least a GS-11 performing two (2) out of three (3) of the following duties or work assignments:
-1. Experience processing data, developing analytical solutions, and creating and maintaining SQL and Python code using data science tools.
-2. Experience implementing robust data validation, quality assurance, and/or monitoring processes within data pipelines and workflows using programming languages and specialized tools to ensure the accuracy of loan-based datasets visualized through interactive dashboards and/or predictive modeling.
-3. Experience formulating and initiating statistical projects, establishing criteria, investigating problems, or analyzing findings to provide consultative services to office management.
-
-Knowledge, Skills, and Abilities (KSAs)
-The quality of your experience will be measured by the extent to which you possess the following knowledge, skills and abilities (KSAs). You do not need to provide separate narrative responses to these KSAs, as they will be measured by your responses to the occupational questionnaire (you may preview the occupational questionnaire by clicking the link at the end of the Evaluations section of this vacancy announcement).
-GS-11
-1. Ability to apply basic data visualization and integration techniques to support data products and reporting.
-2. Knowledge of basic data analysis, mathematical concepts, and statistical methods.
-3.Knowledge of basic concepts and practices related to data management, data reliability, data validity, and statistical analysis.
-4.Knowledge of higher education processes and basic compliance requirements related to the administration of Federal Student Aid programs (Title IV).
-GS-12
-1. Ability to apply data visualization and integration services and techniques.
-2. Knowledge of data analyses, mathematics, statistical analysis, modeling/simulation, or other scientific concepts.
-3. Knowledge of concepts, principles, and practices related to data management, data reliability, data validity, and statistical analysis.
-4. Knowledge of higher education processes, industry best practices, and compliance requirements related to the administration of Federal Student Aid programs (Title IV).Education:This position has a positive education requirement.
-
-Basic Requirements:
-
-A. Degree: Mathematics, statistics, computer science, data science or field directly related to the position. The degree must be in a major field of study (at least at the baccalaureate level) that is appropriate for the position.
-
-or
-
-B. Combination of education and experience: Courses equivalent to a major field of study (30 semester hours) as shown in paragraph A above, plus additional education or appropriate experience.
-
-Foreign Education:
-Education completed in foreign colleges or universities may be used to meet education requirements if you can show that the foreign education is comparable to that received in an accredited educational institution in the United States. It is your responsibility to provide such evidence when applying. If you are using foreign education to meet qualification requirements, you must submit a Certificate of Foreign Equivalency with your transcript in order to receive credit for that education. For further information, please click Foreign Education.Employment Type: OTHER",False,12 days ago,1789430400.0,2026-09-15T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,,,https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEx7m1GWjKoaHQQpcAAAAAA%3D%3D&vssid=jobs-detail-viewer,74678.0,"74,678 a year",,,YEAR,{},,,,Ex7m1GWjKoaHQQpcAAAAAA==
-ZXVEOWV3RXFkeUNyT2t6bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTMVpTY0c5dGNGcFlSRzlzWldscWVVVk1NSFpGVVVoT1RqZFlWMjQzYjFaMU56WkdNelowVDFCUlRHSXpPVkkxWDFVdFdGOWlNVzVCTWxaaFJVVkhVRnBzV0ZKRWJWTlZkR2REZDJ0WFVsTnZiRlZXYUdSd2JrczBVRTQwZDAweFNFWklXbkZEZDAxR1p6SmZlVlpyTmpOTmRXeHVkWGwxVlMwelJtaGlhMnhPUld0RVJXUVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daVVRDMUlkbXRQYjFOdllsUkdjRUpDVEhaU01reFNUMWMzTm05Mw,Data Scientist (Multiple Levels),Noblis,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noblis.org&size=128",https://noblis.org,Noblis Careers,Full-time,['FULLTIME'],https://careers.noblis.org/jobs/26582?lang=en-us,False,"[{'apply_link': 'https://careers.noblis.org/jobs/26582?lang=en-us', 'is_direct': False, 'publisher': 'Noblis Careers'}]","Responsibilities
+Cardinal Technology Systems, Corp.",True,11 days ago,1789603200.0,2026-09-17T00:00:00.000Z,Anywhere,,,,,,"['dental_coverage', 'paid_time_off', 'health_insurance']","['Dental insurance', 'Paid time off', 'Health insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGpA7TeaEqbHQGGthAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,GpA7TeaEqbHQGGthAAAAAA==
+ZXVEOWV3RXFkeUNyT2t6bkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUR054TlZCZk56TmtVM1V5YjFWb1dHVkdOM1V3U0VGek4wWkVVWGxOZDNsT2REbFVjRWt3TFRGaVVXRmxUMUo0ZUU5TFUwNTNTMnRFYzNwQlZYUklhR05UTW1WaVMwZ3dSRE0zY1dSSE5FMW5jVWd0WkhKcmVHeHZMVXBrTjFoVlMwRlJkV3BuU1d0NU1HZHBiRWxSZW5oNWEyUm9iSEJHUXkxNlMyaFJRV2hoWVZkRGJsY1NGMVl5VnpaaGRVTmlSbUZsUTJoaVNWQnBPVXhRY1VGdkdpSkJSSE55T1daU2RtNUVNbEZPYTBKb2RVSkdlVUYxVDNaTFprTkxTRGhqVldWbg,Data Scientist (Multiple Levels),Noblis,"https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noblis.org&size=128",https://noblis.org,Noblis Careers,Full-time,['FULLTIME'],https://careers.noblis.org/jobs/26582?lang=en-us,False,"[{'apply_link': 'https://careers.noblis.org/jobs/26582?lang=en-us', 'is_direct': False, 'publisher': 'Noblis Careers'}]","Responsibilities
 
 We are seeking highly qualified Subject Matter Experts (SMEs) across multiple levels (I–V) to support data science, aviation, engineering, psychological, analytical, and technical programs within the Federal Aviation Administration (FAA) or related federal initiatives. SMEs will apply advanced knowledge in their respective technical or analytical disciplines—particularly data science, machine learning, and data-driven analysis—to solve complex problems, integrate requirements, and contribute to system design, program execution, and organizational effectiveness.
 
@@ -672,114 +719,3 @@ Compensation at Noblis is determined by various factors, including but not limit
 Posted Salary Range
 
 USD $71,800.00 - USD $240,350.00 /Yr.",False,,,,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,['health_insurance'],['Health insurance'],https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeuD9ewEqdyCrOkznAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,euD9ewEqdyCrOkznAAAAAA==
-NzF3RjRYTUlfdXpxdmRTTUFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBTV0V0YTI5RE4xVkdMVVZhVlVOc1FuZDZYM0pSZWxaQ2FVZGxUVmhFZFRaTVNITk1TbFIzVlZwcE5VeDZWVWw0UWsxWmRtbHVibW8xU0VOc1FtZDZTa1pSWDNOalZUazBhbUZIUjBocGVYaGZaSFZuV1V0bVNVWTBTVk5XY1hoWGJVcEJXamRNYUdSU09HdDVVSEU1WDFsall6Vk1aekJNYTFWbFdEaDBaV1JCTjNST05tWVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daUmRVTjBTemRzWjA1ek5FMXVaM05rZGpNM05URkZOMjR5Tm10Ug,"Data Scientist, Junior","Clear Resolution Consulting, LLC",https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQodh_7LNIJDMBlKNbzRUXSfaohKj8pVPZRDefj&s=0,,LinkedIn,Full-time,['FULLTIME'],https://www.linkedin.com/jobs/view/data-scientist-junior-at-clear-resolution-consulting-llc-4467885393,False,"[{'apply_link': 'https://www.linkedin.com/jobs/view/data-scientist-junior-at-clear-resolution-consulting-llc-4467885393', 'is_direct': False, 'publisher': 'LinkedIn'}]","Job Name: Data Scientist, Junior
-
-Level: Junior
-
-Location: Joint Base Anacostia-Bolling
-
-Remote Work: No
-
-Required Clearance: TS/SCI with CI Polygraph
-
-Position Type: Immediate Opening
-
-Responsibilities
-
-• Experience in data science/engineering/analytics, statistics, computer science, or related fields
-• Possession of excellent verbal and written communication skills
-• Possession of excellent interpersonal skills and demonstrated experience collaborating in teams
-• Experience in or ability to perform testing and evaluation of AI/ML models
-• Experience supporting DoW and/or IC clients
-
-Minimum Requirements
-
-• SECURITY CLEARANCE: A current & active TS/SCI clearance with CI Polygraph
-• EDUCATION:
-• Bachelor's degree and 4+ years of experience required
-• OR HS/GED and a 10+ years of experience
-• Additional Qualifications:
-• Degree in quantitative social science, statistics, data science, or computer science Experience with LLMs Experience performing or supporting all-source analysis
-
-Compensation
-
-CRC offers a generous benefits package for full time employees, including 4 weeks PTO accrual for new employees with increases at milestone anniversaries, 11 paid holidays, employer-paid life and disability insurance, optional supplemental life insurance, family health, dental and vision benefits with no waiting period, 401(k) with up to 6% employer match available after 30-day waiting period, generous tuition assistance for higher education or career related certifications, flexible work schedules, and opportunities for referral bonuses.
-
-Base salaries at CRC are determined by various factors, including work location, an individual’s education, knowledge, skills, experience, as well as contract-specific affordability and organizational requirements. The projected salary range for this position is $75,000 to $100,000. The estimate displayed represents the typical salary range for this position and is just one component of CRC’s total compensation package.
-
-Clear Resolution Consulting (CRC), our employees are the heart and spirit of our company. We rely on their dedication to excellence and their knowledge of our client’s requirements to help them meet their most complex challenges . Our employees' blend of technical skills, innovation and dedication drives our continued success, and we take our responsibility to them seriously.
-
-At CRC you'll find a fulfilling career and a great place to work — one that challenges you, fuels your need for creativity and innovation, and inspires teamwork and mutual respect. We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, any other non-merit factor, or any other characteristic protected by law.
-
-Why work at CRC
-
-CRC is a small business supporting customers across the Intelligence Community and DoD both as a Prime and subcontractor.  We provide opportunities to work challenging assignments which have impact to National Security and support you as a member of the team; you’re not just a number, we know your name, your career goals, and support you in your growth.  We are proud awardees of the Gold Award 2023 for hiring and supporting veterans (U.S. Department of Labor) and are officially certified as a Virginia Values Veterans (V3) Company. 
-
-While CRC is small there is still an opportunity for team members to grow within our structure.  We foster an entrepreneurial spirit and provide opportunities for rewarding, challenging work to meet your goals.  Tuition Assistance is available to support your educational and certification growth needs.
-
-Being a small company, our Program Management Office is agile and efficient, which has been validated by multiple industry awards over the past two years.  ONCON ICON Top 50 Chief Operations Officer 2022 and 2023, Top 50 Operations Team 2023, Top 100 Talent Acquisition Team 2023.",False,9 days ago,1789689600.0,2026-09-18T00:00:00.000Z,"Washington, DC",Washington,District of Columbia,US,38.9072873,-77.0369274,"['paid_time_off', 'health_insurance', 'dental_coverage']","['Paid time off', 'Health insurance', 'Dental insurance']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D71wF4XMI_uzqvdSMAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,71wF4XMI_uzqvdSMAAAAAA==
-dHBGSk03UWdpNWg2TVhZRkFBQUFBQT09OkVzd0JDb3dCUVVwcFZEUjBUSHB0VkVodllWUkxRMGd5Vmt4TVZXbHBRbWw0VVdrM1JtaEZOM0pQYmtGeVdrVk9PVmw1ZDI5c2MyUmxMWGhqU0RCNlZtdDNXVXBtVUdReGRWQkxia1pzVUdwU1lXTlNPREU0Y0dWSWMyNVJielpFYUdwamJWWXlZWEJmZUhrMVlraFFhbEJMUzBONlZWaERVbXd0TFhod1ZGVXRTVEpFVlU1R1FWOW1Sa2h4UzFWV2J6QVNGMHQyTmpSaGRFdHpUMjl0WDJ0UVNWQndaazlUYTFFNEdpSkJSSE55T1daVVVscFBUMmMwWDJsQlVXeG1kMHhEVjFBNU5XcHRabUY1ZUZCMw,Data Scientist,KBR,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wJYZgKBkrgC2YvpeyQ2V_hzgFyolV9TA1cMh&s=0,,Careers At KBR,Full-time,['FULLTIME'],https://careers.kbr.com/us/en/job/R2128683/Data-Scientist,False,"[{'apply_link': 'https://careers.kbr.com/us/en/job/R2128683/Data-Scientist', 'is_direct': False, 'publisher': 'Careers At KBR'}]","Title:
-Data Scientist
-
-Belong. Connect. Grow. with KBR!
-
-KBR’s National Security Solutions team provides high-end engineering and advanced technology solutions to our customers in the intelligence and national security communities. In this position, your work will have a profound impact on the country’s most critical role – protecting our national security.
-
-Why Join Us?
-• Innovative Projects: KBR’s work is at the forefront of engineering, logistics, operations, science, program management, mission IT and cybersecurity solutions.
-• Collaborative Environment: Be part of a dynamic team that thrives on collaboration and innovation, fostering a supportive and intellectually stimulating workplace.
-• Impactful Work: Your contributions will be pivotal in designing and optimizing defense systems that ensure national security and shape the future of space defense.
-
-Key Responsibilities:
-• Design, develop, and maintain analytic solutions using ECL and HPCC Systems to process and analyze large-scale datasets.
-• Develop, validate, and apply methodologies that support complex analytic requirements within clustered computing environments.
-• Create and maintain data models that support enterprise and mission-focused analytics.
-• Use programming languages such as Python, R, Pig, Java, C, and SQL to perform large-scale parallel processing and data analysis.
-• Design and optimize scalable data ingestion, transformation, and enrichment workflows across distributed computing platforms.
-• Collaborate with engineers, analysts, and mission stakeholders to translate analytical requirements into technical solutions.
-• Validate data quality, analytical methods, and outputs to ensure accurate and reliable results.
-
-Work Environment:
-• Location: On-site
-• Travel Requirements: Minimal
-• Working Hours: Standard
-
-Qualifications:
-
-Required:
-• Active TS/SCI with a Polygraph
-• Minimum of 10 years experience
-• Minimum three (3) years of experience using ECL within the HPCC Systems environment.
-• Demonstrated experience with data modeling and large-scale data analytics.
-• Experience using Python, R, Pig, Java, C, or SQL to perform large-scale parallel processing of data.
-• Experience developing, validating, and applying methodologies to support analytic requirements in clustered computing environments.
-• Experience working with distributed computing, high-volume datasets, and scalable data processing architectures.
-
-Desired:
-• Bachelor's degree in Data Science, Computer Science, Mathematics, Statistics, Engineering, or a related technical field.
-
-Basic Compensation:
-
-$177,200 to $216,500
-
-This range is for the VA area only
-
-The offered rate will be based on the selected candidate’s knowledge, skills, abilities and/or experience and in consideration of internal parity.
-
-Additional Compensation:
-
-KBR may offer bonuses, commissions, or other forms of compensation to certain job titles or levels, per internal policy or contractual designation. Additional compensation may be in the form of sign on bonus, relocation benefits, short term incentives, long term incentives, or discretionary payments for exceptional performance.
-
-Ready to Make a Difference?
-
-If you’re excited about making a significant impact in the field of space defense and working on projects that matter, we encourage you to apply and join our team at KBR. Let's shape the future together.
-
-KBR Benefits
-
-KBR offers a selection of competitive lifestyle benefits which could include 401K plan with company match, medical, dental, vision, life insurance, AD&D, flexible spending account, disability, paid time off, or flexible work schedule. We support career advancement through professional training and development.
-
-Belong, Connect and Grow at KBR
-
-At KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.
-
-KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.",False,,,,"McLean, VA",McLean,Virginia,US,38.9338676,-77.1772604,"['dental_coverage', 'health_insurance', 'paid_time_off']","['Dental insurance', 'Health insurance', 'Paid time off']",https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtpFJM7Qgi5h6MXYFAAAAAA%3D%3D&vssid=jobs-detail-viewer,,,,,,{},,,,tpFJM7Qgi5h6MXYFAAAAAA==
